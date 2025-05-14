@@ -26,6 +26,7 @@ import React, { useState } from "react"; // Import useState
 
 // Type for raw API response item
 interface RawSubmission {
+  id: string; // Added for submission detail link
   title: string;
   titleSlug: string;
   timestamp: string; // API gives string, but it's a Unix timestamp
@@ -44,15 +45,16 @@ const fetchRecentSubmissions = async (): Promise<Submission[]> => {
           method: "POST",
           body: JSON.stringify({
             query: `
-              query recentAcSubmissions($username: String!) {
-                recentAcSubmissionList(username: $username) {
+              query recentAcSubmissions($username: String!, $limit: Int!) {
+                recentAcSubmissionList(username: $username, limit: $limit) {
+                  id # Added to fetch submission ID
                   title
                   titleSlug
                   timestamp
                 }
               }
             `,
-            variables: { username },
+            variables: { username, limit: 20 },
           }),
         });
         if (!res.ok) {
@@ -121,7 +123,8 @@ const fetchRecentSubmissions = async (): Promise<Submission[]> => {
 
   return submissionsWithDifficulty
     .map((s: RawSubmission & { difficulty?: string }) => ({
-      id: `${s.username}-${s.titleSlug}-${s.timestamp}`,
+      id: `${s.username}-${s.titleSlug}-${s.timestamp}`, // This is the React key
+      submissionId: s.id, // This is the LeetCode submission ID
       username: s.username,
       problemId: s.titleSlug,
       problemTitle: s.title,
@@ -211,6 +214,7 @@ const ActivityFeed = () => {
               <TableHead className="w-[180px] pl-6">When</TableHead>
               <TableHead>Who</TableHead>
               <TableHead>Problem</TableHead>
+              <TableHead className="text-center">Submission</TableHead> 
               <TableHead className="w-[100px] pr-6 text-right">Difficulty</TableHead>
             </TableRow>
           </TableHeader>
@@ -230,6 +234,18 @@ const ActivityFeed = () => {
                   >
                     {submission.problemTitle}
                   </a>
+                </TableCell>
+                <TableCell className="text-center">
+                  {submission.submissionId && (
+                    <a
+                      href={`https://leetcode.com/submissions/detail/${submission.submissionId}/`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-blue-600 hover:underline hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300"
+                    >
+                      View
+                    </a>
+                  )}
                 </TableCell>
                 <TableCell className="pr-6 text-right">
                   {submission.difficulty && (

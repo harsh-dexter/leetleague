@@ -18,6 +18,7 @@ export interface Submission {
   problemId: string; // Will be titleSlug
   problemTitle: string; // Will be title
   difficulty?: 'Easy' | 'Medium' | 'Hard'; // Made optional
+  submissionId?: string; // Added for direct link to submission
   timestamp: string; // API provides number, will convert
   language?: string; // Made optional
   avatar?: string;
