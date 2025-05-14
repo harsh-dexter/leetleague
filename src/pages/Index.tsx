@@ -106,8 +106,8 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <div className="container px-4 pt-12 md:pt-16 pb-16"> 
         <div className="flex justify-between items-start mb-8"> {/* Changed items-center to items-start for better alignment with multiline title */}
-          <div className="flex items-center gap-3 md:gap-4"> {/* Added flex container for logo and text, increased gap on md */}
-            <ThemeAwareLogo className="h-12 w-12 md:h-16 md:w-16" /> {/* Increased logo size */}
+          <div className="flex items-center"> {/* Added flex container for logo and text, increased gap on md */}
+            <ThemeAwareLogo className="h-20 w-20 md:h-24 md:w-24" /> {/* Increased logo size */}
             <div>
               <h1 className="text-3xl md:text-4xl font-bold">LeetLeague</h1>
               <p className="text-muted-foreground text-sm md:text-base">
