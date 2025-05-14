@@ -3,6 +3,7 @@ import ActivityFeed from "@/components/ActivityFeed";
 import FriendsList from "@/components/FriendsList";
 import LeaderBoard from "@/components/LeaderBoard";
 import { ThemeToggle } from "@/components/ThemeToggle";
+import { ThemeAwareLogo } from "@/components/ThemeAwareLogo"; // Import the new logo component
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Calendar, Star, TrendingUp, Users, Loader2 } from "lucide-react"; 
@@ -104,16 +105,20 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background">
       <div className="container px-4 pt-12 md:pt-16 pb-16"> 
-        <div className="flex justify-between items-center mb-8">
-          <div>
-            <h1 className="text-4xl font-bold">LeetLeague</h1>
-            <p className="text-muted-foreground">
-              Track your friends' LeetCode progress and stay competitive!
-            </p>
+        <div className="flex justify-between items-start mb-8"> {/* Changed items-center to items-start for better alignment with multiline title */}
+          <div className="flex items-center gap-3 md:gap-4"> {/* Added flex container for logo and text, increased gap on md */}
+            <ThemeAwareLogo className="h-12 w-12 md:h-16 md:w-16" /> {/* Increased logo size */}
+            <div>
+              <h1 className="text-3xl md:text-4xl font-bold">LeetLeague</h1>
+              <p className="text-muted-foreground text-sm md:text-base">
+                Track your friends' LeetCode progress and stay competitive!
+              </p>
+            </div>
           </div>
           <ThemeToggle />
         </div>
 
+        {/* The erroneous duplicated block was here and is now removed. */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
           <Card className="border-l-4 border-l-leetcode-purple">
             <CardHeader className="pb-2">
