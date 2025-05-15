@@ -2,6 +2,9 @@
 
 LeetLeague is a web application that allows you to track the LeetCode progress of your friends, view leaderboards, and see recent activity. It uses the LeetCode GraphQL API (via a Netlify serverless function proxy) to fetch real-time data.
 
+![image](https://github.com/user-attachments/assets/9a473d0a-d1b8-4a28-b2a3-c84aac04a703)
+
+
 ## Features
 
 -   **Friend Tracking**: Add LeetCode usernames to track. Friends are stored in `localStorage`.
