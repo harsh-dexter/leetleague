@@ -13,7 +13,7 @@ const handler: Handler = async (event, context) => {
   }
 
   if (company === 'all') {
-    const questionsDir = path.resolve(process.cwd(), 'data_source/data/questions');
+    const questionsDir = path.resolve(__dirname, '../../data_source/data/questions');
     try {
       const files = fs.readdirSync(questionsDir);
       const allQuestions = files.flatMap(file => {
@@ -37,7 +37,7 @@ const handler: Handler = async (event, context) => {
       };
     }
   } else {
-    const filePath = path.resolve(process.cwd(), `data_source/data/questions/${company}.json`);
+    const filePath = path.resolve(__dirname, `../../data_source/data/questions/${company}.json`);
 
     try {
       const data = fs.readFileSync(filePath, 'utf-8');

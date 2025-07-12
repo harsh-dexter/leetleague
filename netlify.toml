@@ -1,17 +1,6 @@
-[dev]
-  # Command to start your Vite development server
-  # Ensure this matches your package.json script, e.g., "npm run dev"
-  command = "npm run dev" 
-  # Port that Vite is running on
-  targetPort = 8080
-  # Port for Netlify Dev to serve on (can be different, e.g., 8888)
-  port = 8888 
-  # Directory where your serverless functions are located
-  functions = "netlify/functions"
-  # The directory to publish (your build output)
-  publish = "dist"
-
 [build]
   command = "npm run build"
-  functions = "netlify/functions"
   publish = "dist"
+
+[functions]
+  included_files = ["data_source/**"]

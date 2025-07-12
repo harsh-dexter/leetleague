@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 const handler: Handler = async (event, context) => {
-  const filePath = path.resolve(process.cwd(), `data_source/data/topics.json`);
+  const filePath = path.resolve(__dirname, `../../data_source/data/topics.json`);
 
   try {
     const data = fs.readFileSync(filePath, 'utf-8');
