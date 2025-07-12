@@ -364,7 +364,7 @@ const QuestionViewer = () => {
                           </div>
                         </TableCell>
                         <TableCell>
-                          <span className="text-sm">{question.acceptanceRate}%</span>
+                          <span className="text-sm">{question.acceptanceRate.toFixed(2)}%</span>
                         </TableCell>
                         <TableCell>
                           <Badge variant="secondary">
