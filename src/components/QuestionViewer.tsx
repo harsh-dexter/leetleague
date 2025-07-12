@@ -336,7 +336,14 @@ const QuestionViewer = () => {
                           />
                         </TableCell>
                         <TableCell className={`font-medium ${solvedQuestionsSet.has(question.title) ? 'line-through text-muted-foreground' : ''}`}>
-                          {question.title}
+                          <a
+                            href={`https://leetcode.com/problems/${question.title.toLowerCase().replace(/ /g, '-')}/`}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:underline"
+                          >
+                            {question.title}
+                          </a>
                         </TableCell>
                         <TableCell>
                           <Badge className={getDifficultyColor(question.difficulty)}>
