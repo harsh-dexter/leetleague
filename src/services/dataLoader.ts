@@ -13,13 +13,25 @@ export const fetchTopics = async (): Promise<string[]> => {
 };
 
 export const fetchQuestionsByCompany = async (company: string): Promise<Question[]> => {
-  const cachedQuestions = await db.questions.where('company').equals(company).toArray();
-  if (cachedQuestions.length > 0) {
-    return cachedQuestions;
+  if (company !== 'all') {
+    const cachedQuestions = await db.questions.where('company').equals(company).toArray();
+    if (cachedQuestions.length > 0) {
+      return cachedQuestions;
+    }
   }
 
   const response = await fetch(`/.netlify/functions/getCompanyQuestions?company=${company}`);
   const questions = await response.json();
-  await db.questions.bulkAdd(questions.map(q => ({ ...q, company })));
+  
+  if (company === 'all') {
+    const questionsWithCompany = questions.map(q => ({
+      ...q,
+      company: q.companyId,
+    }));
+    await db.questions.bulkPut(questionsWithCompany);
+    return questionsWithCompany;
+  }
+
+  await db.questions.bulkPut(questions.map(q => ({ ...q, company })));
   return questions;
 };
