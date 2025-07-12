@@ -22,7 +22,7 @@ const handler: Handler = async (event, context) => {
           const filePath = path.join(questionsDir, file);
           const data = fs.readFileSync(filePath, 'utf-8');
           const questions = JSON.parse(data);
-          return questions.map(q => ({ ...q, companyId }));
+          return questions.map(q => ({ ...q, companyId, acceptanceRate: parseFloat(q.acceptanceRate) }));
         }
         return [];
       });
@@ -41,9 +41,11 @@ const handler: Handler = async (event, context) => {
 
     try {
       const data = fs.readFileSync(filePath, 'utf-8');
+      const questions = JSON.parse(data);
+      const questionsWithParsedRate = questions.map(q => ({...q, acceptanceRate: parseFloat(q.acceptanceRate)}));
       return {
         statusCode: 200,
-        body: data,
+        body: JSON.stringify(questionsWithParsedRate),
       };
     } catch (error) {
       return {
