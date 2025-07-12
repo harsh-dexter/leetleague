@@ -14,6 +14,7 @@ import { Search, UserPlus, X, Loader2 } from "lucide-react";
 import { useState } from "react";
 import { toast } from "sonner";
 import { addFriendToLocalStorage, getFriendsFromLocalStorage } from "@/lib/utils";
+import { fetchLeetCodeData } from "@/services/leetcode";
 
 interface AddFriendModalProps {
   isOpen: boolean;
@@ -43,26 +44,16 @@ const AddFriendModal = ({ isOpen, onClose, onFriendAdded }: AddFriendModalProps)
     setIsLoading(true);
     try {
       // Validate username by trying to fetch their profile
-      const res = await fetch("/.netlify/functions/leetcode", {
-        method: "POST",
-        body: JSON.stringify({
-          query: `
-            query userPublicProfile($username: String!) {
-              matchedUser(username: $username) {
-                username
-              }
+      const result = await fetchLeetCodeData({
+        query: `
+          query userPublicProfile($username: String!) {
+            matchedUser(username: $username) {
+              username
             }
-          `,
-          variables: { username: trimmedUsername },
-        }),
+          }
+        `,
+        variables: { username: trimmedUsername },
       });
-
-      if (!res.ok) {
-        const errorData = await res.json().catch(() => ({}));
-        throw new Error(errorData?.error || `Failed to verify user: ${res.statusText}`);
-      }
-
-      const result = await res.json();
 
       if (result.errors || !result.data?.matchedUser) {
         console.error("GraphQL error or user not found:", result.errors);

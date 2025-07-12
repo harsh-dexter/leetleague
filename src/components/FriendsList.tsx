@@ -9,6 +9,7 @@ import { Plus, Users, Loader2, XCircle } from "lucide-react";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { getFriendsFromLocalStorage, removeFriendFromLocalStorage } from "@/lib/utils";
 import { toast } from "sonner";
+import { fetchLeetCodeData } from "@/services/leetcode";
 
 
 interface FetchedFriendInfo extends Friend {}
@@ -19,67 +20,49 @@ const fetchFriendsInfo = async (): Promise<FetchedFriendInfo[]> => {
     return [];
   }
 
-  const data: Array<Partial<FetchedFriendInfo> & { error?: string }> = await Promise.all(
-    friendsUsernames.map(async (username): Promise<Partial<FetchedFriendInfo> & { error?: string }> => {
-      try {
-        const res = await fetch("/.netlify/functions/leetcode", {
-          method: "POST",
-          body: JSON.stringify({
-            query: `
-              query userPublicProfile($username: String!) {
-                matchedUser(username: $username) {
-                  username
-                  profile {
-                    realName
-                    userAvatar
-                    ranking
-                  }
-                  submitStatsGlobal {
-                    acSubmissionNum {
-                      count
-                      difficulty
-                    }
-                  }
-                }
-              }
-            `,
-            variables: { username },
-          }),
-        });
-        if (!res.ok) {
-          console.error(`Failed to fetch friend info for ${username}: ${res.status}`);
-          const errorData = await res.json().catch(() => ({}));
-          throw new Error(`Failed for ${username}: ${errorData?.error || res.statusText}`);
-        }
-        const result = await res.json();
-        if (result.errors || !result.data?.matchedUser) {
-          console.error(`GraphQL error or user not found for ${username}:`, result.errors, result.data);
-           if (result.data?.matchedUser === null) {
-            return { id: username, username, error: "User not found" };
+  const requests = friendsUsernames.map(username => ({
+    query: `
+      query userPublicProfile($username: String!) {
+        matchedUser(username: $username) {
+          username
+          profile {
+            realName
+            userAvatar
+            ranking
           }
-          return { id: username, username, error: "User not found or API error" };
+          submitStatsGlobal {
+            acSubmissionNum {
+              count
+              difficulty
+            }
+          }
         }
-        
-        const matchedUser = result.data.matchedUser;
-        const totalSolved = matchedUser.submitStatsGlobal?.acSubmissionNum?.find((s: any) => s.difficulty === "All")?.count ||
-                            matchedUser.submitStatsGlobal?.acSubmissionNum?.[0]?.count || // Fallback if "All" is not present but array is
-                            0;
-
-        return {
-          id: username, 
-          username: matchedUser.username,
-          realName: matchedUser.profile.realName,
-          avatar: matchedUser.profile.userAvatar,
-          ranking: matchedUser.profile.ranking,
-          totalSolved: totalSolved,
-          // error property is implicitly undefined here
-        };
-      } catch (error) {
-        console.error(`Error fetching friend info for ${username}:`, error);
-        return { id: username, username, error: (error as Error).message };
       }
-    })
-  );
+    `,
+    variables: { username },
+  }));
+
+  const results = await fetchLeetCodeData(requests) as any[];
+
+  const data: Array<Partial<FetchedFriendInfo> & { error?: string }> = results.map((result, index) => {
+    const username = friendsUsernames[index];
+    if (result.errors || !result.data?.matchedUser) {
+      console.error(`GraphQL error or user not found for ${username}:`, result.errors, result.data);
+      return { id: username, username, error: "User not found or API error" };
+    }
+
+    const matchedUser = result.data.matchedUser;
+    const totalSolved = matchedUser.submitStatsGlobal?.acSubmissionNum?.find((s: any) => s.difficulty === "All")?.count || 0;
+
+    return {
+      id: username,
+      username: matchedUser.username,
+      realName: matchedUser.profile.realName,
+      avatar: matchedUser.profile.userAvatar,
+      ranking: matchedUser.profile.ranking,
+      totalSolved: totalSolved,
+    };
+  });
   return data.filter(friend => friend && !friend.error).map(friend => {
     // Remove error property before casting to FetchedFriendInfo[]
     const { error, ...rest } = friend;

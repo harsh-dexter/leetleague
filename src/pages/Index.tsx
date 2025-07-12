@@ -11,6 +11,7 @@ import { Calendar, Star, TrendingUp, Users, Loader2 } from "lucide-react";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { getFriendsFromLocalStorage } from "@/lib/utils";
 import { useEffect, useState } from "react";
+import { fetchLeetCodeData } from "@/services/leetcode";
 
 interface LeaderboardStatEntry { // Renamed for clarity specific to this file's usage
   username: string;
@@ -28,47 +29,40 @@ const fetchLeaderBoardDataForStats = async (): Promise<LeaderboardStatEntry[]> =
   const todayTs = Math.floor(todayUtcMidnight.getTime() / 1000);
   const currentYear = today.getUTCFullYear();
 
-  const data = await Promise.all(
-    friends.map(async (username) => {
-      try {
-        const res = await fetch("/.netlify/functions/leetcode", {
-          method: "POST",
-          body: JSON.stringify({
-            query: `
-              query userProfileCalendar($username: String!, $year: Int) {
-                matchedUser(username: $username) {
-                  userCalendar(year: $year) {
-                    submissionCalendar
-                  }
-                }
-              }
-            `,
-            variables: { username, year: currentYear },
-            operationName: "userProfileCalendar"
-          }),
-        });
-        if (!res.ok) {
-          console.error(`Stats: Failed to fetch data for ${username}: ${res.status}`);
-          return { username, solvedToday: 0, id: username }; // Return default on error
+  const requests = friends.map(username => ({
+    query: `
+      query userProfileCalendar($username: String!, $year: Int) {
+        matchedUser(username: $username) {
+          userCalendar(year: $year) {
+            submissionCalendar
+          }
         }
-        const result = await res.json();
-        if (result.errors || !result.data?.matchedUser?.userCalendar?.submissionCalendar) {
-          console.error(`Stats: GraphQL errors for ${username} or data missing:`, result.errors, result.data);
-          return { username, solvedToday: 0, id: username }; // Return default on error
-        }
-        const calendarStr = result.data.matchedUser.userCalendar.submissionCalendar;
-        const calendar = JSON.parse(calendarStr || "{}");
-        return {
-          username,
-          solvedToday: calendar[todayTs.toString()] || 0,
-          id: username,
-        };
-      } catch (error) {
-        console.error(`Stats: Error fetching leaderboard for ${username}:`, error);
+      }
+    `,
+    variables: { username, year: currentYear },
+  }));
+
+  const results = await fetchLeetCodeData(requests) as any[];
+
+  const data = results.map((result, index) => {
+    const username = friends[index];
+    try {
+      if (result.errors || !result.data?.matchedUser?.userCalendar?.submissionCalendar) {
+        console.error(`Stats: GraphQL errors for ${username} or data missing:`, result.errors, result.data);
         return { username, solvedToday: 0, id: username }; // Return default on error
       }
-    })
-  );
+      const calendarStr = result.data.matchedUser.userCalendar.submissionCalendar;
+      const calendar = JSON.parse(calendarStr || "{}");
+      return {
+        username,
+        solvedToday: calendar[todayTs.toString()] || 0,
+        id: username,
+      };
+    } catch (error) {
+      console.error(`Stats: Error fetching leaderboard for ${username}:`, error);
+      return { username, solvedToday: 0, id: username }; // Return default on error
+    }
+  });
   return data;
 };
 

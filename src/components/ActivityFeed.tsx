@@ -4,6 +4,7 @@ import { Submission } from "@/lib/types";
 import { Clock, Loader2 } from "lucide-react";
 import { useQuery } from "@tanstack/react-query";
 import { getFriendsFromLocalStorage } from "@/lib/utils";
+import { fetchLeetCodeData } from "@/services/leetcode";
 import {
   Table,
   TableBody,
@@ -38,88 +39,50 @@ const fetchRecentSubmissions = async (): Promise<Submission[]> => {
   if (friends.length === 0) {
     return [];
   }
-  const results = await Promise.all(
-    friends.map(async (username) => {
-      try {
-        const res = await fetch("/.netlify/functions/leetcode", {
-          method: "POST",
-          body: JSON.stringify({
-            query: `
-              query recentAcSubmissions($username: String!, $limit: Int!) {
-                recentAcSubmissionList(username: $username, limit: $limit) {
-                  id # Added to fetch submission ID
-                  title
-                  titleSlug
-                  timestamp
-                }
-              }
-            `,
-            variables: { username, limit: 20 },
-          }),
-        });
-        if (!res.ok) {
-          console.error(`Failed to fetch submissions for ${username}: ${res.status}`);
-          const errorData = await res.json().catch(() => ({}));
-          throw new Error(`Failed for ${username}: ${errorData?.error || res.statusText}`);
-        }
-        const result = await res.json();
-        if (result.errors) {
-          console.error(`GraphQL errors for ${username}:`, result.errors);
-           if (result.errors.some((e: any) => e.message?.includes("User matching query does not exist."))) {
-            return []; // User not found, return empty for this user
-          }
-          throw new Error(`GraphQL error for ${username}`);
-        }
-        // Ensure data and recentAcSubmissionList exist
-        const submissionList = result.data?.recentAcSubmissionList;
-        if (!Array.isArray(submissionList)) {
-          console.warn(`No recent submissions found for ${username} or unexpected data format.`);
-          return [];
-        }
-        return submissionList.map((s: any) => ({
-          ...s,
-          username,
-        }));
-      } catch (error) {
-         console.error(`Error fetching submissions for ${username}:`, error);
-        return []; // Return empty array on error for this user
-      }
-    })
-  );
 
-  const allSubmissionsRaw = results.flat();
-
-  // Fetch difficulty for each submission
-  const submissionsWithDifficulty = await Promise.all(
-    allSubmissionsRaw.map(async (s) => {
-      if (!s || !s.titleSlug) return { ...s, difficulty: undefined }; // Handle cases where s might be an error object from previous map
-      try {
-        const diffRes = await fetch("/.netlify/functions/leetcode", {
-          method: "POST",
-          body: JSON.stringify({
-            query: `
-              query getQuestionDifficulty($titleSlug: String!) {
-                question(titleSlug: $titleSlug) {
-                  difficulty
-                }
-              }
-            `,
-            variables: { titleSlug: s.titleSlug },
-          }),
-        });
-        if (!diffRes.ok) {
-          console.error(`Failed to fetch difficulty for ${s.titleSlug}: ${diffRes.status}`);
-          return { ...s, difficulty: undefined };
+  const submissionRequests = friends.map(username => ({
+    query: `
+      query recentAcSubmissions($username: String!, $limit: Int!) {
+        recentAcSubmissionList(username: $username, limit: $limit) {
+          id
+          title
+          titleSlug
+          timestamp
         }
-        const diffResult = await diffRes.json();
-        const difficulty = diffResult.data?.question?.difficulty || undefined;
-        return { ...s, difficulty };
-      } catch (error) {
-        console.error(`Error fetching difficulty for ${s.titleSlug}:`, error);
-        return { ...s, difficulty: undefined };
       }
-    })
-  );
+    `,
+    variables: { username, limit: 20 },
+  }));
+
+  const submissionResults = await fetchLeetCodeData(submissionRequests) as any[];
+
+  const allSubmissionsRaw: RawSubmission[] = submissionResults.flatMap((result, index) => {
+    const username = friends[index];
+    if (result.errors || !result.data?.recentAcSubmissionList) {
+      console.error(`GraphQL errors for ${username}:`, result.errors);
+      return [];
+    }
+    return result.data.recentAcSubmissionList.map((s: any) => ({ ...s, username }));
+  });
+
+  const difficultyRequests = allSubmissionsRaw.map(s => ({
+    query: `
+      query getQuestionDifficulty($titleSlug: String!) {
+        question(titleSlug: $titleSlug) {
+          difficulty
+        }
+      }
+    `,
+    variables: { titleSlug: s.titleSlug },
+  }));
+
+  const difficultyResults = await fetchLeetCodeData(difficultyRequests) as any[];
+
+  const submissionsWithDifficulty = allSubmissionsRaw.map((s, index) => {
+    const diffResult = difficultyResults[index];
+    const difficulty = diffResult.data?.question?.difficulty || undefined;
+    return { ...s, difficulty };
+  });
 
   return submissionsWithDifficulty
     .map((s: RawSubmission & { difficulty?: string }) => ({

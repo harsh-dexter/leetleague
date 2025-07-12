@@ -5,6 +5,7 @@ import { Trophy, Loader2 } from "lucide-react";
 import { useQuery, useQueryClient } from "@tanstack/react-query"; // Import useQueryClient
 import { getFriendsFromLocalStorage } from "@/lib/utils";
 import { Friend } from "@/lib/types";
+import { fetchLeetCodeData } from "@/services/leetcode";
 
 interface LeaderboardEntry {
   username: string;
@@ -27,52 +28,38 @@ const fetchLeaderBoardSolvedToday = async (): Promise<Omit<LeaderboardEntry, 'av
   const todayTs = Math.floor(todayUtcMidnight.getTime() / 1000);
   const currentYear = today.getUTCFullYear();
 
-  const data = await Promise.all(
-    friends.map(async (username) => {
-      try {
-        const calendarRes = await fetch("/.netlify/functions/leetcode", {
-          method: "POST",
-          body: JSON.stringify({
-            query: `
-              query userProfileCalendar($username: String!, $year: Int) {
-                matchedUser(username: $username) {
-                  userCalendar(year: $year) {
-                    submissionCalendar
-                  }
-                }
-              }
-            `,
-            variables: { username, year: currentYear },
-            operationName: "userProfileCalendar"
-          }),
-        });
-
-        if (!calendarRes.ok) {
-          console.error(`Leaderboard: Failed to fetch calendar for ${username}: ${calendarRes.status}`);
-          return { username, solvedToday: 0, id: username, error: `Calendar fetch failed: ${calendarRes.statusText}` };
-        }
-        const calendarResult = await calendarRes.json();
-
-        let solvedToday = 0;
-        if (calendarResult.errors || !calendarResult.data?.matchedUser?.userCalendar?.submissionCalendar) {
-          console.warn(`Leaderboard: GraphQL error or missing calendar for ${username}:`, calendarResult.errors, calendarResult.data);
-          if (calendarResult.data?.matchedUser === null || calendarResult.errors?.some((e: any) => e.message?.includes("User matching query does not exist."))) {
-             return { username, solvedToday: 0, id: username, error: "User not found or no calendar" };
+  const requests = friends.map(username => ({
+    query: `
+      query userProfileCalendar($username: String!, $year: Int) {
+        matchedUser(username: $username) {
+          userCalendar(year: $year) {
+            submissionCalendar
           }
-          // If other errors but user/calendar structure exists, log and return 0 for this user
-          console.warn(`Leaderboard: GraphQL error or missing calendar for ${username} (but user might exist):`, calendarResult.errors, calendarResult.data);
-        } else {
-          const calendarStr = calendarResult.data.matchedUser.userCalendar.submissionCalendar;
-          const calendar = JSON.parse(calendarStr || "{}");
-          solvedToday = calendar[todayTs.toString()] || 0;
         }
-        return { username, solvedToday, id: username };
-      } catch (error) {
-        console.error(`Error fetching solvedToday for ${username}:`, error);
-        return { username, solvedToday: 0, id: username, error: (error as Error).message };
       }
-    })
-  );
+    `,
+    variables: { username, year: currentYear },
+  }));
+
+  const results = await fetchLeetCodeData(requests) as any[];
+
+  const data = results.map((calendarResult, index) => {
+    const username = friends[index];
+    let solvedToday = 0;
+    if (calendarResult.errors || !calendarResult.data?.matchedUser?.userCalendar?.submissionCalendar) {
+      console.warn(`Leaderboard: GraphQL error or missing calendar for ${username}:`, calendarResult.errors, calendarResult.data);
+      if (calendarResult.data?.matchedUser === null || calendarResult.errors?.some((e: any) => e.message?.includes("User matching query does not exist."))) {
+          return { username, solvedToday: 0, id: username, error: "User not found or no calendar" };
+      }
+      // If other errors but user/calendar structure exists, log and return 0 for this user
+      console.warn(`Leaderboard: GraphQL error or missing calendar for ${username} (but user might exist):`, calendarResult.errors, calendarResult.data);
+    } else {
+      const calendarStr = calendarResult.data.matchedUser.userCalendar.submissionCalendar;
+      const calendar = JSON.parse(calendarStr || "{}");
+      solvedToday = calendar[todayTs.toString()] || 0;
+    }
+    return { username, solvedToday, id: username };
+  });
   return data
     .filter(entry => !entry.error || entry.error === "User not found or no calendar") 
     .sort((a, b) => b.solvedToday - a.solvedToday);
