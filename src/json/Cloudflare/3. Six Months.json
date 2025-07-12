@@ -1,0 +1,75 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Reaching Points",
+    "frequency": "100.0",
+    "acceptanceRate": "0.336468882434809",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Circular Queue",
+    "frequency": "92.4",
+    "acceptanceRate": "0.5264449504731188",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design a Stack With Increment Operation",
+    "frequency": "92.4",
+    "acceptanceRate": "0.8013123593723671",
+    "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "topics": [
+      "Array",
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "87.4",
+    "acceptanceRate": "0.37071091818190843",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "87.4",
+    "acceptanceRate": "0.38219049581097475",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "71.7",
+    "acceptanceRate": "0.6920831928267657",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  }
+]

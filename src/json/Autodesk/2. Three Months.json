@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Subarrays That Match a Pattern I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6684595198334382",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+    "topics": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  }
+]

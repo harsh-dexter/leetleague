@@ -1,0 +1,33 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Fill Missing Data",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7231414467579705",
+    "link": "https://leetcode.com/problems/fill-missing-data",
+    "topics": []
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Parallel Courses III",
+    "frequency": "89.6",
+    "acceptanceRate": "0.6674963944974485",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Invalid Tweets",
+    "frequency": "89.6",
+    "acceptanceRate": "0.8551287418798992",
+    "link": "https://leetcode.com/problems/invalid-tweets",
+    "topics": [
+      "Database"
+    ]
+  }
+]

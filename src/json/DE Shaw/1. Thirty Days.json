@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design A Leaderboard",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6796315583908346",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ]
+  }
+]

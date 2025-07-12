@@ -1,0 +1,64 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969246907348",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6510220235706903",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45214974639996014",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Operations to Make X and Y Equal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.47386300742408916",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+    "topics": [
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Good Subarray Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.20281964321019574",
+    "link": "https://leetcode.com/problems/maximum-good-subarray-sum",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  }
+]

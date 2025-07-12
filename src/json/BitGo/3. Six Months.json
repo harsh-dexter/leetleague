@@ -1,0 +1,78 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46383586845548325",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.623201292092127",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6510218479112839",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Bus Routes",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46953005797985964",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.452148771503926",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6675513590636828",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  }
+]

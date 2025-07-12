@@ -1,0 +1,62 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4128187673396755",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Works Applications-Largest Number",
+    "company": "Works Applications",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "K Inverse Pairs Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49047494969673283",
+    "link": "https://leetcode.com/problems/k-inverse-pairs-array",
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "id": "Works Applications-K Inverse Pairs Array",
+    "company": "Works Applications",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Course Schedule III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4067228094856614",
+    "link": "https://leetcode.com/problems/course-schedule-iii",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Works Applications-Course Schedule III",
+    "company": "Works Applications",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3707497430761235",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Works Applications-3Sum",
+    "company": "Works Applications",
+    "timeframe": "more_than_180"
+  }
+]

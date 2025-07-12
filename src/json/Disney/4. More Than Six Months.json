@@ -1,0 +1,168 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4521484931675215",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Area of Island",
+    "frequency": "91.8",
+    "acceptanceRate": "0.7316427664618339",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Ransom Note",
+    "frequency": "91.8",
+    "acceptanceRate": "0.6452368869682432",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "91.8",
+    "acceptanceRate": "0.493952574621571",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "80.2",
+    "acceptanceRate": "0.6232013751253481",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "80.2",
+    "acceptanceRate": "0.6666099763648226",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "80.2",
+    "acceptanceRate": "0.4283731773782037",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "80.2",
+    "acceptanceRate": "0.42322891305904276",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Word Abbreviation",
+    "frequency": "80.2",
+    "acceptanceRate": "0.36851533163705213",
+    "link": "https://leetcode.com/problems/valid-word-abbreviation",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Egg Drop With 2 Eggs and N Floors",
+    "frequency": "80.2",
+    "acceptanceRate": "0.7373311247994203",
+    "link": "https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors",
+    "topics": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "80.2",
+    "acceptanceRate": "0.5354078194126206",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Linked List II",
+    "frequency": "80.2",
+    "acceptanceRate": "0.49591806221442425",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "80.2",
+    "acceptanceRate": "0.7713291799018006",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "80.2",
+    "acceptanceRate": "0.45476343242314937",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Scramble String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4218411591949826",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Darwinbox-Scramble String",
+    "company": "Darwinbox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "72.4",
+    "acceptanceRate": "0.5394614021320111",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Darwinbox-Spiral Matrix",
+    "company": "Darwinbox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Size Subarray Sum",
+    "frequency": "59.1",
+    "acceptanceRate": "0.4939438522342745",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Darwinbox-Minimum Size Subarray Sum",
+    "company": "Darwinbox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Majority Element II",
+    "frequency": "59.1",
+    "acceptanceRate": "0.5438470001948768",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Darwinbox-Majority Element II",
+    "company": "Darwinbox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Great Partitions",
+    "frequency": "59.1",
+    "acceptanceRate": "0.3226402936149945",
+    "link": "https://leetcode.com/problems/number-of-great-partitions",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Darwinbox-Number of Great Partitions",
+    "company": "Darwinbox",
+    "timeframe": "more_than_180"
+  }
+]

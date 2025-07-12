@@ -1,0 +1,49 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4936643133682532",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4682883757340722",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Squares of a Sorted Array",
+    "frequency": "90.1",
+    "acceptanceRate": "0.73219143688745",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Average Waiting Time",
+    "frequency": "90.1",
+    "acceptanceRate": "0.730517914922463",
+    "link": "https://leetcode.com/problems/average-waiting-time",
+    "topics": [
+      "Array",
+      "Simulation"
+    ]
+  }
+]

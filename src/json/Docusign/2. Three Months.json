@@ -1,0 +1,57 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6793492451924871",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "93.0",
+    "acceptanceRate": "0.6861925425592491",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "83.2",
+    "acceptanceRate": "0.5214175430894478",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search Suggestions System",
+    "frequency": "83.2",
+    "acceptanceRate": "0.6505022273267432",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "topics": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  }
+]

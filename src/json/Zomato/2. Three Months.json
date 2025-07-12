@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Count the Hidden Sequences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5672918186355435",
+    "link": "https://leetcode.com/problems/count-the-hidden-sequences",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snakes and Ladders",
+    "frequency": "83.5",
+    "acceptanceRate": "0.4779536693986003",
+    "link": "https://leetcode.com/problems/snakes-and-ladders",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  }
+]

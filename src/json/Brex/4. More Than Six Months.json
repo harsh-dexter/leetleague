@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5246967071057193",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Game of Life",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7141535361052459",
+    "link": "https://leetcode.com/problems/game-of-life",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  }
+]

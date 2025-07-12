@@ -1,0 +1,48 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6920831928267657",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "id": "Careem-Design Hit Counter",
+    "company": "Careem",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577709298430229",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Careem-Two Sum",
+    "company": "Careem",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "89.8",
+    "acceptanceRate": "0.3707125880508768",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Careem-3Sum",
+    "company": "Careem",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum Cost to Remove Array Elements",
+    "frequency": "100.0",
+    "acceptanceRate": "0.18504194680787767",
+    "link": "https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "94.9",
+    "acceptanceRate": "0.4718257360539049",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "frequency": "58.6",
+    "acceptanceRate": "0.5071699895141073",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "58.6",
+    "acceptanceRate": "0.34941674037744563",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "58.6",
+    "acceptanceRate": "0.657403169331404",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "58.6",
+    "acceptanceRate": "0.6385755479764873",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Put Marbles in Bags",
+    "frequency": "58.6",
+    "acceptanceRate": "0.72440073755378",
+    "link": "https://leetcode.com/problems/put-marbles-in-bags",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design A Leaderboard",
+    "frequency": "58.6",
+    "acceptanceRate": "0.6796315583908346",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ]
+  }
+]

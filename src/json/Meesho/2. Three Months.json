@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Unique XOR Triplets I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.24857137833418322",
+    "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-i",
+    "topics": [
+      "Array",
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Unique XOR Triplets II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.29438172400053125",
+    "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii",
+    "topics": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "66.3",
+    "acceptanceRate": "0.43057736061713586",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  }
+]

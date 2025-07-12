@@ -1,0 +1,125 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778282666830817",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Right Side View",
+    "frequency": "87.3",
+    "acceptanceRate": "0.6704260063500933",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "87.3",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Distinct Islands",
+    "frequency": "87.3",
+    "acceptanceRate": "0.6225551999482754",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "87.3",
+    "acceptanceRate": "0.4305775328017951",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "87.3",
+    "acceptanceRate": "0.6510199452828925",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check if a Parentheses String Can Be Valid",
+    "frequency": "87.3",
+    "acceptanceRate": "0.44858593577735023",
+    "link": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "87.3",
+    "acceptanceRate": "0.45214645870656",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "87.3",
+    "acceptanceRate": "0.49395238677841924",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "87.3",
+    "acceptanceRate": "0.7713287456277772",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  }
+]

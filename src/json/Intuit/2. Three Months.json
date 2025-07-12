@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4232284209279414",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4649547506448627",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4548318384045896",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6574039462914686",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "88.1",
+    "acceptanceRate": "0.5525972597748545",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "88.1",
+    "acceptanceRate": "0.43814715869853715",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "88.1",
+    "acceptanceRate": "0.6486652858475359",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "88.1",
+    "acceptanceRate": "0.5577709053993679",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "88.1",
+    "acceptanceRate": "0.35846276556107637",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

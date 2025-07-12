@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Repeating Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3962144463908421",
+    "link": "https://leetcode.com/problems/maximum-repeating-substring",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  }
+]

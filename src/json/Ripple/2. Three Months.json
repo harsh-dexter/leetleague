@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49395258385849666",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  }
+]

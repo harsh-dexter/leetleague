@@ -1,0 +1,49 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Words",
+    "frequency": "100.0",
+    "acceptanceRate": "0.592771943363307",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "80.6",
+    "acceptanceRate": "0.6456603251734532",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minesweeper",
+    "frequency": "80.6",
+    "acceptanceRate": "0.6812440177509644",
+    "link": "https://leetcode.com/problems/minesweeper",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "How Many Apples Can You Put into the Basket",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6704955156282592",
+    "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Hexspeak",
+    "frequency": "90.6",
+    "acceptanceRate": "0.5829381638846738",
+    "link": "https://leetcode.com/problems/hexspeak",
+    "topics": [
+      "Math",
+      "String"
+    ]
+  }
+]

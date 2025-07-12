@@ -1,0 +1,36 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5394630958493493",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Brick Wall",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5585762726172722",
+    "link": "https://leetcode.com/problems/brick-wall",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4901474986248562",
+    "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+    "topics": [
+      "Math",
+      "Greedy"
+    ]
+  }
+]

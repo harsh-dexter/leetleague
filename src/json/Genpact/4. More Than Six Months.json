@@ -1,0 +1,40 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design Authentication Manager",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5786802030456852",
+    "link": "https://leetcode.com/problems/design-authentication-manager",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "78.9",
+    "acceptanceRate": "0.43870653758850314",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "78.9",
+    "acceptanceRate": "0.7007177380338733",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  }
+]

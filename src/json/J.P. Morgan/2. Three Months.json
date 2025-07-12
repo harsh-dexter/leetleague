@@ -1,0 +1,110 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7790165261990751",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rearrange Array to Maximize Prefix Score",
+    "frequency": "81.1",
+    "acceptanceRate": "0.41547137866485434",
+    "link": "https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Resultant Array After Removing Anagrams",
+    "frequency": "65.0",
+    "acceptanceRate": "0.5947293118567407",
+    "link": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Binary Substrings",
+    "frequency": "65.0",
+    "acceptanceRate": "0.659166376012681",
+    "link": "https://leetcode.com/problems/count-binary-substrings",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "65.0",
+    "acceptanceRate": "0.49395276216916684",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Occurrences of an Element in an Array",
+    "frequency": "65.0",
+    "acceptanceRate": "0.725564552476571",
+    "link": "https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "65.0",
+    "acceptanceRate": "0.6070888278303417",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shuffle an Array",
+    "frequency": "65.0",
+    "acceptanceRate": "0.5904289804092742",
+    "link": "https://leetcode.com/problems/shuffle-an-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "65.0",
+    "acceptanceRate": "0.369361700262351",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4718257360539049",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "MathWorks-Binary Tree Cameras",
+    "company": "MathWorks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sell Diminishing-Valued Colored Balls",
+    "frequency": "100.0",
+    "acceptanceRate": "0.29960670022229985",
+    "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "MathWorks-Sell Diminishing-Valued Colored Balls",
+    "company": "MathWorks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shopping Offers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5190263317700597",
+    "link": "https://leetcode.com/problems/shopping-offers",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ],
+    "id": "MathWorks-Shopping Offers",
+    "company": "MathWorks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pass the Pillow",
+    "frequency": "65.2",
+    "acceptanceRate": "0.5655326422584914",
+    "link": "https://leetcode.com/problems/pass-the-pillow",
+    "topics": [
+      "Math",
+      "Simulation"
+    ],
+    "id": "MathWorks-Pass the Pillow",
+    "company": "MathWorks",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Subarrays With Fixed Bounds",
+    "frequency": "65.2",
+    "acceptanceRate": "0.6940834976032579",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ],
+    "id": "MathWorks-Count Subarrays With Fixed Bounds",
+    "company": "MathWorks",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "frequency": "65.2",
+    "acceptanceRate": "0.5529070058590816",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "topics": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "MathWorks-Minimum Edge Reversals So Every Node Is Reachable",
+    "company": "MathWorks",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Divisible Triplet Sums",
+    "frequency": "65.2",
+    "acceptanceRate": "0.6780637725701113",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "MathWorks-Number of Divisible Triplet Sums",
+    "company": "MathWorks",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "String Transformation",
+    "frequency": "81.1",
+    "acceptanceRate": "0.2510979075174374",
+    "link": "https://leetcode.com/problems/string-transformation",
+    "topics": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ],
+    "id": "MathWorks-String Transformation",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Alloys",
+    "frequency": "81.1",
+    "acceptanceRate": "0.3892313439805734",
+    "link": "https://leetcode.com/problems/maximum-number-of-alloys",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "MathWorks-Maximum Number of Alloys",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Total Cost to Hire K Workers",
+    "frequency": "65.6",
+    "acceptanceRate": "0.4310698766448885",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ],
+    "id": "MathWorks-Total Cost to Hire K Workers",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reshape the Matrix",
+    "frequency": "65.6",
+    "acceptanceRate": "0.6389851604503701",
+    "link": "https://leetcode.com/problems/reshape-the-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "MathWorks-Reshape the Matrix",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest String Chain",
+    "frequency": "65.6",
+    "acceptanceRate": "0.6201512673699018",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "MathWorks-Longest String Chain",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sum of Distances in Tree",
+    "frequency": "65.6",
+    "acceptanceRate": "0.653395424019089",
+    "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Graph"
+    ],
+    "id": "MathWorks-Sum of Distances in Tree",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Split Array Largest Sum",
+    "frequency": "65.6",
+    "acceptanceRate": "0.5809960631242778",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ],
+    "id": "MathWorks-Split Array Largest Sum",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Distinct Subsequences",
+    "frequency": "56.6",
+    "acceptanceRate": "0.5009993949952919",
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "MathWorks-Distinct Subsequences",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "56.6",
+    "acceptanceRate": "0.6304370910860896",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "MathWorks-Reverse Nodes in k-Group",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Earliest Second to Mark Indices I",
+    "frequency": "56.6",
+    "acceptanceRate": "0.3465720539433736",
+    "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-i",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "MathWorks-Earliest Second to Mark Indices I",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Earliest Second to Mark Indices II",
+    "frequency": "56.6",
+    "acceptanceRate": "0.20305444887118193",
+    "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "MathWorks-Earliest Second to Mark Indices II",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Beautiful Arrangement",
+    "frequency": "56.6",
+    "acceptanceRate": "0.6452784543104094",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "MathWorks-Beautiful Arrangement",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Palindromes After Operations",
+    "frequency": "56.6",
+    "acceptanceRate": "0.4308371154815936",
+    "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "MathWorks-Maximum Palindromes After Operations",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Keyboard Row",
+    "frequency": "56.6",
+    "acceptanceRate": "0.7245746901047094",
+    "link": "https://leetcode.com/problems/keyboard-row",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "MathWorks-Keyboard Row",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Last Substring in Lexicographical Order",
+    "frequency": "56.6",
+    "acceptanceRate": "0.34600693682223294",
+    "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "MathWorks-Last Substring in Lexicographical Order",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Anagrams",
+    "frequency": "56.6",
+    "acceptanceRate": "0.3523180569098484",
+    "link": "https://leetcode.com/problems/count-anagrams",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ],
+    "id": "MathWorks-Count Anagrams",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Cost Tree From Leaf Values",
+    "frequency": "56.6",
+    "acceptanceRate": "0.6766395592073932",
+    "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "id": "MathWorks-Minimum Cost Tree From Leaf Values",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "frequency": "56.6",
+    "acceptanceRate": "0.6283932786999268",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "topics": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ],
+    "id": "MathWorks-Remove Colored Pieces if Both Neighbors are the Same Color",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "frequency": "56.6",
+    "acceptanceRate": "0.8121536256620584",
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "topics": [
+      "Linked List",
+      "Math"
+    ],
+    "id": "MathWorks-Convert Binary Number in a Linked List to Integer",
+    "company": "MathWorks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Break a Palindrome",
+    "frequency": "51.2",
+    "acceptanceRate": "0.515441720680916",
+    "link": "https://leetcode.com/problems/break-a-palindrome",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "MathWorks-Break a Palindrome",
+    "company": "MathWorks",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Difference Between Increasing Elements",
+    "frequency": "51.2",
+    "acceptanceRate": "0.6610089592872825",
+    "link": "https://leetcode.com/problems/maximum-difference-between-increasing-elements",
+    "topics": [
+      "Array"
+    ],
+    "id": "MathWorks-Maximum Difference Between Increasing Elements",
+    "company": "MathWorks",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Repeating Character Replacement",
+    "frequency": "51.2",
+    "acceptanceRate": "0.5721163745594167",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "MathWorks-Longest Repeating Character Replacement",
+    "company": "MathWorks",
+    "timeframe": "all"
+  }
+]

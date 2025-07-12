@@ -1,0 +1,30 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4548729045294045",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "CME Group-Longest Common Prefix",
+    "company": "CME Group",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "84.1",
+    "acceptanceRate": "0.5526335502330503",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "CME Group-Best Time to Buy and Sell Stock",
+    "company": "CME Group",
+    "timeframe": "more_than_180"
+  }
+]

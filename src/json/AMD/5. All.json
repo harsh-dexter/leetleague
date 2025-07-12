@@ -1,0 +1,133 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7790173789665304",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.539398836789508",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of 1 Bits",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7450480575885099",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "topics": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577702792380397",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "87.5",
+    "acceptanceRate": "0.36936144977400187",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "87.5",
+    "acceptanceRate": "0.535407976724555",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "87.5",
+    "acceptanceRate": "0.6797703802112421",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "87.5",
+    "acceptanceRate": "0.4547633179081555",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "87.5",
+    "acceptanceRate": "0.6486637744329325",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "87.5",
+    "acceptanceRate": "0.4939525764689584",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "87.5",
+    "acceptanceRate": "0.3707108091763312",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4386518117872288",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5677423817534303",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4232287331904933",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.35846135942015783",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778289005385611",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Time to Repair Cars",
+    "frequency": "87.9",
+    "acceptanceRate": "0.5991672990715053",
+    "link": "https://leetcode.com/problems/minimum-time-to-repair-cars",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "87.9",
+    "acceptanceRate": "0.4939525616898277",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "87.9",
+    "acceptanceRate": "0.5577698935805033",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Rising Temperature",
+    "frequency": "87.9",
+    "acceptanceRate": "0.5018287657004238",
+    "link": "https://leetcode.com/problems/rising-temperature",
+    "topics": [
+      "Database"
+    ]
+  }
+]

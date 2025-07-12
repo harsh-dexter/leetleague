@@ -1,0 +1,400 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Length of Longest V-Shaped Diagonal Segment",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3371486969851814",
+    "link": "https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotating the Box",
+    "frequency": "90.3",
+    "acceptanceRate": "0.7909813050714205",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "83.0",
+    "acceptanceRate": "0.3707096562666586",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Block Placement Queries",
+    "frequency": "78.2",
+    "acceptanceRate": "0.168902023187088",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "78.2",
+    "acceptanceRate": "0.3693617129878996",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "75.3",
+    "acceptanceRate": "0.5577699721092808",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "72.0",
+    "acceptanceRate": "0.45214622651505193",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "72.0",
+    "acceptanceRate": "0.5525962249343825",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "68.1",
+    "acceptanceRate": "0.42322841034733566",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Adjacent Elements With the Same Color",
+    "frequency": "68.1",
+    "acceptanceRate": "0.5575544433923982",
+    "link": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "68.1",
+    "acceptanceRate": "0.47854346003751436",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "frequency": "68.1",
+    "acceptanceRate": "0.6194290206869442",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "63.3",
+    "acceptanceRate": "0.623199546917401",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "63.3",
+    "acceptanceRate": "0.7920656598058967",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "63.3",
+    "acceptanceRate": "0.493952611273816",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "63.3",
+    "acceptanceRate": "0.7092883620495999",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Black Blocks",
+    "frequency": "57.1",
+    "acceptanceRate": "0.3861732264480743",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Split the Array",
+    "frequency": "57.1",
+    "acceptanceRate": "0.5922734052667847",
+    "link": "https://leetcode.com/problems/split-the-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "57.1",
+    "acceptanceRate": "0.4281184916048655",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "frequency": "57.1",
+    "acceptanceRate": "0.5675053393759442",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Walls and Gates",
+    "frequency": "48.5",
+    "acceptanceRate": "0.6296791509568449",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "48.5",
+    "acceptanceRate": "0.6456597904229384",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "48.5",
+    "acceptanceRate": "0.4650921818372851",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "48.5",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "frequency": "48.5",
+    "acceptanceRate": "0.7545459484913246",
+    "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "48.5",
+    "acceptanceRate": "0.6510195479297859",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "48.5",
+    "acceptanceRate": "0.4548309025352272",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Subarrays That Match a Pattern I",
+    "frequency": "48.5",
+    "acceptanceRate": "0.6684595198334382",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+    "topics": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Matching Subsequences",
+    "frequency": "48.5",
+    "acceptanceRate": "0.5068902297144416",
+    "link": "https://leetcode.com/problems/number-of-matching-subsequences",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Dynamic Programming",
+      "Trie",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "48.5",
+    "acceptanceRate": "0.6323636580863917",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum Root to Leaf Numbers",
+    "frequency": "48.5",
+    "acceptanceRate": "0.6852764543969226",
+    "link": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "LFU Cache",
+    "frequency": "48.5",
+    "acceptanceRate": "0.4660898637811462",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4827391018791175",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939520668150291",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7167808391947267",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

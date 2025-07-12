@@ -1,0 +1,92 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "String Without AAA or BBB",
+    "frequency": "100.0",
+    "acceptanceRate": "0.44516387852529393",
+    "link": "https://leetcode.com/problems/string-without-aaa-or-bbb",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "Zalando-String Without AAA or BBB",
+    "company": "Zalando",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Lemonade Change",
+    "frequency": "87.7",
+    "acceptanceRate": "0.5844961101877493",
+    "link": "https://leetcode.com/problems/lemonade-change",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Zalando-Lemonade Change",
+    "company": "Zalando",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct the Longest New String",
+    "frequency": "78.0",
+    "acceptanceRate": "0.5384322081417517",
+    "link": "https://leetcode.com/problems/construct-the-longest-new-string",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Greedy",
+      "Brainteaser"
+    ],
+    "id": "Zalando-Construct the Longest New String",
+    "company": "Zalando",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "78.0",
+    "acceptanceRate": "0.45214888759813204",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Zalando-LRU Cache",
+    "company": "Zalando",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "78.0",
+    "acceptanceRate": "0.49395258385849666",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Zalando-Merge Intervals",
+    "company": "Zalando",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "62.2",
+    "acceptanceRate": "0.4128053161945387",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Zalando-Largest Number",
+    "company": "Zalando",
+    "timeframe": "all"
+  }
+]

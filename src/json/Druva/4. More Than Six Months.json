@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Reorganize String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5619678232551094",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4283746302583542",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximize Sum Of Array After K Negations",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5238275789608325",
+    "link": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.578085996864673",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  }
+]

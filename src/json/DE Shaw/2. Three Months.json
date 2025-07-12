@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4718257360539049",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design A Leaderboard",
+    "frequency": "82.4",
+    "acceptanceRate": "0.6796315583908346",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ]
+  }
+]

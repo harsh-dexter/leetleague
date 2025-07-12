@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Subrectangle Queries",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8595828252176626",
+    "link": "https://leetcode.com/problems/subrectangle-queries",
+    "topics": [
+      "Array",
+      "Design",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45606251689037025",
+    "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Number of Visible Points",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3767605072174815",
+    "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "topics": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Line Reflection",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3601319248289713",
+    "link": "https://leetcode.com/problems/line-reflection",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math"
+    ]
+  }
+]

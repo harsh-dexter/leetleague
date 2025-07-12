@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Boundary of Binary Tree",
+    "frequency": "100.0",
+    "acceptanceRate": "0.47158629287906856",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "100.0",
+    "acceptanceRate": "0.464957320920135",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6175467587896241",
+    "link": "https://leetcode.com/problems/add-two-numbers-ii",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Stack"
+    ]
+  }
+]

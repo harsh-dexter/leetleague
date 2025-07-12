@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Strange Printer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6077966814694875",
+    "link": "https://leetcode.com/problems/strange-printer",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Most Profit Assigning Work",
+    "frequency": "98.1",
+    "acceptanceRate": "0.5593838531254982",
+    "link": "https://leetcode.com/problems/most-profit-assigning-work",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  }
+]

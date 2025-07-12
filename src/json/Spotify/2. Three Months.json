@@ -1,0 +1,51 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Moving Average from Data Stream",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7993784738696523",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "topics": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "87.9",
+    "acceptanceRate": "0.5577699859109962",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "81.7",
+    "acceptanceRate": "0.6797706304551039",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "73.0",
+    "acceptanceRate": "0.4232286113783459",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  }
+]

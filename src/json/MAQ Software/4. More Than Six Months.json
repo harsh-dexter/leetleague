@@ -1,0 +1,63 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36936185611748357",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "88.7",
+    "acceptanceRate": "0.6510218753209407",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Substrings in Wraparound String",
+    "frequency": "88.7",
+    "acceptanceRate": "0.4119896506273087",
+    "link": "https://leetcode.com/problems/unique-substrings-in-wraparound-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "88.7",
+    "acceptanceRate": "0.35846253641821835",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "88.7",
+    "acceptanceRate": "0.4737769226876178",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  }
+]

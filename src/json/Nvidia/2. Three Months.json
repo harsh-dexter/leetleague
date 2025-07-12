@@ -1,0 +1,88 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5209977640581438",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "94.3",
+    "acceptanceRate": "0.4622508143957371",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Greatness of an Array",
+    "frequency": "87.0",
+    "acceptanceRate": "0.5864617466875623",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "76.7",
+    "acceptanceRate": "0.7092882008000586",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "76.7",
+    "acceptanceRate": "0.45500659848234903",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "76.7",
+    "acceptanceRate": "0.6777995792305304",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Clone Graph",
+    "frequency": "76.7",
+    "acceptanceRate": "0.6238568889371842",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  }
+]

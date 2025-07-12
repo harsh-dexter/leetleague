@@ -1,0 +1,196 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Words",
+    "frequency": "100.0",
+    "acceptanceRate": "0.592771260185311",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "91.1",
+    "acceptanceRate": "0.34941614794619197",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "91.1",
+    "acceptanceRate": "0.6456596965737327",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Increasing Path in a Matrix",
+    "frequency": "91.1",
+    "acceptanceRate": "0.5534762586302827",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "91.1",
+    "acceptanceRate": "0.45214562575373923",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "78.7",
+    "acceptanceRate": "0.6861925885666443",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "78.7",
+    "acceptanceRate": "0.42811826737370073",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "78.7",
+    "acceptanceRate": "0.45350747638232236",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "78.7",
+    "acceptanceRate": "0.566184675573941",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Split the Array",
+    "frequency": "78.7",
+    "acceptanceRate": "0.5922734052667847",
+    "link": "https://leetcode.com/problems/split-the-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "78.7",
+    "acceptanceRate": "0.6777995792305304",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "78.7",
+    "acceptanceRate": "0.552596541931788",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Repeating Character Replacement",
+    "frequency": "78.7",
+    "acceptanceRate": "0.5721163769892559",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "78.7",
+    "acceptanceRate": "0.6574028018936169",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode Ways",
+    "frequency": "78.7",
+    "acceptanceRate": "0.36530982861754346",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

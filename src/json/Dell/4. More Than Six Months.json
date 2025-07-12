@@ -1,0 +1,60 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.42322894737748806",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5677429108771196",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "88.2",
+    "acceptanceRate": "0.35846183681613975",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Delete Duplicate Emails",
+    "frequency": "88.2",
+    "acceptanceRate": "0.6432529647276789",
+    "link": "https://leetcode.com/problems/delete-duplicate-emails",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "88.2",
+    "acceptanceRate": "0.36936160334996243",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

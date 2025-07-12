@@ -1,0 +1,30 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Arrays",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7647454128954905",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "90.5",
+    "acceptanceRate": "0.4827866554527615",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  }
+]

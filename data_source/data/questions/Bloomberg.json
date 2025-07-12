@@ -1,0 +1,2850 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.557769945892896",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Bloomberg-Two Sum",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "96.3",
+    "acceptanceRate": "0.3693616884072647",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Bloomberg-Longest Substring Without Repeating Characters",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "86.9",
+    "acceptanceRate": "0.5778282574410597",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Bloomberg-Container With Most Water",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "86.9",
+    "acceptanceRate": "0.6115249906697672",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Decode String",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "86.9",
+    "acceptanceRate": "0.6666089667345674",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Valid Anagram",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "80.7",
+    "acceptanceRate": "0.6323636777340309",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Contains Duplicate",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "frequency": "80.7",
+    "acceptanceRate": "0.6131216910613428",
+    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "topics": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
+    ],
+    "id": "Bloomberg-Flatten a Multilevel Doubly Linked List",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "72.7",
+    "acceptanceRate": "0.45266926269047814",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Word Search",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "72.7",
+    "acceptanceRate": "0.7790164518819447",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Rotate Image",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "72.7",
+    "acceptanceRate": "0.42322820646682113",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Bloomberg-Valid Parentheses",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "72.7",
+    "acceptanceRate": "0.4548305595040032",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Bloomberg-Longest Common Prefix",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "72.7",
+    "acceptanceRate": "0.6510193676088248",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Bloomberg-Trapping Rain Water",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "72.7",
+    "acceptanceRate": "0.808795565390318",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Bloomberg-Subsets",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "61.5",
+    "acceptanceRate": "0.4939526774846352",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Merge Intervals",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Array Into Arrays With Max Difference",
+    "frequency": "61.5",
+    "acceptanceRate": "0.785050854640486",
+    "link": "https://leetcode.com/problems/divide-array-into-arrays-with-max-difference",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Divide Array Into Arrays With Max Difference",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Generate Tag for Video Caption",
+    "frequency": "61.5",
+    "acceptanceRate": "0.31350555752931025",
+    "link": "https://leetcode.com/problems/generate-tag-for-video-caption",
+    "topics": [
+      "String",
+      "Simulation"
+    ],
+    "id": "Bloomberg-Generate Tag for Video Caption",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Difference Between Increasing Elements",
+    "frequency": "61.5",
+    "acceptanceRate": "0.6610053682139234",
+    "link": "https://leetcode.com/problems/maximum-difference-between-increasing-elements",
+    "topics": [
+      "Array"
+    ],
+    "id": "Bloomberg-Maximum Difference Between Increasing Elements",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "61.5",
+    "acceptanceRate": "0.38219020113793045",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Bloomberg-4Sum",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fibonacci Number",
+    "frequency": "61.5",
+    "acceptanceRate": "0.7294495015845286",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "id": "Bloomberg-Fibonacci Number",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "61.5",
+    "acceptanceRate": "0.35846111456358737",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Bloomberg-Longest Palindromic Substring",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Max Consecutive Ones",
+    "frequency": "61.5",
+    "acceptanceRate": "0.6248232110227296",
+    "link": "https://leetcode.com/problems/max-consecutive-ones",
+    "topics": [
+      "Array"
+    ],
+    "id": "Bloomberg-Max Consecutive Ones",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Difference Between Even and Odd Frequency II",
+    "frequency": "61.5",
+    "acceptanceRate": "0.4928720842342105",
+    "link": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii",
+    "topics": [
+      "String",
+      "Sliding Window",
+      "Enumeration",
+      "Prefix Sum"
+    ],
+    "id": "Bloomberg-Maximum Difference Between Even and Odd Frequency II",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Invalid Transactions",
+    "frequency": "61.5",
+    "acceptanceRate": "0.3127080304862309",
+    "link": "https://leetcode.com/problems/invalid-transactions",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Invalid Transactions",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "61.5",
+    "acceptanceRate": "0.549918579117808",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Bloomberg-Insert Delete GetRandom O(1)",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Binary",
+    "frequency": "61.5",
+    "acceptanceRate": "0.5567701348180015",
+    "link": "https://leetcode.com/problems/add-binary",
+    "topics": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ],
+    "id": "Bloomberg-Add Binary",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Students and Examinations",
+    "frequency": "61.5",
+    "acceptanceRate": "0.604974385676898",
+    "link": "https://leetcode.com/problems/students-and-examinations",
+    "topics": [
+      "Database"
+    ],
+    "id": "Bloomberg-Students and Examinations",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindrome Partitioning",
+    "frequency": "61.5",
+    "acceptanceRate": "0.7212808256354587",
+    "link": "https://leetcode.com/problems/palindrome-partitioning",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Bloomberg-Palindrome Partitioning",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "61.5",
+    "acceptanceRate": "0.5525965868759138",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Bloomberg-Best Time to Buy and Sell Stock",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix",
+    "frequency": "61.5",
+    "acceptanceRate": "0.5228957258337302",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Search a 2D Matrix",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "61.5",
+    "acceptanceRate": "0.5291951450619177",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Merge Sorted Array",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "61.5",
+    "acceptanceRate": "0.7713286717803378",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Bloomberg-Generate Parentheses",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "61.5",
+    "acceptanceRate": "0.6777994606301018",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Bloomberg-Product of Array Except Self",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Area of Island",
+    "frequency": "61.5",
+    "acceptanceRate": "0.7316416136206765",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Max Area of Island",
+    "company": "Bloomberg",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "94.8",
+    "acceptanceRate": "0.6231993420626465",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Number of Islands",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "71.3",
+    "acceptanceRate": "0.4622507658063209",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Add Two Numbers",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "68.0",
+    "acceptanceRate": "0.46383617781658143",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Bloomberg-Gas Station",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "68.0",
+    "acceptanceRate": "0.4305773671839413",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Next Permutation",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "68.0",
+    "acceptanceRate": "0.4381459000864632",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Bloomberg-Median of Two Sorted Arrays",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "64.3",
+    "acceptanceRate": "0.45214558519032444",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Bloomberg-LRU Cache",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "64.3",
+    "acceptanceRate": "0.4547621523795086",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Bloomberg-Subarray Sum Equals K",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design A Leaderboard",
+    "frequency": "64.3",
+    "acceptanceRate": "0.6796263446547431",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Design A Leaderboard",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "frequency": "64.3",
+    "acceptanceRate": "0.7074654274676669",
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Bloomberg-Minimum Remove to Make Valid Parentheses",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "64.3",
+    "acceptanceRate": "0.6574028018936169",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Bloomberg-Majority Element",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "59.9",
+    "acceptanceRate": "0.5209978267392302",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Bloomberg-Maximum Subarray",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Repeating Character Replacement",
+    "frequency": "59.9",
+    "acceptanceRate": "0.5721171000443614",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Bloomberg-Longest Repeating Character Replacement",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "59.9",
+    "acceptanceRate": "0.6684091757223755",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Merge Two Sorted Lists",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "59.9",
+    "acceptanceRate": "0.7092881706911216",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Group Anagrams",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "59.9",
+    "acceptanceRate": "0.39479197867291327",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Bloomberg-Jump Game",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "59.9",
+    "acceptanceRate": "0.46509224260700627",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Bloomberg-Find Peak Element",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "59.9",
+    "acceptanceRate": "0.4682873183580639",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Bloomberg-Find First and Last Position of Element in Sorted Array",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Next Greater Element I",
+    "frequency": "54.5",
+    "acceptanceRate": "0.7451247376157817",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Bloomberg-Next Greater Element I",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "54.5",
+    "acceptanceRate": "0.5644511305593138",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Bloomberg-Min Stack",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum of Two Integers",
+    "frequency": "54.5",
+    "acceptanceRate": "0.5368178687075236",
+    "link": "https://leetcode.com/problems/sum-of-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "id": "Bloomberg-Sum of Two Integers",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Triangle Number",
+    "frequency": "54.5",
+    "acceptanceRate": "0.5234449388412803",
+    "link": "https://leetcode.com/problems/valid-triangle-number",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Valid Triangle Number",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "54.5",
+    "acceptanceRate": "0.3030891979001635",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "Bloomberg-Reverse Integer",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Two City Scheduling",
+    "frequency": "54.5",
+    "acceptanceRate": "0.6769210516989099",
+    "link": "https://leetcode.com/problems/two-city-scheduling",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Two City Scheduling",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "54.5",
+    "acceptanceRate": "0.47040837635488375",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Bloomberg-Longest Consecutive Sequence",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "54.5",
+    "acceptanceRate": "0.6070880933688526",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Set Matrix Zeroes",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "54.5",
+    "acceptanceRate": "0.6486626948713667",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Bloomberg-Roman to Integer",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "54.5",
+    "acceptanceRate": "0.521416981510797",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Bloomberg-Meeting Rooms II",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": "54.5",
+    "acceptanceRate": "0.7059658947038693",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Binary Tree Level Order Traversal",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Candy",
+    "frequency": "47.6",
+    "acceptanceRate": "0.4669970474860381",
+    "link": "https://leetcode.com/problems/candy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Bloomberg-Candy",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find in Mountain Array",
+    "frequency": "47.6",
+    "acceptanceRate": "0.4048309641569764",
+    "link": "https://leetcode.com/problems/find-in-mountain-array",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Interactive"
+    ],
+    "id": "Bloomberg-Find in Mountain Array",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Linked List",
+    "frequency": "47.6",
+    "acceptanceRate": "0.558594499890269",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Palindrome Linked List",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "47.6",
+    "acceptanceRate": "0.3631311456770452",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "id": "Bloomberg-Longest Valid Parentheses",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Split Array Largest Sum",
+    "frequency": "47.6",
+    "acceptanceRate": "0.580995560819648",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ],
+    "id": "Bloomberg-Split Array Largest Sum",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Digits",
+    "frequency": "47.6",
+    "acceptanceRate": "0.6791255381121745",
+    "link": "https://leetcode.com/problems/add-digits",
+    "topics": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ],
+    "id": "Bloomberg-Add Digits",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Subarrays Where Max Element Appears at Least K Times",
+    "frequency": "47.6",
+    "acceptanceRate": "0.6250009586845314",
+    "link": "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ],
+    "id": "Bloomberg-Count Subarrays Where Max Element Appears at Least K Times",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "47.6",
+    "acceptanceRate": "0.4685795790862557",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Bloomberg-Isomorphic Strings",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum of Subarray Minimums",
+    "frequency": "47.6",
+    "acceptanceRate": "0.3762351166424223",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Bloomberg-Sum of Subarray Minimums",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Plus One",
+    "frequency": "47.6",
+    "acceptanceRate": "0.47547621095134496",
+    "link": "https://leetcode.com/problems/plus-one",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Bloomberg-Plus One",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "All Paths From Source to Target",
+    "frequency": "47.6",
+    "acceptanceRate": "0.8312447332675658",
+    "link": "https://leetcode.com/problems/all-paths-from-source-to-target",
+    "topics": [
+      "Backtracking",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Bloomberg-All Paths From Source to Target",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of Recent Calls",
+    "frequency": "47.6",
+    "acceptanceRate": "0.7732793446019116",
+    "link": "https://leetcode.com/problems/number-of-recent-calls",
+    "topics": [
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "id": "Bloomberg-Number of Recent Calls",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "47.6",
+    "acceptanceRate": "0.37070947304965995",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Bloomberg-3Sum",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "47.6",
+    "acceptanceRate": "0.6035551112882038",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Remove Duplicates from Sorted Array",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Underground System",
+    "frequency": "47.6",
+    "acceptanceRate": "0.7402814844281105",
+    "link": "https://leetcode.com/problems/design-underground-system",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design"
+    ],
+    "id": "Bloomberg-Design Underground System",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Create Hello World Function",
+    "frequency": "47.6",
+    "acceptanceRate": "0.8212977812647828",
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "topics": [],
+    "id": "Bloomberg-Create Hello World Function",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "47.6",
+    "acceptanceRate": "0.4283722138743466",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Bloomberg-Search in Rotated Sorted Array",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Break II",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5364536357075469",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Bloomberg-Word Break II",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "47.6",
+    "acceptanceRate": "0.7920654119580827",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Reverse Linked List",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String to Integer (atoi)",
+    "frequency": "47.6",
+    "acceptanceRate": "0.19229423495277723",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "topics": [
+      "String"
+    ],
+    "id": "Bloomberg-String to Integer (atoi)",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Check if Array Is Sorted and Rotated",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5507495223867797",
+    "link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+    "topics": [
+      "Array"
+    ],
+    "id": "Bloomberg-Check if Array Is Sorted and Rotated",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Element",
+    "frequency": "47.6",
+    "acceptanceRate": "0.600316358048653",
+    "link": "https://leetcode.com/problems/remove-element",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Remove Element",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Size Subarray Sum",
+    "frequency": "47.6",
+    "acceptanceRate": "0.4939108177647309",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Bloomberg-Minimum Size Subarray Sum",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5096357249551178",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Bloomberg-Valid Palindrome",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Good Triplets",
+    "frequency": "38.0",
+    "acceptanceRate": "0.8548305888883868",
+    "link": "https://leetcode.com/problems/count-good-triplets",
+    "topics": [
+      "Array",
+      "Enumeration"
+    ],
+    "id": "Bloomberg-Count Good Triplets",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "38.0",
+    "acceptanceRate": "0.5922454317957505",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Bloomberg-Palindrome Number",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "38.0",
+    "acceptanceRate": "0.5393973501075863",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Bloomberg-Spiral Matrix",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "38.0",
+    "acceptanceRate": "0.6577283527258664",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Bloomberg-Unique Paths",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Largest Group",
+    "frequency": "38.0",
+    "acceptanceRate": "0.7503976647031062",
+    "link": "https://leetcode.com/problems/count-largest-group",
+    "topics": [
+      "Hash Table",
+      "Math"
+    ],
+    "id": "Bloomberg-Count Largest Group",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "38.0",
+    "acceptanceRate": "0.5191326197169353",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Bloomberg-Reverse Words in a String",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "38.0",
+    "acceptanceRate": "0.6314695091079937",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ],
+    "id": "Bloomberg-Evaluate Division",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Vertical Order Traversal",
+    "frequency": "38.0",
+    "acceptanceRate": "0.5714118828755629",
+    "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Binary Tree Vertical Order Traversal",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Binary Tree to Linked List",
+    "frequency": "38.0",
+    "acceptanceRate": "0.6851010744073592",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Flatten Binary Tree to Linked List",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Equal and Divisible Pairs in an Array",
+    "frequency": "38.0",
+    "acceptanceRate": "0.8408333300919137",
+    "link": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array",
+    "topics": [
+      "Array"
+    ],
+    "id": "Bloomberg-Count Equal and Divisible Pairs in an Array",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse String",
+    "frequency": "38.0",
+    "acceptanceRate": "0.7976436563508422",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Bloomberg-Reverse String",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "38.0",
+    "acceptanceRate": "0.6456596824026228",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Bloomberg-Top K Frequent Elements",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate List",
+    "frequency": "38.0",
+    "acceptanceRate": "0.39944772716128085",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Rotate List",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Strings Alternately",
+    "frequency": "38.0",
+    "acceptanceRate": "0.8222964639886224",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Bloomberg-Merge Strings Alternately",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "38.0",
+    "acceptanceRate": "0.5342350291611208",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Bloomberg-Course Schedule II",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Heaters",
+    "frequency": "38.0",
+    "acceptanceRate": "0.39952991914941977",
+    "link": "https://leetcode.com/problems/heaters",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Heaters",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Unhappy Friends",
+    "frequency": "38.0",
+    "acceptanceRate": "0.6205294037914141",
+    "link": "https://leetcode.com/problems/count-unhappy-friends",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "Bloomberg-Count Unhappy Friends",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "38.0",
+    "acceptanceRate": "0.5354071257240982",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Bloomberg-Climbing Stairs",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Unique Number of Occurrences",
+    "frequency": "38.0",
+    "acceptanceRate": "0.7828341214980583",
+    "link": "https://leetcode.com/problems/unique-number-of-occurrences",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Bloomberg-Unique Number of Occurrences",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition Labels",
+    "frequency": "38.0",
+    "acceptanceRate": "0.8153346802689039",
+    "link": "https://leetcode.com/problems/partition-labels",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ],
+    "id": "Bloomberg-Partition Labels",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Letter To Equalize Frequency",
+    "frequency": "38.0",
+    "acceptanceRate": "0.1820090792824141",
+    "link": "https://leetcode.com/problems/remove-letter-to-equalize-frequency",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Bloomberg-Remove Letter To Equalize Frequency",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "38.0",
+    "acceptanceRate": "0.46495443407851283",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Bloomberg-Coin Change",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check if Grid can be Cut into Sections",
+    "frequency": "38.0",
+    "acceptanceRate": "0.6837973859482197",
+    "link": "https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Check if Grid can be Cut into Sections",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Two Integers",
+    "frequency": "38.0",
+    "acceptanceRate": "0.18396975085033054",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "id": "Bloomberg-Divide Two Integers",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Summary Ranges",
+    "frequency": "38.0",
+    "acceptanceRate": "0.5302484768932422",
+    "link": "https://leetcode.com/problems/summary-ranges",
+    "topics": [
+      "Array"
+    ],
+    "id": "Bloomberg-Summary Ranges",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Value of an Ordered Triplet II",
+    "frequency": "38.0",
+    "acceptanceRate": "0.5666629551274913",
+    "link": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii",
+    "topics": [
+      "Array"
+    ],
+    "id": "Bloomberg-Maximum Value of an Ordered Triplet II",
+    "company": "Bloomberg",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pascal's Triangle",
+    "frequency": "63.5",
+    "acceptanceRate": "0.770215491719448",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Bloomberg-Pascal's Triangle",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Copy List with Random Pointer",
+    "frequency": "53.2",
+    "acceptanceRate": "0.6053669280147949",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "topics": [
+      "Hash Table",
+      "Linked List"
+    ],
+    "id": "Bloomberg-Copy List with Random Pointer",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "53.2",
+    "acceptanceRate": "0.6304374335039493",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Reverse Nodes in k-Group",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "49.7",
+    "acceptanceRate": "0.43021372799993496",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Rotate Array",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "49.7",
+    "acceptanceRate": "0.6950024235993695",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Bloomberg-Best Time to Buy and Sell Stock II",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Daily Temperatures",
+    "frequency": "45.6",
+    "acceptanceRate": "0.6736502939048284",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Bloomberg-Daily Temperatures",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Recyclable and Low Fat Products",
+    "frequency": "45.6",
+    "acceptanceRate": "0.8925494047235137",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "topics": [
+      "Database"
+    ],
+    "id": "Bloomberg-Recyclable and Low Fat Products",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "45.6",
+    "acceptanceRate": "0.6280400947352507",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Move Zeroes",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "45.6",
+    "acceptanceRate": "0.567741907864408",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Bloomberg-Merge k Sorted Lists",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "45.6",
+    "acceptanceRate": "0.449716000865219",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "Bloomberg-Find the Index of the First Occurrence in a String",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Search Insert Position",
+    "frequency": "45.6",
+    "acceptanceRate": "0.4901241638473952",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Bloomberg-Search Insert Position",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "45.6",
+    "acceptanceRate": "0.6227675793740958",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Valid Sudoku",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "45.6",
+    "acceptanceRate": "0.4737765317407914",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Bloomberg-Largest Rectangle in Histogram",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sqrt(x)",
+    "frequency": "45.6",
+    "acceptanceRate": "0.4037178718652037",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "Bloomberg-Sqrt(x)",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum Closest",
+    "frequency": "40.6",
+    "acceptanceRate": "0.468869600214817",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Bloomberg-3Sum Closest",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Linked List Cycle",
+    "frequency": "40.6",
+    "acceptanceRate": "0.5257062886353645",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Linked List Cycle",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "First Unique Character in a String",
+    "frequency": "40.6",
+    "acceptanceRate": "0.6369545656040947",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ],
+    "id": "Bloomberg-First Unique Character in a String",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "40.6",
+    "acceptanceRate": "0.8066011364163758",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Bloomberg-Permutations",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "40.6",
+    "acceptanceRate": "0.6797700833982673",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Bloomberg-Kth Largest Element in an Array",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "40.6",
+    "acceptanceRate": "0.3702317602905621",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Pow(x, n)",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Wildcard Matching",
+    "frequency": "34.2",
+    "acceptanceRate": "0.2989833857244126",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Wildcard Matching",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Right Side View",
+    "frequency": "34.2",
+    "acceptanceRate": "0.6704251629092013",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Binary Tree Right Side View",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Same Tree",
+    "frequency": "34.2",
+    "acceptanceRate": "0.651268811570624",
+    "link": "https://leetcode.com/problems/same-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Same Tree",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Peak Index in a Mountain Array",
+    "frequency": "34.2",
+    "acceptanceRate": "0.675694802801327",
+    "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Bloomberg-Peak Index in a Mountain Array",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum II",
+    "frequency": "34.2",
+    "acceptanceRate": "0.5767453180420465",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Bloomberg-Combination Sum II",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Article Views I",
+    "frequency": "34.2",
+    "acceptanceRate": "0.7714463570524588",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "topics": [
+      "Database"
+    ],
+    "id": "Bloomberg-Article Views I",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "34.2",
+    "acceptanceRate": "0.5160676713980508",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "Bloomberg-Zigzag Conversion",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "25.6",
+    "acceptanceRate": "0.4827377619034214",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Bloomberg-Word Break",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "H-Index",
+    "frequency": "25.6",
+    "acceptanceRate": "0.4028673680316871",
+    "link": "https://leetcode.com/problems/h-index",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "id": "Bloomberg-H-Index",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Linked Lists",
+    "frequency": "25.6",
+    "acceptanceRate": "0.6112533936845744",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Intersection of Two Linked Lists",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "25.6",
+    "acceptanceRate": "0.5809148778010127",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Bloomberg-String Compression",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "25.6",
+    "acceptanceRate": "0.7006534938999994",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Missing Number",
+    "company": "Bloomberg",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate Binary Search Tree",
+    "frequency": "65.7",
+    "acceptanceRate": "0.34380387886661157",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Validate Binary Search Tree",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "53.1",
+    "acceptanceRate": "0.4150331235291809",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Bloomberg-Jump Game II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "52.0",
+    "acceptanceRate": "0.7467467920803577",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Bloomberg-Combination Sum",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "52.0",
+    "acceptanceRate": "0.6758312948649591",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Sort Colors",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted List",
+    "frequency": "52.0",
+    "acceptanceRate": "0.5487080353115535",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Bloomberg-Remove Duplicates from Sorted List",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "50.8",
+    "acceptanceRate": "0.6385756647080152",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Bloomberg-Letter Combinations of a Phone Number",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicates from Sorted Array II",
+    "frequency": "49.5",
+    "acceptanceRate": "0.6290181029288465",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Remove Duplicates from Sorted Array II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "49.5",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Bloomberg-First Missing Positive",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "48.1",
+    "acceptanceRate": "0.6861931275088928",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Bloomberg-Integer to Roman",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "48.1",
+    "acceptanceRate": "0.29280131010169236",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Regular Expression Matching",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Swap Nodes in Pairs",
+    "frequency": "48.1",
+    "acceptanceRate": "0.6720136828647639",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Bloomberg-Swap Nodes in Pairs",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Depth of Binary Tree",
+    "frequency": "46.6",
+    "acceptanceRate": "0.7713813520613833",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Maximum Depth of Binary Tree",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Nth Node From End of List",
+    "frequency": "46.6",
+    "acceptanceRate": "0.48961030525634286",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Remove Nth Node From End of List",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Length of Last Word",
+    "frequency": "45.1",
+    "acceptanceRate": "0.5631926999044908",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "topics": [
+      "String"
+    ],
+    "id": "Bloomberg-Length of Last Word",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "frequency": "43.4",
+    "acceptanceRate": "0.6683774773521286",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Construct Binary Tree from Preorder and Inorder Traversal",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets II",
+    "frequency": "43.4",
+    "acceptanceRate": "0.595072748658621",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Bloomberg-Subsets II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "43.4",
+    "acceptanceRate": "0.5878974125922288",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Bloomberg-Edit Distance",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sudoku Solver",
+    "frequency": "43.4",
+    "acceptanceRate": "0.6390871778033164",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Sudoku Solver",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens",
+    "frequency": "41.5",
+    "acceptanceRate": "0.7281704967757537",
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Bloomberg-N-Queens",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicates from Sorted List II",
+    "frequency": "41.5",
+    "acceptanceRate": "0.4989080936318432",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Remove Duplicates from Sorted List II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": "41.5",
+    "acceptanceRate": "0.6168283891746636",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Binary Tree Zigzag Level Order Traversal",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Interval",
+    "frequency": "39.4",
+    "acceptanceRate": "0.43473628714178475",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "topics": [
+      "Array"
+    ],
+    "id": "Bloomberg-Insert Interval",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Symmetric Tree",
+    "frequency": "39.4",
+    "acceptanceRate": "0.5927867908424697",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Symmetric Tree",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations II",
+    "frequency": "39.4",
+    "acceptanceRate": "0.615917727605333",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ],
+    "id": "Bloomberg-Permutations II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Linked List II",
+    "frequency": "39.4",
+    "acceptanceRate": "0.49591736647057",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Bloomberg-Reverse Linked List II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Multiply Strings",
+    "frequency": "37.1",
+    "acceptanceRate": "0.4228941429852704",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Bloomberg-Multiply Strings",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array II",
+    "frequency": "34.5",
+    "acceptanceRate": "0.3887965146188378",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Bloomberg-Search in Rotated Sorted Array II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "34.5",
+    "acceptanceRate": "0.4535073359144813",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Bloomberg-Minimum Window Substring",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Tree Inorder Traversal",
+    "frequency": "34.5",
+    "acceptanceRate": "0.7858399541084903",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Binary Tree Inorder Traversal",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition List",
+    "frequency": "34.5",
+    "acceptanceRate": "0.5898677373641946",
+    "link": "https://leetcode.com/problems/partition-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Bloomberg-Partition List",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "34.5",
+    "acceptanceRate": "0.4814988999917213",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Bloomberg-Text Justification",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count and Say",
+    "frequency": "31.6",
+    "acceptanceRate": "0.6050656775612677",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "topics": [
+      "String"
+    ],
+    "id": "Bloomberg-Count and Say",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximal Rectangle",
+    "frequency": "31.6",
+    "acceptanceRate": "0.5370845822665518",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "id": "Bloomberg-Maximal Rectangle",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "frequency": "31.6",
+    "acceptanceRate": "0.7407934506434607",
+    "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Convert Sorted Array to Binary Search Tree",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combinations",
+    "frequency": "28.1",
+    "acceptanceRate": "0.7289648238875795",
+    "link": "https://leetcode.com/problems/combinations",
+    "topics": [
+      "Backtracking"
+    ],
+    "id": "Bloomberg-Combinations",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths II",
+    "frequency": "28.1",
+    "acceptanceRate": "0.43154364997722033",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Unique Paths II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode Ways",
+    "frequency": "24.0",
+    "acceptanceRate": "0.3653098525409497",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Bloomberg-Decode Ways",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Recover Binary Search Tree",
+    "frequency": "24.0",
+    "acceptanceRate": "0.5632431226781013",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Recover Binary Search Tree",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "frequency": "18.9",
+    "acceptanceRate": "0.6608200104533679",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Construct Binary Tree from Inorder and Postorder Traversal",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens II",
+    "frequency": "18.9",
+    "acceptanceRate": "0.7672955295381376",
+    "link": "https://leetcode.com/problems/n-queens-ii",
+    "topics": [
+      "Backtracking"
+    ],
+    "id": "Bloomberg-N-Queens II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees",
+    "frequency": "18.9",
+    "acceptanceRate": "0.6244520536210353",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Unique Binary Search Trees",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "18.9",
+    "acceptanceRate": "0.664814934885504",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Bloomberg-Minimum Path Sum",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "frequency": "18.9",
+    "acceptanceRate": "0.6445920225309912",
+    "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Convert Sorted List to Binary Search Tree",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees II",
+    "frequency": "12.6",
+    "acceptanceRate": "0.6039807221122715",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "topics": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Bloomberg-Unique Binary Search Trees II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix II",
+    "frequency": "12.6",
+    "acceptanceRate": "0.734312719680276",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Bloomberg-Spiral Matrix II",
+    "company": "Bloomberg",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "39.2",
+    "acceptanceRate": "0.4785432317744196",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Bloomberg-Simplify Path",
+    "company": "Bloomberg",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Substring with Concatenation of All Words",
+    "frequency": "24.5",
+    "acceptanceRate": "0.32997499702748073",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Bloomberg-Substring with Concatenation of All Words",
+    "company": "Bloomberg",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gray Code",
+    "frequency": "15.8",
+    "acceptanceRate": "0.6187231456205623",
+    "link": "https://leetcode.com/problems/gray-code",
+    "topics": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Bloomberg-Gray Code",
+    "company": "Bloomberg",
+    "timeframe": "all"
+  }
+]

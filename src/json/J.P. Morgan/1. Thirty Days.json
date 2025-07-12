@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Shuffle an Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5904289804092742",
+    "link": "https://leetcode.com/problems/shuffle-an-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  }
+]

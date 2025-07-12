@@ -1,0 +1,173 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5864115975603135",
+    "link": "https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements",
+    "topics": [
+      "Math",
+      "Combinatorics"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Amount of Money Robot Can Earn",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2869294095123486",
+    "link": "https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Frequencies of Shortest Supersequences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.15750981091687477",
+    "link": "https://leetcode.com/problems/frequencies-of-shortest-supersequences",
+    "topics": [
+      "Array",
+      "String",
+      "Bit Manipulation",
+      "Graph",
+      "Topological Sort",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Split Array into Consecutive Subsequences",
+    "frequency": "71.7",
+    "acceptanceRate": "0.51509167217278",
+    "link": "https://leetcode.com/problems/split-array-into-consecutive-subsequences",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "frequency": "71.7",
+    "acceptanceRate": "0.635667000789853",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Matchsticks to Square",
+    "frequency": "71.7",
+    "acceptanceRate": "0.4090607706354298",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "frequency": "62.2",
+    "acceptanceRate": "0.6026879026047842",
+    "link": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "62.2",
+    "acceptanceRate": "0.47604176540136595",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Duplicate Subtrees",
+    "frequency": "62.2",
+    "acceptanceRate": "0.6009115183707429",
+    "link": "https://leetcode.com/problems/find-duplicate-subtrees",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove K Digits",
+    "frequency": "62.2",
+    "acceptanceRate": "0.3494044611317414",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Performance of a Team",
+    "frequency": "62.2",
+    "acceptanceRate": "0.4751514702683188",
+    "link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Ways to Make a Fair Array",
+    "frequency": "62.2",
+    "acceptanceRate": "0.644989189340971",
+    "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "62.2",
+    "acceptanceRate": "0.6314704969299972",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  }
+]

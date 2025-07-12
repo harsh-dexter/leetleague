@@ -1,0 +1,34 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46230652939384476",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Tejas Networks-Add Two Numbers",
+    "company": "Tejas Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6573846807727424",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Tejas Networks-Majority Element",
+    "company": "Tejas Networks",
+    "timeframe": "more_than_180"
+  }
+]

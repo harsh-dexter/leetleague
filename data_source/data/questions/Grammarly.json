@@ -1,0 +1,424 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Repeated DNA Sequences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5132038237868195",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ],
+    "id": "Grammarly-Repeated DNA Sequences",
+    "company": "Grammarly",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6577292198640936",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Grammarly-Unique Paths",
+    "company": "Grammarly",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939526352897762",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Grammarly-Merge Intervals",
+    "company": "Grammarly",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Perfect Number",
+    "frequency": "84.1",
+    "acceptanceRate": "0.4489257450556843",
+    "link": "https://leetcode.com/problems/perfect-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Grammarly-Perfect Number",
+    "company": "Grammarly",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Vowel Spellchecker",
+    "frequency": "74.9",
+    "acceptanceRate": "0.5157619197411585",
+    "link": "https://leetcode.com/problems/vowel-spellchecker",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "Grammarly-Vowel Spellchecker",
+    "company": "Grammarly",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "74.9",
+    "acceptanceRate": "0.6232009887594286",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Grammarly-Number of Islands",
+    "company": "Grammarly",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "74.9",
+    "acceptanceRate": "0.5499191107870306",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Grammarly-Insert Delete GetRandom O(1)",
+    "company": "Grammarly",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "74.9",
+    "acceptanceRate": "0.7713293364055746",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Grammarly-Generate Parentheses",
+    "company": "Grammarly",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove All Adjacent Duplicates In String",
+    "frequency": "86.5",
+    "acceptanceRate": "0.715875534292082",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Grammarly-Remove All Adjacent Duplicates In String",
+    "company": "Grammarly",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "frequency": "86.5",
+    "acceptanceRate": "0.5960173343469628",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Grammarly-Remove All Adjacent Duplicates in String II",
+    "company": "Grammarly",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sqrt(x)",
+    "frequency": "86.5",
+    "acceptanceRate": "0.4037182691859833",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "Grammarly-Sqrt(x)",
+    "company": "Grammarly",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "81.3",
+    "acceptanceRate": "0.4283724679402803",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Grammarly-Search in Rotated Sorted Array",
+    "company": "Grammarly",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "65.4",
+    "acceptanceRate": "0.6510204648612313",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Grammarly-Trapping Rain Water",
+    "company": "Grammarly",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "65.4",
+    "acceptanceRate": "0.45267022679743557",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Grammarly-Word Search",
+    "company": "Grammarly",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "65.4",
+    "acceptanceRate": "0.535407459224679",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Grammarly-Climbing Stairs",
+    "company": "Grammarly",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Backspace String Compare",
+    "frequency": "70.0",
+    "acceptanceRate": "0.49481750190006574",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Grammarly-Backspace String Compare",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Break II",
+    "frequency": "70.0",
+    "acceptanceRate": "0.5364546303753539",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Grammarly-Word Break II",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "63.7",
+    "acceptanceRate": "0.48273866053327213",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Grammarly-Word Break",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Logger Rate Limiter",
+    "frequency": "55.0",
+    "acceptanceRate": "0.766103057053701",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ],
+    "id": "Grammarly-Logger Rate Limiter",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sum of Left Leaves",
+    "frequency": "55.0",
+    "acceptanceRate": "0.6165969923913787",
+    "link": "https://leetcode.com/problems/sum-of-left-leaves",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Grammarly-Sum of Left Leaves",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Set Mismatch",
+    "frequency": "55.0",
+    "acceptanceRate": "0.4500023166771268",
+    "link": "https://leetcode.com/problems/set-mismatch",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Grammarly-Set Mismatch",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Special Binary String",
+    "frequency": "55.0",
+    "acceptanceRate": "0.6351153721156971",
+    "link": "https://leetcode.com/problems/special-binary-string",
+    "topics": [
+      "String",
+      "Recursion"
+    ],
+    "id": "Grammarly-Special Binary String",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode the Slanted Ciphertext",
+    "frequency": "55.0",
+    "acceptanceRate": "0.4912737614129622",
+    "link": "https://leetcode.com/problems/decode-the-slanted-ciphertext",
+    "topics": [
+      "String",
+      "Simulation"
+    ],
+    "id": "Grammarly-Decode the Slanted Ciphertext",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Reverse Polish Notation",
+    "frequency": "55.0",
+    "acceptanceRate": "0.5495028146041505",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "topics": [
+      "Array",
+      "Math",
+      "Stack"
+    ],
+    "id": "Grammarly-Evaluate Reverse Polish Notation",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": "55.0",
+    "acceptanceRate": "0.679349409041436",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "id": "Grammarly-Implement Trie (Prefix Tree)",
+    "company": "Grammarly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Palindromes After Operations",
+    "frequency": "48.0",
+    "acceptanceRate": "0.4308371154815936",
+    "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Grammarly-Maximum Palindromes After Operations",
+    "company": "Grammarly",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Clone Graph",
+    "frequency": "48.0",
+    "acceptanceRate": "0.6238583023997237",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Grammarly-Clone Graph",
+    "company": "Grammarly",
+    "timeframe": "all"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5393995599470205",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "RBC-Spiral Matrix",
+    "company": "RBC",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778294007537794",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "RBC-Container With Most Water",
+    "company": "RBC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969358423186",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "RBC-Best Time to Buy and Sell Stock",
+    "company": "RBC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3584623679942094",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "RBC-Longest Palindromic Substring",
+    "company": "RBC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5096361073728852",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "RBC-Valid Palindrome",
+    "company": "RBC",
+    "timeframe": "more_than_180"
+  }
+]

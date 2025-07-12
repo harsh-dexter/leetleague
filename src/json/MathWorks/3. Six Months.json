@@ -1,0 +1,93 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4718257360539049",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sell Diminishing-Valued Colored Balls",
+    "frequency": "100.0",
+    "acceptanceRate": "0.29960670022229985",
+    "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shopping Offers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5190263317700597",
+    "link": "https://leetcode.com/problems/shopping-offers",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pass the Pillow",
+    "frequency": "65.2",
+    "acceptanceRate": "0.5655326422584914",
+    "link": "https://leetcode.com/problems/pass-the-pillow",
+    "topics": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Subarrays With Fixed Bounds",
+    "frequency": "65.2",
+    "acceptanceRate": "0.6940834976032579",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "frequency": "65.2",
+    "acceptanceRate": "0.5529070058590816",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "topics": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Divisible Triplet Sums",
+    "frequency": "65.2",
+    "acceptanceRate": "0.6780637725701113",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

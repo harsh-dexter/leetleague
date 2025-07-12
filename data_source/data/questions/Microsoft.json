@@ -1,0 +1,2862 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.557769945892896",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Microsoft-Two Sum",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "71.5",
+    "acceptanceRate": "0.3693616884072647",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Microsoft-Longest Substring Without Repeating Characters",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "71.5",
+    "acceptanceRate": "0.35846111456358737",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-Longest Palindromic Substring",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "66.3",
+    "acceptanceRate": "0.43814591586025275",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Microsoft-Median of Two Sorted Arrays",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "66.3",
+    "acceptanceRate": "0.4283722138743466",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Search in Rotated Sorted Array",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "66.3",
+    "acceptanceRate": "0.5778282574410597",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Microsoft-Container With Most Water",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "59.7",
+    "acceptanceRate": "0.7092882244410338",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Microsoft-Group Anagrams",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "frequency": "59.7",
+    "acceptanceRate": "0.5529070058590816",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "topics": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Microsoft-Minimum Edge Reversals So Every Node Is Reachable",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "59.7",
+    "acceptanceRate": "0.6486627416542443",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Microsoft-Roman to Integer",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "59.7",
+    "acceptanceRate": "0.46509224260700627",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Find Peak Element",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "59.7",
+    "acceptanceRate": "0.5354071257240982",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Microsoft-Climbing Stairs",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "59.7",
+    "acceptanceRate": "0.5525965778870825",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-Best Time to Buy and Sell Stock",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "59.7",
+    "acceptanceRate": "0.6280400947352507",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Move Zeroes",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "59.7",
+    "acceptanceRate": "0.4737765317407914",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Microsoft-Largest Rectangle in Histogram",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "K-th Smallest in Lexicographical Order",
+    "frequency": "59.7",
+    "acceptanceRate": "0.4590489282185661",
+    "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+    "topics": [
+      "Trie"
+    ],
+    "id": "Microsoft-K-th Smallest in Lexicographical Order",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "59.7",
+    "acceptanceRate": "0.4150331235291809",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Microsoft-Jump Game II",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Max Consecutive Ones",
+    "frequency": "59.7",
+    "acceptanceRate": "0.6248232110227296",
+    "link": "https://leetcode.com/problems/max-consecutive-ones",
+    "topics": [
+      "Array"
+    ],
+    "id": "Microsoft-Max Consecutive Ones",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Size Subarray Sum",
+    "frequency": "59.7",
+    "acceptanceRate": "0.4939108177647309",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Microsoft-Minimum Size Subarray Sum",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "50.3",
+    "acceptanceRate": "0.46383617781658143",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Microsoft-Gas Station",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Split Array Largest Sum",
+    "frequency": "50.3",
+    "acceptanceRate": "0.580995560819648",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ],
+    "id": "Microsoft-Split Array Largest Sum",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "50.3",
+    "acceptanceRate": "0.45476203786382785",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Microsoft-Subarray Sum Equals K",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "50.3",
+    "acceptanceRate": "0.6323636777340309",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Microsoft-Contains Duplicate",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5730954555475073",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "topics": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ],
+    "id": "Microsoft-Minimum Operations to Reduce an Integer to 0",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Frequency of the Most Frequent Element",
+    "frequency": "50.3",
+    "acceptanceRate": "0.44102849589147924",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ],
+    "id": "Microsoft-Frequency of the Most Frequent Element",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "50.3",
+    "acceptanceRate": "0.6304374335039493",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Microsoft-Reverse Nodes in k-Group",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Linked Lists",
+    "frequency": "50.3",
+    "acceptanceRate": "0.6112533936845744",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Intersection of Two Linked Lists",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "50.3",
+    "acceptanceRate": "0.7790164518819447",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Microsoft-Rotate Image",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "50.3",
+    "acceptanceRate": "0.47604171417820246",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "Microsoft-Sliding Window Maximum",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5264825291581084",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Find Minimum in Rotated Sorted Array",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Recover Binary Search Tree",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5632431226781013",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Recover Binary Search Tree",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "50.3",
+    "acceptanceRate": "0.42322821704746877",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Microsoft-Valid Parentheses",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4949613694103202",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Microsoft-Longest Substring with At Most K Distinct Characters",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "50.3",
+    "acceptanceRate": "0.47040837635488375",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Microsoft-Longest Consecutive Sequence",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zero Array Transformation III",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5538003960577724",
+    "link": "https://leetcode.com/problems/zero-array-transformation-iii",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Microsoft-Zero Array Transformation III",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum II",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5767453180420465",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Microsoft-Combination Sum II",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Difference Between Even and Odd Frequency II",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4928720842342105",
+    "link": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii",
+    "topics": [
+      "String",
+      "Sliding Window",
+      "Enumeration",
+      "Prefix Sum"
+    ],
+    "id": "Microsoft-Maximum Difference Between Even and Odd Frequency II",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Next Greater Element I",
+    "frequency": "50.3",
+    "acceptanceRate": "0.7451247376157817",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Microsoft-Next Greater Element I",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Strings",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5190382397212994",
+    "link": "https://leetcode.com/problems/add-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Microsoft-Add Strings",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximal Rectangle",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5370845822665518",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "id": "Microsoft-Maximal Rectangle",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "50.3",
+    "acceptanceRate": "0.3707095218721556",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Microsoft-3Sum",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Difference Between Even and Odd Frequency I",
+    "frequency": "50.3",
+    "acceptanceRate": "0.613683469927171",
+    "link": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Microsoft-Maximum Difference Between Even and Odd Frequency I",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Search Insert Position",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4901241638473952",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Search Insert Position",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "50.3",
+    "acceptanceRate": "0.6510192988277056",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Microsoft-Trapping Rain Water",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": "50.3",
+    "acceptanceRate": "0.7059658947038693",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Binary Tree Level Order Traversal",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Transform Array to All Equal Elements",
+    "frequency": "50.3",
+    "acceptanceRate": "0.315568937398068",
+    "link": "https://leetcode.com/problems/transform-array-to-all-equal-elements",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Microsoft-Transform Array to All Equal Elements",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "50.3",
+    "acceptanceRate": "0.45214558519032444",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Microsoft-LRU Cache",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4305772664998175",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Next Permutation",
+    "company": "Microsoft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Single Element in a Sorted Array",
+    "frequency": "73.8",
+    "acceptanceRate": "0.5920694527750138",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Single Element in a Sorted Array",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Create Hello World Function",
+    "frequency": "64.4",
+    "acceptanceRate": "0.8212977812647828",
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "topics": [],
+    "id": "Microsoft-Create Hello World Function",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "61.9",
+    "acceptanceRate": "0.5209978267392302",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-Maximum Subarray",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "61.9",
+    "acceptanceRate": "0.623199409488447",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Microsoft-Number of Islands",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Recyclable and Low Fat Products",
+    "frequency": "59.0",
+    "acceptanceRate": "0.8925494047235137",
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "topics": [
+      "Database"
+    ],
+    "id": "Microsoft-Recyclable and Low Fat Products",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "59.0",
+    "acceptanceRate": "0.4622507658063209",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Microsoft-Add Two Numbers",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "59.0",
+    "acceptanceRate": "0.4939526774846352",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Microsoft-Merge Intervals",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "59.0",
+    "acceptanceRate": "0.5291951450619177",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Microsoft-Merge Sorted Array",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "55.8",
+    "acceptanceRate": "0.6684091757223755",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Microsoft-Merge Two Sorted Lists",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "55.8",
+    "acceptanceRate": "0.6758312948649591",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Microsoft-Sort Colors",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "55.8",
+    "acceptanceRate": "0.43021372799993496",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Rotate Array",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "55.8",
+    "acceptanceRate": "0.3030891979001635",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "Microsoft-Reverse Integer",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Single Number",
+    "frequency": "51.9",
+    "acceptanceRate": "0.7596882403268375",
+    "link": "https://leetcode.com/problems/single-number",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "id": "Microsoft-Single Number",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "51.9",
+    "acceptanceRate": "0.5807264910173595",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Happy Number",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Strings Alternately",
+    "frequency": "51.9",
+    "acceptanceRate": "0.8222964639886224",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Microsoft-Merge Strings Alternately",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Arrays",
+    "frequency": "47.2",
+    "acceptanceRate": "0.7647429499559792",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Microsoft-Intersection of Two Arrays",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "47.2",
+    "acceptanceRate": "0.49067279348014564",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Koko Eating Bananas",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Memoize",
+    "frequency": "47.2",
+    "acceptanceRate": "0.6398660382039196",
+    "link": "https://leetcode.com/problems/memoize",
+    "topics": [],
+    "id": "Microsoft-Memoize",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix",
+    "frequency": "47.2",
+    "acceptanceRate": "0.5228957258337302",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "Microsoft-Search a 2D Matrix",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Linked List",
+    "frequency": "47.2",
+    "acceptanceRate": "0.558594499890269",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Microsoft-Palindrome Linked List",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator",
+    "frequency": "47.2",
+    "acceptanceRate": "0.4558962794405194",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Microsoft-Basic Calculator",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Serialize and Deserialize Binary Tree",
+    "frequency": "47.2",
+    "acceptanceRate": "0.5896942310282117",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "topics": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Serialize and Deserialize Binary Tree",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "47.2",
+    "acceptanceRate": "0.3702317602905621",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Microsoft-Pow(x, n)",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "47.2",
+    "acceptanceRate": "0.6070883209364217",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Microsoft-Set Matrix Zeroes",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "47.2",
+    "acceptanceRate": "0.4281180881873274",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "Microsoft-Word Ladder",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "47.2",
+    "acceptanceRate": "0.6861931275088928",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Microsoft-Integer to Roman",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "47.2",
+    "acceptanceRate": "0.808795565390318",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Microsoft-Subsets",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "47.2",
+    "acceptanceRate": "0.7920654119580827",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Microsoft-Reverse Linked List",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "47.2",
+    "acceptanceRate": "0.5922454691837191",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Microsoft-Palindrome Number",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "47.2",
+    "acceptanceRate": "0.6385756647080152",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Microsoft-Letter Combinations of a Phone Number",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "47.2",
+    "acceptanceRate": "0.6035551112882038",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Remove Duplicates from Sorted Array",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": "41.2",
+    "acceptanceRate": "0.6168283891746636",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Binary Tree Zigzag Level Order Traversal",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "41.2",
+    "acceptanceRate": "0.8066011364163758",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Microsoft-Permutations",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Tic-Tac-Toe",
+    "frequency": "41.2",
+    "acceptanceRate": "0.5860139660881724",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Microsoft-Design Tic-Tac-Toe",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "41.2",
+    "acceptanceRate": "0.5230495865734553",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-House Robber",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "41.2",
+    "acceptanceRate": "0.6574028018936169",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Microsoft-Majority Element",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "41.2",
+    "acceptanceRate": "0.5393973501075863",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Microsoft-Spiral Matrix",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "41.2",
+    "acceptanceRate": "0.6777994606301018",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Microsoft-Product of Array Except Self",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Big Countries",
+    "frequency": "41.2",
+    "acceptanceRate": "0.6818920862237663",
+    "link": "https://leetcode.com/problems/big-countries",
+    "topics": [
+      "Database"
+    ],
+    "id": "Microsoft-Big Countries",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sudoku Solver",
+    "frequency": "41.2",
+    "acceptanceRate": "0.6390871778033164",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ],
+    "id": "Microsoft-Sudoku Solver",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Depth of Binary Tree",
+    "frequency": "41.2",
+    "acceptanceRate": "0.7713813520613833",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Maximum Depth of Binary Tree",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Online Stock Span",
+    "frequency": "41.2",
+    "acceptanceRate": "0.673753104661803",
+    "link": "https://leetcode.com/problems/online-stock-span",
+    "topics": [
+      "Stack",
+      "Design",
+      "Monotonic Stack",
+      "Data Stream"
+    ],
+    "id": "Microsoft-Online Stock Span",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "41.2",
+    "acceptanceRate": "0.6797700833982673",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Microsoft-Kth Largest Element in an Array",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "41.2",
+    "acceptanceRate": "0.4682873183580639",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Find First and Last Position of Element in Sorted Array",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "41.2",
+    "acceptanceRate": "0.4535073359144813",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Microsoft-Minimum Window Substring",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "41.2",
+    "acceptanceRate": "0.49234264912256587",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Microsoft-Course Schedule",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String to Integer (atoi)",
+    "frequency": "41.2",
+    "acceptanceRate": "0.19229423495277723",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "topics": [
+      "String"
+    ],
+    "id": "Microsoft-String to Integer (atoi)",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Assign Cookies",
+    "frequency": "41.2",
+    "acceptanceRate": "0.5387631217739285",
+    "link": "https://leetcode.com/problems/assign-cookies",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Microsoft-Assign Cookies",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "41.2",
+    "acceptanceRate": "0.7713286717803378",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Microsoft-Generate Parentheses",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "41.2",
+    "acceptanceRate": "0.4827377619034214",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Microsoft-Word Break",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Ransom Note",
+    "frequency": "41.2",
+    "acceptanceRate": "0.6452381792512412",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Microsoft-Ransom Note",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sqrt(x)",
+    "frequency": "41.2",
+    "acceptanceRate": "0.4037178718652037",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Sqrt(x)",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens",
+    "frequency": "41.2",
+    "acceptanceRate": "0.7281704967757537",
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Microsoft-N-Queens",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix II",
+    "frequency": "32.8",
+    "acceptanceRate": "0.5522249104948518",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Matrix"
+    ],
+    "id": "Microsoft-Search a 2D Matrix II",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition Equal Subset Sum",
+    "frequency": "32.8",
+    "acceptanceRate": "0.4844385362807152",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-Partition Equal Subset Sum",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "32.8",
+    "acceptanceRate": "0.5644509869283207",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Microsoft-Min Stack",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Increasing Triplet Subsequence",
+    "frequency": "32.8",
+    "acceptanceRate": "0.3912499292176056",
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Microsoft-Increasing Triplet Subsequence",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Combine Two Tables",
+    "frequency": "32.8",
+    "acceptanceRate": "0.7807998631717663",
+    "link": "https://leetcode.com/problems/combine-two-tables",
+    "topics": [
+      "Database"
+    ],
+    "id": "Microsoft-Combine Two Tables",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Two Integers",
+    "frequency": "32.8",
+    "acceptanceRate": "0.8812227852771523",
+    "link": "https://leetcode.com/problems/add-two-integers",
+    "topics": [
+      "Math"
+    ],
+    "id": "Microsoft-Add Two Integers",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Implement Stack using Queues",
+    "frequency": "32.8",
+    "acceptanceRate": "0.6733897915056893",
+    "link": "https://leetcode.com/problems/implement-stack-using-queues",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "id": "Microsoft-Implement Stack using Queues",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sum of All Subset XOR Totals",
+    "frequency": "32.8",
+    "acceptanceRate": "0.9007097408541754",
+    "link": "https://leetcode.com/problems/sum-of-all-subset-xor-totals",
+    "topics": [
+      "Array",
+      "Math",
+      "Backtracking",
+      "Bit Manipulation",
+      "Combinatorics",
+      "Enumeration"
+    ],
+    "id": "Microsoft-Sum of All Subset XOR Totals",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "32.8",
+    "acceptanceRate": "0.38219020113793045",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Microsoft-4Sum",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Single-Threaded CPU",
+    "frequency": "32.8",
+    "acceptanceRate": "0.4648191183347267",
+    "link": "https://leetcode.com/problems/single-threaded-cpu",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Microsoft-Single-Threaded CPU",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Value of an Ordered Triplet II",
+    "frequency": "32.8",
+    "acceptanceRate": "0.5666629551274913",
+    "link": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii",
+    "topics": [
+      "Array"
+    ],
+    "id": "Microsoft-Maximum Value of an Ordered Triplet II",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "32.8",
+    "acceptanceRate": "0.5878974125922288",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-Edit Distance",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "32.8",
+    "acceptanceRate": "0.567741907864408",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Microsoft-Merge k Sorted Lists",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Can Place Flowers",
+    "frequency": "32.8",
+    "acceptanceRate": "0.2889927467287468",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Microsoft-Can Place Flowers",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "32.8",
+    "acceptanceRate": "0.7467468656021409",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Microsoft-Combination Sum",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Set Mismatch",
+    "frequency": "32.8",
+    "acceptanceRate": "0.45000139000861805",
+    "link": "https://leetcode.com/problems/set-mismatch",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Microsoft-Set Mismatch",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate II",
+    "frequency": "32.8",
+    "acceptanceRate": "0.4904986450077176",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "id": "Microsoft-Contains Duplicate II",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Restore IP Addresses",
+    "frequency": "32.8",
+    "acceptanceRate": "0.531583393083398",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "topics": [
+      "String",
+      "Backtracking"
+    ],
+    "id": "Microsoft-Restore IP Addresses",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Is Subsequence",
+    "frequency": "32.8",
+    "acceptanceRate": "0.4838264296140033",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-Is Subsequence",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Daily Temperatures",
+    "frequency": "32.8",
+    "acceptanceRate": "0.6736502939048284",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Microsoft-Daily Temperatures",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "frequency": "32.8",
+    "acceptanceRate": "0.6831069193376744",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Lowest Common Ancestor of a Binary Search Tree",
+    "company": "Microsoft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "67.6",
+    "acceptanceRate": "0.4548305595040032",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Microsoft-Longest Common Prefix",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "52.4",
+    "acceptanceRate": "0.5191327244735617",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Microsoft-Reverse Words in a String",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Element",
+    "frequency": "50.0",
+    "acceptanceRate": "0.600316358048653",
+    "link": "https://leetcode.com/problems/remove-element",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Remove Element",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "50.0",
+    "acceptanceRate": "0.45266926269047814",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Microsoft-Word Search",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Candy",
+    "frequency": "47.2",
+    "acceptanceRate": "0.46699733928982035",
+    "link": "https://leetcode.com/problems/candy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Microsoft-Candy",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "44.1",
+    "acceptanceRate": "0.5342350291611208",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Microsoft-Course Schedule II",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "44.1",
+    "acceptanceRate": "0.521416981510797",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Microsoft-Meeting Rooms II",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "44.1",
+    "acceptanceRate": "0.449716000865219",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "Microsoft-Find the Index of the First Occurrence in a String",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "44.1",
+    "acceptanceRate": "0.39479197867291327",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Microsoft-Jump Game",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate Binary Search Tree",
+    "frequency": "40.4",
+    "acceptanceRate": "0.34380387886661157",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Validate Binary Search Tree",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "40.4",
+    "acceptanceRate": "0.566185183855214",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Microsoft-Rotting Oranges",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "36.0",
+    "acceptanceRate": "0.29280131010169236",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "id": "Microsoft-Regular Expression Matching",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Encode and Decode Strings",
+    "frequency": "36.0",
+    "acceptanceRate": "0.4969849870512122",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings",
+    "topics": [
+      "Array",
+      "String",
+      "Design"
+    ],
+    "id": "Microsoft-Encode and Decode Strings",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "36.0",
+    "acceptanceRate": "0.6666090584832225",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Microsoft-Valid Anagram",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "36.0",
+    "acceptanceRate": "0.6675499347216417",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Lowest Common Ancestor of a Binary Tree",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "36.0",
+    "acceptanceRate": "0.664814934885504",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Microsoft-Minimum Path Sum",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "36.0",
+    "acceptanceRate": "0.4685795790862557",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Microsoft-Isomorphic Strings",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "36.0",
+    "acceptanceRate": "0.5327816407313548",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "id": "Microsoft-Find Median from Data Stream",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock III",
+    "frequency": "36.0",
+    "acceptanceRate": "0.5112087693447603",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-Best Time to Buy and Sell Stock III",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "30.3",
+    "acceptanceRate": "0.6577283527258664",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Microsoft-Unique Paths",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": "30.3",
+    "acceptanceRate": "0.41224270953366093",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Binary Tree Maximum Path Sum",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Nth Node From End of List",
+    "frequency": "30.3",
+    "acceptanceRate": "0.4896103765491196",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Remove Nth Node From End of List",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "30.3",
+    "acceptanceRate": "0.5160676713980508",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "Microsoft-Zigzag Conversion",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Copy List with Random Pointer",
+    "frequency": "30.3",
+    "acceptanceRate": "0.6053669280147949",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "topics": [
+      "Hash Table",
+      "Linked List"
+    ],
+    "id": "Microsoft-Copy List with Random Pointer",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Consecutive Ones III",
+    "frequency": "30.3",
+    "acceptanceRate": "0.6593934025174093",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Microsoft-Max Consecutive Ones III",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Reverse Polish Notation",
+    "frequency": "30.3",
+    "acceptanceRate": "0.5495024017596329",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "topics": [
+      "Array",
+      "Math",
+      "Stack"
+    ],
+    "id": "Microsoft-Evaluate Reverse Polish Notation",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Linked List Cycle",
+    "frequency": "30.3",
+    "acceptanceRate": "0.5257062886353645",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Linked List Cycle",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Article Views I",
+    "frequency": "22.6",
+    "acceptanceRate": "0.7714463570524588",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "topics": [
+      "Database"
+    ],
+    "id": "Microsoft-Article Views I",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "22.6",
+    "acceptanceRate": "0.7006534938999994",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Microsoft-Missing Number",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Tree Inorder Traversal",
+    "frequency": "22.6",
+    "acceptanceRate": "0.7858399541084903",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Binary Tree Inorder Traversal",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "frequency": "22.6",
+    "acceptanceRate": "0.6340213036141924",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Two Sum II - Input Array Is Sorted",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "22.6",
+    "acceptanceRate": "0.6950025067480458",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Microsoft-Best Time to Buy and Sell Stock II",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "22.6",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Microsoft-First Missing Positive",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Multiply Strings",
+    "frequency": "22.6",
+    "acceptanceRate": "0.4228941429852704",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Microsoft-Multiply Strings",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Two Integers",
+    "frequency": "22.6",
+    "acceptanceRate": "0.18396975085033054",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "id": "Microsoft-Divide Two Integers",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "22.6",
+    "acceptanceRate": "0.6227675793740958",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Microsoft-Valid Sudoku",
+    "company": "Microsoft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Swap Nodes in Pairs",
+    "frequency": "50.6",
+    "acceptanceRate": "0.6720136828647639",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Microsoft-Swap Nodes in Pairs",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "frequency": "47.7",
+    "acceptanceRate": "0.6683774773521286",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Construct Binary Tree from Preorder and Inorder Traversal",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Linked List II",
+    "frequency": "46.7",
+    "acceptanceRate": "0.49591736647057",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Microsoft-Reverse Linked List II",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "45.6",
+    "acceptanceRate": "0.3631311456770452",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "id": "Microsoft-Longest Valid Parentheses",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "45.6",
+    "acceptanceRate": "0.4785432317744196",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Microsoft-Simplify Path",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Binary",
+    "frequency": "44.4",
+    "acceptanceRate": "0.5567701348180015",
+    "link": "https://leetcode.com/problems/add-binary",
+    "topics": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ],
+    "id": "Microsoft-Add Binary",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Plus One",
+    "frequency": "43.1",
+    "acceptanceRate": "0.47547621095134496",
+    "link": "https://leetcode.com/problems/plus-one",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Microsoft-Plus One",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array II",
+    "frequency": "41.7",
+    "acceptanceRate": "0.3887965146188378",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Microsoft-Search in Rotated Sorted Array II",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "40.2",
+    "acceptanceRate": "0.4814988999917213",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Microsoft-Text Justification",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode Ways",
+    "frequency": "40.2",
+    "acceptanceRate": "0.36531001082332054",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-Decode Ways",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Wildcard Matching",
+    "frequency": "40.2",
+    "acceptanceRate": "0.2989833857244126",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ],
+    "id": "Microsoft-Wildcard Matching",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate List",
+    "frequency": "38.6",
+    "acceptanceRate": "0.3994476047394924",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Rotate List",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicates from Sorted List II",
+    "frequency": "38.6",
+    "acceptanceRate": "0.4989080936318432",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Remove Duplicates from Sorted List II",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Same Tree",
+    "frequency": "36.9",
+    "acceptanceRate": "0.651268811570624",
+    "link": "https://leetcode.com/problems/same-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Same Tree",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets II",
+    "frequency": "36.9",
+    "acceptanceRate": "0.595072748658621",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Microsoft-Subsets II",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "frequency": "36.9",
+    "acceptanceRate": "0.7407934506434607",
+    "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Convert Sorted Array to Binary Search Tree",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Interval",
+    "frequency": "36.9",
+    "acceptanceRate": "0.43473628714178475",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "topics": [
+      "Array"
+    ],
+    "id": "Microsoft-Insert Interval",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicates from Sorted Array II",
+    "frequency": "36.9",
+    "acceptanceRate": "0.6290183995851407",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Remove Duplicates from Sorted Array II",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted List",
+    "frequency": "36.9",
+    "acceptanceRate": "0.5487080353115535",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Microsoft-Remove Duplicates from Sorted List",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Length of Last Word",
+    "frequency": "32.8",
+    "acceptanceRate": "0.5631926999044908",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "topics": [
+      "String"
+    ],
+    "id": "Microsoft-Length of Last Word",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combinations",
+    "frequency": "32.8",
+    "acceptanceRate": "0.7289648238875795",
+    "link": "https://leetcode.com/problems/combinations",
+    "topics": [
+      "Backtracking"
+    ],
+    "id": "Microsoft-Combinations",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "frequency": "32.8",
+    "acceptanceRate": "0.6608200104533679",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Construct Binary Tree from Inorder and Postorder Traversal",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interleaving String",
+    "frequency": "30.4",
+    "acceptanceRate": "0.4217918033968859",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Microsoft-Interleaving String",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Symmetric Tree",
+    "frequency": "30.4",
+    "acceptanceRate": "0.5927867908424697",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Symmetric Tree",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations II",
+    "frequency": "30.4",
+    "acceptanceRate": "0.615917727605333",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ],
+    "id": "Microsoft-Permutations II",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count and Say",
+    "frequency": "27.7",
+    "acceptanceRate": "0.6050656775612677",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "topics": [
+      "String"
+    ],
+    "id": "Microsoft-Count and Say",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition List",
+    "frequency": "27.7",
+    "acceptanceRate": "0.5898677373641946",
+    "link": "https://leetcode.com/problems/partition-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Microsoft-Partition List",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix II",
+    "frequency": "27.7",
+    "acceptanceRate": "0.734312719680276",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Microsoft-Spiral Matrix II",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths II",
+    "frequency": "27.7",
+    "acceptanceRate": "0.43154364997722033",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Microsoft-Unique Paths II",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Substring with Concatenation of All Words",
+    "frequency": "24.5",
+    "acceptanceRate": "0.32997499702748073",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Microsoft-Substring with Concatenation of All Words",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "frequency": "24.5",
+    "acceptanceRate": "0.6445920225309912",
+    "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Convert Sorted List to Binary Search Tree",
+    "company": "Microsoft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum Closest",
+    "frequency": "31.1",
+    "acceptanceRate": "0.468869600214817",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Microsoft-3Sum Closest",
+    "company": "Microsoft",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees",
+    "frequency": "21.0",
+    "acceptanceRate": "0.6244520536210353",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Unique Binary Search Trees",
+    "company": "Microsoft",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens II",
+    "frequency": "21.0",
+    "acceptanceRate": "0.7672955295381376",
+    "link": "https://leetcode.com/problems/n-queens-ii",
+    "topics": [
+      "Backtracking"
+    ],
+    "id": "Microsoft-N-Queens II",
+    "company": "Microsoft",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees II",
+    "frequency": "13.2",
+    "acceptanceRate": "0.6039807221122715",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "topics": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Microsoft-Unique Binary Search Trees II",
+    "company": "Microsoft",
+    "timeframe": "all"
+  }
+]

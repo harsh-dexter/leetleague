@@ -1,0 +1,176 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7920658456913696",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "87.2",
+    "acceptanceRate": "0.6232000655644069",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Implement Queue using Stacks",
+    "frequency": "87.2",
+    "acceptanceRate": "0.6806080152077176",
+    "link": "https://leetcode.com/problems/implement-queue-using-stacks",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "87.2",
+    "acceptanceRate": "0.5577700472136351",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "87.2",
+    "acceptanceRate": "0.5342350029047974",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "87.2",
+    "acceptanceRate": "0.4232284180792206",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Circular Queue",
+    "frequency": "87.2",
+    "acceptanceRate": "0.5264411843359923",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "87.2",
+    "acceptanceRate": "0.5291955199854382",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Nth Node From End of List",
+    "frequency": "87.2",
+    "acceptanceRate": "0.4896110894757927",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "87.2",
+    "acceptanceRate": "0.6574031216508412",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count the Number of Fair Pairs",
+    "frequency": "87.2",
+    "acceptanceRate": "0.5291637303813359",
+    "link": "https://leetcode.com/problems/count-the-number-of-fair-pairs",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "87.2",
+    "acceptanceRate": "0.45214692308898563",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "87.2",
+    "acceptanceRate": "0.6510201042238819",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "87.2",
+    "acceptanceRate": "0.7790164128488621",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  }
+]

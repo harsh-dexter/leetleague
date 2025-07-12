@@ -1,0 +1,223 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2928017990801526",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Wildcard Matching",
+    "frequency": "91.5",
+    "acceptanceRate": "0.29898326214211846",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicate Letters",
+    "frequency": "79.5",
+    "acceptanceRate": "0.5135095841552992",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "79.5",
+    "acceptanceRate": "0.39479233995926627",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "79.5",
+    "acceptanceRate": "0.4150331864826324",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reorganize String",
+    "frequency": "79.5",
+    "acceptanceRate": "0.5619634145417838",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens",
+    "frequency": "79.5",
+    "acceptanceRate": "0.728171156310315",
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "79.5",
+    "acceptanceRate": "0.7092882846587727",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Rotate String",
+    "frequency": "79.5",
+    "acceptanceRate": "0.6393953917504719",
+    "link": "https://leetcode.com/problems/rotate-string",
+    "topics": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "79.5",
+    "acceptanceRate": "0.7713287456277772",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "79.5",
+    "acceptanceRate": "0.412803811932624",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "79.5",
+    "acceptanceRate": "0.4939523849309626",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "79.5",
+    "acceptanceRate": "0.6232000188963122",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Replace Elements with Greatest Element on Right Side",
+    "frequency": "79.5",
+    "acceptanceRate": "0.715038886093751",
+    "link": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "79.5",
+    "acceptanceRate": "0.3693617406358928",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "79.5",
+    "acceptanceRate": "0.6510198658123436",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "79.5",
+    "acceptanceRate": "0.5354070723436247",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "79.5",
+    "acceptanceRate": "0.5525963419027548",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

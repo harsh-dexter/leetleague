@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Block Placement Queries",
+    "frequency": "100.0",
+    "acceptanceRate": "0.16889906973490942",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "89.7",
+    "acceptanceRate": "0.5160681481756035",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ]
+  }
+]

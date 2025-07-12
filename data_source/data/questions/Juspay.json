@@ -1,0 +1,175 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Operations on Tree",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43368293750912235",
+    "link": "https://leetcode.com/problems/operations-on-tree",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design"
+    ],
+    "id": "Juspay-Operations on Tree",
+    "company": "Juspay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Color Value in a Directed Graph",
+    "frequency": "87.7",
+    "acceptanceRate": "0.5767908345021908",
+    "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+    "topics": [
+      "Hash Table",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Counting"
+    ],
+    "id": "Juspay-Largest Color Value in a Directed Graph",
+    "company": "Juspay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Path in a Weighted Tree",
+    "frequency": "87.7",
+    "acceptanceRate": "0.3218752658895601",
+    "link": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+    "topics": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "Juspay-Shortest Path in a Weighted Tree",
+    "company": "Juspay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "87.7",
+    "acceptanceRate": "0.47604117337050583",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "Juspay-Sliding Window Maximum",
+    "company": "Juspay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Subsequence With Decreasing Adjacent Difference",
+    "frequency": "100.0",
+    "acceptanceRate": "0.14664225321772847",
+    "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Juspay-Longest Subsequence With Decreasing Adjacent Difference",
+    "company": "Juspay",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Cycle in a Graph",
+    "frequency": "95.1",
+    "acceptanceRate": "0.4980014754946761",
+    "link": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Juspay-Longest Cycle in a Graph",
+    "company": "Juspay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Closest Node to Given Two Nodes",
+    "frequency": "88.7",
+    "acceptanceRate": "0.5285199349714834",
+    "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+    "topics": [
+      "Depth-First Search",
+      "Graph"
+    ],
+    "id": "Juspay-Find Closest Node to Given Two Nodes",
+    "company": "Juspay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "73.4",
+    "acceptanceRate": "0.6070892209392098",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Juspay-Set Matrix Zeroes",
+    "company": "Juspay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Node With Highest Edge Score",
+    "frequency": "73.4",
+    "acceptanceRate": "0.48455738418038136",
+    "link": "https://leetcode.com/problems/node-with-highest-edge-score",
+    "topics": [
+      "Hash Table",
+      "Graph"
+    ],
+    "id": "Juspay-Node With Highest Edge Score",
+    "company": "Juspay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "73.4",
+    "acceptanceRate": "0.3693615972153291",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Juspay-Longest Substring Without Repeating Characters",
+    "company": "Juspay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "53.9",
+    "acceptanceRate": "0.42812118037093305",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "Juspay-Word Ladder",
+    "company": "Juspay",
+    "timeframe": "all"
+  }
+]

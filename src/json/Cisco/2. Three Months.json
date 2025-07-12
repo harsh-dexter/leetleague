@@ -1,0 +1,99 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Implement Router",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2178262846748522",
+    "link": "https://leetcode.com/problems/implement-router",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "79.5",
+    "acceptanceRate": "0.5230498170963667",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "73.1",
+    "acceptanceRate": "0.35846127081875356",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Lucky Numbers in a Matrix",
+    "frequency": "73.1",
+    "acceptanceRate": "0.7990618901629731",
+    "link": "https://leetcode.com/problems/lucky-numbers-in-a-matrix",
+    "topics": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "64.1",
+    "acceptanceRate": "0.7790166005161556",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fizz Buzz",
+    "frequency": "64.1",
+    "acceptanceRate": "0.7437057263879774",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "64.1",
+    "acceptanceRate": "0.36936169499803667",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Linked List Cycle",
+    "frequency": "64.1",
+    "acceptanceRate": "0.5257064695869657",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  }
+]

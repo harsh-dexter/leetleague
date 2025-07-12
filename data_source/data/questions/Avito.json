@@ -1,0 +1,143 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5291965716793704",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Avito-Merge Sorted Array",
+    "company": "Avito",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum of Subarray Minimums",
+    "frequency": "100.0",
+    "acceptanceRate": "0.37623390043456567",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Avito-Sum of Subarray Minimums",
+    "company": "Avito",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6456602561882786",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Avito-Top K Frequent Elements",
+    "company": "Avito",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "83.8",
+    "acceptanceRate": "0.46225219430543096",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Avito-Add Two Numbers",
+    "company": "Avito",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Strings",
+    "frequency": "76.0",
+    "acceptanceRate": "0.519038984013859",
+    "link": "https://leetcode.com/problems/add-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Avito-Add Strings",
+    "company": "Avito",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "62.7",
+    "acceptanceRate": "0.771329050951006",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Avito-Generate Parentheses",
+    "company": "Avito",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add to Array-Form of Integer",
+    "frequency": "55.0",
+    "acceptanceRate": "0.4507483394218717",
+    "link": "https://leetcode.com/problems/add-to-array-form-of-integer",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Avito-Add to Array-Form of Integer",
+    "company": "Avito",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "55.0",
+    "acceptanceRate": "0.5577703934776272",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Avito-Two Sum",
+    "company": "Avito",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "55.0",
+    "acceptanceRate": "0.6797705147748462",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Avito-Kth Largest Element in an Array",
+    "company": "Avito",
+    "timeframe": "more_than_180"
+  }
+]

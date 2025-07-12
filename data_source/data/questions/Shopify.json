@@ -1,0 +1,129 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4521475035659106",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Shopify-LRU Cache",
+    "company": "Shopify",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Walking Robot Simulation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5823045930701047",
+    "link": "https://leetcode.com/problems/walking-robot-simulation",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ],
+    "id": "Shopify-Walking Robot Simulation",
+    "company": "Shopify",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Encode and Decode TinyURL",
+    "frequency": "63.1",
+    "acceptanceRate": "0.8636236617619221",
+    "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ],
+    "id": "Shopify-Encode and Decode TinyURL",
+    "company": "Shopify",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design In-Memory File System",
+    "frequency": "74.3",
+    "acceptanceRate": "0.4816948941663167",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie",
+      "Sorting"
+    ],
+    "id": "Shopify-Design In-Memory File System",
+    "company": "Shopify",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design a Text Editor",
+    "frequency": "65.6",
+    "acceptanceRate": "0.47138071447136626",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "topics": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ],
+    "id": "Shopify-Design a Text Editor",
+    "company": "Shopify",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Users With Valid E-Mails",
+    "frequency": "65.6",
+    "acceptanceRate": "0.44116255942563304",
+    "link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+    "topics": [
+      "Database"
+    ],
+    "id": "Shopify-Find Users With Valid E-Mails",
+    "company": "Shopify",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Tic-Tac-Toe",
+    "frequency": "65.6",
+    "acceptanceRate": "0.5860157935441853",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Shopify-Design Tic-Tac-Toe",
+    "company": "Shopify",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Walls and Gates",
+    "frequency": "65.6",
+    "acceptanceRate": "0.6296793327762211",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Shopify-Walls and Gates",
+    "company": "Shopify",
+    "timeframe": "more_than_180"
+  }
+]

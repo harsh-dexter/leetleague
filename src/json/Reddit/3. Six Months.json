@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Logger Rate Limiter",
+    "frequency": "100.0",
+    "acceptanceRate": "0.766103057053701",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  }
+]

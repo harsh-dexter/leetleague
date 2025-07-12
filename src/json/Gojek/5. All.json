@@ -1,0 +1,62 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.706014341486616",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4786401080268387",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.47605208939888494",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Convert an Array Into a 2D Array With Conditions",
+    "frequency": "89.9",
+    "acceptanceRate": "0.8630692551951445",
+    "link": "https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "89.9",
+    "acceptanceRate": "0.37075075946117614",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  }
+]

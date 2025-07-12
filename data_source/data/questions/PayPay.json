@@ -1,0 +1,44 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Block Placement Queries",
+    "frequency": "100.0",
+    "acceptanceRate": "0.16889906973490942",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "PayPay-Block Placement Queries",
+    "company": "PayPay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "89.7",
+    "acceptanceRate": "0.5160681481756035",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "PayPay-Zigzag Conversion",
+    "company": "PayPay",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Largest 3-Same-Digit Number in String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6909566734515847",
+    "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+    "topics": [
+      "String"
+    ],
+    "id": "PayPay-Largest 3-Same-Digit Number in String",
+    "company": "PayPay",
+    "timeframe": "more_than_180"
+  }
+]

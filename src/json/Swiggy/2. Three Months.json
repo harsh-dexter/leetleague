@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Two City Scheduling",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6769210516989099",
+    "link": "https://leetcode.com/problems/two-city-scheduling",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5878986860189561",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

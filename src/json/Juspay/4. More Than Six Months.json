@@ -1,0 +1,76 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Operations on Tree",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43368293750912235",
+    "link": "https://leetcode.com/problems/operations-on-tree",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Cycle in a Graph",
+    "frequency": "95.1",
+    "acceptanceRate": "0.4980014754946761",
+    "link": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Closest Node to Given Two Nodes",
+    "frequency": "88.7",
+    "acceptanceRate": "0.5285199349714834",
+    "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+    "topics": [
+      "Depth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "73.4",
+    "acceptanceRate": "0.6070892209392098",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Node With Highest Edge Score",
+    "frequency": "73.4",
+    "acceptanceRate": "0.48455738418038136",
+    "link": "https://leetcode.com/problems/node-with-highest-edge-score",
+    "topics": [
+      "Hash Table",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "73.4",
+    "acceptanceRate": "0.3693615972153291",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

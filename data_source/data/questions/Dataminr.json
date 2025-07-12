@@ -1,0 +1,32 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Building Height",
+    "frequency": "100.0",
+    "acceptanceRate": "0.37479197687658755",
+    "link": "https://leetcode.com/problems/maximum-building-height",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ],
+    "id": "Dataminr-Maximum Building Height",
+    "company": "Dataminr",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8447629503336554",
+    "link": "https://leetcode.com/problems/spiral-matrix-iii",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Dataminr-Spiral Matrix III",
+    "company": "Dataminr",
+    "timeframe": "more_than_180"
+  }
+]

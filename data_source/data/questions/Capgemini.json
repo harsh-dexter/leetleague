@@ -1,0 +1,363 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577700897656149",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Capgemini-Two Sum",
+    "company": "Capgemini",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Degree of a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8705975043652314",
+    "link": "https://leetcode.com/problems/reverse-degree-of-a-string",
+    "topics": [
+      "String",
+      "Simulation"
+    ],
+    "id": "Capgemini-Reverse Degree of a String",
+    "company": "Capgemini",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "65.4",
+    "acceptanceRate": "0.5525965264574566",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Capgemini-Best Time to Buy and Sell Stock",
+    "company": "Capgemini",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "65.4",
+    "acceptanceRate": "0.603556859688818",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Capgemini-Remove Duplicates from Sorted Array",
+    "company": "Capgemini",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "65.4",
+    "acceptanceRate": "0.6666099304442351",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Capgemini-Valid Anagram",
+    "company": "Capgemini",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "65.4",
+    "acceptanceRate": "0.6510207934299767",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Capgemini-Trapping Rain Water",
+    "company": "Capgemini",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "65.4",
+    "acceptanceRate": "0.4622518482012795",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Capgemini-Add Two Numbers",
+    "company": "Capgemini",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "65.4",
+    "acceptanceRate": "0.4682882945946236",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Capgemini-Find First and Last Position of Element in Sorted Array",
+    "company": "Capgemini",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Elements With Maximum Frequency",
+    "frequency": "88.3",
+    "acceptanceRate": "0.7792370150792628",
+    "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "id": "Capgemini-Count Elements With Maximum Frequency",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "75.5",
+    "acceptanceRate": "0.4548318229538721",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Capgemini-Longest Common Prefix",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "75.5",
+    "acceptanceRate": "0.5922450070533695",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Capgemini-Palindrome Number",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "65.5",
+    "acceptanceRate": "0.5096357007859084",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Capgemini-Valid Palindrome",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fibonacci Number",
+    "frequency": "65.5",
+    "acceptanceRate": "0.7294494380980834",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "id": "Capgemini-Fibonacci Number",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "65.5",
+    "acceptanceRate": "0.43021399308372876",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Capgemini-Rotate Array",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of Unique Subjects Taught by Each Teacher",
+    "frequency": "65.5",
+    "acceptanceRate": "0.8935578320377495",
+    "link": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher",
+    "topics": [
+      "Database"
+    ],
+    "id": "Capgemini-Number of Unique Subjects Taught by Each Teacher",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Nth Highest Salary",
+    "frequency": "65.5",
+    "acceptanceRate": "0.38038941922143443",
+    "link": "https://leetcode.com/problems/nth-highest-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "Capgemini-Nth Highest Salary",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Exchange Seats",
+    "frequency": "65.5",
+    "acceptanceRate": "0.7270890874290025",
+    "link": "https://leetcode.com/problems/exchange-seats",
+    "topics": [
+      "Database"
+    ],
+    "id": "Capgemini-Exchange Seats",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Happy String",
+    "frequency": "65.5",
+    "acceptanceRate": "0.6546225631378025",
+    "link": "https://leetcode.com/problems/longest-happy-string",
+    "topics": [
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Capgemini-Longest Happy String",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "65.5",
+    "acceptanceRate": "0.4381465178962261",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Capgemini-Median of Two Sorted Arrays",
+    "company": "Capgemini",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "57.5",
+    "acceptanceRate": "0.45476315782847043",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Capgemini-Subarray Sum Equals K",
+    "company": "Capgemini",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Balanced Binary Tree",
+    "frequency": "57.5",
+    "acceptanceRate": "0.5534189713909605",
+    "link": "https://leetcode.com/problems/balanced-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Capgemini-Balanced Binary Tree",
+    "company": "Capgemini",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "57.5",
+    "acceptanceRate": "0.3693614927582452",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Capgemini-Longest Substring Without Repeating Characters",
+    "company": "Capgemini",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "57.5",
+    "acceptanceRate": "0.6280401723881761",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Capgemini-Move Zeroes",
+    "company": "Capgemini",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "57.5",
+    "acceptanceRate": "0.5191334577686688",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Capgemini-Reverse Words in a String",
+    "company": "Capgemini",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "57.5",
+    "acceptanceRate": "0.4649556137047272",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Capgemini-Coin Change",
+    "company": "Capgemini",
+    "timeframe": "all"
+  }
+]

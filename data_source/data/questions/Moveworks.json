@@ -1,0 +1,99 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Uncommon Substring in an Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4821341799216042",
+    "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "id": "Moveworks-Shortest Uncommon Substring in an Array",
+    "company": "Moveworks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Synonymous Sentences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5657701813916468",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Union Find"
+    ],
+    "id": "Moveworks-Synonymous Sentences",
+    "company": "Moveworks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "84.0",
+    "acceptanceRate": "0.4939520668150291",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Moveworks-Merge Intervals",
+    "company": "Moveworks",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4815035316083349",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Moveworks-Text Justification",
+    "company": "Moveworks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Break II",
+    "frequency": "84.8",
+    "acceptanceRate": "0.5364545782263879",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Moveworks-Word Break II",
+    "company": "Moveworks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Removable Characters",
+    "frequency": "53.3",
+    "acceptanceRate": "0.45759683183618277",
+    "link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ],
+    "id": "Moveworks-Maximum Number of Removable Characters",
+    "company": "Moveworks",
+    "timeframe": "more_than_180"
+  }
+]

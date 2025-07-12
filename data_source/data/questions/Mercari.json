@@ -1,0 +1,76 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Smallest Missing Non-negative Integer After Operations",
+    "frequency": "100.0",
+    "acceptanceRate": "0.39878630255743386",
+    "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ],
+    "id": "Mercari-Smallest Missing Non-negative Integer After Operations",
+    "company": "Mercari",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Crawler Log Folder",
+    "frequency": "79.0",
+    "acceptanceRate": "0.7160418239109896",
+    "link": "https://leetcode.com/problems/crawler-log-folder",
+    "topics": [
+      "Array",
+      "String",
+      "Stack"
+    ],
+    "id": "Mercari-Crawler Log Folder",
+    "company": "Mercari",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "frequency": "79.0",
+    "acceptanceRate": "0.490376913852892",
+    "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "id": "Mercari-Max Difference You Can Get From Changing an Integer",
+    "company": "Mercari",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Largest Group",
+    "frequency": "79.0",
+    "acceptanceRate": "0.7503987554460161",
+    "link": "https://leetcode.com/problems/count-largest-group",
+    "topics": [
+      "Hash Table",
+      "Math"
+    ],
+    "id": "Mercari-Count Largest Group",
+    "company": "Mercari",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Subsequence in Non-Increasing Order",
+    "frequency": "79.0",
+    "acceptanceRate": "0.7296905477357796",
+    "link": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Mercari-Minimum Subsequence in Non-Increasing Order",
+    "company": "Mercari",
+    "timeframe": "more_than_180"
+  }
+]

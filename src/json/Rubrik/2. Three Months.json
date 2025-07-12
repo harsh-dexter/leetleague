@@ -1,0 +1,37 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Find X Value of Array II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.27419939577039276",
+    "link": "https://leetcode.com/problems/find-x-value-of-array-ii",
+    "topics": [
+      "Array",
+      "Math",
+      "Segment Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find X Value of Array I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3315965471654094",
+    "link": "https://leetcode.com/problems/find-x-value-of-array-i",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "66.3",
+    "acceptanceRate": "0.43057779910352356",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  }
+]

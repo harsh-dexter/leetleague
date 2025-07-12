@@ -1,0 +1,102 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939526352897762",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Perfect Number",
+    "frequency": "84.1",
+    "acceptanceRate": "0.4489257450556843",
+    "link": "https://leetcode.com/problems/perfect-number",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Repeated DNA Sequences",
+    "frequency": "84.1",
+    "acceptanceRate": "0.5132038237868195",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Vowel Spellchecker",
+    "frequency": "74.9",
+    "acceptanceRate": "0.5157619197411585",
+    "link": "https://leetcode.com/problems/vowel-spellchecker",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "74.9",
+    "acceptanceRate": "0.6232009887594286",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "74.9",
+    "acceptanceRate": "0.5499191107870306",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "74.9",
+    "acceptanceRate": "0.7713293364055746",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "74.9",
+    "acceptanceRate": "0.6577292198640936",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  }
+]

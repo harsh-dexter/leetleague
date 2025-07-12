@@ -1,0 +1,113 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4760419873658764",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Substring with Concatenation of All Words",
+    "frequency": "100.0",
+    "acceptanceRate": "0.32997463649493386",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "88.2",
+    "acceptanceRate": "0.4785475875201086",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "88.2",
+    "acceptanceRate": "0.4550061229796745",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "88.2",
+    "acceptanceRate": "0.4521484931675215",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Product of Three Numbers",
+    "frequency": "88.2",
+    "acceptanceRate": "0.45311794031803265",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Backspace String Compare",
+    "frequency": "88.2",
+    "acceptanceRate": "0.494817507336685",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Multiply Strings",
+    "frequency": "88.2",
+    "acceptanceRate": "0.42289515404693445",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "88.2",
+    "acceptanceRate": "0.6115258855748797",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  }
+]

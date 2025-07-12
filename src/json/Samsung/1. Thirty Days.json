@@ -1,0 +1,12 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Distance to Closest Person",
+    "frequency": "100.0",
+    "acceptanceRate": "0.489870429548439",
+    "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "topics": [
+      "Array"
+    ]
+  }
+]

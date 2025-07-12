@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Block Placement Queries",
+    "frequency": "100.0",
+    "acceptanceRate": "0.168902023187088",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Black Blocks",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3862287177941841",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  }
+]

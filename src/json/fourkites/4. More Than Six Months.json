@@ -1,0 +1,39 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6181425057525985",
+    "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Unequal Adjacent Groups Subsequence II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5135262321144675",
+    "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Unequal Adjacent Groups Subsequence I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6756708309889311",
+    "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  }
+]

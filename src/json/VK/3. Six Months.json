@@ -1,0 +1,34 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Summary Ranges",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5302431124795074",
+    "link": "https://leetcode.com/problems/summary-ranges",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Distance to Closest Person",
+    "frequency": "89.9",
+    "acceptanceRate": "0.4898931447175697",
+    "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "frequency": "89.9",
+    "acceptanceRate": "0.6923692019165307",
+    "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Sliding Window"
+    ]
+  }
+]

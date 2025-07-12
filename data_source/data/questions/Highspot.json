@@ -1,0 +1,33 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45220184943913055",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Highspot-LRU Cache",
+    "company": "Highspot",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4581453412363736",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "Highspot-Basic Calculator II",
+    "company": "Highspot",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Max Points on a Line",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2895514653845652",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ],
+    "id": "Waymo-Max Points on a Line",
+    "company": "Waymo",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "73.9",
+    "acceptanceRate": "0.5214175430894478",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Waymo-Meeting Rooms II",
+    "company": "Waymo",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Knight Moves",
+    "frequency": "65.7",
+    "acceptanceRate": "0.41329156777804593",
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "topics": [
+      "Breadth-First Search"
+    ],
+    "id": "Waymo-Minimum Knight Moves",
+    "company": "Waymo",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Array in Sets of K Consecutive Numbers",
+    "frequency": "63.7",
+    "acceptanceRate": "0.5870948276310519",
+    "link": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Waymo-Divide Array in Sets of K Consecutive Numbers",
+    "company": "Waymo",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Distance from All Buildings",
+    "frequency": "63.7",
+    "acceptanceRate": "0.44372719436396985",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Waymo-Shortest Distance from All Buildings",
+    "company": "Waymo",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "63.7",
+    "acceptanceRate": "0.4650924527395896",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Waymo-Find Peak Element",
+    "company": "Waymo",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232010095175516",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Waymo-Number of Islands",
+    "company": "Waymo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Possible Bipartition",
+    "frequency": "82.9",
+    "acceptanceRate": "0.5150773648728767",
+    "link": "https://leetcode.com/problems/possible-bipartition",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "Waymo-Possible Bipartition",
+    "company": "Waymo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "82.9",
+    "acceptanceRate": "0.6227680872343923",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Waymo-Valid Sudoku",
+    "company": "Waymo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Tic-Tac-Toe",
+    "frequency": "62.1",
+    "acceptanceRate": "0.5860157935441853",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Waymo-Design Tic-Tac-Toe",
+    "company": "Waymo",
+    "timeframe": "all"
+  }
+]

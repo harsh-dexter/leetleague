@@ -1,0 +1,37 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6385757633103413",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "89.5",
+    "acceptanceRate": "0.716780342298775",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Additive Number",
+    "frequency": "89.5",
+    "acceptanceRate": "0.3254622700270529",
+    "link": "https://leetcode.com/problems/additive-number",
+    "topics": [
+      "String",
+      "Backtracking"
+    ]
+  }
+]

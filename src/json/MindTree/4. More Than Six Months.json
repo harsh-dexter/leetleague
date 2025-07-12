@@ -1,0 +1,24 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577709731557225",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Integers With Even Digit Sum",
+    "frequency": "89.6",
+    "acceptanceRate": "0.6878335702551094",
+    "link": "https://leetcode.com/problems/count-integers-with-even-digit-sum",
+    "topics": [
+      "Math",
+      "Simulation"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969853368424",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Bank of America-Best Time to Buy and Sell Stock",
+    "company": "Bank of America",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.42322889108126416",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Bank of America-Valid Parentheses",
+    "company": "Bank of America",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "89.1",
+    "acceptanceRate": "0.5096360913433684",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Bank of America-Valid Palindrome",
+    "company": "Bank of America",
+    "timeframe": "more_than_180"
+  }
+]

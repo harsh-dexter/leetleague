@@ -1,0 +1,119 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5807266385502934",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Diagonal Traverse",
+    "frequency": "92.4",
+    "acceptanceRate": "0.6317355223295921",
+    "link": "https://leetcode.com/problems/diagonal-traverse",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "92.4",
+    "acceptanceRate": "0.42322911611918845",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "92.4",
+    "acceptanceRate": "0.5209992241964507",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "92.4",
+    "acceptanceRate": "0.5644516280721968",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Can Place Flowers",
+    "frequency": "92.4",
+    "acceptanceRate": "0.2889915564370989",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "92.4",
+    "acceptanceRate": "0.43057802308500653",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "81.6",
+    "acceptanceRate": "0.3693617692365688",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design Graph With Shortest Path Calculator",
+    "frequency": "81.6",
+    "acceptanceRate": "0.6410393855779539",
+    "link": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator",
+    "topics": [
+      "Graph",
+      "Design",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "81.6",
+    "acceptanceRate": "0.6950033191253866",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  }
+]

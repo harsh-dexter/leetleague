@@ -1,0 +1,880 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Strong Password Checker",
+    "frequency": "100.0",
+    "acceptanceRate": "0.14622730217105126",
+    "link": "https://leetcode.com/problems/strong-password-checker",
+    "topics": [
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Wix-Strong Password Checker",
+    "company": "Wix",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "As Far from Land as Possible",
+    "frequency": "85.8",
+    "acceptanceRate": "0.5184355695888827",
+    "link": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Wix-As Far from Land as Possible",
+    "company": "Wix",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Distance from All Buildings",
+    "frequency": "71.5",
+    "acceptanceRate": "0.4437267220297094",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Wix-Shortest Distance from All Buildings",
+    "company": "Wix",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "97.0",
+    "acceptanceRate": "0.5661859692244714",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Wix-Rotting Oranges",
+    "company": "Wix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Escape The Ghosts",
+    "frequency": "84.4",
+    "acceptanceRate": "0.6257654176993731",
+    "link": "https://leetcode.com/problems/escape-the-ghosts",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Wix-Escape The Ghosts",
+    "company": "Wix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "77.9",
+    "acceptanceRate": "0.8087945532640931",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Wix-Subsets",
+    "company": "Wix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "68.8",
+    "acceptanceRate": "0.4232287912473047",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Wix-Valid Parentheses",
+    "company": "Wix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "frequency": "68.8",
+    "acceptanceRate": "0.8246702504614473",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "Wix-Lowest Common Ancestor of a Binary Tree III",
+    "company": "Wix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6861936286502606",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Wix-Integer to Roman",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "87.2",
+    "acceptanceRate": "0.4381465178962261",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Wix-Median of Two Sorted Arrays",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "78.2",
+    "acceptanceRate": "0.6115257866374799",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Wix-Decode String",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "74.2",
+    "acceptanceRate": "0.64866367367635",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Wix-Roman to Integer",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "69.2",
+    "acceptanceRate": "0.3732635028051379",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "Wix-Word Search II",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reconstruct Original Digits from English",
+    "frequency": "69.2",
+    "acceptanceRate": "0.5157334259339642",
+    "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Wix-Reconstruct Original Digits from English",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "69.2",
+    "acceptanceRate": "0.4939526500687338",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Wix-Merge Intervals",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "62.9",
+    "acceptanceRate": "0.5778294320955184",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Wix-Container With Most Water",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "62.9",
+    "acceptanceRate": "0.45267040514161516",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Wix-Word Search",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "62.9",
+    "acceptanceRate": "0.3584616666918127",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Wix-Longest Palindromic Substring",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "62.9",
+    "acceptanceRate": "0.623201439975349",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Wix-Number of Islands",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "K Closest Points to Origin",
+    "frequency": "53.9",
+    "acceptanceRate": "0.67939607844191",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "topics": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Wix-K Closest Points to Origin",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate Binary Search Tree",
+    "frequency": "53.9",
+    "acceptanceRate": "0.34380480373273803",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Wix-Validate Binary Search Tree",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest String Chain",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6201509496821173",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Wix-Longest String Chain",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6675504416163782",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Wix-Lowest Common Ancestor of a Binary Tree",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Shortest Word Distance",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6594959076066214",
+    "link": "https://leetcode.com/problems/shortest-word-distance",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "id": "Wix-Shortest Word Distance",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search Suggestions System",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6505017277492126",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "topics": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Wix-Search Suggestions System",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "All Nodes Distance K in Binary Tree",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6644228137982816",
+    "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Wix-All Nodes Distance K in Binary Tree",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Invalid Transactions",
+    "frequency": "53.9",
+    "acceptanceRate": "0.3127080304862309",
+    "link": "https://leetcode.com/problems/invalid-transactions",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Wix-Invalid Transactions",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Shifted Strings",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6737830758685182",
+    "link": "https://leetcode.com/problems/group-shifted-strings",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "Wix-Group Shifted Strings",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": "53.9",
+    "acceptanceRate": "0.4122433435353456",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Wix-Binary Tree Maximum Path Sum",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Arrays",
+    "frequency": "53.9",
+    "acceptanceRate": "0.7647444746389005",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Wix-Intersection of Two Arrays",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Time Takes to Reach Destination Without Drowning",
+    "frequency": "53.9",
+    "acceptanceRate": "0.5199539524174981",
+    "link": "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Wix-Minimum Time Takes to Reach Destination Without Drowning",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pascal's Triangle",
+    "frequency": "53.9",
+    "acceptanceRate": "0.7702157635192212",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Wix-Pascal's Triangle",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "53.9",
+    "acceptanceRate": "0.4650922980083712",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Wix-Find Peak Element",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count and Say",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6050669323131879",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "topics": [
+      "String"
+    ],
+    "id": "Wix-Count and Say",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Verifying an Alien Dictionary",
+    "frequency": "53.9",
+    "acceptanceRate": "0.5557267307653706",
+    "link": "https://leetcode.com/problems/verifying-an-alien-dictionary",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "Wix-Verifying an Alien Dictionary",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Right Side View",
+    "frequency": "53.9",
+    "acceptanceRate": "0.670426837476361",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Wix-Binary Tree Right Side View",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Power of Four",
+    "frequency": "53.9",
+    "acceptanceRate": "0.49471043193856606",
+    "link": "https://leetcode.com/problems/power-of-four",
+    "topics": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ],
+    "id": "Wix-Power of Four",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Diameter of Binary Tree",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6358631795526232",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Wix-Diameter of Binary Tree",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "53.9",
+    "acceptanceRate": "0.46225185418305303",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Wix-Add Two Numbers",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Clone Graph",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6238583023997237",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Wix-Clone Graph",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Is Subsequence",
+    "frequency": "53.9",
+    "acceptanceRate": "0.4838256140732861",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Wix-Is Subsequence",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Copy List with Random Pointer",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6053680913762596",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "topics": [
+      "Hash Table",
+      "Linked List"
+    ],
+    "id": "Wix-Copy List with Random Pointer",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Alien Dictionary",
+    "frequency": "53.9",
+    "acceptanceRate": "0.3667370774326646",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Wix-Alien Dictionary",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "53.9",
+    "acceptanceRate": "0.3707106513486177",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Wix-3Sum",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6684092926873438",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Wix-Merge Two Sorted Lists",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6280401331228596",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Wix-Move Zeroes",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Distance Between BST Nodes",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6030334314366235",
+    "link": "https://leetcode.com/problems/minimum-distance-between-bst-nodes",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Wix-Minimum Distance Between BST Nodes",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Palindrome Pairs",
+    "frequency": "53.9",
+    "acceptanceRate": "0.3624381040688727",
+    "link": "https://leetcode.com/problems/palindrome-pairs",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "id": "Wix-Palindrome Pairs",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6510209523696747",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Wix-Trapping Rain Water",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Design HashSet",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6703367545106087",
+    "link": "https://leetcode.com/problems/design-hashset",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ],
+    "id": "Wix-Design HashSet",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "53.9",
+    "acceptanceRate": "0.37023152369198287",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Wix-Pow(x, n)",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "53.9",
+    "acceptanceRate": "0.5209983117304944",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Wix-Maximum Subarray",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Employees Earning More Than Their Managers",
+    "frequency": "53.9",
+    "acceptanceRate": "0.7153010087303053",
+    "link": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+    "topics": [
+      "Database"
+    ],
+    "id": "Wix-Employees Earning More Than Their Managers",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Unique Morse Code Words",
+    "frequency": "53.9",
+    "acceptanceRate": "0.8324486964903255",
+    "link": "https://leetcode.com/problems/unique-morse-code-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "Wix-Unique Morse Code Words",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subdomain Visit Count",
+    "frequency": "53.9",
+    "acceptanceRate": "0.7683449765176875",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Wix-Subdomain Visit Count",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Unique Email Addresses",
+    "frequency": "53.9",
+    "acceptanceRate": "0.6758621291144098",
+    "link": "https://leetcode.com/problems/unique-email-addresses",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "Wix-Unique Email Addresses",
+    "company": "Wix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "46.6",
+    "acceptanceRate": "0.5577701600579492",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Wix-Two Sum",
+    "company": "Wix",
+    "timeframe": "all"
+  }
+]

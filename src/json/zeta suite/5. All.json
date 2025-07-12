@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Count Equal and Divisible Pairs in an Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8408345683046082",
+    "link": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "66.8",
+    "acceptanceRate": "0.6153922450527325",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "66.8",
+    "acceptanceRate": "0.5525974824425262",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

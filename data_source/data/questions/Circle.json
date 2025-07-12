@@ -1,0 +1,35 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Design In-Memory File System",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48170952131071076",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie",
+      "Sorting"
+    ],
+    "id": "Circle-Design In-Memory File System",
+    "company": "Circle",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simple Bank System",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6142761634153913",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ],
+    "id": "Circle-Simple Bank System",
+    "company": "Circle",
+    "timeframe": "more_than_180"
+  }
+]

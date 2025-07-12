@@ -1,0 +1,187 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Visited Cells in a Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.22765724304185841",
+    "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Binary String After Change",
+    "frequency": "100.0",
+    "acceptanceRate": "0.47063308123932673",
+    "link": "https://leetcode.com/problems/maximum-binary-string-after-change",
+    "topics": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "91.4",
+    "acceptanceRate": "0.5577698961146816",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "83.3",
+    "acceptanceRate": "0.42322853989164394",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "83.3",
+    "acceptanceRate": "0.6115256876997249",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "77.9",
+    "acceptanceRate": "0.6232002678404789",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "77.9",
+    "acceptanceRate": "0.7713291148642583",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "71.0",
+    "acceptanceRate": "0.7467470974994019",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "71.0",
+    "acceptanceRate": "0.6684090023960587",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "71.0",
+    "acceptanceRate": "0.3584612031654919",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "24 Game",
+    "frequency": "61.3",
+    "acceptanceRate": "0.5000170520428348",
+    "link": "https://leetcode.com/problems/24-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "61.3",
+    "acceptanceRate": "0.4128044827399091",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "61.3",
+    "acceptanceRate": "0.5209980400703407",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Daily Temperatures",
+    "frequency": "61.3",
+    "acceptanceRate": "0.6736502832589849",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximal Rectangle",
+    "frequency": "61.3",
+    "acceptanceRate": "0.5370854116500401",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  }
+]

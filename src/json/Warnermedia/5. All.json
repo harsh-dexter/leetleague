@@ -1,0 +1,126 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Integer to English Words",
+    "frequency": "100.0",
+    "acceptanceRate": "0.34354994465581973",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "topics": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Accounts That Did Not Stream",
+    "frequency": "96.0",
+    "acceptanceRate": "0.7202793200160265",
+    "link": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "88.2",
+    "acceptanceRate": "0.677801331455583",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "84.8",
+    "acceptanceRate": "0.5677433062641299",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Game of Life",
+    "frequency": "84.8",
+    "acceptanceRate": "0.7141531791835338",
+    "link": "https://leetcode.com/problems/game-of-life",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "80.9",
+    "acceptanceRate": "0.7006536003915764",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "80.9",
+    "acceptanceRate": "0.44971527053332333",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Nested List Iterator",
+    "frequency": "69.7",
+    "acceptanceRate": "0.6522845190469043",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "60.8",
+    "acceptanceRate": "0.3707117247162149",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "60.8",
+    "acceptanceRate": "0.6486643502043604",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  }
+]

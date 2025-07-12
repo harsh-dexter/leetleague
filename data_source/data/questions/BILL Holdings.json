@@ -1,0 +1,19 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232478097342165",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "BILL Holdings-Number of Islands",
+    "company": "BILL Holdings",
+    "timeframe": "more_than_180"
+  }
+]

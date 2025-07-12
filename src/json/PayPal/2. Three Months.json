@@ -1,0 +1,129 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Find Words That Can Be Formed by Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7106771491390691",
+    "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "86.6",
+    "acceptanceRate": "0.4526692829987259",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "71.3",
+    "acceptanceRate": "0.5780836795005291",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "62.3",
+    "acceptanceRate": "0.4876133314788993",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum Smaller",
+    "frequency": "62.3",
+    "acceptanceRate": "0.5098856904205789",
+    "link": "https://leetcode.com/problems/3sum-smaller",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "62.3",
+    "acceptanceRate": "0.45500659848234903",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "62.3",
+    "acceptanceRate": "0.5661841672935807",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "62.3",
+    "acceptanceRate": "0.5160678115303926",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Smallest String With Swaps",
+    "frequency": "62.3",
+    "acceptanceRate": "0.5942555506596046",
+    "link": "https://leetcode.com/problems/smallest-string-with-swaps",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Events That Can Be Attended",
+    "frequency": "62.3",
+    "acceptanceRate": "0.32921981825520097",
+    "link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  }
+]

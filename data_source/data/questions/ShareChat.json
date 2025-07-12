@@ -1,0 +1,34 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6373515517663223",
+    "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "ShareChat-Amount of Time for Binary Tree to Be Infected",
+    "company": "ShareChat",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Count of Positive Integer and Negative Integer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7446745422883231",
+    "link": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Counting"
+    ],
+    "id": "ShareChat-Maximum Count of Positive Integer and Negative Integer",
+    "company": "ShareChat",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Split Array Largest Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5809965654277032",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  }
+]

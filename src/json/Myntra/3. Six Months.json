@@ -1,0 +1,51 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Moves to Equal Array Elements II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6095862132467602",
+    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5661860286407837",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Deepest Leaves Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8634979671040474",
+    "link": "https://leetcode.com/problems/deepest-leaves-sum",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778290777243622",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  }
+]

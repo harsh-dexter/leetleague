@@ -1,0 +1,53 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4283724679402803",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Depth of Binary Tree",
+    "frequency": "88.2",
+    "acceptanceRate": "0.7713814289513273",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reorder List",
+    "frequency": "88.2",
+    "acceptanceRate": "0.6250484291087256",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "88.2",
+    "acceptanceRate": "0.45267012968401416",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  }
+]

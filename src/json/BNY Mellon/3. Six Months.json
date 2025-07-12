@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Car Fleet",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5347444943339748",
+    "link": "https://leetcode.com/problems/car-fleet",
+    "topics": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  }
+]

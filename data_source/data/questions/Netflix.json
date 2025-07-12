@@ -1,0 +1,590 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Logger Rate Limiter",
+    "frequency": "100.0",
+    "acceptanceRate": "0.766103057053701",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ],
+    "id": "Netflix-Logger Rate Limiter",
+    "company": "Netflix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Cache With Time Limit",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7578738827979018",
+    "link": "https://leetcode.com/problems/cache-with-time-limit",
+    "topics": [],
+    "id": "Netflix-Cache With Time Limit",
+    "company": "Netflix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Contains Duplicate III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.23633360996542796",
+    "link": "https://leetcode.com/problems/contains-duplicate-iii",
+    "topics": [
+      "Array",
+      "Sliding Window",
+      "Sorting",
+      "Bucket Sort",
+      "Ordered Set"
+    ],
+    "id": "Netflix-Contains Duplicate III",
+    "company": "Netflix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "89.2",
+    "acceptanceRate": "0.49067282582685684",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Netflix-Koko Eating Bananas",
+    "company": "Netflix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "89.2",
+    "acceptanceRate": "0.6323637027239968",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Netflix-Contains Duplicate",
+    "company": "Netflix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate II",
+    "frequency": "89.2",
+    "acceptanceRate": "0.49049882675581746",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "id": "Netflix-Contains Duplicate II",
+    "company": "Netflix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reconstruct Itinerary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4360564496598489",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "topics": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ],
+    "id": "Netflix-Reconstruct Itinerary",
+    "company": "Netflix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "79.6",
+    "acceptanceRate": "0.4939523849309626",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Netflix-Merge Intervals",
+    "company": "Netflix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "73.2",
+    "acceptanceRate": "0.45266963526412307",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Netflix-Word Search",
+    "company": "Netflix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "73.2",
+    "acceptanceRate": "0.3693617406358928",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Netflix-Longest Substring Without Repeating Characters",
+    "company": "Netflix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "64.1",
+    "acceptanceRate": "0.5214171545868618",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Netflix-Meeting Rooms II",
+    "company": "Netflix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "64.1",
+    "acceptanceRate": "0.48273780206490746",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Netflix-Word Break",
+    "company": "Netflix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Network Delay Time",
+    "frequency": "64.1",
+    "acceptanceRate": "0.5744231558987412",
+    "link": "https://leetcode.com/problems/network-delay-time",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ],
+    "id": "Netflix-Network Delay Time",
+    "company": "Netflix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "92.2",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Netflix-First Missing Positive",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "85.8",
+    "acceptanceRate": "0.4827836751158982",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ],
+    "id": "Netflix-Random Pick with Weight",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Nested List Iterator",
+    "frequency": "80.2",
+    "acceptanceRate": "0.6522839525510098",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ],
+    "id": "Netflix-Flatten Nested List Iterator",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "76.7",
+    "acceptanceRate": "0.49366304491851065",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Netflix-Time Based Key-Value Store",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Summary Ranges",
+    "frequency": "76.7",
+    "acceptanceRate": "0.5302484768932422",
+    "link": "https://leetcode.com/problems/summary-ranges",
+    "topics": [
+      "Array"
+    ],
+    "id": "Netflix-Summary Ranges",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "76.7",
+    "acceptanceRate": "0.6456597249158955",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Netflix-Top K Frequent Elements",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "76.7",
+    "acceptanceRate": "0.45214645870656",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Netflix-LRU Cache",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "61.3",
+    "acceptanceRate": "0.5499187409631957",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Netflix-Insert Delete GetRandom O(1)",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "61.3",
+    "acceptanceRate": "0.552596303671932",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Netflix-Best Time to Buy and Sell Stock",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Words",
+    "frequency": "61.3",
+    "acceptanceRate": "0.592771943363307",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "id": "Netflix-Top K Frequent Words",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Daily Temperatures",
+    "frequency": "61.3",
+    "acceptanceRate": "0.6736501174296972",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Netflix-Daily Temperatures",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Implement Queue using Stacks",
+    "frequency": "52.3",
+    "acceptanceRate": "0.6806078349365677",
+    "link": "https://leetcode.com/problems/implement-queue-using-stacks",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "id": "Netflix-Implement Queue using Stacks",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "52.3",
+    "acceptanceRate": "0.5291952521829845",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Netflix-Merge Sorted Array",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "To Be Or Not To Be",
+    "frequency": "52.3",
+    "acceptanceRate": "0.6295807994256238",
+    "link": "https://leetcode.com/problems/to-be-or-not-to-be",
+    "topics": [],
+    "id": "Netflix-To Be Or Not To Be",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "52.3",
+    "acceptanceRate": "0.42322837575683403",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Netflix-Valid Parentheses",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "52.3",
+    "acceptanceRate": "0.4283721466614929",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Netflix-Search in Rotated Sorted Array",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "frequency": "52.3",
+    "acceptanceRate": "0.7074652447295087",
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Netflix-Minimum Remove to Make Valid Parentheses",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "52.3",
+    "acceptanceRate": "0.5342350029047974",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Netflix-Course Schedule II",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "52.3",
+    "acceptanceRate": "0.43021388103635533",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Netflix-Rotate Array",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "52.3",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Netflix-Text Justification",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "52.3",
+    "acceptanceRate": "0.539397306376751",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Netflix-Spiral Matrix",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "52.3",
+    "acceptanceRate": "0.7790166005161556",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Netflix-Rotate Image",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Flowers in Full Bloom",
+    "frequency": "52.3",
+    "acceptanceRate": "0.5717535511066795",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ],
+    "id": "Netflix-Number of Flowers in Full Bloom",
+    "company": "Netflix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "48.3",
+    "acceptanceRate": "0.4649548561668961",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Netflix-Coin Change",
+    "company": "Netflix",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "48.3",
+    "acceptanceRate": "0.7713287456277772",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Netflix-Generate Parentheses",
+    "company": "Netflix",
+    "timeframe": "all"
+  }
+]

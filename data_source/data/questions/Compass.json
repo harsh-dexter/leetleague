@@ -1,0 +1,97 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6115276408838193",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Compass-Decode String",
+    "company": "Compass",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Total Distance Traveled",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4016833878179837",
+    "link": "https://leetcode.com/problems/total-distance-traveled",
+    "topics": [
+      "Math",
+      "Simulation"
+    ],
+    "id": "Compass-Total Distance Traveled",
+    "company": "Compass",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "89.8",
+    "acceptanceRate": "0.7092899316934461",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Compass-Group Anagrams",
+    "company": "Compass",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Camelcase Matching",
+    "frequency": "89.8",
+    "acceptanceRate": "0.63780016867149",
+    "link": "https://leetcode.com/problems/camelcase-matching",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Trie",
+      "String Matching"
+    ],
+    "id": "Compass-Camelcase Matching",
+    "company": "Compass",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Subtree of Another Tree",
+    "frequency": "89.8",
+    "acceptanceRate": "0.4998476418026165",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ],
+    "id": "Compass-Subtree of Another Tree",
+    "company": "Compass",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "89.4",
+    "acceptanceRate": "0.4936627725463274",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Compass-Time Based Key-Value Store",
+    "company": "Compass",
+    "timeframe": "all"
+  }
+]

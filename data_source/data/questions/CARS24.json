@@ -1,0 +1,120 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4936482629369147",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "CARS24-Time Based Key-Value Store",
+    "company": "CARS24",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Online Election",
+    "frequency": "94.5",
+    "acceptanceRate": "0.5185121776930864",
+    "link": "https://leetcode.com/problems/online-election",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "CARS24-Online Election",
+    "company": "CARS24",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Open the Lock",
+    "frequency": "87.5",
+    "acceptanceRate": "0.6074135869227004",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "CARS24-Open the Lock",
+    "company": "CARS24",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rabbits in Forest",
+    "frequency": "87.5",
+    "acceptanceRate": "0.5826704796321077",
+    "link": "https://leetcode.com/problems/rabbits-in-forest",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ],
+    "id": "CARS24-Rabbits in Forest",
+    "company": "CARS24",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Counter",
+    "frequency": "77.5",
+    "acceptanceRate": "0.8224375327236066",
+    "link": "https://leetcode.com/problems/counter",
+    "topics": [],
+    "id": "CARS24-Counter",
+    "company": "CARS24",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Bulls and Cows",
+    "frequency": "77.5",
+    "acceptanceRate": "0.5138771783652719",
+    "link": "https://leetcode.com/problems/bulls-and-cows",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "CARS24-Bulls and Cows",
+    "company": "CARS24",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "77.5",
+    "acceptanceRate": "0.493984211255195",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "CARS24-Merge Intervals",
+    "company": "CARS24",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "77.5",
+    "acceptanceRate": "0.523059436068384",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "CARS24-House Robber",
+    "company": "CARS24",
+    "timeframe": "more_than_180"
+  }
+]

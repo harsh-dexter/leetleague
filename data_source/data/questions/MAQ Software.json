@@ -1,0 +1,78 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36936185611748357",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "MAQ Software-Longest Substring Without Repeating Characters",
+    "company": "MAQ Software",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "88.7",
+    "acceptanceRate": "0.6510218753209407",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "MAQ Software-Trapping Rain Water",
+    "company": "MAQ Software",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Substrings in Wraparound String",
+    "frequency": "88.7",
+    "acceptanceRate": "0.4119896506273087",
+    "link": "https://leetcode.com/problems/unique-substrings-in-wraparound-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "MAQ Software-Unique Substrings in Wraparound String",
+    "company": "MAQ Software",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "88.7",
+    "acceptanceRate": "0.35846253641821835",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "MAQ Software-Longest Palindromic Substring",
+    "company": "MAQ Software",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "88.7",
+    "acceptanceRate": "0.4737769226876178",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "MAQ Software-Largest Rectangle in Histogram",
+    "company": "MAQ Software",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design Spreadsheet",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6762689977153075",
+    "link": "https://leetcode.com/problems/design-spreadsheet",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "66.8",
+    "acceptanceRate": "0.43814619255942167",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  }
+]

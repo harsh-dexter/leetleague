@@ -1,0 +1,86 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577709609989225",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Garmin-Two Sum",
+    "company": "Garmin",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525972417972461",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Garmin-Best Time to Buy and Sell Stock",
+    "company": "Garmin",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6220026757229598",
+    "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Garmin-Minimum Cost of Buying Candies With Discount",
+    "company": "Garmin",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse String",
+    "frequency": "89.7",
+    "acceptanceRate": "0.7976434229275776",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Garmin-Reverse String",
+    "company": "Garmin",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Delete Columns to Make Sorted",
+    "frequency": "89.7",
+    "acceptanceRate": "0.7477537485791238",
+    "link": "https://leetcode.com/problems/delete-columns-to-make-sorted",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "id": "Garmin-Delete Columns to Make Sorted",
+    "company": "Garmin",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "89.2",
+    "acceptanceRate": "0.5922447149521741",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Garmin-Palindrome Number",
+    "company": "Garmin",
+    "timeframe": "all"
+  }
+]

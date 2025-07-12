@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.47604015672725664",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sudoku Solver",
+    "frequency": "83.7",
+    "acceptanceRate": "0.6390844622410038",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Frog Jump",
+    "frequency": "83.7",
+    "acceptanceRate": "0.4655846450889997",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Cost to Cut a Stick",
+    "frequency": "83.7",
+    "acceptanceRate": "0.6201789560190433",
+    "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  }
+]

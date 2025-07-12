@@ -1,0 +1,101 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Penalty for a Shop",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6759443878546194",
+    "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop",
+    "topics": [
+      "String",
+      "Prefix Sum"
+    ],
+    "id": "Stripe-Minimum Penalty for a Shop",
+    "company": "Stripe",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "70.5",
+    "acceptanceRate": "0.6314711547576758",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ],
+    "id": "Stripe-Evaluate Division",
+    "company": "Stripe",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Optimal Account Balancing",
+    "frequency": "53.6",
+    "acceptanceRate": "0.4993810266893702",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "Stripe-Optimal Account Balancing",
+    "company": "Stripe",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Brace Expansion",
+    "frequency": "53.6",
+    "acceptanceRate": "0.6672212978369384",
+    "link": "https://leetcode.com/problems/brace-expansion",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ],
+    "id": "Stripe-Brace Expansion",
+    "company": "Stripe",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Cheapest Flights Within K Stops",
+    "frequency": "53.6",
+    "acceptanceRate": "0.40398927733184775",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "topics": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ],
+    "id": "Stripe-Cheapest Flights Within K Stops",
+    "company": "Stripe",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Parallel Courses III",
+    "frequency": "44.6",
+    "acceptanceRate": "0.6674963944974485",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Stripe-Parallel Courses III",
+    "company": "Stripe",
+    "timeframe": "all"
+  }
+]

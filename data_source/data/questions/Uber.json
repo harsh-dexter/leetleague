@@ -1,0 +1,2710 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Alien Dictionary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3667368040372823",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Uber-Alien Dictionary",
+    "company": "Uber",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Bus Routes",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4695297092963377",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ],
+    "id": "Uber-Bus Routes",
+    "company": "Uber",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct Quad Tree",
+    "frequency": "92.0",
+    "acceptanceRate": "0.7711734363733846",
+    "link": "https://leetcode.com/problems/construct-quad-tree",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Matrix"
+    ],
+    "id": "Uber-Construct Quad Tree",
+    "company": "Uber",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Collect Coins in a Tree",
+    "frequency": "92.0",
+    "acceptanceRate": "0.360585905388237",
+    "link": "https://leetcode.com/problems/collect-coins-in-a-tree",
+    "topics": [
+      "Array",
+      "Tree",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Uber-Collect Coins in a Tree",
+    "company": "Uber",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Squares of a Sorted Array",
+    "frequency": "80.7",
+    "acceptanceRate": "0.7321922364201385",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Uber-Squares of a Sorted Array",
+    "company": "Uber",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotating the Box",
+    "frequency": "80.7",
+    "acceptanceRate": "0.7909813050714205",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ],
+    "id": "Uber-Rotating the Box",
+    "company": "Uber",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "frequency": "80.7",
+    "acceptanceRate": "0.5675059020130396",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ],
+    "id": "Uber-Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "company": "Uber",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "80.7",
+    "acceptanceRate": "0.6314695091079937",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ],
+    "id": "Uber-Evaluate Division",
+    "company": "Uber",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "My Calendar I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5814622694060329",
+    "link": "https://leetcode.com/problems/my-calendar-i",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ],
+    "id": "Uber-My Calendar I",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "The Maze",
+    "frequency": "91.1",
+    "acceptanceRate": "0.5951548421014023",
+    "link": "https://leetcode.com/problems/the-maze",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Uber-The Maze",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "91.1",
+    "acceptanceRate": "0.6777994606301018",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Uber-Product of Array Except Self",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "The Maze II",
+    "frequency": "88.8",
+    "acceptanceRate": "0.5420150302104503",
+    "link": "https://leetcode.com/problems/the-maze-ii",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path"
+    ],
+    "id": "Uber-The Maze II",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "86.3",
+    "acceptanceRate": "0.5342350291611208",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Uber-Course Schedule II",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find the Closest Palindrome",
+    "frequency": "76.6",
+    "acceptanceRate": "0.31629799702290284",
+    "link": "https://leetcode.com/problems/find-the-closest-palindrome",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "Uber-Find the Closest Palindrome",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "76.6",
+    "acceptanceRate": "0.6920824458148753",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "id": "Uber-Design Hit Counter",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Block Placement Queries",
+    "frequency": "72.3",
+    "acceptanceRate": "0.168902023187088",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "Uber-Block Placement Queries",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Islands II",
+    "frequency": "72.3",
+    "acceptanceRate": "0.4012685422493824",
+    "link": "https://leetcode.com/problems/number-of-islands-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Uber-Number of Islands II",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Black Blocks",
+    "frequency": "72.3",
+    "acceptanceRate": "0.38611772506706044",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ],
+    "id": "Uber-Number of Black Blocks",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "72.3",
+    "acceptanceRate": "0.37326302712065756",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "Uber-Word Search II",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "67.0",
+    "acceptanceRate": "0.45214556490859115",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Uber-LRU Cache",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "frequency": "67.0",
+    "acceptanceRate": "0.6194290206869442",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ],
+    "id": "Uber-Minimum Operations to Write the Letter Y on a Grid",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shuffle an Array",
+    "frequency": "67.0",
+    "acceptanceRate": "0.5904289804092742",
+    "link": "https://leetcode.com/problems/shuffle-an-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Uber-Shuffle an Array",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "67.0",
+    "acceptanceRate": "0.6231992072109731",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Uber-Number of Islands",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "60.1",
+    "acceptanceRate": "0.5264825291581084",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Uber-Find Minimum in Rotated Sorted Array",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "60.1",
+    "acceptanceRate": "0.45266926269047814",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Uber-Word Search",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Adjacent Elements With the Same Color",
+    "frequency": "60.1",
+    "acceptanceRate": "0.5575544433923982",
+    "link": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color",
+    "topics": [
+      "Array"
+    ],
+    "id": "Uber-Number of Adjacent Elements With the Same Color",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Smallest Element in a BST",
+    "frequency": "60.1",
+    "acceptanceRate": "0.7532956790739447",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Uber-Kth Smallest Element in a BST",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Nice Pairs in an Array",
+    "frequency": "60.1",
+    "acceptanceRate": "0.4853582921277765",
+    "link": "https://leetcode.com/problems/count-nice-pairs-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ],
+    "id": "Uber-Count Nice Pairs in an Array",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "24 Game",
+    "frequency": "60.1",
+    "acceptanceRate": "0.50001136815779",
+    "link": "https://leetcode.com/problems/24-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Backtracking"
+    ],
+    "id": "Uber-24 Game",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "50.6",
+    "acceptanceRate": "0.4939526774846352",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Uber-Merge Intervals",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "LFU Cache",
+    "frequency": "50.6",
+    "acceptanceRate": "0.4660898637811462",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Uber-LFU Cache",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "50.6",
+    "acceptanceRate": "0.6153909539748507",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "Uber-Task Scheduler",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Provinces",
+    "frequency": "50.6",
+    "acceptanceRate": "0.6865500056031655",
+    "link": "https://leetcode.com/problems/number-of-provinces",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "Uber-Number of Provinces",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "frequency": "50.6",
+    "acceptanceRate": "0.5563702302112898",
+    "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+    "topics": [
+      "Array",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Uber-Maximum Points You Can Obtain from Cards",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "frequency": "50.6",
+    "acceptanceRate": "0.5071699895141073",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Uber-Minimum Number of Taps to Open to Water a Garden",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "50.6",
+    "acceptanceRate": "0.4737765317407914",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Uber-Largest Rectangle in Histogram",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Detonate the Maximum Bombs",
+    "frequency": "50.6",
+    "acceptanceRate": "0.492066898115528",
+    "link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+    "topics": [
+      "Array",
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Geometry"
+    ],
+    "id": "Uber-Detonate the Maximum Bombs",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Optimal Account Balancing",
+    "frequency": "50.6",
+    "acceptanceRate": "0.4993810266893702",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "Uber-Optimal Account Balancing",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "50.6",
+    "acceptanceRate": "0.7092881169411895",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Uber-Group Anagrams",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "First Unique Number",
+    "frequency": "50.6",
+    "acceptanceRate": "0.5593123431844927",
+    "link": "https://leetcode.com/problems/first-unique-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "id": "Uber-First Unique Number",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "50.6",
+    "acceptanceRate": "0.6456596824026228",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Uber-Top K Frequent Elements",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Prefix and Suffix Pairs II",
+    "frequency": "50.6",
+    "acceptanceRate": "0.2720387820263219",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ],
+    "id": "Uber-Count Prefix and Suffix Pairs II",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Making A Large Island",
+    "frequency": "50.6",
+    "acceptanceRate": "0.5489034346736235",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Uber-Making A Large Island",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Walls and Gates",
+    "frequency": "50.6",
+    "acceptanceRate": "0.6296791509568449",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Uber-Walls and Gates",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reconstruct Itinerary",
+    "frequency": "50.6",
+    "acceptanceRate": "0.4360558403976322",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "topics": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ],
+    "id": "Uber-Reconstruct Itinerary",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "50.6",
+    "acceptanceRate": "0.4581129812287864",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "Uber-Basic Calculator II",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Interval",
+    "frequency": "50.6",
+    "acceptanceRate": "0.4347361196230839",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "topics": [
+      "Array"
+    ],
+    "id": "Uber-Insert Interval",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator",
+    "frequency": "50.6",
+    "acceptanceRate": "0.4558962794405194",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Uber-Basic Calculator",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "50.6",
+    "acceptanceRate": "0.664814934885504",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Uber-Minimum Path Sum",
+    "company": "Uber",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Coin Collection ",
+    "frequency": "80.7",
+    "acceptanceRate": "0.523860303918955",
+    "link": "https://leetcode.com/problems/maximum-coin-collection",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Maximum Coin Collection ",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "78.5",
+    "acceptanceRate": "0.46495443407851283",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Uber-Coin Change",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "78.5",
+    "acceptanceRate": "0.5525965868759138",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Best Time to Buy and Sell Stock",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "70.2",
+    "acceptanceRate": "0.5393973501075863",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Uber-Spiral Matrix",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "70.2",
+    "acceptanceRate": "0.4814988999917213",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Uber-Text Justification",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "62.3",
+    "acceptanceRate": "0.4827836751158982",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ],
+    "id": "Uber-Random Pick with Weight",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Path With Different Adjacent Characters",
+    "frequency": "62.3",
+    "acceptanceRate": "0.5391662377766341",
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+    "topics": [
+      "Array",
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Uber-Longest Path With Different Adjacent Characters",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Leftmost Column with at Least a One",
+    "frequency": "62.3",
+    "acceptanceRate": "0.5493977755699853",
+    "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Interactive"
+    ],
+    "id": "Uber-Leftmost Column with at Least a One",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "57.1",
+    "acceptanceRate": "0.4281180881873274",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "Uber-Word Ladder",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design In-Memory File System",
+    "frequency": "57.1",
+    "acceptanceRate": "0.4816948941663167",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie",
+      "Sorting"
+    ],
+    "id": "Uber-Design In-Memory File System",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Meeting Rooms III",
+    "frequency": "50.4",
+    "acceptanceRate": "0.4393472442856221",
+    "link": "https://leetcode.com/problems/meeting-rooms-iii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ],
+    "id": "Uber-Meeting Rooms III",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Subarrays That Match a Pattern I",
+    "frequency": "50.4",
+    "acceptanceRate": "0.6684595198334382",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+    "topics": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ],
+    "id": "Uber-Number of Subarrays That Match a Pattern I",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Cost to Connect All Points",
+    "frequency": "50.4",
+    "acceptanceRate": "0.6902176550628305",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ],
+    "id": "Uber-Min Cost to Connect All Points",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "50.4",
+    "acceptanceRate": "0.6227675793740958",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Uber-Valid Sudoku",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Right Side View",
+    "frequency": "50.4",
+    "acceptanceRate": "0.6704254068229247",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Uber-Binary Tree Right Side View",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "50.4",
+    "acceptanceRate": "0.566185183855214",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Uber-Rotting Oranges",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Comments",
+    "frequency": "50.4",
+    "acceptanceRate": "0.39407199349545424",
+    "link": "https://leetcode.com/problems/remove-comments",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "id": "Uber-Remove Comments",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Boundary of Binary Tree",
+    "frequency": "50.4",
+    "acceptanceRate": "0.4715859570960508",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Uber-Boundary of Binary Tree",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Open the Lock",
+    "frequency": "50.4",
+    "acceptanceRate": "0.6074109962132491",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "Uber-Open the Lock",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Promise Pool",
+    "frequency": "41.1",
+    "acceptanceRate": "0.7980061175937465",
+    "link": "https://leetcode.com/problems/promise-pool",
+    "topics": [],
+    "id": "Uber-Promise Pool",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Brightest Position on Street",
+    "frequency": "41.1",
+    "acceptanceRate": "0.605659284990592",
+    "link": "https://leetcode.com/problems/brightest-position-on-street",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ],
+    "id": "Uber-Brightest Position on Street",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Put Marbles in Bags",
+    "frequency": "41.1",
+    "acceptanceRate": "0.7243993824185982",
+    "link": "https://leetcode.com/problems/put-marbles-in-bags",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Uber-Put Marbles in Bags",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "41.1",
+    "acceptanceRate": "0.3584611475412551",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Longest Palindromic Substring",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Frequency of the Most Frequent Element",
+    "frequency": "41.1",
+    "acceptanceRate": "0.44102849589147924",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ],
+    "id": "Uber-Frequency of the Most Frequent Element",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "41.1",
+    "acceptanceRate": "0.4535073359144813",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Uber-Minimum Window Substring",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Water and Jug Problem",
+    "frequency": "41.1",
+    "acceptanceRate": "0.43087157499369977",
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "topics": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "id": "Uber-Water and Jug Problem",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Subarrays With Fixed Bounds",
+    "frequency": "41.1",
+    "acceptanceRate": "0.6940834976032579",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ],
+    "id": "Uber-Count Subarrays With Fixed Bounds",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Bridge",
+    "frequency": "41.1",
+    "acceptanceRate": "0.5864829574238846",
+    "link": "https://leetcode.com/problems/shortest-bridge",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Uber-Shortest Bridge",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "41.1",
+    "acceptanceRate": "0.549918579117808",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Uber-Insert Delete GetRandom O(1)",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "41.1",
+    "acceptanceRate": "0.7790164518819447",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Uber-Rotate Image",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "41.1",
+    "acceptanceRate": "0.5327816407313548",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "id": "Uber-Find Median from Data Stream",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Memory Allocator",
+    "frequency": "41.1",
+    "acceptanceRate": "0.484441262323071",
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ],
+    "id": "Uber-Design Memory Allocator",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Palindromic Subsequences",
+    "frequency": "41.1",
+    "acceptanceRate": "0.39309342421812343",
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Count Palindromic Subsequences",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Different Palindromic Subsequences",
+    "frequency": "41.1",
+    "acceptanceRate": "0.46386912594509",
+    "link": "https://leetcode.com/problems/count-different-palindromic-subsequences",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Count Different Palindromic Subsequences",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Candy",
+    "frequency": "41.1",
+    "acceptanceRate": "0.4669973031537662",
+    "link": "https://leetcode.com/problems/candy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Uber-Candy",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Frequency Stack",
+    "frequency": "41.1",
+    "acceptanceRate": "0.6620493032659615",
+    "link": "https://leetcode.com/problems/maximum-frequency-stack",
+    "topics": [
+      "Hash Table",
+      "Stack",
+      "Design",
+      "Ordered Set"
+    ],
+    "id": "Uber-Maximum Frequency Stack",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Analyze User Website Visit Pattern",
+    "frequency": "41.1",
+    "acceptanceRate": "0.4372699971913551",
+    "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Uber-Analyze User Website Visit Pattern",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Distinct Substrings in a String",
+    "frequency": "41.1",
+    "acceptanceRate": "0.6454241948153967",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "topics": [
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ],
+    "id": "Uber-Number of Distinct Substrings in a String",
+    "company": "Uber",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "90.4",
+    "acceptanceRate": "0.557769903717251",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Uber-Two Sum",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "66.0",
+    "acceptanceRate": "0.4622507658063209",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Uber-Add Two Numbers",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "66.0",
+    "acceptanceRate": "0.5291951450619177",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Uber-Merge Sorted Array",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "66.0",
+    "acceptanceRate": "0.4548305505260665",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Uber-Longest Common Prefix",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6510192881379091",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Uber-Trapping Rain Water",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "62.2",
+    "acceptanceRate": "0.6486626948713667",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Uber-Roman to Integer",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "62.2",
+    "acceptanceRate": "0.37070950181056406",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Uber-3Sum",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Element",
+    "frequency": "62.2",
+    "acceptanceRate": "0.600316358048653",
+    "link": "https://leetcode.com/problems/remove-element",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Uber-Remove Element",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "60.7",
+    "acceptanceRate": "0.4381459000864632",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Uber-Median of Two Sorted Arrays",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "59.2",
+    "acceptanceRate": "0.47040828018665215",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Uber-Longest Consecutive Sequence",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sqrt(x)",
+    "frequency": "59.2",
+    "acceptanceRate": "0.40371793454567134",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "Uber-Sqrt(x)",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "59.2",
+    "acceptanceRate": "0.42322820646682113",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Uber-Valid Parentheses",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "59.2",
+    "acceptanceRate": "0.6684091757223755",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Uber-Merge Two Sorted Lists",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "59.2",
+    "acceptanceRate": "0.4305773671839413",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Uber-Next Permutation",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "57.5",
+    "acceptanceRate": "0.30308922026144375",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "Uber-Reverse Integer",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "57.5",
+    "acceptanceRate": "0.5209977771112393",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Maximum Subarray",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "57.5",
+    "acceptanceRate": "0.6385756647080152",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Uber-Letter Combinations of a Phone Number",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "55.7",
+    "acceptanceRate": "0.449716000865219",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "Uber-Find the Index of the First Occurrence in a String",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "55.7",
+    "acceptanceRate": "0.6035551112882038",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Uber-Remove Duplicates from Sorted Array",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "55.7",
+    "acceptanceRate": "0.7713286717803378",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Uber-Generate Parentheses",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "53.7",
+    "acceptanceRate": "0.415032567042063",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Uber-Jump Game II",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "53.7",
+    "acceptanceRate": "0.4682873183580639",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Uber-Find First and Last Position of Element in Sorted Array",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "51.4",
+    "acceptanceRate": "0.5354070673548961",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Uber-Climbing Stairs",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "51.4",
+    "acceptanceRate": "0.39479197867291327",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Uber-Jump Game",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "51.4",
+    "acceptanceRate": "0.36936167568169936",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Uber-Longest Substring Without Repeating Characters",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "51.4",
+    "acceptanceRate": "0.5922455404045137",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Uber-Palindrome Number",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "51.4",
+    "acceptanceRate": "0.5778282574410597",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Uber-Container With Most Water",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5096357249551178",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Uber-Valid Palindrome",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "49.0",
+    "acceptanceRate": "0.4827377619034214",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Uber-Word Break",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Plus One",
+    "frequency": "49.0",
+    "acceptanceRate": "0.47547604232787566",
+    "link": "https://leetcode.com/problems/plus-one",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Uber-Plus One",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Search Insert Position",
+    "frequency": "49.0",
+    "acceptanceRate": "0.4901241638473952",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Uber-Search Insert Position",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "49.0",
+    "acceptanceRate": "0.4283722138743466",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Uber-Search in Rotated Sorted Array",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "46.2",
+    "acceptanceRate": "0.5160676713980508",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "Uber-Zigzag Conversion",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode Ways",
+    "frequency": "46.2",
+    "acceptanceRate": "0.3653098525409497",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Decode Ways",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": "43.0",
+    "acceptanceRate": "0.7059658947038693",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Uber-Binary Tree Level Order Traversal",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "43.0",
+    "acceptanceRate": "0.6070879795849693",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Uber-Set Matrix Zeroes",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "43.0",
+    "acceptanceRate": "0.6950023404506479",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Uber-Best Time to Buy and Sell Stock II",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Length of Last Word",
+    "frequency": "43.0",
+    "acceptanceRate": "0.5631926112536397",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "topics": [
+      "String"
+    ],
+    "id": "Uber-Length of Last Word",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "43.0",
+    "acceptanceRate": "0.5644510197289069",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Uber-Min Stack",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "43.0",
+    "acceptanceRate": "0.3631311456770452",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "id": "Uber-Longest Valid Parentheses",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pascal's Triangle",
+    "frequency": "39.2",
+    "acceptanceRate": "0.770215491719448",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Pascal's Triangle",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reorder List",
+    "frequency": "39.2",
+    "acceptanceRate": "0.6250474980864169",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Uber-Reorder List",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Linked List Cycle",
+    "frequency": "39.2",
+    "acceptanceRate": "0.5257062260569889",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Uber-Linked List Cycle",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Two Integers",
+    "frequency": "39.2",
+    "acceptanceRate": "0.18396975085033054",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "id": "Uber-Divide Two Integers",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "39.2",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Uber-First Missing Positive",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum II",
+    "frequency": "34.6",
+    "acceptanceRate": "0.5767453180420465",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Uber-Combination Sum II",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "34.6",
+    "acceptanceRate": "0.567741907864408",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Uber-Merge k Sorted Lists",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate Binary Search Tree",
+    "frequency": "34.6",
+    "acceptanceRate": "0.34380387886661157",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Uber-Validate Binary Search Tree",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": "34.6",
+    "acceptanceRate": "0.41224270953366093",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Uber-Binary Tree Maximum Path Sum",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum Closest",
+    "frequency": "34.6",
+    "acceptanceRate": "0.468869600214817",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Uber-3Sum Closest",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array II",
+    "frequency": "34.6",
+    "acceptanceRate": "0.3887965146188378",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Uber-Search in Rotated Sorted Array II",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "34.6",
+    "acceptanceRate": "0.808795565390318",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Uber-Subsets",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "34.6",
+    "acceptanceRate": "0.29280131010169236",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "id": "Uber-Regular Expression Matching",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Break II",
+    "frequency": "34.6",
+    "acceptanceRate": "0.5364536357075469",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Uber-Word Break II",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "34.6",
+    "acceptanceRate": "0.8066011364163758",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Uber-Permutations",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Binary",
+    "frequency": "34.6",
+    "acceptanceRate": "0.5567701348180015",
+    "link": "https://leetcode.com/problems/add-binary",
+    "topics": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ],
+    "id": "Uber-Add Binary",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "34.6",
+    "acceptanceRate": "0.5191326197169353",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Uber-Reverse Words in a String",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Binary Tree to Linked List",
+    "frequency": "28.9",
+    "acceptanceRate": "0.6851010744073592",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Uber-Flatten Binary Tree to Linked List",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindrome Partitioning",
+    "frequency": "28.9",
+    "acceptanceRate": "0.7212808256354587",
+    "link": "https://leetcode.com/problems/palindrome-partitioning",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Uber-Palindrome Partitioning",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "28.9",
+    "acceptanceRate": "0.38219020113793045",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Uber-4Sum",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String to Integer (atoi)",
+    "frequency": "28.9",
+    "acceptanceRate": "0.19229423495277723",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "topics": [
+      "String"
+    ],
+    "id": "Uber-String to Integer (atoi)",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Distinct Subsequences",
+    "frequency": "28.9",
+    "acceptanceRate": "0.500998941013352",
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Distinct Subsequences",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Depth of Binary Tree",
+    "frequency": "28.9",
+    "acceptanceRate": "0.506666811649461",
+    "link": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Uber-Minimum Depth of Binary Tree",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Tree Inorder Traversal",
+    "frequency": "28.9",
+    "acceptanceRate": "0.7858399006715053",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Uber-Binary Tree Inorder Traversal",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "28.9",
+    "acceptanceRate": "0.6577283527258664",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Uber-Unique Paths",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens",
+    "frequency": "28.9",
+    "acceptanceRate": "0.7281704967757537",
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Uber-N-Queens",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "28.9",
+    "acceptanceRate": "0.37023188235218485",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Uber-Pow(x, n)",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Swap Nodes in Pairs",
+    "frequency": "28.9",
+    "acceptanceRate": "0.6720136828647639",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Uber-Swap Nodes in Pairs",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "28.9",
+    "acceptanceRate": "0.6758312948649591",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Uber-Sort Colors",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees II",
+    "frequency": "21.1",
+    "acceptanceRate": "0.6039807221122715",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "topics": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Uber-Unique Binary Search Trees II",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Linked List II",
+    "frequency": "21.1",
+    "acceptanceRate": "0.49591713945765414",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Uber-Reverse Linked List II",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "21.1",
+    "acceptanceRate": "0.6861931275088928",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Uber-Integer to Roman",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock III",
+    "frequency": "21.1",
+    "acceptanceRate": "0.5112087693447603",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Best Time to Buy and Sell Stock III",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Balanced Binary Tree",
+    "frequency": "21.1",
+    "acceptanceRate": "0.5534202381170411",
+    "link": "https://leetcode.com/problems/balanced-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Uber-Balanced Binary Tree",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Multiply Strings",
+    "frequency": "21.1",
+    "acceptanceRate": "0.4228941429852704",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Uber-Multiply Strings",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Wildcard Matching",
+    "frequency": "21.1",
+    "acceptanceRate": "0.2989835093068089",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ],
+    "id": "Uber-Wildcard Matching",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interleaving String",
+    "frequency": "21.1",
+    "acceptanceRate": "0.4217918033968859",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Interleaving String",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Nth Node From End of List",
+    "frequency": "21.1",
+    "acceptanceRate": "0.48961030525634286",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Uber-Remove Nth Node From End of List",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths II",
+    "frequency": "21.1",
+    "acceptanceRate": "0.43154364997722033",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Uber-Unique Paths II",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Max Points on a Line",
+    "frequency": "21.1",
+    "acceptanceRate": "0.2895514653845652",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ],
+    "id": "Uber-Max Points on a Line",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix II",
+    "frequency": "21.1",
+    "acceptanceRate": "0.734312719680276",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Uber-Spiral Matrix II",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "21.1",
+    "acceptanceRate": "0.3494162954383182",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Uber-Maximum Product Subarray",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "frequency": "21.1",
+    "acceptanceRate": "0.6445920225309912",
+    "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Uber-Convert Sorted List to Binary Search Tree",
+    "company": "Uber",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Depth of Binary Tree",
+    "frequency": "56.5",
+    "acceptanceRate": "0.7713813520613833",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Uber-Maximum Depth of Binary Tree",
+    "company": "Uber",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sudoku Solver",
+    "frequency": "53.3",
+    "acceptanceRate": "0.6390871778033164",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ],
+    "id": "Uber-Sudoku Solver",
+    "company": "Uber",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "51.4",
+    "acceptanceRate": "0.7467467920803577",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Uber-Combination Sum",
+    "company": "Uber",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Copy List with Random Pointer",
+    "frequency": "49.5",
+    "acceptanceRate": "0.6053669280147949",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "topics": [
+      "Hash Table",
+      "Linked List"
+    ],
+    "id": "Uber-Copy List with Random Pointer",
+    "company": "Uber",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Clone Graph",
+    "frequency": "49.5",
+    "acceptanceRate": "0.6238572271830614",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Uber-Clone Graph",
+    "company": "Uber",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicates from Sorted Array II",
+    "frequency": "17.7",
+    "acceptanceRate": "0.6290181029288465",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Uber-Remove Duplicates from Sorted Array II",
+    "company": "Uber",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximal Rectangle",
+    "frequency": "17.7",
+    "acceptanceRate": "0.5370845822665518",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "id": "Uber-Maximal Rectangle",
+    "company": "Uber",
+    "timeframe": "all"
+  }
+]

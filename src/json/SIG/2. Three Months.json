@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Black Blocks",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3862287177941841",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778282666830817",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6510199452828925",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check if a Parentheses String Can Be Valid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.44858593577735023",
+    "link": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49395238677841924",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  }
+]

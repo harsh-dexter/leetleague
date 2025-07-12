@@ -1,0 +1,69 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design a Stack With Increment Operation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8013068356286052",
+    "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "topics": [
+      "Array",
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6510865148781917",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest String Chain",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6201747823811324",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "89.2",
+    "acceptanceRate": "0.5214228658199016",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Single Element in a Sorted Array",
+    "frequency": "89.2",
+    "acceptanceRate": "0.5920752928191202",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

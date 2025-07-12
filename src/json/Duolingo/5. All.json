@@ -1,0 +1,51 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Encrypt and Decrypt Strings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36894864936504496",
+    "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of People to Teach",
+    "frequency": "82.6",
+    "acceptanceRate": "0.43701789571120025",
+    "link": "https://leetcode.com/problems/minimum-number-of-people-to-teach",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "K Radius Subarray Averages",
+    "frequency": "80.9",
+    "acceptanceRate": "0.4595762325330679",
+    "link": "https://leetcode.com/problems/k-radius-subarray-averages",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler II",
+    "frequency": "52.1",
+    "acceptanceRate": "0.5397196782316108",
+    "link": "https://leetcode.com/problems/task-scheduler-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939842314628382",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minesweeper",
+    "frequency": "96.6",
+    "acceptanceRate": "0.6812276619036227",
+    "link": "https://leetcode.com/problems/minesweeper",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Abbreviation",
+    "frequency": "92.5",
+    "acceptanceRate": "0.6190250925545043",
+    "link": "https://leetcode.com/problems/word-abbreviation",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Trie",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Range Sum Query 2D - Immutable",
+    "frequency": "72.1",
+    "acceptanceRate": "0.5653032094178108",
+    "link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "topics": [
+      "Array",
+      "Design",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  }
+]

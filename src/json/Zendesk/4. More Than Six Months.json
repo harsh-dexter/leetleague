@@ -1,0 +1,35 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Reverse Polish Notation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5495723545430139",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "topics": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Categorize Box According to Criteria",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3766858163729989",
+    "link": "https://leetcode.com/problems/categorize-box-according-to-criteria",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Distribute Money to Maximum Children",
+    "frequency": "100.0",
+    "acceptanceRate": "0.19451696488486803",
+    "link": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+    "topics": [
+      "Math",
+      "Greedy"
+    ]
+  }
+]

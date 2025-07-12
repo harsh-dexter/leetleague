@@ -1,0 +1,34 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6244505288303076",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Tower Research Capital-Unique Binary Search Trees",
+    "company": "Tower Research Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Bricks Falling When Hit",
+    "frequency": "73.8",
+    "acceptanceRate": "0.3572389298699115",
+    "link": "https://leetcode.com/problems/bricks-falling-when-hit",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Tower Research Capital-Bricks Falling When Hit",
+    "company": "Tower Research Capital",
+    "timeframe": "more_than_180"
+  }
+]

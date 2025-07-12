@@ -1,0 +1,94 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Stock Price Fluctuation ",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4816387154783381",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "93.8",
+    "acceptanceRate": "0.5214164447683243",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "All O`one Data Structure",
+    "frequency": "85.0",
+    "acceptanceRate": "0.44134779761452186",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Snake Game",
+    "frequency": "78.7",
+    "acceptanceRate": "0.3968485567576451",
+    "link": "https://leetcode.com/problems/design-snake-game",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "High-Access Employees",
+    "frequency": "78.7",
+    "acceptanceRate": "0.46126369648115073",
+    "link": "https://leetcode.com/problems/high-access-employees",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "69.9",
+    "acceptanceRate": "0.6675501387816432",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "69.9",
+    "acceptanceRate": "0.49067280156684456",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

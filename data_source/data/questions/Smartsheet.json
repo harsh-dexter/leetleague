@@ -1,0 +1,75 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Max Area of Island",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7316420661679919",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Smartsheet-Max Area of Island",
+    "company": "Smartsheet",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Words",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5927710095523129",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "id": "Smartsheet-Top K Frequent Words",
+    "company": "Smartsheet",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7092887900352582",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Smartsheet-Group Anagrams",
+    "company": "Smartsheet",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6456608564373112",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Smartsheet-Top K Frequent Elements",
+    "company": "Smartsheet",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Cost to Make Array Equal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4632379781368273",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43057752623445206",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Chalkboard XOR Game",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6295199566250991",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Game Theory"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4150342458178816",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5878982137282472",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778291958481471",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  }
+]

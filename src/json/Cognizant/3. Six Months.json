@@ -1,0 +1,91 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Count Subarrays of Length Three With a Condition",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6194995076327956",
+    "link": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "73.7",
+    "acceptanceRate": "0.3584617777962999",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "64.9",
+    "acceptanceRate": "0.6035567421385941",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "64.9",
+    "acceptanceRate": "0.3693614804892",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "64.9",
+    "acceptanceRate": "0.6666100681122782",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "64.9",
+    "acceptanceRate": "0.4386517852577502",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "64.9",
+    "acceptanceRate": "0.43814667695055187",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "64.9",
+    "acceptanceRate": "0.5922452723221134",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ]
+  }
+]

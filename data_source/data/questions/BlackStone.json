@@ -1,0 +1,30 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577710476241219",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "BlackStone-Two Sum",
+    "company": "BlackStone",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Make The String Great",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6827712026770142",
+    "link": "https://leetcode.com/problems/make-the-string-great",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "BlackStone-Make The String Great",
+    "company": "BlackStone",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4386517852577502",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43814667695055187",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5922452723221134",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ]
+  }
+]

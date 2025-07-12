@@ -1,0 +1,41 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232010095175516",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Possible Bipartition",
+    "frequency": "82.9",
+    "acceptanceRate": "0.5150773648728767",
+    "link": "https://leetcode.com/problems/possible-bipartition",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "82.9",
+    "acceptanceRate": "0.6227680872343923",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  }
+]

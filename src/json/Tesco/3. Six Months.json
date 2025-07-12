@@ -1,0 +1,12 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Insert Interval",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43473480634494643",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "topics": [
+      "Array"
+    ]
+  }
+]

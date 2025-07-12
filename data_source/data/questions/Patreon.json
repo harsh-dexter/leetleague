@@ -1,0 +1,47 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "100.0",
+    "acceptanceRate": "0.47854762508213033",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Patreon-Simplify Path",
+    "company": "Patreon",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": "74.0",
+    "acceptanceRate": "0.4122434478014677",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Patreon-Binary Tree Maximum Path Sum",
+    "company": "Patreon",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Logger Rate Limiter",
+    "frequency": "74.0",
+    "acceptanceRate": "0.766103057053701",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ],
+    "id": "Patreon-Logger Rate Limiter",
+    "company": "Patreon",
+    "timeframe": "more_than_180"
+  }
+]

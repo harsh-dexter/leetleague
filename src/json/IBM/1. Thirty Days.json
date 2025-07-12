@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6364613847469199",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

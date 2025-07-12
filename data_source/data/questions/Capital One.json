@@ -1,0 +1,732 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rotating the Box",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7909813050714205",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ],
+    "id": "Capital One-Rotating the Box",
+    "company": "Capital One",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Block Placement Queries",
+    "frequency": "89.6",
+    "acceptanceRate": "0.168902023187088",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "Capital One-Block Placement Queries",
+    "company": "Capital One",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "89.6",
+    "acceptanceRate": "0.4939526057316443",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Capital One-Merge Intervals",
+    "company": "Capital One",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simple Bank System",
+    "frequency": "89.6",
+    "acceptanceRate": "0.6142935665806328",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ],
+    "id": "Capital One-Simple Bank System",
+    "company": "Capital One",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "89.6",
+    "acceptanceRate": "0.47854346003751436",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Capital One-Simplify Path",
+    "company": "Capital One",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6194290206869442",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ],
+    "id": "Capital One-Minimum Operations to Write the Letter Y on a Grid",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Black Blocks",
+    "frequency": "83.9",
+    "acceptanceRate": "0.3861547271028601",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ],
+    "id": "Capital One-Number of Black Blocks",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Candy Crush",
+    "frequency": "83.9",
+    "acceptanceRate": "0.7736899161778655",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Capital One-Candy Crush",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Subarrays That Match a Pattern I",
+    "frequency": "83.9",
+    "acceptanceRate": "0.6684595198334382",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+    "topics": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ],
+    "id": "Capital One-Number of Subarrays That Match a Pattern I",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Prefix and Suffix Pairs II",
+    "frequency": "77.2",
+    "acceptanceRate": "0.2720387820263219",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ],
+    "id": "Capital One-Count Prefix and Suffix Pairs II",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "77.2",
+    "acceptanceRate": "0.4737767587697204",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Capital One-Largest Rectangle in Histogram",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "67.7",
+    "acceptanceRate": "0.7790165261990751",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Capital One-Rotate Image",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Adjacent Elements With the Same Color",
+    "frequency": "67.7",
+    "acceptanceRate": "0.5575544433923982",
+    "link": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color",
+    "topics": [
+      "Array"
+    ],
+    "id": "Capital One-Number of Adjacent Elements With the Same Color",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "67.7",
+    "acceptanceRate": "0.45214576213144547",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Capital One-LRU Cache",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "67.7",
+    "acceptanceRate": "0.5393976057408939",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Capital One-Spiral Matrix",
+    "company": "Capital One",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Operations to Obtain Zero",
+    "frequency": "81.5",
+    "acceptanceRate": "0.7488952285059014",
+    "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+    "topics": [
+      "Math",
+      "Simulation"
+    ],
+    "id": "Capital One-Count Operations to Obtain Zero",
+    "company": "Capital One",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "frequency": "64.8",
+    "acceptanceRate": "0.5675056206933196",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ],
+    "id": "Capital One-Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "company": "Capital One",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "64.8",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Capital One-Text Justification",
+    "company": "Capital One",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "58.8",
+    "acceptanceRate": "0.5922453846017719",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Capital One-Palindrome Number",
+    "company": "Capital One",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "50.5",
+    "acceptanceRate": "0.5525965239541591",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Capital One-Best Time to Buy and Sell Stock",
+    "company": "Capital One",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Strings",
+    "frequency": "50.5",
+    "acceptanceRate": "0.5190382397212994",
+    "link": "https://leetcode.com/problems/add-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Capital One-Add Strings",
+    "company": "Capital One",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Split Message Based on Limit",
+    "frequency": "84.2",
+    "acceptanceRate": "0.4261603375527427",
+    "link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "topics": [
+      "String",
+      "Binary Search",
+      "Enumeration"
+    ],
+    "id": "Capital One-Split Message Based on Limit",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Remove Boxes",
+    "frequency": "73.4",
+    "acceptanceRate": "0.48292462220613513",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Capital One-Remove Boxes",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Length of the Longest Common Prefix",
+    "frequency": "73.4",
+    "acceptanceRate": "0.564161205458434",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "id": "Capital One-Find the Length of the Longest Common Prefix",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Flowers in Full Bloom",
+    "frequency": "73.4",
+    "acceptanceRate": "0.5717535511066795",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ],
+    "id": "Capital One-Number of Flowers in Full Bloom",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "68.4",
+    "acceptanceRate": "0.4526692829987259",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Capital One-Word Search",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "68.4",
+    "acceptanceRate": "0.4649545396006711",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Capital One-Coin Change",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design File System",
+    "frequency": "61.8",
+    "acceptanceRate": "0.6413755041392486",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "id": "Capital One-Design File System",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Non-overlapping Intervals",
+    "frequency": "61.8",
+    "acceptanceRate": "0.5550284035532288",
+    "link": "https://leetcode.com/problems/non-overlapping-intervals",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Capital One-Non-overlapping Intervals",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Alternating Subarrays",
+    "frequency": "61.8",
+    "acceptanceRate": "0.5631657997941757",
+    "link": "https://leetcode.com/problems/count-alternating-subarrays",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Capital One-Count Alternating Subarrays",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "61.8",
+    "acceptanceRate": "0.6231993887316181",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Capital One-Number of Islands",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "61.8",
+    "acceptanceRate": "0.3732633211647155",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "Capital One-Word Search II",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "52.6",
+    "acceptanceRate": "0.6684089638470286",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Capital One-Merge Two Sorted Lists",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "K-diff Pairs in an Array",
+    "frequency": "52.6",
+    "acceptanceRate": "0.4465086848861965",
+    "link": "https://leetcode.com/problems/k-diff-pairs-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Capital One-K-diff Pairs in an Array",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "52.6",
+    "acceptanceRate": "0.4622508143957371",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Capital One-Add Two Numbers",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "52.6",
+    "acceptanceRate": "0.5214162081616772",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Capital One-Meeting Rooms II",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "52.6",
+    "acceptanceRate": "0.4302138037383672",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Capital One-Rotate Array",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "52.6",
+    "acceptanceRate": "0.6486629287856299",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Capital One-Roman to Integer",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "52.6",
+    "acceptanceRate": "0.42322837860550094",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Capital One-Valid Parentheses",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "frequency": "52.6",
+    "acceptanceRate": "0.4407547923322684",
+    "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "Capital One-Find Servers That Handled Most Number of Requests",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Get Biggest Three Rhombus Sums in a Grid",
+    "frequency": "52.6",
+    "acceptanceRate": "0.49266961268520926",
+    "link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "id": "Capital One-Get Biggest Three Rhombus Sums in a Grid",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Tree Paths",
+    "frequency": "52.6",
+    "acceptanceRate": "0.6656317661585257",
+    "link": "https://leetcode.com/problems/binary-tree-paths",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Capital One-Binary Tree Paths",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Four Divisors",
+    "frequency": "52.6",
+    "acceptanceRate": "0.4481659161589702",
+    "link": "https://leetcode.com/problems/four-divisors",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Capital One-Four Divisors",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "52.6",
+    "acceptanceRate": "0.630436848092667",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Capital One-Reverse Nodes in k-Group",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "52.6",
+    "acceptanceRate": "0.6950027561938028",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Capital One-Best Time to Buy and Sell Stock II",
+    "company": "Capital One",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Absolute Difference Between Elements With Constraint",
+    "frequency": "40.8",
+    "acceptanceRate": "0.3406636948984646",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Ordered Set"
+    ],
+    "id": "Capital One-Minimum Absolute Difference Between Elements With Constraint",
+    "company": "Capital One",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Prefix and Suffix Pairs I",
+    "frequency": "40.8",
+    "acceptanceRate": "0.7768949245817506",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+    "topics": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ],
+    "id": "Capital One-Count Prefix and Suffix Pairs I",
+    "company": "Capital One",
+    "timeframe": "all"
+  }
+]

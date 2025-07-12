@@ -1,0 +1,224 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46828845687354886",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Splunk-Find First and Last Position of Element in Sorted Array",
+    "company": "Splunk",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Height Trees",
+    "frequency": "100.0",
+    "acceptanceRate": "0.420144691524227",
+    "link": "https://leetcode.com/problems/minimum-height-trees",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Splunk-Minimum Height Trees",
+    "company": "Splunk",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Anagrams in a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5220068246888969",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Splunk-Find All Anagrams in a String",
+    "company": "Splunk",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5214182529017943",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Splunk-Meeting Rooms II",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "91.8",
+    "acceptanceRate": "0.709288828623018",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Splunk-Group Anagrams",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Distinct Islands",
+    "frequency": "91.8",
+    "acceptanceRate": "0.6225544075621016",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ],
+    "id": "Splunk-Number of Distinct Islands",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "80.3",
+    "acceptanceRate": "0.49067118888588335",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Splunk-Koko Eating Bananas",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "80.3",
+    "acceptanceRate": "0.6115259200424883",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Splunk-Decode String",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "80.3",
+    "acceptanceRate": "0.4521475035659106",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Splunk-LRU Cache",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Browser History",
+    "frequency": "80.3",
+    "acceptanceRate": "0.7774686768883133",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ],
+    "id": "Splunk-Design Browser History",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "80.3",
+    "acceptanceRate": "0.5780838894511294",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "Splunk-Longest Increasing Subsequence",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "80.3",
+    "acceptanceRate": "0.6510205336424274",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Splunk-Trapping Rain Water",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "80.3",
+    "acceptanceRate": "0.5327808081897567",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "id": "Splunk-Find Median from Data Stream",
+    "company": "Splunk",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "79.4",
+    "acceptanceRate": "0.4232286113783459",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Splunk-Valid Parentheses",
+    "company": "Splunk",
+    "timeframe": "all"
+  }
+]

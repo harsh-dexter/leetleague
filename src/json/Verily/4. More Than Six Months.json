@@ -1,0 +1,143 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5807267179068731",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3947926614382257",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "92.4",
+    "acceptanceRate": "0.7092890050315475",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "92.4",
+    "acceptanceRate": "0.6797709272637654",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Guess the Word",
+    "frequency": "92.4",
+    "acceptanceRate": "0.37651627943192456",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "topics": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest String Chain",
+    "frequency": "92.4",
+    "acceptanceRate": "0.6201519540251159",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Area Rectangle II",
+    "frequency": "92.4",
+    "acceptanceRate": "0.5564209472981988",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+    "topics": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Knight Moves",
+    "frequency": "92.4",
+    "acceptanceRate": "0.41329294235617164",
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "topics": [
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "frequency": "92.4",
+    "acceptanceRate": "0.5646084811588118",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Original Array From Doubled Array",
+    "frequency": "92.4",
+    "acceptanceRate": "0.4048045625260815",
+    "link": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Video Stitching",
+    "frequency": "81.8",
+    "acceptanceRate": "0.5199920692617804",
+    "link": "https://leetcode.com/problems/video-stitching",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  }
+]

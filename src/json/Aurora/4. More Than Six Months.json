@@ -1,0 +1,28 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Distinct Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6225556277539093",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Diameter of Binary Tree",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6358628163246234",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  }
+]

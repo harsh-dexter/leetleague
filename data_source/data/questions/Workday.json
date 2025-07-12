@@ -1,0 +1,123 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.709289019979725",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Workday-Group Anagrams",
+    "company": "Workday",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8121524244503869",
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "topics": [
+      "Linked List",
+      "Math"
+    ],
+    "id": "Workday-Convert Binary Number in a Linked List to Integer",
+    "company": "Workday",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5342357909139157",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Workday-Course Schedule II",
+    "company": "Workday",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4521483770727891",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Workday-LRU Cache",
+    "company": "Workday",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reaching Points",
+    "frequency": "100.0",
+    "acceptanceRate": "0.336468882434809",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "topics": [
+      "Math"
+    ],
+    "id": "Workday-Reaching Points",
+    "company": "Workday",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.493952574621571",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Workday-Merge Intervals",
+    "company": "Workday",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Serialize and Deserialize Binary Tree",
+    "frequency": "100.0",
+    "acceptanceRate": "0.589694187837451",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "topics": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ],
+    "id": "Workday-Serialize and Deserialize Binary Tree",
+    "company": "Workday",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "88.0",
+    "acceptanceRate": "0.8066020773412196",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Workday-Permutations",
+    "company": "Workday",
+    "timeframe": "all"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7920671085582424",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ]
+  }
+]

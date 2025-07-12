@@ -1,0 +1,235 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5441727193976145",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Verkada-Maximum Profit in Job Scheduling",
+    "company": "Verkada",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Non-overlapping Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5550325870996576",
+    "link": "https://leetcode.com/problems/non-overlapping-intervals",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Verkada-Non-overlapping Intervals",
+    "company": "Verkada",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Diameter of Binary Tree",
+    "frequency": "90.5",
+    "acceptanceRate": "0.6358628987039221",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Verkada-Diameter of Binary Tree",
+    "company": "Verkada",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snapshot Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.366655740635895",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Verkada-Snapshot Array",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interval List Intersections",
+    "frequency": "84.6",
+    "acceptanceRate": "0.7267728615564074",
+    "link": "https://leetcode.com/problems/interval-list-intersections",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Line Sweep"
+    ],
+    "id": "Verkada-Interval List Intersections",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "84.6",
+    "acceptanceRate": "0.45811755825176165",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "Verkada-Basic Calculator II",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Guess the Word",
+    "frequency": "79.7",
+    "acceptanceRate": "0.37651627943192456",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "topics": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ],
+    "id": "Verkada-Guess the Word",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "73.3",
+    "acceptanceRate": "0.5677425213018046",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Verkada-Merge k Sorted Lists",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Transpose Matrix",
+    "frequency": "73.3",
+    "acceptanceRate": "0.7432867206392598",
+    "link": "https://leetcode.com/problems/transpose-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Verkada-Transpose Matrix",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Image Smoother",
+    "frequency": "64.3",
+    "acceptanceRate": "0.6837229689163258",
+    "link": "https://leetcode.com/problems/image-smoother",
+    "topics": [
+      "Array",
+      "Matrix"
+    ],
+    "id": "Verkada-Image Smoother",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "64.3",
+    "acceptanceRate": "0.49366391503965124",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Verkada-Time Based Key-Value Store",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Sub-Folders from the Filesystem",
+    "frequency": "64.3",
+    "acceptanceRate": "0.7574624821995838",
+    "link": "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Trie"
+    ],
+    "id": "Verkada-Remove Sub-Folders from the Filesystem",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator III",
+    "frequency": "64.3",
+    "acceptanceRate": "0.5246933031589953",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Verkada-Basic Calculator III",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "64.3",
+    "acceptanceRate": "0.4521483770727891",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Verkada-LRU Cache",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of 1 Bits",
+    "frequency": "64.3",
+    "acceptanceRate": "0.7450480575885099",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "topics": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ],
+    "id": "Verkada-Number of 1 Bits",
+    "company": "Verkada",
+    "timeframe": "more_than_180"
+  }
+]

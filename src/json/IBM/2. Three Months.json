@@ -1,0 +1,49 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Gray Code",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6187231456205623",
+    "link": "https://leetcode.com/problems/gray-code",
+    "topics": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3707096536037866",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7790165261990751",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6364613847469199",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

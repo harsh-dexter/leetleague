@@ -1,0 +1,79 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Clone Graph",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6238601074675428",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "ThousandEyes-Clone Graph",
+    "company": "ThousandEyes",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5499172170512081",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "ThousandEyes-Insert Delete GetRandom O(1)",
+    "company": "ThousandEyes",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design In-Memory File System",
+    "frequency": "90.1",
+    "acceptanceRate": "0.48168927561926755",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie",
+      "Sorting"
+    ],
+    "id": "ThousandEyes-Design In-Memory File System",
+    "company": "ThousandEyes",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "90.1",
+    "acceptanceRate": "0.45214980165457386",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "ThousandEyes-LRU Cache",
+    "company": "ThousandEyes",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Cache With Time Limit",
+    "frequency": "89.5",
+    "acceptanceRate": "0.7578510164111569",
+    "link": "https://leetcode.com/problems/cache-with-time-limit",
+    "topics": [],
+    "id": "ThousandEyes-Cache With Time Limit",
+    "company": "ThousandEyes",
+    "timeframe": "all"
+  }
+]

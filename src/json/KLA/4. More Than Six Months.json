@@ -1,0 +1,59 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6486643502043604",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "LFU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46609147192725375",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reaching Points",
+    "frequency": "100.0",
+    "acceptanceRate": "0.336468882434809",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Swap",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5184843217200763",
+    "link": "https://leetcode.com/problems/maximum-swap",
+    "topics": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577703230564676",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

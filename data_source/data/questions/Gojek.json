@@ -1,0 +1,77 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.706014341486616",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Gojek-Binary Tree Level Order Traversal",
+    "company": "Gojek",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4786401080268387",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Gojek-Simplify Path",
+    "company": "Gojek",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.47605208939888494",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "Gojek-Sliding Window Maximum",
+    "company": "Gojek",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Convert an Array Into a 2D Array With Conditions",
+    "frequency": "89.9",
+    "acceptanceRate": "0.8630692551951445",
+    "link": "https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Gojek-Convert an Array Into a 2D Array With Conditions",
+    "company": "Gojek",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "89.9",
+    "acceptanceRate": "0.370750739413222",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Gojek-3Sum",
+    "company": "Gojek",
+    "timeframe": "more_than_180"
+  }
+]

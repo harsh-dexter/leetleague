@@ -1,0 +1,114 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49366517298520696",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Axon-Time Based Key-Value Store",
+    "company": "Axon",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "82.1",
+    "acceptanceRate": "0.5499185337366445",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Axon-Insert Delete GetRandom O(1)",
+    "company": "Axon",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "K Closest Points to Origin",
+    "frequency": "73.5",
+    "acceptanceRate": "0.6793976578069371",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "topics": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Axon-K Closest Points to Origin",
+    "company": "Axon",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "73.5",
+    "acceptanceRate": "0.5096361518985055",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Axon-Valid Palindrome",
+    "company": "Axon",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232020829989401",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Axon-Number of Islands",
+    "company": "Axon",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "62.0",
+    "acceptanceRate": "0.6486643969866376",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Axon-Roman to Integer",
+    "company": "Axon",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "62.0",
+    "acceptanceRate": "0.5878980673987401",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Axon-Edit Distance",
+    "company": "Axon",
+    "timeframe": "all"
+  }
+]

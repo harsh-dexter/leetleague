@@ -1,0 +1,16 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48278533987379574",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  }
+]

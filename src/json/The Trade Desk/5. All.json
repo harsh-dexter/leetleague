@@ -1,0 +1,63 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find the Length of the Longest Common Prefix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.564161205458434",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "66.1",
+    "acceptanceRate": "0.45214888759813204",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "66.1",
+    "acceptanceRate": "0.5525969358423186",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "66.1",
+    "acceptanceRate": "0.4581176497577298",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "66.1",
+    "acceptanceRate": "0.4281218971060388",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  }
+]

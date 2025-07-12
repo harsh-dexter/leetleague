@@ -1,0 +1,187 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6194290206869442",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Block Placement Queries",
+    "frequency": "93.3",
+    "acceptanceRate": "0.168902023187088",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotating the Box",
+    "frequency": "89.1",
+    "acceptanceRate": "0.7909813050714205",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simple Bank System",
+    "frequency": "83.9",
+    "acceptanceRate": "0.6142935665806328",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Black Blocks",
+    "frequency": "83.9",
+    "acceptanceRate": "0.3861547271028601",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Candy Crush",
+    "frequency": "83.9",
+    "acceptanceRate": "0.7736899161778655",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Subarrays That Match a Pattern I",
+    "frequency": "83.9",
+    "acceptanceRate": "0.6684595198334382",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+    "topics": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Prefix and Suffix Pairs II",
+    "frequency": "77.2",
+    "acceptanceRate": "0.2720387820263219",
+    "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "77.2",
+    "acceptanceRate": "0.4737767587697204",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "77.2",
+    "acceptanceRate": "0.47854346003751436",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "67.7",
+    "acceptanceRate": "0.7790165261990751",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Adjacent Elements With the Same Color",
+    "frequency": "67.7",
+    "acceptanceRate": "0.5575544433923982",
+    "link": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "67.7",
+    "acceptanceRate": "0.4939526057316443",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "67.7",
+    "acceptanceRate": "0.45214576213144547",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "67.7",
+    "acceptanceRate": "0.5393976057408939",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  }
+]

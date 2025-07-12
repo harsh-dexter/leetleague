@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46828845687354886",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Height Trees",
+    "frequency": "100.0",
+    "acceptanceRate": "0.420144691524227",
+    "link": "https://leetcode.com/problems/minimum-height-trees",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Anagrams in a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5220068246888969",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

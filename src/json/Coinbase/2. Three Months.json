@@ -1,0 +1,41 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Simple Bank System",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6142935665806328",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "85.0",
+    "acceptanceRate": "0.49366346423788904",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Iterator",
+    "frequency": "76.3",
+    "acceptanceRate": "0.6575715893460048",
+    "link": "https://leetcode.com/problems/zigzag-iterator",
+    "topics": [
+      "Array",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  }
+]

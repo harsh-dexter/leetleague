@@ -1,0 +1,32 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43025476735316553",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Scale AI-Rotate Array",
+    "company": "Scale AI",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45481988803680906",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Scale AI-Subarray Sum Equals K",
+    "company": "Scale AI",
+    "timeframe": "more_than_180"
+  }
+]

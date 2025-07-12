@@ -1,0 +1,71 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Logger Rate Limiter",
+    "frequency": "100.0",
+    "acceptanceRate": "0.766103057053701",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Cache With Time Limit",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7578738827979018",
+    "link": "https://leetcode.com/problems/cache-with-time-limit",
+    "topics": []
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Contains Duplicate III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.23633360996542796",
+    "link": "https://leetcode.com/problems/contains-duplicate-iii",
+    "topics": [
+      "Array",
+      "Sliding Window",
+      "Sorting",
+      "Bucket Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "89.2",
+    "acceptanceRate": "0.49067282582685684",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "89.2",
+    "acceptanceRate": "0.6323637027239968",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate II",
+    "frequency": "89.2",
+    "acceptanceRate": "0.49049882675581746",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  }
+]

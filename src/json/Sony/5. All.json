@@ -1,0 +1,54 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Subtree Removal Game with Fibonacci Tree",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5698689956331878",
+    "link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Tree",
+      "Game Theory"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reducing Dishes",
+    "frequency": "74.9",
+    "acceptanceRate": "0.7634905741624626",
+    "link": "https://leetcode.com/problems/reducing-dishes",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "66.5",
+    "acceptanceRate": "0.5525969471064145",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "66.5",
+    "acceptanceRate": "0.48278533987379574",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  }
+]

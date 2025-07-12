@@ -1,0 +1,135 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46857985622916554",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6504033553116321",
+    "link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Is Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4838256584742853",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interval List Intersections",
+    "frequency": "88.1",
+    "acceptanceRate": "0.7267720917127461",
+    "link": "https://leetcode.com/problems/interval-list-intersections",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Line Sweep"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find K Closest Elements",
+    "frequency": "88.1",
+    "acceptanceRate": "0.486686656754684",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "88.1",
+    "acceptanceRate": "0.623199591008705",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "frequency": "88.1",
+    "acceptanceRate": "0.8246674945153157",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Summary Ranges",
+    "frequency": "88.1",
+    "acceptanceRate": "0.5302484768932422",
+    "link": "https://leetcode.com/problems/summary-ranges",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "88.1",
+    "acceptanceRate": "0.369361700262351",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Anagrams in a String",
+    "frequency": "88.1",
+    "acceptanceRate": "0.5220071349201708",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "88.1",
+    "acceptanceRate": "0.4581138691872612",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  }
+]

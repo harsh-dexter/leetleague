@@ -1,0 +1,61 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4737771497127021",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Zynga-Largest Rectangle in Histogram",
+    "company": "Zynga",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "72.0",
+    "acceptanceRate": "0.45500955378989905",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Zynga-Asteroid Collision",
+    "company": "Zynga",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "71.5",
+    "acceptanceRate": "0.7920674493422964",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Zynga-Reverse Linked List",
+    "company": "Zynga",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "71.5",
+    "acceptanceRate": "0.369362122479252",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Zynga-Longest Substring Without Repeating Characters",
+    "company": "Zynga",
+    "timeframe": "all"
+  }
+]

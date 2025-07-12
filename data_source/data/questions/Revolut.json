@@ -1,0 +1,169 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Perfect Squares",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5567499609828845",
+    "link": "https://leetcode.com/problems/perfect-squares",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Revolut-Perfect Squares",
+    "company": "Revolut",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Tree Paths",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6656851312174555",
+    "link": "https://leetcode.com/problems/binary-tree-paths",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Revolut-Binary Tree Paths",
+    "company": "Revolut",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45487231096001735",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Revolut-Longest Common Prefix",
+    "company": "Revolut",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Linked List II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49593923437910803",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Revolut-Reverse Linked List II",
+    "company": "Revolut",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Anagrams in a String",
+    "frequency": "80.9",
+    "acceptanceRate": "0.5220315664185695",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Revolut-Find All Anagrams in a String",
+    "company": "Revolut",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted List",
+    "frequency": "80.9",
+    "acceptanceRate": "0.5487559867838473",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Revolut-Remove Duplicates from Sorted List",
+    "company": "Revolut",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutation in String",
+    "frequency": "71.7",
+    "acceptanceRate": "0.4725154718440558",
+    "link": "https://leetcode.com/problems/permutation-in-string",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Revolut-Permutation in String",
+    "company": "Revolut",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal II",
+    "frequency": "71.7",
+    "acceptanceRate": "0.6601281342865891",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Revolut-Binary Tree Level Order Traversal II",
+    "company": "Revolut",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "71.7",
+    "acceptanceRate": "0.4827956964132365",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ],
+    "id": "Revolut-Random Pick with Weight",
+    "company": "Revolut",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "71.7",
+    "acceptanceRate": "0.6684414597105074",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Revolut-Merge Two Sorted Lists",
+    "company": "Revolut",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "63.2",
+    "acceptanceRate": "0.7007172641908024",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Revolut-Missing Number",
+    "company": "Revolut",
+    "timeframe": "all"
+  }
+]

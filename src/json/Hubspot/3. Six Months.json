@@ -1,0 +1,86 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49395255614763506",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "92.5",
+    "acceptanceRate": "0.5577699645064844",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Celebrity",
+    "frequency": "92.5",
+    "acceptanceRate": "0.48438403563355176",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "topics": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "81.1",
+    "acceptanceRate": "0.5291960020290873",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Occurrences of a Substring",
+    "frequency": "72.1",
+    "acceptanceRate": "0.534283561940137",
+    "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "72.1",
+    "acceptanceRate": "0.5214182529017943",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "72.1",
+    "acceptanceRate": "0.6684090841114372",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5291958949083617",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4232285107271765",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "91.4",
+    "acceptanceRate": "0.5441708252506257",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "91.4",
+    "acceptanceRate": "0.6758309830109738",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Area of Square Hole in Grid",
+    "frequency": "91.4",
+    "acceptanceRate": "0.3697566883188374",
+    "link": "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets II",
+    "frequency": "79.2",
+    "acceptanceRate": "0.5950728535283255",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Length of Pair Chain",
+    "frequency": "79.2",
+    "acceptanceRate": "0.6087689786906313",
+    "link": "https://leetcode.com/problems/maximum-length-of-pair-chain",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "79.2",
+    "acceptanceRate": "0.6574031819588328",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "79.2",
+    "acceptanceRate": "0.6684090860904955",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Value to Get Positive Step by Step Sum",
+    "frequency": "79.2",
+    "acceptanceRate": "0.6462878389161475",
+    "link": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "79.2",
+    "acceptanceRate": "0.4704085483066707",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "79.2",
+    "acceptanceRate": "0.452147387470624",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "79.2",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "79.2",
+    "acceptanceRate": "0.4381462083330783",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "79.2",
+    "acceptanceRate": "0.4547627237551225",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  }
+]

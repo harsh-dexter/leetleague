@@ -1,0 +1,235 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8215204393310427",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "92.9",
+    "acceptanceRate": "0.45350671702442985",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "88.5",
+    "acceptanceRate": "0.4550061229796745",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Mountain in Array",
+    "frequency": "88.5",
+    "acceptanceRate": "0.4107846968136123",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "83.0",
+    "acceptanceRate": "0.6232014425500368",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "83.0",
+    "acceptanceRate": "0.549919064652625",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "75.9",
+    "acceptanceRate": "0.6486636808679633",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "frequency": "75.9",
+    "acceptanceRate": "0.4156976135101724",
+    "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "75.9",
+    "acceptanceRate": "0.5677426186956992",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "75.9",
+    "acceptanceRate": "0.5577702725256378",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Degree of an Array",
+    "frequency": "75.9",
+    "acceptanceRate": "0.5742054384866819",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "66.0",
+    "acceptanceRate": "0.5214172217778257",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "66.0",
+    "acceptanceRate": "0.4521484931675215",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "frequency": "66.0",
+    "acceptanceRate": "0.6131209568946355",
+    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "topics": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "66.0",
+    "acceptanceRate": "0.716780342298775",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Product Less Than K",
+    "frequency": "66.0",
+    "acceptanceRate": "0.5285353676533414",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Winner of the Circular Game",
+    "frequency": "66.0",
+    "acceptanceRate": "0.8206653804804053",
+    "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Recursion",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "66.0",
+    "acceptanceRate": "0.6456597639542642",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  }
+]

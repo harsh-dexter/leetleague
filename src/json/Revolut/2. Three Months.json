@@ -1,0 +1,28 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Perfect Squares",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5567499609828845",
+    "link": "https://leetcode.com/problems/perfect-squares",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Tree Paths",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6656851312174555",
+    "link": "https://leetcode.com/problems/binary-tree-paths",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  }
+]

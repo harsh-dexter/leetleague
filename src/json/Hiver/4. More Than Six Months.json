@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2928271734281088",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3494355670500016",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

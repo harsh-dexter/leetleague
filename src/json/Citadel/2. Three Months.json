@@ -1,0 +1,74 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.47604171417820246",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "74.4",
+    "acceptanceRate": "0.49395252843651954",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Palindromic Subsequences",
+    "frequency": "65.7",
+    "acceptanceRate": "0.39309342421812343",
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Scheduler",
+    "frequency": "65.7",
+    "acceptanceRate": "0.5522977372018112",
+    "link": "https://leetcode.com/problems/meeting-scheduler",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "frequency": "65.7",
+    "acceptanceRate": "0.4407547923322684",
+    "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "65.7",
+    "acceptanceRate": "0.5525965329429721",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

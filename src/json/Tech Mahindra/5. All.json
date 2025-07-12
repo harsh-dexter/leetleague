@@ -1,0 +1,59 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5526336199113497",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "88.9",
+    "acceptanceRate": "0.30311015397550334",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "88.9",
+    "acceptanceRate": "0.5578039816096513",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "88.9",
+    "acceptanceRate": "0.6666408548009657",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Primes",
+    "frequency": "88.9",
+    "acceptanceRate": "0.34793817548089095",
+    "link": "https://leetcode.com/problems/count-primes",
+    "topics": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ]
+  }
+]

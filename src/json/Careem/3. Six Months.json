@@ -1,0 +1,16 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6920831928267657",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6420134726680878",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "65.7",
+    "acceptanceRate": "0.6648163958709197",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "100.0",
+    "acceptanceRate": "0.41088293225619493",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Licious-First Missing Positive",
+    "company": "Licious",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5781353856181244",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "Licious-Longest Increasing Subsequence",
+    "company": "Licious",
+    "timeframe": "more_than_180"
+  }
+]

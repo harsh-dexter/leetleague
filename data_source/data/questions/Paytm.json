@@ -1,0 +1,442 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36936143087114587",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Paytm-Longest Substring Without Repeating Characters",
+    "company": "Paytm",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5644518859966641",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Paytm-Min Stack",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Divisible Substrings",
+    "frequency": "87.8",
+    "acceptanceRate": "0.734086999262718",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ],
+    "id": "Paytm-Number of Divisible Substrings",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Linked List Cycle II",
+    "frequency": "82.0",
+    "acceptanceRate": "0.5493371897962611",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Paytm-Linked List Cycle II",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "82.0",
+    "acceptanceRate": "0.42322863253944365",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Paytm-Valid Parentheses",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "74.6",
+    "acceptanceRate": "0.5778288104589794",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Paytm-Container With Most Water",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove All Adjacent Duplicates In String",
+    "frequency": "74.6",
+    "acceptanceRate": "0.715875534292082",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Paytm-Remove All Adjacent Duplicates In String",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "74.6",
+    "acceptanceRate": "0.43057749705134357",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Paytm-Next Permutation",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "74.6",
+    "acceptanceRate": "0.5191333530123619",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Paytm-Reverse Words in a String",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "74.6",
+    "acceptanceRate": "0.37071015514038136",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Paytm-3Sum",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "64.1",
+    "acceptanceRate": "0.6950034213804929",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Paytm-Best Time to Buy and Sell Stock II",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "64.1",
+    "acceptanceRate": "0.4386521416285213",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "Paytm-Second Highest Salary",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Execute Asynchronous Functions in Parallel",
+    "frequency": "64.1",
+    "acceptanceRate": "0.7767537485378044",
+    "link": "https://leetcode.com/problems/execute-asynchronous-functions-in-parallel",
+    "topics": [],
+    "id": "Paytm-Execute Asynchronous Functions in Parallel",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "64.1",
+    "acceptanceRate": "0.35846128129286803",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Paytm-Longest Palindromic Substring",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "64.1",
+    "acceptanceRate": "0.5577699822379825",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Paytm-Two Sum",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Indices With Index and Value Difference I",
+    "frequency": "64.1",
+    "acceptanceRate": "0.6026607149574311",
+    "link": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-i",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Paytm-Find Indices With Index and Value Difference I",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Nice Subarray",
+    "frequency": "64.1",
+    "acceptanceRate": "0.6482945846552078",
+    "link": "https://leetcode.com/problems/longest-nice-subarray",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ],
+    "id": "Paytm-Longest Nice Subarray",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimize Maximum of Array",
+    "frequency": "64.1",
+    "acceptanceRate": "0.4642315393483405",
+    "link": "https://leetcode.com/problems/minimize-maximum-of-array",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ],
+    "id": "Paytm-Minimize Maximum of Array",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of Unequal Triplets in Array",
+    "frequency": "64.1",
+    "acceptanceRate": "0.7265003738190717",
+    "link": "https://leetcode.com/problems/number-of-unequal-triplets-in-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Paytm-Number of Unequal Triplets in Array",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Indices With Index and Value Difference II",
+    "frequency": "64.1",
+    "acceptanceRate": "0.3175419892149137",
+    "link": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Paytm-Find Indices With Index and Value Difference II",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "64.1",
+    "acceptanceRate": "0.7920660065062484",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Paytm-Reverse Linked List",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "64.1",
+    "acceptanceRate": "0.4128051169745967",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Paytm-Largest Number",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "64.1",
+    "acceptanceRate": "0.6778002355055325",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Paytm-Product of Array Except Self",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "64.1",
+    "acceptanceRate": "0.52648304766644",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Paytm-Find Minimum in Rotated Sorted Array",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "64.1",
+    "acceptanceRate": "0.4704088051228116",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Paytm-Longest Consecutive Sequence",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "64.1",
+    "acceptanceRate": "0.45267022679743557",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Paytm-Word Search",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "64.1",
+    "acceptanceRate": "0.6510205336424274",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Paytm-Trapping Rain Water",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "64.1",
+    "acceptanceRate": "0.42837245101359217",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Paytm-Search in Rotated Sorted Array",
+    "company": "Paytm",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "57.2",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Paytm-String Compression",
+    "company": "Paytm",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum of Subarray Minimums",
+    "frequency": "57.2",
+    "acceptanceRate": "0.3762351166424223",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Paytm-Sum of Subarray Minimums",
+    "company": "Paytm",
+    "timeframe": "all"
+  }
+]

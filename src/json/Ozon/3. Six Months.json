@@ -1,0 +1,23 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Monotonic Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6169876003093298",
+    "link": "https://leetcode.com/problems/monotonic-array",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939526574581855",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  }
+]

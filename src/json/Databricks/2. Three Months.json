@@ -1,0 +1,89 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "IP to CIDR",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5492354970683057",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "topics": [
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "91.4",
+    "acceptanceRate": "0.6920824458148753",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber II",
+    "frequency": "76.6",
+    "acceptanceRate": "0.43562717574783655",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "frequency": "76.6",
+    "acceptanceRate": "0.5630838477366256",
+    "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "topics": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "68.0",
+    "acceptanceRate": "0.5230498170963667",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Tic-Tac-Toe",
+    "frequency": "68.0",
+    "acceptanceRate": "0.5860156512359185",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snapshot Array",
+    "frequency": "68.0",
+    "acceptanceRate": "0.36665375389245647",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ]
+  }
+]

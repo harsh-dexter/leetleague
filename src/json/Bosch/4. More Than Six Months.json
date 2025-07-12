@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Middle of the Linked List",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8058170744812857",
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3707121493733402",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  }
+]

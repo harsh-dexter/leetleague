@@ -1,0 +1,77 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939523849309626",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7713287456277772",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7092882846587727",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens",
+    "frequency": "100.0",
+    "acceptanceRate": "0.728171156310315",
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reorganize String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5619634145417838",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicate Letters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5135095841552992",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  }
+]

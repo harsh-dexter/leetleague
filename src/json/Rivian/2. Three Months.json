@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Degree of an Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5742054384866819",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

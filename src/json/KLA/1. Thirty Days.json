@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product of First and Last Elements of a Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.29763143653998253",
+    "link": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  }
+]

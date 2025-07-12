@@ -1,0 +1,41 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Moves to Spread Stones Over Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.44315093165667885",
+    "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7425819778656343",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Get Watched Videos by Your Friends",
+    "frequency": "90.0",
+    "acceptanceRate": "0.49756820603084906",
+    "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search",
+      "Graph",
+      "Sorting"
+    ]
+  }
+]

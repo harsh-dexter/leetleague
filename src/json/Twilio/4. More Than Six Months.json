@@ -1,0 +1,127 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Greatness of an Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5864617466875623",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "79.3",
+    "acceptanceRate": "0.6385757423813572",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Univalued Binary Tree",
+    "frequency": "79.3",
+    "acceptanceRate": "0.7209294960383269",
+    "link": "https://leetcode.com/problems/univalued-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "69.3",
+    "acceptanceRate": "0.48150030252296216",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Swaps to Make the String Balanced",
+    "frequency": "69.3",
+    "acceptanceRate": "0.7796926022806927",
+    "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "frequency": "69.3",
+    "acceptanceRate": "0.5016214325632321",
+    "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reformat Date",
+    "frequency": "69.3",
+    "acceptanceRate": "0.6733470658385863",
+    "link": "https://leetcode.com/problems/reformat-date",
+    "topics": [
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "69.3",
+    "acceptanceRate": "0.7092888587313239",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "69.3",
+    "acceptanceRate": "0.41084662614844286",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "69.3",
+    "acceptanceRate": "0.645659866625562",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  }
+]

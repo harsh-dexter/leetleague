@@ -1,0 +1,62 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969539323237",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Tiger Analytics-Best Time to Buy and Sell Stock",
+    "company": "Tiger Analytics",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Consecutive Numbers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46097156353760627",
+    "link": "https://leetcode.com/problems/consecutive-numbers",
+    "topics": [
+      "Database"
+    ],
+    "id": "Tiger Analytics-Consecutive Numbers",
+    "company": "Tiger Analytics",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Closest Number to Zero",
+    "frequency": "89.2",
+    "acceptanceRate": "0.47175183904795115",
+    "link": "https://leetcode.com/problems/find-closest-number-to-zero",
+    "topics": [
+      "Array"
+    ],
+    "id": "Tiger Analytics-Find Closest Number to Zero",
+    "company": "Tiger Analytics",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "89.2",
+    "acceptanceRate": "0.6456604492286534",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Tiger Analytics-Top K Frequent Elements",
+    "company": "Tiger Analytics",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5960173343469628",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  }
+]

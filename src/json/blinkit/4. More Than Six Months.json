@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Avoid Flood in The City",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2739066722234919",
+    "link": "https://leetcode.com/problems/avoid-flood-in-the-city",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Single Element in a Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.592074801559927",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

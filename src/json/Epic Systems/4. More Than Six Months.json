@@ -1,0 +1,129 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6385757633103413",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Additive Number",
+    "frequency": "92.8",
+    "acceptanceRate": "0.3254622700270529",
+    "link": "https://leetcode.com/problems/additive-number",
+    "topics": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "89.1",
+    "acceptanceRate": "0.5393983473936499",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "84.5",
+    "acceptanceRate": "0.4232287912473047",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Self Dividing Numbers",
+    "frequency": "74.9",
+    "acceptanceRate": "0.7962262980034188",
+    "link": "https://leetcode.com/problems/self-dividing-numbers",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "70.3",
+    "acceptanceRate": "0.45267040514161516",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Angle Between Hands of a Clock",
+    "frequency": "64.4",
+    "acceptanceRate": "0.6421501908804211",
+    "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "56.1",
+    "acceptanceRate": "0.3693615818367021",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Stepping Numbers",
+    "frequency": "56.1",
+    "acceptanceRate": "0.47668370346917543",
+    "link": "https://leetcode.com/problems/stepping-numbers",
+    "topics": [
+      "Math",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Bulls and Cows",
+    "frequency": "56.1",
+    "acceptanceRate": "0.5138576872462376",
+    "link": "https://leetcode.com/problems/bulls-and-cows",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "56.1",
+    "acceptanceRate": "0.5577701741164135",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

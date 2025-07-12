@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Valid Word Abbreviation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3685165676961013",
+    "link": "https://leetcode.com/problems/valid-word-abbreviation",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46495504462798637",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Circular Queue",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5264418239354727",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  }
+]

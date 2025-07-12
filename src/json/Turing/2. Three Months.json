@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43382458559567927",
+    "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+    "topics": [
+      "Math",
+      "Greedy",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Length of Anagram Concatenation",
+    "frequency": "93.4",
+    "acceptanceRate": "0.39725376355135383",
+    "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "84.1",
+    "acceptanceRate": "0.36936129661119277",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

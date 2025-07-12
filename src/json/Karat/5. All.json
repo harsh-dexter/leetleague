@@ -1,0 +1,192 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48150026993726713",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Check if Every Row and Column Contains All Numbers",
+    "frequency": "89.6",
+    "acceptanceRate": "0.528410934019593",
+    "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Words That Can Be Formed by Characters",
+    "frequency": "88.5",
+    "acceptanceRate": "0.7106798822031877",
+    "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "86.1",
+    "acceptanceRate": "0.45267020648967554",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+    "frequency": "80.2",
+    "acceptanceRate": "0.4587327987118235",
+    "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "60.9",
+    "acceptanceRate": "0.4923436346305696",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Ransom Note",
+    "frequency": "60.9",
+    "acceptanceRate": "0.645236720828959",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6227680872343923",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6232011443676149",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "55.4",
+    "acceptanceRate": "0.48761160727552844",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subdomain Visit Count",
+    "frequency": "47.6",
+    "acceptanceRate": "0.7683449765176875",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "47.6",
+    "acceptanceRate": "0.37326320876213087",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5342347455287296",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "47.6",
+    "acceptanceRate": "0.39479211205555326",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5577699688130624",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

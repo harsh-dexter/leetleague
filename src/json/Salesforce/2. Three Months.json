@@ -1,0 +1,171 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5730954555475073",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "topics": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Closest Equal Element Queries",
+    "frequency": "91.5",
+    "acceptanceRate": "0.31230530920727867",
+    "link": "https://leetcode.com/problems/closest-equal-element-queries",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Time to Visit All Houses",
+    "frequency": "87.7",
+    "acceptanceRate": "0.7034883720930233",
+    "link": "https://leetcode.com/problems/minimum-time-to-visit-all-houses",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "80.2",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Subarrays With Median K",
+    "frequency": "76.9",
+    "acceptanceRate": "0.4553062885040102",
+    "link": "https://leetcode.com/problems/count-subarrays-with-median-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Common Subsequence",
+    "frequency": "68.4",
+    "acceptanceRate": "0.582494259379739",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "53.9",
+    "acceptanceRate": "0.5342350291611208",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "53.9",
+    "acceptanceRate": "0.552596550920607",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "53.9",
+    "acceptanceRate": "0.45214539356143535",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Adjacent Almost-Equal Characters",
+    "frequency": "53.9",
+    "acceptanceRate": "0.5178165886206966",
+    "link": "https://leetcode.com/problems/remove-adjacent-almost-equal-characters",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Optimal Account Balancing",
+    "frequency": "53.9",
+    "acceptanceRate": "0.4993810266893702",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Report Spam Message",
+    "frequency": "53.9",
+    "acceptanceRate": "0.4758434844776858",
+    "link": "https://leetcode.com/problems/report-spam-message",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Product of Three Numbers",
+    "frequency": "53.9",
+    "acceptanceRate": "0.45311603363931174",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Encode and Decode TinyURL",
+    "frequency": "53.9",
+    "acceptanceRate": "0.8636236617619221",
+    "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577703036819196",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Modify the Matrix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6830875645058072",
+    "link": "https://leetcode.com/problems/modify-the-matrix",
+    "topics": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "100.0",
+    "acceptanceRate": "0.666610113985987",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  }
+]

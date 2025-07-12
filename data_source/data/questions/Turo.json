@@ -1,0 +1,79 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5214233389386647",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Turo-Meeting Rooms II",
+    "company": "Turo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "94.8",
+    "acceptanceRate": "0.45220060792334105",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Turo-LRU Cache",
+    "company": "Turo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Meeting Rooms",
+    "frequency": "88.1",
+    "acceptanceRate": "0.5894747413879683",
+    "link": "https://leetcode.com/problems/meeting-rooms",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Turo-Meeting Rooms",
+    "company": "Turo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "78.6",
+    "acceptanceRate": "0.3585065915691926",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Turo-Longest Palindromic Substring",
+    "company": "Turo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "frequency": "78.6",
+    "acceptanceRate": "0.7023805449487369",
+    "link": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ],
+    "id": "Turo-Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "company": "Turo",
+    "timeframe": "more_than_180"
+  }
+]

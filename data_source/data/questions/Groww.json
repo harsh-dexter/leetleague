@@ -1,0 +1,123 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969246907348",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Groww-Best Time to Buy and Sell Stock",
+    "company": "Groww",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6510220235706903",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Groww-Trapping Rain Water",
+    "company": "Groww",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45214974639996014",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Groww-LRU Cache",
+    "company": "Groww",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Operations to Make X and Y Equal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.47386300742408916",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+    "topics": [
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Memoization"
+    ],
+    "id": "Groww-Minimum Number of Operations to Make X and Y Equal",
+    "company": "Groww",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Good Subarray Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.20281964321019574",
+    "link": "https://leetcode.com/problems/maximum-good-subarray-sum",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Groww-Maximum Good Subarray Sum",
+    "company": "Groww",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "64.8",
+    "acceptanceRate": "0.6950034022729801",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Groww-Best Time to Buy and Sell Stock II",
+    "company": "Groww",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock III",
+    "frequency": "64.8",
+    "acceptanceRate": "0.5112112229150665",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Groww-Best Time to Buy and Sell Stock III",
+    "company": "Groww",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "64.8",
+    "acceptanceRate": "0.6758309146279143",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Groww-Sort Colors",
+    "company": "Groww",
+    "timeframe": "all"
+  }
+]

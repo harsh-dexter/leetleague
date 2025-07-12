@@ -1,0 +1,169 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Special Binary String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6351450158420667",
+    "link": "https://leetcode.com/problems/special-binary-string",
+    "topics": [
+      "String",
+      "Recursion"
+    ],
+    "id": "UKG-Special Binary String",
+    "company": "UKG",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Make a Positive Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3808630393996248",
+    "link": "https://leetcode.com/problems/make-a-positive-array",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Prefix Sum"
+    ],
+    "id": "UKG-Make a Positive Array",
+    "company": "UKG",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Length of Anagram Concatenation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3972463749502319",
+    "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "UKG-Minimum Length of Anagram Concatenation",
+    "company": "UKG",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count the Number of Good Subsequences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5057235104197241",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ],
+    "id": "UKG-Count the Number of Good Subsequences",
+    "company": "UKG",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Word",
+    "frequency": "100.0",
+    "acceptanceRate": "0.38720022411772076",
+    "link": "https://leetcode.com/problems/valid-word",
+    "topics": [
+      "String"
+    ],
+    "id": "UKG-Valid Word",
+    "company": "UKG",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Area Rectangle With Point Constraints II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.20597264861847614",
+    "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Geometry",
+      "Sorting"
+    ],
+    "id": "UKG-Maximum Area Rectangle With Point Constraints II",
+    "company": "UKG",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Area Rectangle With Point Constraints I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49693704332423055",
+    "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Geometry",
+      "Sorting",
+      "Enumeration"
+    ],
+    "id": "UKG-Maximum Area Rectangle With Point Constraints I",
+    "company": "UKG",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "73.6",
+    "acceptanceRate": "0.4703938586415305",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "UKG-Longest Consecutive Sequence",
+    "company": "UKG",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "73.6",
+    "acceptanceRate": "0.5578041315978661",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "UKG-Two Sum",
+    "company": "UKG",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "64.8",
+    "acceptanceRate": "0.5526331434030223",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "UKG-Best Time to Buy and Sell Stock",
+    "company": "UKG",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Angle Between Hands of a Clock",
+    "frequency": "64.8",
+    "acceptanceRate": "0.6421431484309058",
+    "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+    "topics": [
+      "Math"
+    ],
+    "id": "UKG-Angle Between Hands of a Clock",
+    "company": "UKG",
+    "timeframe": "more_than_180"
+  }
+]

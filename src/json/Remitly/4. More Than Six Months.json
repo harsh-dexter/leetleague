@@ -1,0 +1,41 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4685798323600621",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler II",
+    "frequency": "79.4",
+    "acceptanceRate": "0.5397196782316108",
+    "link": "https://leetcode.com/problems/task-scheduler-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design Search Autocomplete System",
+    "frequency": "71.0",
+    "acceptanceRate": "0.49406840347530717",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "topics": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  }
+]

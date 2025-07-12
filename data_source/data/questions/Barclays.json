@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232012377009197",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Barclays-Number of Islands",
+    "company": "Barclays",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577701178825513",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Barclays-Two Sum",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4685800275723814",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Barclays-Isomorphic Strings",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.37071061122609317",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Barclays-3Sum",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Lexicographically Smallest Generated String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.29634433006403504",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+    "topics": [
+      "String",
+      "Greedy",
+      "String Matching"
+    ],
+    "id": "Barclays-Lexicographically Smallest Generated String",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Refueling Stops",
+    "frequency": "100.0",
+    "acceptanceRate": "0.405574587771098",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Barclays-Minimum Number of Refueling Stops",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "frequency": "87.3",
+    "acceptanceRate": "0.6210808912817661",
+    "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+    "topics": [
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Barclays-Maximum Employees to Be Invited to a Meeting",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "87.3",
+    "acceptanceRate": "0.5291962432589488",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Barclays-Merge Sorted Array",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "87.3",
+    "acceptanceRate": "0.5209982621027541",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Barclays-Maximum Subarray",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "87.3",
+    "acceptanceRate": "0.8066019584580677",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Barclays-Permutations",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "87.3",
+    "acceptanceRate": "0.5354078905876042",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Barclays-Climbing Stairs",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+    "frequency": "87.3",
+    "acceptanceRate": "0.5723915766867506",
+    "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "id": "Barclays-Count Submatrices with Top-Left Element and Sum Less Than k",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Double Modular Exponentiation",
+    "frequency": "87.3",
+    "acceptanceRate": "0.4710246360582307",
+    "link": "https://leetcode.com/problems/double-modular-exponentiation",
+    "topics": [
+      "Array",
+      "Math",
+      "Simulation"
+    ],
+    "id": "Barclays-Double Modular Exponentiation",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Furthest Point From Origin",
+    "frequency": "87.3",
+    "acceptanceRate": "0.6444120731849435",
+    "link": "https://leetcode.com/problems/furthest-point-from-origin",
+    "topics": [
+      "String",
+      "Counting"
+    ],
+    "id": "Barclays-Furthest Point From Origin",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Mark Elements on Array by Performing Queries",
+    "frequency": "87.3",
+    "acceptanceRate": "0.4769432539403733",
+    "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ],
+    "id": "Barclays-Mark Elements on Array by Performing Queries",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lexicographical Numbers",
+    "frequency": "87.3",
+    "acceptanceRate": "0.7597714941239238",
+    "link": "https://leetcode.com/problems/lexicographical-numbers",
+    "topics": [
+      "Depth-First Search",
+      "Trie"
+    ],
+    "id": "Barclays-Lexicographical Numbers",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Linked List",
+    "frequency": "87.3",
+    "acceptanceRate": "0.5585939012301956",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Barclays-Palindrome Linked List",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "87.3",
+    "acceptanceRate": "0.4232289742372698",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Barclays-Valid Parentheses",
+    "company": "Barclays",
+    "timeframe": "more_than_180"
+  }
+]

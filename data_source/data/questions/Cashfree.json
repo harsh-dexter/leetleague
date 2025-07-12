@@ -1,0 +1,46 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "House Robber IV",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6515789686838721",
+    "link": "https://leetcode.com/problems/house-robber-iv",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Cashfree-House Robber IV",
+    "company": "Cashfree",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Erasure Value",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5942006438410263",
+    "link": "https://leetcode.com/problems/maximum-erasure-value",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "id": "Cashfree-Maximum Erasure Value",
+    "company": "Cashfree",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Non-decreasing Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.25079151841471825",
+    "link": "https://leetcode.com/problems/non-decreasing-array",
+    "topics": [
+      "Array"
+    ],
+    "id": "Cashfree-Non-decreasing Array",
+    "company": "Cashfree",
+    "timeframe": "more_than_180"
+  }
+]

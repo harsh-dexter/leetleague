@@ -1,0 +1,157 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "100.0",
+    "acceptanceRate": "0.516106229324453",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "76.2",
+    "acceptanceRate": "0.4535435822395003",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Fraction Addition and Subtraction",
+    "frequency": "72.6",
+    "acceptanceRate": "0.6614505626107133",
+    "link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "68.2",
+    "acceptanceRate": "0.651086356034693",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove K Digits",
+    "frequency": "68.2",
+    "acceptanceRate": "0.3494500561948273",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Bulls and Cows",
+    "frequency": "68.2",
+    "acceptanceRate": "0.5138771783652719",
+    "link": "https://leetcode.com/problems/bulls-and-cows",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "54.6",
+    "acceptanceRate": "0.5526329995457592",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "54.6",
+    "acceptanceRate": "0.7093182554988369",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Nodes in Even Length Groups",
+    "frequency": "54.6",
+    "acceptanceRate": "0.6105335755618355",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "54.6",
+    "acceptanceRate": "0.3707498172006084",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "54.6",
+    "acceptanceRate": "0.5778594130677152",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "54.6",
+    "acceptanceRate": "0.4623055426113341",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "54.6",
+    "acceptanceRate": "0.6758906413159929",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  }
+]

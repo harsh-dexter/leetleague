@@ -1,0 +1,31 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Time Needed to Buy Tickets",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7070583253471215",
+    "link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+    "topics": [
+      "Array",
+      "Queue",
+      "Simulation"
+    ],
+    "id": "Komprise-Time Needed to Buy Tickets",
+    "company": "Komprise",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Candy",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4670442028101253",
+    "link": "https://leetcode.com/problems/candy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Komprise-Candy",
+    "company": "Komprise",
+    "timeframe": "more_than_180"
+  }
+]

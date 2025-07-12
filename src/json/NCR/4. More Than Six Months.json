@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of People Aware of a Secret",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46368623597805614",
+    "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+    "topics": [
+      "Dynamic Programming",
+      "Queue",
+      "Simulation"
+    ]
+  }
+]

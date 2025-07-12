@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6280402079242245",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  }
+]

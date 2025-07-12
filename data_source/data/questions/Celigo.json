@@ -1,0 +1,29 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Reformat Date",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6733924354457822",
+    "link": "https://leetcode.com/problems/reformat-date",
+    "topics": [
+      "String"
+    ],
+    "id": "Celigo-Reformat Date",
+    "company": "Celigo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "100.0",
+    "acceptanceRate": "0.41088293225619493",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Celigo-First Missing Positive",
+    "company": "Celigo",
+    "timeframe": "more_than_180"
+  }
+]

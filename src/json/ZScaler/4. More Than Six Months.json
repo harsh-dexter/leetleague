@@ -1,0 +1,206 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Optimal Account Balancing",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4993834011592058",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Robot Bounded In Circle",
+    "frequency": "85.5",
+    "acceptanceRate": "0.5622965278408281",
+    "link": "https://leetcode.com/problems/robot-bounded-in-circle",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "78.0",
+    "acceptanceRate": "0.39479179383155405",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "78.0",
+    "acceptanceRate": "0.5577700653216907",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "78.0",
+    "acceptanceRate": "0.7790170073838115",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Degree of an Array",
+    "frequency": "67.6",
+    "acceptanceRate": "0.5742054384866819",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "67.6",
+    "acceptanceRate": "0.3693614778357465",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Moving Average from Data Stream",
+    "frequency": "67.6",
+    "acceptanceRate": "0.7993794551727287",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "topics": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "67.6",
+    "acceptanceRate": "0.6035567835975525",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Linked List Cycle",
+    "frequency": "67.6",
+    "acceptanceRate": "0.5257071813494855",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "67.6",
+    "acceptanceRate": "0.4548318229538721",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+    "frequency": "67.6",
+    "acceptanceRate": "0.43382458559567927",
+    "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+    "topics": [
+      "Math",
+      "Greedy",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Day of the Year",
+    "frequency": "67.6",
+    "acceptanceRate": "0.48180859396683057",
+    "link": "https://leetcode.com/problems/day-of-the-year",
+    "topics": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Largest Number After Digit Swaps by Parity",
+    "frequency": "67.6",
+    "acceptanceRate": "0.637345576330206",
+    "link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity",
+    "topics": [
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Strong Pair XOR I",
+    "frequency": "67.6",
+    "acceptanceRate": "0.7484073520894932",
+    "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Trie",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Strong Pair XOR II",
+    "frequency": "67.6",
+    "acceptanceRate": "0.30742885101524914",
+    "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Trie",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "frequency": "67.6",
+    "acceptanceRate": "0.6364670242650312",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

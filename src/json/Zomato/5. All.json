@@ -1,0 +1,298 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Spending After Buying Items",
+    "frequency": "100.0",
+    "acceptanceRate": "0.599903432534457",
+    "link": "https://leetcode.com/problems/maximum-spending-after-buying-items",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Split the Array to Make Coprime Products",
+    "frequency": "100.0",
+    "acceptanceRate": "0.28023837902264603",
+    "link": "https://leetcode.com/problems/split-the-array-to-make-coprime-products",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Bitwise OR of All Subsequence Sums",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6488039763901833",
+    "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums",
+    "topics": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Brainteaser",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Cycle in a Graph",
+    "frequency": "100.0",
+    "acceptanceRate": "0.37407796055677295",
+    "link": "https://leetcode.com/problems/shortest-cycle-in-a-graph",
+    "topics": [
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Ways to Divide a Long Corridor",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48808036963480134",
+    "link": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor",
+    "topics": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count the Hidden Sequences",
+    "frequency": "94.3",
+    "acceptanceRate": "0.5672918186355435",
+    "link": "https://leetcode.com/problems/count-the-hidden-sequences",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find and Replace Pattern",
+    "frequency": "82.2",
+    "acceptanceRate": "0.7681583405018056",
+    "link": "https://leetcode.com/problems/find-and-replace-pattern",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Total Cost to Hire K Workers",
+    "frequency": "82.2",
+    "acceptanceRate": "0.43106897558427193",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Cherry Pickup",
+    "frequency": "76.5",
+    "acceptanceRate": "0.3786948581341589",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Zero Request Servers",
+    "frequency": "69.2",
+    "acceptanceRate": "0.341212744090442",
+    "link": "https://leetcode.com/problems/count-zero-request-servers",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "69.2",
+    "acceptanceRate": "0.410847166412329",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Frog Jump",
+    "frequency": "58.9",
+    "acceptanceRate": "0.4655846450889997",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Optimal Account Balancing",
+    "frequency": "58.9",
+    "acceptanceRate": "0.4993834011592058",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "58.9",
+    "acceptanceRate": "0.6577290437952823",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "58.9",
+    "acceptanceRate": "0.4737761181498828",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "58.9",
+    "acceptanceRate": "0.3707106312873585",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "LFU Cache",
+    "frequency": "58.9",
+    "acceptanceRate": "0.46609147192725375",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "58.9",
+    "acceptanceRate": "0.6232012377009197",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Self Crossing",
+    "frequency": "58.9",
+    "acceptanceRate": "0.3211288425469689",
+    "link": "https://leetcode.com/problems/self-crossing",
+    "topics": [
+      "Array",
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths II",
+    "frequency": "58.9",
+    "acceptanceRate": "0.4315430597653034",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "58.9",
+    "acceptanceRate": "0.41503414711178893",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "frequency": "58.9",
+    "acceptanceRate": "0.6340229223902094",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snakes and Ladders",
+    "frequency": "58.9",
+    "acceptanceRate": "0.4779536693986003",
+    "link": "https://leetcode.com/problems/snakes-and-ladders",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "58.9",
+    "acceptanceRate": "0.5209982621027541",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "100.0",
+    "acceptanceRate": "0.686256076714286",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "NinjaCart-Integer to Roman",
+    "company": "NinjaCart",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5526330512426134",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check If Array Pairs Are Divisible by k",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46201779447336655",
+    "link": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "89.1",
+    "acceptanceRate": "0.4815474272067798",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "89.1",
+    "acceptanceRate": "0.6280482926741051",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  }
+]

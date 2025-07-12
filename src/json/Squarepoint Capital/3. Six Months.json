@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5780838483252219",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Frog Jump",
+    "frequency": "89.4",
+    "acceptanceRate": "0.4655846450889997",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

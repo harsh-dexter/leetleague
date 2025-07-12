@@ -1,0 +1,406 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5661841837717154",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Lyft-Rotting Oranges",
+    "company": "Lyft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "90.3",
+    "acceptanceRate": "0.49366304491851065",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Lyft-Time Based Key-Value Store",
+    "company": "Lyft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "90.3",
+    "acceptanceRate": "0.45350682478059534",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Lyft-Minimum Window Substring",
+    "company": "Lyft",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check Completeness of a Binary Tree",
+    "frequency": "88.5",
+    "acceptanceRate": "0.5837359987945151",
+    "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Lyft-Check Completeness of a Binary Tree",
+    "company": "Lyft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Read N Characters Given read4 II - Call Multiple Times",
+    "frequency": "84.2",
+    "acceptanceRate": "0.42905969922527715",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+    "topics": [
+      "Array",
+      "Simulation",
+      "Interactive"
+    ],
+    "id": "Lyft-Read N Characters Given read4 II - Call Multiple Times",
+    "company": "Lyft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort List",
+    "frequency": "65.1",
+    "acceptanceRate": "0.618074922962942",
+    "link": "https://leetcode.com/problems/sort-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ],
+    "id": "Lyft-Sort List",
+    "company": "Lyft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder II",
+    "frequency": "57.2",
+    "acceptanceRate": "0.271526407856053",
+    "link": "https://leetcode.com/problems/word-ladder-ii",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ],
+    "id": "Lyft-Word Ladder II",
+    "company": "Lyft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Max Stack",
+    "frequency": "57.2",
+    "acceptanceRate": "0.4553192278942039",
+    "link": "https://leetcode.com/problems/max-stack",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Ordered Set"
+    ],
+    "id": "Lyft-Max Stack",
+    "company": "Lyft",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "frequency": "87.1",
+    "acceptanceRate": "0.6445920225309912",
+    "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Lyft-Convert Sorted List to Binary Search Tree",
+    "company": "Lyft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode Ways",
+    "frequency": "63.0",
+    "acceptanceRate": "0.36530937310389594",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Lyft-Decode Ways",
+    "company": "Lyft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "54.9",
+    "acceptanceRate": "0.5644517299387589",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Lyft-Min Stack",
+    "company": "Lyft",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Range Sum Query 2D - Immutable",
+    "frequency": "78.2",
+    "acceptanceRate": "0.5652765632997782",
+    "link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "topics": [
+      "Array",
+      "Design",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "id": "Lyft-Range Sum Query 2D - Immutable",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "63.8",
+    "acceptanceRate": "0.36936157346298143",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Lyft-Longest Substring Without Repeating Characters",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "63.8",
+    "acceptanceRate": "0.4704086761606057",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Lyft-Longest Consecutive Sequence",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "57.9",
+    "acceptanceRate": "0.5214181010083032",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Lyft-Meeting Rooms II",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Water and Jug Problem",
+    "frequency": "57.9",
+    "acceptanceRate": "0.43087157499369977",
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "topics": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "id": "Lyft-Water and Jug Problem",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "57.9",
+    "acceptanceRate": "0.4550055560010539",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Lyft-Asteroid Collision",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": "57.9",
+    "acceptanceRate": "0.6793485897950162",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "id": "Lyft-Implement Trie (Prefix Tree)",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Process Tasks Using Servers",
+    "frequency": "49.6",
+    "acceptanceRate": "0.4114853370058328",
+    "link": "https://leetcode.com/problems/process-tasks-using-servers",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Lyft-Process Tasks Using Servers",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Car Pooling",
+    "frequency": "49.6",
+    "acceptanceRate": "0.5604938783980079",
+    "link": "https://leetcode.com/problems/car-pooling",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Prefix Sum"
+    ],
+    "id": "Lyft-Car Pooling",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "49.6",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Lyft-String Compression",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Smallest Range Covering Elements from K Lists",
+    "frequency": "49.6",
+    "acceptanceRate": "0.6974692747987687",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Lyft-Smallest Range Covering Elements from K Lists",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Minimum Time to Finish All Jobs",
+    "frequency": "49.6",
+    "acceptanceRate": "0.43518588531821045",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "Lyft-Find Minimum Time to Finish All Jobs",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "49.6",
+    "acceptanceRate": "0.6777996139428187",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Lyft-Product of Array Except Self",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Candies You Can Get from Boxes",
+    "frequency": "49.6",
+    "acceptanceRate": "0.687707430504175",
+    "link": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Lyft-Maximum Candies You Can Get from Boxes",
+    "company": "Lyft",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coordinate With Maximum Network Quality",
+    "frequency": "42.7",
+    "acceptanceRate": "0.38432974378017076",
+    "link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality",
+    "topics": [
+      "Array",
+      "Enumeration"
+    ],
+    "id": "Lyft-Coordinate With Maximum Network Quality",
+    "company": "Lyft",
+    "timeframe": "all"
+  }
+]

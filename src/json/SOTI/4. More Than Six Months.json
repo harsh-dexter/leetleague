@@ -1,0 +1,37 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3631959315200682",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "89.1",
+    "acceptanceRate": "0.42328397073165563",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "89.1",
+    "acceptanceRate": "0.36940802233594666",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

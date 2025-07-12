@@ -1,0 +1,63 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Flood Fill",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6647648139762219",
+    "link": "https://leetcode.com/problems/flood-fill",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Sumo Logic-Flood Fill",
+    "company": "Sumo Logic",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "100.0",
+    "acceptanceRate": "0.41084764643539695",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Sumo Logic-First Missing Positive",
+    "company": "Sumo Logic",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Satisfiability of Equality Equations",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5101847530677794",
+    "link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+    "topics": [
+      "Array",
+      "String",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "Sumo Logic-Satisfiability of Equality Equations",
+    "company": "Sumo Logic",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6115276408838193",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Sumo Logic-Decode String",
+    "company": "Sumo Logic",
+    "timeframe": "more_than_180"
+  }
+]

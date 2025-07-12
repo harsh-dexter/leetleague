@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Reaching Points",
+    "frequency": "100.0",
+    "acceptanceRate": "0.336468882434809",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design a Stack With Increment Operation",
+    "frequency": "76.6",
+    "acceptanceRate": "0.8013123593723671",
+    "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "topics": [
+      "Array",
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "76.6",
+    "acceptanceRate": "0.6920831928267657",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  }
+]

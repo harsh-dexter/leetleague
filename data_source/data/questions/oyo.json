@@ -1,0 +1,139 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Furthest Building You Can Reach",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5037115841594002",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "oyo-Furthest Building You Can Reach",
+    "company": "oyo",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5494576152947646",
+    "link": "https://leetcode.com/problems/house-robber-iii",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "oyo-House Robber III",
+    "company": "oyo",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Copy List with Random Pointer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6053683732470319",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "topics": [
+      "Hash Table",
+      "Linked List"
+    ],
+    "id": "oyo-Copy List with Random Pointer",
+    "company": "oyo",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.38219229867541904",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "oyo-4Sum",
+    "company": "oyo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "87.8",
+    "acceptanceRate": "0.5778302959132524",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "oyo-Container With Most Water",
+    "company": "oyo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "87.8",
+    "acceptanceRate": "0.5441735460704106",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "oyo-Maximum Profit in Job Scheduling",
+    "company": "oyo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "87.8",
+    "acceptanceRate": "0.4737771291370463",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "oyo-Largest Rectangle in Histogram",
+    "company": "oyo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "87.8",
+    "acceptanceRate": "0.4760400895519091",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "oyo-Sliding Window Maximum",
+    "company": "oyo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "87.8",
+    "acceptanceRate": "0.49067783422145794",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "oyo-Koko Eating Bananas",
+    "company": "oyo",
+    "timeframe": "more_than_180"
+  }
+]

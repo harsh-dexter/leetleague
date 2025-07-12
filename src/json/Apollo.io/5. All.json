@@ -1,0 +1,50 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Validate Stack Sequences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6969342482559882",
+    "link": "https://leetcode.com/problems/validate-stack-sequences",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4535447322090199",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "93.2",
+    "acceptanceRate": "0.4548204352876518",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Reverse Polish Notation",
+    "frequency": "93.2",
+    "acceptanceRate": "0.5495720230545159",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "topics": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  }
+]

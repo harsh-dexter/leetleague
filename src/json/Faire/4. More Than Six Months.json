@@ -1,0 +1,28 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7092898112648001",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Mountain in Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4107846968136123",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  }
+]

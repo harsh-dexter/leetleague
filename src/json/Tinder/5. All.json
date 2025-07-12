@@ -1,0 +1,31 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5327804992470873",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Kth Largest Element in a Stream",
+    "frequency": "88.2",
+    "acceptanceRate": "0.598530213287723",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "topics": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  }
+]

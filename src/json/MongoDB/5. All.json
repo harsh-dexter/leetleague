@@ -1,0 +1,181 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48273866053327213",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Web Crawler Multithreaded",
+    "frequency": "95.2",
+    "acceptanceRate": "0.5009673447851322",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Arrays",
+    "frequency": "95.2",
+    "acceptanceRate": "0.7647441227907497",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Interval",
+    "frequency": "89.3",
+    "acceptanceRate": "0.43473658381036256",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Binary Trees",
+    "frequency": "89.3",
+    "acceptanceRate": "0.7869826404729717",
+    "link": "https://leetcode.com/problems/merge-two-binary-trees",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Stock Price Fluctuation ",
+    "frequency": "89.3",
+    "acceptanceRate": "0.4816387154783381",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "89.3",
+    "acceptanceRate": "0.4815007265841737",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "81.7",
+    "acceptanceRate": "0.4521478518514751",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "81.7",
+    "acceptanceRate": "0.5677423817534303",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "71.1",
+    "acceptanceRate": "0.6227680872343923",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "71.1",
+    "acceptanceRate": "0.4283724003980969",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "71.1",
+    "acceptanceRate": "0.6920824458148753",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "71.1",
+    "acceptanceRate": "0.47604168114275003",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "71.1",
+    "acceptanceRate": "0.6675504432437741",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "IP to CIDR",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5492354970683057",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "topics": [
+      "String",
+      "Bit Manipulation"
+    ]
+  }
+]

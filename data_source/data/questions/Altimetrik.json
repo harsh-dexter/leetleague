@@ -1,0 +1,64 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577709811356623",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Altimetrik-Two Sum",
+    "company": "Altimetrik",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.37071264823321115",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Altimetrik-3Sum",
+    "company": "Altimetrik",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Number of Pairs in Array",
+    "frequency": "89.0",
+    "acceptanceRate": "0.755399434671643",
+    "link": "https://leetcode.com/problems/maximum-number-of-pairs-in-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "id": "Altimetrik-Maximum Number of Pairs in Array",
+    "company": "Altimetrik",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design a Food Rating System",
+    "frequency": "89.0",
+    "acceptanceRate": "0.4491788770279475",
+    "link": "https://leetcode.com/problems/design-a-food-rating-system",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "Altimetrik-Design a Food Rating System",
+    "company": "Altimetrik",
+    "timeframe": "more_than_180"
+  }
+]

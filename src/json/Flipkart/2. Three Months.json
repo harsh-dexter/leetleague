@@ -1,0 +1,39 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Transform Array to All Equal Elements",
+    "frequency": "100.0",
+    "acceptanceRate": "0.315568937398068",
+    "link": "https://leetcode.com/problems/transform-array-to-all-equal-elements",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "64.5",
+    "acceptanceRate": "0.5342350029047974",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum of Subarray Minimums",
+    "frequency": "64.5",
+    "acceptanceRate": "0.3762351166424223",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  }
+]

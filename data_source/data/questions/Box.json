@@ -1,0 +1,96 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Number of 1 Bits",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7450480575885099",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "topics": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ],
+    "id": "Box-Number of 1 Bits",
+    "company": "Box",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Words",
+    "frequency": "90.1",
+    "acceptanceRate": "0.5927711651861731",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "id": "Box-Top K Frequent Words",
+    "company": "Box",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "90.1",
+    "acceptanceRate": "0.42812064281842477",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "Box-Word Ladder",
+    "company": "Box",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Kth Largest Element in a Stream",
+    "frequency": "65.3",
+    "acceptanceRate": "0.5985300600121747",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "topics": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ],
+    "id": "Box-Kth Largest Element in a Stream",
+    "company": "Box",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Event Emitter",
+    "frequency": "65.3",
+    "acceptanceRate": "0.7448014383989994",
+    "link": "https://leetcode.com/problems/event-emitter",
+    "topics": [],
+    "id": "Box-Event Emitter",
+    "company": "Box",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Redundant Connection",
+    "frequency": "58.8",
+    "acceptanceRate": "0.6645611638154983",
+    "link": "https://leetcode.com/problems/redundant-connection",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "Box-Redundant Connection",
+    "company": "Box",
+    "timeframe": "all"
+  }
+]

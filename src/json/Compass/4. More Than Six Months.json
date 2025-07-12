@@ -1,0 +1,54 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Total Distance Traveled",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4016833878179837",
+    "link": "https://leetcode.com/problems/total-distance-traveled",
+    "topics": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "89.8",
+    "acceptanceRate": "0.7092899316934461",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Camelcase Matching",
+    "frequency": "89.8",
+    "acceptanceRate": "0.63780016867149",
+    "link": "https://leetcode.com/problems/camelcase-matching",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Trie",
+      "String Matching"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Subtree of Another Tree",
+    "frequency": "89.8",
+    "acceptanceRate": "0.4998476418026165",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  }
+]

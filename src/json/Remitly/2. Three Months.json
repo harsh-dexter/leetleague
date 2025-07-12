@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4685798323600621",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5342357857229685",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate the Bracket Pairs of a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6823127483382226",
+    "link": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  }
+]

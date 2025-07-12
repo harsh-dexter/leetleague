@@ -1,0 +1,32 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7790622036462874",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "WatchGuard-Rotate Image",
+    "company": "WatchGuard",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5394622891739386",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "WatchGuard-Spiral Matrix",
+    "company": "WatchGuard",
+    "timeframe": "all"
+  }
+]

@@ -1,0 +1,1280 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778282666830817",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "ServiceNow-Container With Most Water",
+    "company": "ServiceNow",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6510199452828925",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "ServiceNow-Trapping Rain Water",
+    "company": "ServiceNow",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check if a Parentheses String Can Be Valid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.44858593577735023",
+    "link": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy"
+    ],
+    "id": "ServiceNow-Check if a Parentheses String Can Be Valid",
+    "company": "ServiceNow",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "ServiceNow-First Missing Positive",
+    "company": "ServiceNow",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49395238677841924",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "ServiceNow-Merge Intervals",
+    "company": "ServiceNow",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Right Side View",
+    "frequency": "87.3",
+    "acceptanceRate": "0.6704260063500933",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "ServiceNow-Binary Tree Right Side View",
+    "company": "ServiceNow",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Distinct Islands",
+    "frequency": "87.3",
+    "acceptanceRate": "0.6225551999482754",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ],
+    "id": "ServiceNow-Number of Distinct Islands",
+    "company": "ServiceNow",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "87.3",
+    "acceptanceRate": "0.4305775328017951",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "ServiceNow-Next Permutation",
+    "company": "ServiceNow",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "87.3",
+    "acceptanceRate": "0.45214645870656",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "ServiceNow-LRU Cache",
+    "company": "ServiceNow",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "87.3",
+    "acceptanceRate": "0.7713287456277772",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "ServiceNow-Generate Parentheses",
+    "company": "ServiceNow",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Product Less Than K",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5285344933981581",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "ServiceNow-Subarray Product Less Than K",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "97.9",
+    "acceptanceRate": "0.42322841550192813",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "ServiceNow-Valid Parentheses",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "95.7",
+    "acceptanceRate": "0.7092883921583564",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "ServiceNow-Group Anagrams",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "84.0",
+    "acceptanceRate": "0.3693616866663368",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "ServiceNow-Longest Substring Without Repeating Characters",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "75.3",
+    "acceptanceRate": "0.5577699775546221",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "ServiceNow-Two Sum",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "75.3",
+    "acceptanceRate": "0.5525962767056939",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "ServiceNow-Best Time to Buy and Sell Stock",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Design HashMap",
+    "frequency": "75.3",
+    "acceptanceRate": "0.658939347368503",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ],
+    "id": "ServiceNow-Design HashMap",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "75.3",
+    "acceptanceRate": "0.5160679330514855",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "ServiceNow-Zigzag Conversion",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "75.3",
+    "acceptanceRate": "0.6280403369085903",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "ServiceNow-Move Zeroes",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "75.3",
+    "acceptanceRate": "0.4876133314788993",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "ServiceNow-Maximal Square",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "69.5",
+    "acceptanceRate": "0.6797703525274048",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "ServiceNow-Kth Largest Element in an Array",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "69.5",
+    "acceptanceRate": "0.6232001537472125",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "ServiceNow-Number of Islands",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Daily Temperatures",
+    "frequency": "69.5",
+    "acceptanceRate": "0.6736502832589849",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "ServiceNow-Daily Temperatures",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "69.5",
+    "acceptanceRate": "0.4283722142038899",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "ServiceNow-Search in Rotated Sorted Array",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate Binary Search Tree",
+    "frequency": "69.5",
+    "acceptanceRate": "0.3438041884056864",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "ServiceNow-Validate Binary Search Tree",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "69.5",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "ServiceNow-String Compression",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "LFU Cache",
+    "frequency": "69.5",
+    "acceptanceRate": "0.4660898637811462",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "ServiceNow-LFU Cache",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "62.1",
+    "acceptanceRate": "0.7920657527486747",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "ServiceNow-Reverse Linked List",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "62.1",
+    "acceptanceRate": "0.5214173911925731",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "ServiceNow-Meeting Rooms II",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "62.1",
+    "acceptanceRate": "0.3494166666314909",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "ServiceNow-Maximum Product Subarray",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Distinct Substrings in a String",
+    "frequency": "62.1",
+    "acceptanceRate": "0.6454241948153967",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "topics": [
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ],
+    "id": "ServiceNow-Number of Distinct Substrings in a String",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String II",
+    "frequency": "62.1",
+    "acceptanceRate": "0.5606506783257249",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string-ii",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "ServiceNow-Reverse Words in a String II",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pacific Atlantic Water Flow",
+    "frequency": "62.1",
+    "acceptanceRate": "0.5753384405299414",
+    "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "ServiceNow-Pacific Atlantic Water Flow",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "62.1",
+    "acceptanceRate": "0.6070888278303417",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "ServiceNow-Set Matrix Zeroes",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Words",
+    "frequency": "62.1",
+    "acceptanceRate": "0.592771943363307",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "id": "ServiceNow-Top K Frequent Words",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "62.1",
+    "acceptanceRate": "0.47040838765712195",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "ServiceNow-Longest Consecutive Sequence",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Visible People in a Queue",
+    "frequency": "62.1",
+    "acceptanceRate": "0.7129656877170266",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "ServiceNow-Number of Visible People in a Queue",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "62.1",
+    "acceptanceRate": "0.4550058166209298",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "ServiceNow-Asteroid Collision",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Vowels of All Substrings",
+    "frequency": "62.1",
+    "acceptanceRate": "0.5470363931216854",
+    "link": "https://leetcode.com/problems/vowels-of-all-substrings",
+    "topics": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "ServiceNow-Vowels of All Substrings",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Parenthesis String",
+    "frequency": "62.1",
+    "acceptanceRate": "0.38909244085494527",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ],
+    "id": "ServiceNow-Valid Parenthesis String",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "62.1",
+    "acceptanceRate": "0.3584611319731286",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "ServiceNow-Longest Palindromic Substring",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate IP Address",
+    "frequency": "62.1",
+    "acceptanceRate": "0.27817524620453365",
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "topics": [
+      "String"
+    ],
+    "id": "ServiceNow-Validate IP Address",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "62.1",
+    "acceptanceRate": "0.5209980487725024",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "ServiceNow-Maximum Subarray",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Fraction to Recurring Decimal",
+    "frequency": "62.1",
+    "acceptanceRate": "0.2622353839768554",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "ServiceNow-Fraction to Recurring Decimal",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "62.1",
+    "acceptanceRate": "0.412803811932624",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "ServiceNow-Largest Number",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "First Unique Character in a String",
+    "frequency": "62.1",
+    "acceptanceRate": "0.6369549089916232",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ],
+    "id": "ServiceNow-First Unique Character in a String",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum Root to Leaf Numbers",
+    "frequency": "62.1",
+    "acceptanceRate": "0.6852766474190511",
+    "link": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "ServiceNow-Sum Root to Leaf Numbers",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "62.1",
+    "acceptanceRate": "0.43814584290173053",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "ServiceNow-Median of Two Sorted Arrays",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Target Sum",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5076659483819916",
+    "link": "https://leetcode.com/problems/target-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "ServiceNow-Target Sum",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "51.7",
+    "acceptanceRate": "0.43021388103635533",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "ServiceNow-Rotate Array",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lexicographically Smallest String After Operations With Constraint",
+    "frequency": "51.7",
+    "acceptanceRate": "0.6227321960465746",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "ServiceNow-Lexicographically Smallest String After Operations With Constraint",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "51.7",
+    "acceptanceRate": "0.3707096014078555",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "ServiceNow-3Sum",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "51.7",
+    "acceptanceRate": "0.4581138691872612",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "ServiceNow-Basic Calculator II",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "frequency": "51.7",
+    "acceptanceRate": "0.73240710674027",
+    "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+    "topics": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization"
+    ],
+    "id": "ServiceNow-Minimum One Bit Operations to Make Integers Zero",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "frequency": "51.7",
+    "acceptanceRate": "0.6373515517663223",
+    "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "ServiceNow-Amount of Time for Binary Tree to Be Infected",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Minimum Diameter After Merging Two Trees",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5738039227667114",
+    "link": "https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "ServiceNow-Find Minimum Diameter After Merging Two Trees",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5661841837717154",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "ServiceNow-Rotting Oranges",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "51.7",
+    "acceptanceRate": "0.37023201698953384",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "ServiceNow-Pow(x, n)",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Break II",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5364546303753539",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "ServiceNow-Word Break II",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Distinct Roll Sequences",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5732509917057339",
+    "link": "https://leetcode.com/problems/number-of-distinct-roll-sequences",
+    "topics": [
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "ServiceNow-Number of Distinct Roll Sequences",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5230498170963667",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "ServiceNow-House Robber",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Populating Next Right Pointers in Each Node",
+    "frequency": "51.7",
+    "acceptanceRate": "0.6544149639689759",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "topics": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "ServiceNow-Populating Next Right Pointers in Each Node",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5264825852815112",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "ServiceNow-Find Minimum in Rotated Sorted Array",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "51.7",
+    "acceptanceRate": "0.46828796326153027",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "ServiceNow-Find First and Last Position of Element in Sorted Array",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "51.7",
+    "acceptanceRate": "0.4649548561668961",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "ServiceNow-Coin Change",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": "51.7",
+    "acceptanceRate": "0.6793476066937868",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "id": "ServiceNow-Implement Trie (Prefix Tree)",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search Suggestions System",
+    "frequency": "51.7",
+    "acceptanceRate": "0.6505016472618937",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "topics": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "ServiceNow-Search Suggestions System",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "51.7",
+    "acceptanceRate": "0.8066012451560871",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "ServiceNow-Permutations",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5291953057434996",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "ServiceNow-Merge Sorted Array",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5096352873238165",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "ServiceNow-Valid Palindrome",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition Equal Subset Sum",
+    "frequency": "51.7",
+    "acceptanceRate": "0.48443837096843656",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "ServiceNow-Partition Equal Subset Sum",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": "51.7",
+    "acceptanceRate": "0.6168287046375325",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "ServiceNow-Binary Tree Zigzag Level Order Traversal",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5071699895141073",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "ServiceNow-Minimum Number of Taps to Open to Water a Garden",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Needed to Rearrange a Binary String",
+    "frequency": "51.7",
+    "acceptanceRate": "0.5155956910874109",
+    "link": "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Simulation"
+    ],
+    "id": "ServiceNow-Time Needed to Rearrange a Binary String",
+    "company": "ServiceNow",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "50.3",
+    "acceptanceRate": "0.638575637735969",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "ServiceNow-Letter Combinations of a Phone Number",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Linked List",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5585945204707473",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "ServiceNow-Palindrome Linked List",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "50.3",
+    "acceptanceRate": "0.3821908823910382",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "ServiceNow-4Sum",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "50.3",
+    "acceptanceRate": "0.7467471634661584",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "ServiceNow-Combination Sum",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4547620144808089",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "ServiceNow-Subarray Sum Equals K",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4638362080309398",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "ServiceNow-Gas Station",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "50.3",
+    "acceptanceRate": "0.39479233995926627",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "ServiceNow-Jump Game",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4650921984332019",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "ServiceNow-Find Peak Element",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Single Element in a Sorted Array",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5920699695159606",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "ServiceNow-Single Element in a Sorted Array",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4760415445472158",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "ServiceNow-Sliding Window Maximum",
+    "company": "ServiceNow",
+    "timeframe": "all"
+  }
+]

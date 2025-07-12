@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4906744578198354",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Diagonal Traverse",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6317355223295921",
+    "link": "https://leetcode.com/problems/diagonal-traverse",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5677430867630362",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  }
+]

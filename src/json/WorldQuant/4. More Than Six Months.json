@@ -1,0 +1,45 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2928040486079651",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Visited Cells in a Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.22765724304185841",
+    "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5327800099899787",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  }
+]

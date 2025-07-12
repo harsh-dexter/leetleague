@@ -1,0 +1,16 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577709841748584",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Western Digital-Two Sum",
+    "company": "Western Digital",
+    "timeframe": "180"
+  }
+]

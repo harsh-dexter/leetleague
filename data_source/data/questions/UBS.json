@@ -1,0 +1,80 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Search Suggestions System",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6505018082357296",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "topics": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "UBS-Search Suggestions System",
+    "company": "UBS",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Beautiful Arrangement",
+    "frequency": "64.9",
+    "acceptanceRate": "0.6452775069853577",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "UBS-Beautiful Arrangement",
+    "company": "UBS",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+    "frequency": "64.9",
+    "acceptanceRate": "0.5419311727363849",
+    "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+    "topics": [
+      "Array",
+      "Tree",
+      "Depth-First Search"
+    ],
+    "id": "UBS-Count Pairs of Connectable Servers in a Weighted Tree Network",
+    "company": "UBS",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "64.9",
+    "acceptanceRate": "0.5525968841850246",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "UBS-Best Time to Buy and Sell Stock",
+    "company": "UBS",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "61.7",
+    "acceptanceRate": "0.42322907637459456",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "UBS-Valid Parentheses",
+    "company": "UBS",
+    "timeframe": "all"
+  }
+]

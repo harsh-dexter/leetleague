@@ -1,0 +1,33 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8088409592039686",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Fiverr-Subsets",
+    "company": "Fiverr",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4522013852374381",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Fiverr-LRU Cache",
+    "company": "Fiverr",
+    "timeframe": "more_than_180"
+  }
+]

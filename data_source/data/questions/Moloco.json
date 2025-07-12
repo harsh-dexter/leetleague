@@ -1,0 +1,119 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.623246254585838",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Moloco-Number of Islands",
+    "company": "Moloco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design a Stack With Increment Operation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8013068356286052",
+    "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "topics": [
+      "Array",
+      "Stack",
+      "Design"
+    ],
+    "id": "Moloco-Design a Stack With Increment Operation",
+    "company": "Moloco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6510865148781917",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Moloco-Trapping Rain Water",
+    "company": "Moloco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest String Chain",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6201747823811324",
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Moloco-Longest String Chain",
+    "company": "Moloco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "89.2",
+    "acceptanceRate": "0.5214228658199016",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Moloco-Meeting Rooms II",
+    "company": "Moloco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Single Element in a Sorted Array",
+    "frequency": "89.2",
+    "acceptanceRate": "0.5920752928191202",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Moloco-Single Element in a Sorted Array",
+    "company": "Moloco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "frequency": "82.2",
+    "acceptanceRate": "0.5674974850508926",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ],
+    "id": "Moloco-Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "company": "Moloco",
+    "timeframe": "all"
+  }
+]

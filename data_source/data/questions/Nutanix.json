@@ -1,0 +1,928 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Linked List II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4959173738249868",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Nutanix-Reverse Linked List II",
+    "company": "Nutanix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Increasing Triplet Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3912497382273071",
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Nutanix-Increasing Triplet Subsequence",
+    "company": "Nutanix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Clone Graph",
+    "frequency": "88.4",
+    "acceptanceRate": "0.623857864474346",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Nutanix-Clone Graph",
+    "company": "Nutanix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Surrounded Regions",
+    "frequency": "88.4",
+    "acceptanceRate": "0.42886504456872826",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Nutanix-Surrounded Regions",
+    "company": "Nutanix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "88.4",
+    "acceptanceRate": "0.6510205122646382",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Nutanix-Trapping Rain Water",
+    "company": "Nutanix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "88.4",
+    "acceptanceRate": "0.6070890553968923",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Nutanix-Set Matrix Zeroes",
+    "company": "Nutanix",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.709288476016785",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Nutanix-Group Anagrams",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4521472713752882",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Nutanix-LRU Cache",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Frequency Stack",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6620493032659615",
+    "link": "https://leetcode.com/problems/maximum-frequency-stack",
+    "topics": [
+      "Hash Table",
+      "Stack",
+      "Design",
+      "Ordered Set"
+    ],
+    "id": "Nutanix-Maximum Frequency Stack",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Valid Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2156350226634436",
+    "link": "https://leetcode.com/problems/valid-number",
+    "topics": [
+      "String"
+    ],
+    "id": "Nutanix-Valid Number",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Boundary of Binary Tree",
+    "frequency": "87.2",
+    "acceptanceRate": "0.4715845638416677",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Nutanix-Boundary of Binary Tree",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "87.2",
+    "acceptanceRate": "0.5393974123278643",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Nutanix-Spiral Matrix",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": "87.2",
+    "acceptanceRate": "0.4122430107410358",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Nutanix-Binary Tree Maximum Path Sum",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "87.2",
+    "acceptanceRate": "0.6115256876997249",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Nutanix-Decode String",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "87.2",
+    "acceptanceRate": "0.4939526279002703",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Nutanix-Merge Intervals",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix",
+    "frequency": "87.2",
+    "acceptanceRate": "0.5228964741467245",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "Nutanix-Search a 2D Matrix",
+    "company": "Nutanix",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pacific Atlantic Water Flow",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5753392481860802",
+    "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Nutanix-Pacific Atlantic Water Flow",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "90.7",
+    "acceptanceRate": "0.47604176540136595",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "Nutanix-Sliding Window Maximum",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check If Word Is Valid After Substitutions",
+    "frequency": "90.7",
+    "acceptanceRate": "0.6019736059921531",
+    "link": "https://leetcode.com/problems/check-if-word-is-valid-after-substitutions",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Nutanix-Check If Word Is Valid After Substitutions",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "90.7",
+    "acceptanceRate": "0.5577698857291907",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Nutanix-Two Sum",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "90.7",
+    "acceptanceRate": "0.5661845138036362",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Nutanix-Rotting Oranges",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Grumpy Bookstore Owner",
+    "frequency": "77.6",
+    "acceptanceRate": "0.6405479337259973",
+    "link": "https://leetcode.com/problems/grumpy-bookstore-owner",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ],
+    "id": "Nutanix-Grumpy Bookstore Owner",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Car Fleet",
+    "frequency": "77.6",
+    "acceptanceRate": "0.5347439376228195",
+    "link": "https://leetcode.com/problems/car-fleet",
+    "topics": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ],
+    "id": "Nutanix-Car Fleet",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Delivering Boxes from Storage to Ports",
+    "frequency": "77.6",
+    "acceptanceRate": "0.39390485629335975",
+    "link": "https://leetcode.com/problems/delivering-boxes-from-storage-to-ports",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Segment Tree",
+      "Queue",
+      "Heap (Priority Queue)",
+      "Prefix Sum",
+      "Monotonic Queue"
+    ],
+    "id": "Nutanix-Delivering Boxes from Storage to Ports",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Detect Cycles in 2D Grid",
+    "frequency": "77.6",
+    "acceptanceRate": "0.5030185404633716",
+    "link": "https://leetcode.com/problems/detect-cycles-in-2d-grid",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Nutanix-Detect Cycles in 2D Grid",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Product of Three Numbers",
+    "frequency": "77.6",
+    "acceptanceRate": "0.4531161367204162",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ],
+    "id": "Nutanix-Maximum Product of Three Numbers",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "77.6",
+    "acceptanceRate": "0.35846114414542546",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Nutanix-Longest Palindromic Substring",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "frequency": "77.6",
+    "acceptanceRate": "0.6373515517663223",
+    "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Nutanix-Amount of Time for Binary Tree to Be Infected",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "frequency": "77.6",
+    "acceptanceRate": "0.8862998213178719",
+    "link": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "Nutanix-Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Swaps to Make the String Balanced",
+    "frequency": "77.6",
+    "acceptanceRate": "0.7796926022806927",
+    "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Greedy"
+    ],
+    "id": "Nutanix-Minimum Number of Swaps to Make the String Balanced",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "77.6",
+    "acceptanceRate": "0.6456601799887839",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Nutanix-Top K Frequent Elements",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Cost to Connect All Points",
+    "frequency": "77.6",
+    "acceptanceRate": "0.6902176550628305",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ],
+    "id": "Nutanix-Min Cost to Connect All Points",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "77.6",
+    "acceptanceRate": "0.37070968431674167",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Nutanix-3Sum",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "77.6",
+    "acceptanceRate": "0.4827379304408115",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Nutanix-Word Break",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Processing Time",
+    "frequency": "77.6",
+    "acceptanceRate": "0.6925539605494165",
+    "link": "https://leetcode.com/problems/minimum-processing-time",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Nutanix-Minimum Processing Time",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Sum of an Hourglass",
+    "frequency": "77.6",
+    "acceptanceRate": "0.7589643035085746",
+    "link": "https://leetcode.com/problems/maximum-sum-of-an-hourglass",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "id": "Nutanix-Maximum Sum of an Hourglass",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Online Majority Element In Subarray",
+    "frequency": "77.6",
+    "acceptanceRate": "0.39135769647641055",
+    "link": "https://leetcode.com/problems/online-majority-element-in-subarray",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "Nutanix-Online Majority Element In Subarray",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Swap For Longest Repeated Character Substring",
+    "frequency": "77.6",
+    "acceptanceRate": "0.4364264431808739",
+    "link": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Nutanix-Swap For Longest Repeated Character Substring",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "77.6",
+    "acceptanceRate": "0.5778286738522747",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Nutanix-Container With Most Water",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Broken Calculator",
+    "frequency": "77.6",
+    "acceptanceRate": "0.551297403214314",
+    "link": "https://leetcode.com/problems/broken-calculator",
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "id": "Nutanix-Broken Calculator",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "77.6",
+    "acceptanceRate": "0.6304370910860896",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Nutanix-Reverse Nodes in k-Group",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "77.6",
+    "acceptanceRate": "0.5525960901035435",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Nutanix-Best Time to Buy and Sell Stock",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "77.6",
+    "acceptanceRate": "0.46225125841551756",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Nutanix-Add Two Numbers",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "77.6",
+    "acceptanceRate": "0.6777995484958389",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Nutanix-Product of Array Except Self",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "All Nodes Distance K in Binary Tree",
+    "frequency": "77.6",
+    "acceptanceRate": "0.6644220548657757",
+    "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Nutanix-All Nodes Distance K in Binary Tree",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "frequency": "77.6",
+    "acceptanceRate": "0.5675053393759442",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ],
+    "id": "Nutanix-Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Heaters",
+    "frequency": "77.6",
+    "acceptanceRate": "0.39952991914941977",
+    "link": "https://leetcode.com/problems/heaters",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Nutanix-Heaters",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "77.6",
+    "acceptanceRate": "0.4923433873628787",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Nutanix-Course Schedule",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "77.6",
+    "acceptanceRate": "0.428119387533855",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "Nutanix-Word Ladder",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "77.6",
+    "acceptanceRate": "0.41503315072963",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Nutanix-Jump Game II",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "77.6",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Nutanix-First Missing Positive",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": "77.6",
+    "acceptanceRate": "0.6168284507219668",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Nutanix-Binary Tree Zigzag Level Order Traversal",
+    "company": "Nutanix",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "54.7",
+    "acceptanceRate": "0.5214180798306428",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Nutanix-Meeting Rooms II",
+    "company": "Nutanix",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "54.7",
+    "acceptanceRate": "0.4283723157644864",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Nutanix-Search in Rotated Sorted Array",
+    "company": "Nutanix",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Subsequence",
+    "frequency": "54.7",
+    "acceptanceRate": "0.6409932334165747",
+    "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Nutanix-Longest Palindromic Subsequence",
+    "company": "Nutanix",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "54.7",
+    "acceptanceRate": "0.5677422422042385",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Nutanix-Merge k Sorted Lists",
+    "company": "Nutanix",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Swap Nodes in Pairs",
+    "frequency": "54.7",
+    "acceptanceRate": "0.6720139511448184",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Nutanix-Swap Nodes in Pairs",
+    "company": "Nutanix",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Common Subsequence",
+    "frequency": "54.7",
+    "acceptanceRate": "0.5824941302102946",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Nutanix-Longest Common Subsequence",
+    "company": "Nutanix",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "54.7",
+    "acceptanceRate": "0.5264828672570624",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Nutanix-Find Minimum in Rotated Sorted Array",
+    "company": "Nutanix",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "54.7",
+    "acceptanceRate": "0.6232002004151457",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Nutanix-Number of Islands",
+    "company": "Nutanix",
+    "timeframe": "all"
+  }
+]

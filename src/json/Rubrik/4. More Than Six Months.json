@@ -1,0 +1,350 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Points After Enemy Battles",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3253262567778697",
+    "link": "https://leetcode.com/problems/maximum-points-after-enemy-battles",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "62.7",
+    "acceptanceRate": "0.45214715527990323",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Longest Special Substring That Occurs Thrice II",
+    "frequency": "62.7",
+    "acceptanceRate": "0.3841043604300036",
+    "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Stamping the Grid",
+    "frequency": "54.4",
+    "acceptanceRate": "0.3324935104596122",
+    "link": "https://leetcode.com/problems/stamping-the-grid",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "54.4",
+    "acceptanceRate": "0.5499189489424546",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Scramble String",
+    "frequency": "51.4",
+    "acceptanceRate": "0.42181834712531613",
+    "link": "https://leetcode.com/problems/scramble-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Web Crawler Multithreaded",
+    "frequency": "47.8",
+    "acceptanceRate": "0.5009640940121944",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Add and Search Words Data Structure",
+    "frequency": "47.8",
+    "acceptanceRate": "0.4706668909360868",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "topics": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "43.2",
+    "acceptanceRate": "0.43057779910352356",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "43.2",
+    "acceptanceRate": "0.5878982716843788",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Lattice Points Inside a Circle",
+    "frequency": "43.2",
+    "acceptanceRate": "0.5524300028092518",
+    "link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Candy Crush",
+    "frequency": "43.2",
+    "acceptanceRate": "0.7736899161778655",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "43.2",
+    "acceptanceRate": "0.48278448068418184",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snapshot Array",
+    "frequency": "43.2",
+    "acceptanceRate": "0.3666532076028315",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Alice and Bob Playing Flower Game",
+    "frequency": "36.7",
+    "acceptanceRate": "0.4574722690474704",
+    "link": "https://leetcode.com/problems/alice-and-bob-playing-flower-game",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Distribute Candies Among Children II",
+    "frequency": "36.7",
+    "acceptanceRate": "0.5613421338342496",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "topics": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Distribute Candies Among Children III",
+    "frequency": "36.7",
+    "acceptanceRate": "0.5759096612296111",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-iii",
+    "topics": [
+      "Math",
+      "Combinatorics"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Bounded Blocking Queue",
+    "frequency": "36.7",
+    "acceptanceRate": "0.7299444681759931",
+    "link": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "topics": [
+      "Concurrency"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find the Sum of Subsequence Powers",
+    "frequency": "36.7",
+    "acceptanceRate": "0.23462891937843502",
+    "link": "https://leetcode.com/problems/find-the-sum-of-subsequence-powers",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Existence of a Substring in a String and Its Reverse",
+    "frequency": "36.7",
+    "acceptanceRate": "0.6570279684458559",
+    "link": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
+    "topics": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design a Text Editor",
+    "frequency": "36.7",
+    "acceptanceRate": "0.47138071447136626",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "topics": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Distribute Candies Among Children I",
+    "frequency": "36.7",
+    "acceptanceRate": "0.7497536136662286",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-i",
+    "topics": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "36.7",
+    "acceptanceRate": "0.6153931254639827",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Cherry Pickup II",
+    "frequency": "36.7",
+    "acceptanceRate": "0.7196542271599925",
+    "link": "https://leetcode.com/problems/cherry-pickup-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Refueling Stops",
+    "frequency": "36.7",
+    "acceptanceRate": "0.405574587771098",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "36.7",
+    "acceptanceRate": "0.4760412052856051",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Remove Invalid Parentheses",
+    "frequency": "36.7",
+    "acceptanceRate": "0.4923173156124781",
+    "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "36.7",
+    "acceptanceRate": "0.38219065838614164",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36936163319473875",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "HCL-Longest Substring Without Repeating Characters",
+    "company": "HCL",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5291965716793704",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "HCL-Merge Sorted Array",
+    "company": "HCL",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.423229021440664",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "HCL-Valid Parentheses",
+    "company": "HCL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "81.6",
+    "acceptanceRate": "0.45483160561258307",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "HCL-Longest Common Prefix",
+    "company": "HCL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "81.6",
+    "acceptanceRate": "0.7092891274785598",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "HCL-Group Anagrams",
+    "company": "HCL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse String",
+    "frequency": "81.6",
+    "acceptanceRate": "0.7976439633443675",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "HCL-Reverse String",
+    "company": "HCL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "75.5",
+    "acceptanceRate": "0.5577703941113128",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "HCL-Two Sum",
+    "company": "HCL",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "75.5",
+    "acceptanceRate": "0.3707110358869514",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "HCL-3Sum",
+    "company": "HCL",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "75.5",
+    "acceptanceRate": "0.5922453168200937",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "HCL-Palindrome Number",
+    "company": "HCL",
+    "timeframe": "all"
+  }
+]

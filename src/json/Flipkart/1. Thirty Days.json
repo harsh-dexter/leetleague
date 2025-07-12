@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Transform Array to All Equal Elements",
+    "frequency": "100.0",
+    "acceptanceRate": "0.315568937398068",
+    "link": "https://leetcode.com/problems/transform-array-to-all-equal-elements",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  }
+]

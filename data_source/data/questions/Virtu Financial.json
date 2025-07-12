@@ -1,0 +1,73 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Hexspeak",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5829381638846738",
+    "link": "https://leetcode.com/problems/hexspeak",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "Virtu Financial-Hexspeak",
+    "company": "Virtu Financial",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "How Many Apples Can You Put into the Basket",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6704955156282592",
+    "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Virtu Financial-How Many Apples Can You Put into the Basket",
+    "company": "Virtu Financial",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Array Transformation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5310772264675846",
+    "link": "https://leetcode.com/problems/array-transformation",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "Virtu Financial-Array Transformation",
+    "company": "Virtu Financial",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Substrings with Only One Distinct Letter",
+    "frequency": "94.6",
+    "acceptanceRate": "0.806493436335152",
+    "link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "Virtu Financial-Count Substrings with Only One Distinct Letter",
+    "company": "Virtu Financial",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Number of Homogenous Substrings",
+    "frequency": "82.5",
+    "acceptanceRate": "0.5736276720948661",
+    "link": "https://leetcode.com/problems/count-number-of-homogenous-substrings",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "Virtu Financial-Count Number of Homogenous Substrings",
+    "company": "Virtu Financial",
+    "timeframe": "more_than_180"
+  }
+]

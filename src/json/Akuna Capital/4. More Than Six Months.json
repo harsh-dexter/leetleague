@@ -1,0 +1,286 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Count and Say",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6050661563309271",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "topics": [
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Star Sum of a Graph",
+    "frequency": "79.0",
+    "acceptanceRate": "0.4082906207900401",
+    "link": "https://leetcode.com/problems/maximum-star-sum-of-a-graph",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Graph",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Initial Energy to Finish Tasks",
+    "frequency": "79.0",
+    "acceptanceRate": "0.5934432893896278",
+    "link": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Delete and Earn",
+    "frequency": "79.0",
+    "acceptanceRate": "0.567278666509901",
+    "link": "https://leetcode.com/problems/delete-and-earn",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Processing Time",
+    "frequency": "79.0",
+    "acceptanceRate": "0.6925539605494165",
+    "link": "https://leetcode.com/problems/minimum-processing-time",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Network Delay Time",
+    "frequency": "69.0",
+    "acceptanceRate": "0.5744231558987412",
+    "link": "https://leetcode.com/problems/network-delay-time",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sort Array by Increasing Frequency",
+    "frequency": "69.0",
+    "acceptanceRate": "0.802688099698792",
+    "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Dice Roll Simulation",
+    "frequency": "69.0",
+    "acceptanceRate": "0.5000364341198246",
+    "link": "https://leetcode.com/problems/dice-roll-simulation",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Different Subsequences GCDs",
+    "frequency": "69.0",
+    "acceptanceRate": "0.41961672065883454",
+    "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds",
+    "topics": [
+      "Array",
+      "Math",
+      "Counting",
+      "Number Theory"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reduce Array Size to The Half",
+    "frequency": "69.0",
+    "acceptanceRate": "0.6911509173608628",
+    "link": "https://leetcode.com/problems/reduce-array-size-to-the-half",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Create Sorted Array through Instructions",
+    "frequency": "69.0",
+    "acceptanceRate": "0.4009930951005474",
+    "link": "https://leetcode.com/problems/create-sorted-array-through-instructions",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Merge Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "frequency": "69.0",
+    "acceptanceRate": "0.5071699397238966",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Cherry Pickup",
+    "frequency": "69.0",
+    "acceptanceRate": "0.3786948581341589",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Constrained Subsequence Sum",
+    "frequency": "69.0",
+    "acceptanceRate": "0.5639922109640583",
+    "link": "https://leetcode.com/problems/constrained-subsequence-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Map Sum Pairs",
+    "frequency": "69.0",
+    "acceptanceRate": "0.5674795970692788",
+    "link": "https://leetcode.com/problems/map-sum-pairs",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Operations to Make Network Connected",
+    "frequency": "69.0",
+    "acceptanceRate": "0.6466485432011189",
+    "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Can Make Palindrome from Substring",
+    "frequency": "69.0",
+    "acceptanceRate": "0.4022578431984033",
+    "link": "https://leetcode.com/problems/can-make-palindrome-from-substring",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Increasing Decreasing String",
+    "frequency": "69.0",
+    "acceptanceRate": "0.7675577861995971",
+    "link": "https://leetcode.com/problems/increasing-decreasing-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "69.0",
+    "acceptanceRate": "0.6232009446678927",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Distance to a Cycle in Undirected Graph",
+    "frequency": "69.0",
+    "acceptanceRate": "0.7293038570084666",
+    "link": "https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Flood Fill",
+    "frequency": "69.0",
+    "acceptanceRate": "0.6647640296665365",
+    "link": "https://leetcode.com/problems/flood-fill",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "69.0",
+    "acceptanceRate": "0.5441721752315967",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  }
+]

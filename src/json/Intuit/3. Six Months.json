@@ -1,0 +1,98 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Plus One",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4754761581752355",
+    "link": "https://leetcode.com/problems/plus-one",
+    "topics": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "95.5",
+    "acceptanceRate": "0.4232284209279414",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "83.0",
+    "acceptanceRate": "0.4649547506448627",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "73.1",
+    "acceptanceRate": "0.45214622651505193",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Limit of Balls in a Bag",
+    "frequency": "73.1",
+    "acceptanceRate": "0.6729582611405128",
+    "link": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Product of Three Numbers",
+    "frequency": "73.1",
+    "acceptanceRate": "0.45311603363931174",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Russian Doll Envelopes",
+    "frequency": "73.1",
+    "acceptanceRate": "0.3732991914997274",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Employee Free Time",
+    "frequency": "73.1",
+    "acceptanceRate": "0.7259759595862569",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "topics": [
+      "Array",
+      "Line Sweep",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  }
+]

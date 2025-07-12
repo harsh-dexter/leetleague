@@ -1,0 +1,64 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Subarrays With LCM Equal to K",
+    "frequency": "100.0",
+    "acceptanceRate": "0.40096588350389",
+    "link": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k",
+    "topics": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ],
+    "id": "Unity-Number of Subarrays With LCM Equal to K",
+    "company": "Unity",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "89.8",
+    "acceptanceRate": "0.5499185337366445",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Unity-Insert Delete GetRandom O(1)",
+    "company": "Unity",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "frequency": "89.8",
+    "acceptanceRate": "0.628394799073718",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "topics": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ],
+    "id": "Unity-Remove Colored Pieces if Both Neighbors are the Same Color",
+    "company": "Unity",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "89.8",
+    "acceptanceRate": "0.6778017465485614",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Unity-Product of Array Except Self",
+    "company": "Unity",
+    "timeframe": "more_than_180"
+  }
+]

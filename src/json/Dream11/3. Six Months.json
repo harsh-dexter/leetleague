@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45500737161532884",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition Equal Subset Sum",
+    "frequency": "83.0",
+    "acceptanceRate": "0.4844393368677416",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

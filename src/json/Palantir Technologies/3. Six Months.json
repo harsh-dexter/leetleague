@@ -1,0 +1,53 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.38430607750545076",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "81.5",
+    "acceptanceRate": "0.49395231317834853",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count the Number of Good Subsequences",
+    "frequency": "72.6",
+    "acceptanceRate": "0.505726872246696",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Combinatorics",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Word Distance III",
+    "frequency": "72.6",
+    "acceptanceRate": "0.5910015691072046",
+    "link": "https://leetcode.com/problems/shortest-word-distance-iii",
+    "topics": [
+      "Array",
+      "String"
+    ]
+  }
+]

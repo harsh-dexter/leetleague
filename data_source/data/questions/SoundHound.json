@@ -1,0 +1,45 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Linked List in Binary Tree",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5190438740859565",
+    "link": "https://leetcode.com/problems/linked-list-in-binary-tree",
+    "topics": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "SoundHound-Linked List in Binary Tree",
+    "company": "SoundHound",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Check if Array Is Sorted and Rotated",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5507514881863992",
+    "link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+    "topics": [
+      "Array"
+    ],
+    "id": "SoundHound-Check if Array Is Sorted and Rotated",
+    "company": "SoundHound",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "67.1",
+    "acceptanceRate": "0.4108472697598495",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "SoundHound-First Missing Positive",
+    "company": "SoundHound",
+    "timeframe": "all"
+  }
+]

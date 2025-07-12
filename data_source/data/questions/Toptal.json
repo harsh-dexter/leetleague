@@ -1,0 +1,46 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "String Compression II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5197862858300415",
+    "link": "https://leetcode.com/problems/string-compression-ii",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Toptal-String Compression II",
+    "company": "Toptal",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Airplane Seat Assignment Probability",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6665048936342312",
+    "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Brainteaser",
+      "Probability and Statistics"
+    ],
+    "id": "Toptal-Airplane Seat Assignment Probability",
+    "company": "Toptal",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Image Smoother",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6837229689163258",
+    "link": "https://leetcode.com/problems/image-smoother",
+    "topics": [
+      "Array",
+      "Matrix"
+    ],
+    "id": "Toptal-Image Smoother",
+    "company": "Toptal",
+    "timeframe": "more_than_180"
+  }
+]

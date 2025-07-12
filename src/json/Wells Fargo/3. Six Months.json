@@ -1,0 +1,17 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Kth Largest Element in a Stream",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5985294841468605",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "topics": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  }
+]

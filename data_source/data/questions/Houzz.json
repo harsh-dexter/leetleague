@@ -1,0 +1,31 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5247155368101455",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Houzz-Basic Calculator III",
+    "company": "Houzz",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Remove 9",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5734518763568697",
+    "link": "https://leetcode.com/problems/remove-9",
+    "topics": [
+      "Math"
+    ],
+    "id": "Houzz-Remove 9",
+    "company": "Houzz",
+    "timeframe": "more_than_180"
+  }
+]

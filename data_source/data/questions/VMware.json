@@ -1,0 +1,295 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4381462083330783",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "VMware-Median of Two Sorted Arrays",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "95.2",
+    "acceptanceRate": "0.5525960541487699",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "VMware-Best Time to Buy and Sell Stock",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "89.2",
+    "acceptanceRate": "0.5577700085826661",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "VMware-Two Sum",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "81.6",
+    "acceptanceRate": "0.49234315793446887",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "VMware-Course Schedule",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "70.9",
+    "acceptanceRate": "0.6304370910860896",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "VMware-Reverse Nodes in k-Group",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "70.9",
+    "acceptanceRate": "0.4305776984194165",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "VMware-Next Permutation",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "70.9",
+    "acceptanceRate": "0.4283724171601919",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "VMware-Search in Rotated Sorted Array",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "70.9",
+    "acceptanceRate": "0.452147387470624",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "VMware-LRU Cache",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "70.9",
+    "acceptanceRate": "0.4548312542311164",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "VMware-Longest Common Prefix",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Make Array Non-decreasing or Non-increasing",
+    "frequency": "70.9",
+    "acceptanceRate": "0.6532793990176251",
+    "link": "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing",
+    "topics": [
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "VMware-Make Array Non-decreasing or Non-increasing",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Break a Palindrome",
+    "frequency": "70.9",
+    "acceptanceRate": "0.515441720680916",
+    "link": "https://leetcode.com/problems/break-a-palindrome",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "VMware-Break a Palindrome",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Palindrome With Fixed Length",
+    "frequency": "70.9",
+    "acceptanceRate": "0.3736629741031472",
+    "link": "https://leetcode.com/problems/find-palindrome-with-fixed-length",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "VMware-Find Palindrome With Fixed Length",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Linked Lists",
+    "frequency": "70.9",
+    "acceptanceRate": "0.6112535637858669",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "VMware-Intersection of Two Linked Lists",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "70.9",
+    "acceptanceRate": "0.6861924193258928",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "VMware-Integer to Roman",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "70.9",
+    "acceptanceRate": "0.49067203161400125",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "VMware-Koko Eating Bananas",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "70.9",
+    "acceptanceRate": "0.35846125525041894",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "VMware-Longest Palindromic Substring",
+    "company": "VMware",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "61.1",
+    "acceptanceRate": "0.49366388355657287",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "VMware-Time Based Key-Value Store",
+    "company": "VMware",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "61.1",
+    "acceptanceRate": "0.5342347717848052",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "VMware-Course Schedule II",
+    "company": "VMware",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Copy List with Random Pointer",
+    "frequency": "61.1",
+    "acceptanceRate": "0.6053672896963543",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "topics": [
+      "Hash Table",
+      "Linked List"
+    ],
+    "id": "VMware-Copy List with Random Pointer",
+    "company": "VMware",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "61.1",
+    "acceptanceRate": "0.5661845896959414",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "VMware-Rotting Oranges",
+    "company": "VMware",
+    "timeframe": "all"
+  }
+]

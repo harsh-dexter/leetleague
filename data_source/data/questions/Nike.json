@@ -1,0 +1,149 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6950033191253866",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Nike-Best Time to Buy and Sell Stock II",
+    "company": "Nike",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5807266385502934",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Nike-Happy Number",
+    "company": "Nike",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Diagonal Traverse",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6317355223295921",
+    "link": "https://leetcode.com/problems/diagonal-traverse",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Nike-Diagonal Traverse",
+    "company": "Nike",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.42322911611918845",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Nike-Valid Parentheses",
+    "company": "Nike",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5209992241964507",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Nike-Maximum Subarray",
+    "company": "Nike",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5644516280721968",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Nike-Min Stack",
+    "company": "Nike",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Can Place Flowers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2889915564370989",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Nike-Can Place Flowers",
+    "company": "Nike",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43057802308500653",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Nike-Next Permutation",
+    "company": "Nike",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "89.0",
+    "acceptanceRate": "0.3693617692365688",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Nike-Longest Substring Without Repeating Characters",
+    "company": "Nike",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design Graph With Shortest Path Calculator",
+    "frequency": "89.0",
+    "acceptanceRate": "0.6410393855779539",
+    "link": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator",
+    "topics": [
+      "Graph",
+      "Design",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ],
+    "id": "Nike-Design Graph With Shortest Path Calculator",
+    "company": "Nike",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Percentage of Users Attended a Contest",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5894214941113579",
+    "link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Ways to Paint N × 3 Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6503587524201552",
+    "link": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  }
+]

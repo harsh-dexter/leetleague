@@ -1,0 +1,306 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Count Ways to Group Overlapping Ranges",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3810753087566162",
+    "link": "https://leetcode.com/problems/count-ways-to-group-overlapping-ranges",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Operations to Make Columns Strictly Increasing",
+    "frequency": "92.3",
+    "acceptanceRate": "0.7199251842887007",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Vowel Strings in Ranges",
+    "frequency": "87.2",
+    "acceptanceRate": "0.6786629908928055",
+    "link": "https://leetcode.com/problems/count-vowel-strings-in-ranges",
+    "topics": [
+      "Array",
+      "String",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "84.1",
+    "acceptanceRate": "0.49395268302674544",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Pivot Index",
+    "frequency": "80.6",
+    "acceptanceRate": "0.6057029910807422",
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Height Checker",
+    "frequency": "71.3",
+    "acceptanceRate": "0.8113928378391797",
+    "link": "https://leetcode.com/problems/height-checker",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "71.3",
+    "acceptanceRate": "0.6861927118001762",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "71.3",
+    "acceptanceRate": "0.4704083978489664",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Largest Number After Digit Swaps by Parity",
+    "frequency": "71.3",
+    "acceptanceRate": "0.637345576330206",
+    "link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity",
+    "topics": [
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "frequency": "64.7",
+    "acceptanceRate": "0.6026879026047842",
+    "link": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "64.7",
+    "acceptanceRate": "0.3693617467707291",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "64.7",
+    "acceptanceRate": "0.7092882545499255",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Strings Alternately",
+    "frequency": "64.7",
+    "acceptanceRate": "0.822296353731916",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "64.7",
+    "acceptanceRate": "0.5525963643174824",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fizz Buzz",
+    "frequency": "64.7",
+    "acceptanceRate": "0.7437057263879774",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gray Code",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6187231456205623",
+    "link": "https://leetcode.com/problems/gray-code",
+    "topics": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Swaps to Group All 1's Together II",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6551706619353931",
+    "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "55.4",
+    "acceptanceRate": "0.7790165261990751",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "55.4",
+    "acceptanceRate": "0.5209978093350673",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "55.4",
+    "acceptanceRate": "0.3707096536037866",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "55.4",
+    "acceptanceRate": "0.5577699653967975",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Mountain in Array",
+    "frequency": "55.4",
+    "acceptanceRate": "0.4107832017720806",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Kth Missing Positive Number",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6228370296548049",
+    "link": "https://leetcode.com/problems/kth-missing-positive-number",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "55.4",
+    "acceptanceRate": "0.3584610347381002",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6486629287856299",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6364613847469199",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

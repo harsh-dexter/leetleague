@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Better Compression of String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.758406942507361",
+    "link": "https://leetcode.com/problems/better-compression-of-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  }
+]

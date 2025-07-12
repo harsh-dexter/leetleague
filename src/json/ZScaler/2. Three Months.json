@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Increment to Make Array Unique",
+    "frequency": "100.0",
+    "acceptanceRate": "0.603327781549441",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "100.0",
+    "acceptanceRate": "0.42812023940598437",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  }
+]

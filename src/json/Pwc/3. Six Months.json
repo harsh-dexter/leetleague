@@ -1,0 +1,25 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6486652858475359",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577708913410159",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

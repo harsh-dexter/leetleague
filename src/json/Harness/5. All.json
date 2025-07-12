@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4786389635666078",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  }
+]

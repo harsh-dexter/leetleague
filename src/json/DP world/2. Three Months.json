@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Set Intersection Size At Least Two",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4525535198979934",
+    "link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  }
+]

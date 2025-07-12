@@ -1,0 +1,157 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Moving Average from Data Stream",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7993788009717444",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "topics": [
+      "Array",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Leetcodify Friends Recommendations",
+    "frequency": "89.9",
+    "acceptanceRate": "0.27980416156670745",
+    "link": "https://leetcode.com/problems/leetcodify-friends-recommendations",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Leetcodify Similar Friends",
+    "frequency": "89.9",
+    "acceptanceRate": "0.4264262416148686",
+    "link": "https://leetcode.com/problems/leetcodify-similar-friends",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "87.6",
+    "acceptanceRate": "0.5577699999694816",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "85.1",
+    "acceptanceRate": "0.36936143087114587",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Analyze User Website Visit Pattern",
+    "frequency": "85.1",
+    "acceptanceRate": "0.43727202347730587",
+    "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "82.2",
+    "acceptanceRate": "0.4232285927944412",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "82.2",
+    "acceptanceRate": "0.6797706304551039",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "75.0",
+    "acceptanceRate": "0.5096354883309973",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "55.3",
+    "acceptanceRate": "0.5327808081897567",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Ransom Note",
+    "frequency": "55.3",
+    "acceptanceRate": "0.645236720828959",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Walls and Gates",
+    "frequency": "55.3",
+    "acceptanceRate": "0.6296793327762211",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Depth of Binary Tree",
+    "frequency": "55.3",
+    "acceptanceRate": "0.7713813413485063",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45266924863980873",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Faire-Word Search",
+    "company": "Faire",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7092898112648001",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Faire-Group Anagrams",
+    "company": "Faire",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Mountain in Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4107846968136123",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ],
+    "id": "Faire-Longest Mountain in Array",
+    "company": "Faire",
+    "timeframe": "more_than_180"
+  }
+]

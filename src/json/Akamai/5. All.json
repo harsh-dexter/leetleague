@@ -1,0 +1,86 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "N-Repeated Element in Size 2N Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7747973064210272",
+    "link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "72.2",
+    "acceptanceRate": "0.5525967873583412",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "62.9",
+    "acceptanceRate": "0.5577702792380397",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "62.9",
+    "acceptanceRate": "0.43814663685718197",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "frequency": "62.9",
+    "acceptanceRate": "0.8328129321513312",
+    "link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal",
+    "topics": [
+      "Array",
+      "Stack",
+      "Tree",
+      "Binary Search Tree",
+      "Monotonic Stack",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Palindrome",
+    "frequency": "62.9",
+    "acceptanceRate": "0.5556746201695723",
+    "link": "https://leetcode.com/problems/longest-palindrome",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "frequency": "62.9",
+    "acceptanceRate": "0.5324771514259002",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  }
+]

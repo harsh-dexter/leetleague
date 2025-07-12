@@ -1,0 +1,104 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6385758051682159",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "My Calendar I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5814631853246708",
+    "link": "https://leetcode.com/problems/my-calendar-i",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Bag of Tokens",
+    "frequency": "92.6",
+    "acceptanceRate": "0.5918662223280171",
+    "link": "https://leetcode.com/problems/bag-of-tokens",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Zero Request Servers",
+    "frequency": "82.1",
+    "acceptanceRate": "0.34117881058144933",
+    "link": "https://leetcode.com/problems/count-zero-request-servers",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "82.1",
+    "acceptanceRate": "0.49366433435553103",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Product Less Than K",
+    "frequency": "82.1",
+    "acceptanceRate": "0.5285358649789029",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "82.1",
+    "acceptanceRate": "0.5780847126573901",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "82.1",
+    "acceptanceRate": "0.611527047281157",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  }
+]

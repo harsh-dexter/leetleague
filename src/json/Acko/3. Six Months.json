@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Count All Valid Pickup and Delivery Options",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6487702325025283",
+    "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  }
+]

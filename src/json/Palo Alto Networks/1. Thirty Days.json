@@ -1,0 +1,24 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Restore IP Addresses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5315843132324689",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "topics": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4283722145334321",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

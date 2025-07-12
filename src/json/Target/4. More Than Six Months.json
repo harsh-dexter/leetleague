@@ -1,0 +1,43 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6758312389131401",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Path With Different Adjacent Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5391662377766341",
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+    "topics": [
+      "Array",
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of the Last K Numbers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6274634247482844",
+    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+    "topics": [
+      "Array",
+      "Math",
+      "Design",
+      "Data Stream",
+      "Prefix Sum"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525974554760431",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Ola Cabs-Best Time to Buy and Sell Stock",
+    "company": "Ola Cabs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6115271417370257",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Ola Cabs-Decode String",
+    "company": "Ola Cabs",
+    "timeframe": "more_than_180"
+  }
+]

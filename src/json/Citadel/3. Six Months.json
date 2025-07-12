@@ -1,0 +1,207 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Count Palindromic Subsequences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.39309342421812343",
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "93.3",
+    "acceptanceRate": "0.47604171417820246",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "91.2",
+    "acceptanceRate": "0.7167859571435372",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "83.4",
+    "acceptanceRate": "0.49395252843651954",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "76.1",
+    "acceptanceRate": "0.6314695091079937",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Scheduler",
+    "frequency": "71.3",
+    "acceptanceRate": "0.5522977372018112",
+    "link": "https://leetcode.com/problems/meeting-scheduler",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Employee Free Time",
+    "frequency": "71.3",
+    "acceptanceRate": "0.7259759595862569",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "topics": [
+      "Array",
+      "Line Sweep",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Parallel Courses III",
+    "frequency": "65.1",
+    "acceptanceRate": "0.6674963944974485",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Duplicate Number",
+    "frequency": "65.1",
+    "acceptanceRate": "0.6283577384693005",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "56.3",
+    "acceptanceRate": "0.54991878709743",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "LFU Cache",
+    "frequency": "56.3",
+    "acceptanceRate": "0.4660898637811462",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "56.3",
+    "acceptanceRate": "0.6231992538801062",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": "56.3",
+    "acceptanceRate": "0.6168283891746636",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": "56.3",
+    "acceptanceRate": "0.41224264845326536",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "frequency": "56.3",
+    "acceptanceRate": "0.4407547923322684",
+    "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "56.3",
+    "acceptanceRate": "0.5525965329429721",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

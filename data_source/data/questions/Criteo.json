@@ -1,0 +1,124 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Arrays",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7647454128954905",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Criteo-Intersection of Two Arrays",
+    "company": "Criteo",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "90.5",
+    "acceptanceRate": "0.4827866554527615",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ],
+    "id": "Criteo-Random Pick with Weight",
+    "company": "Criteo",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "84.3",
+    "acceptanceRate": "0.5577710977790179",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Criteo-Two Sum",
+    "company": "Criteo",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Flood Fill",
+    "frequency": "89.6",
+    "acceptanceRate": "0.6647648139762219",
+    "link": "https://leetcode.com/problems/flood-fill",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Criteo-Flood Fill",
+    "company": "Criteo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "89.6",
+    "acceptanceRate": "0.42322916304897296",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Criteo-Valid Parentheses",
+    "company": "Criteo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "89.6",
+    "acceptanceRate": "0.5291971085249642",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Criteo-Merge Sorted Array",
+    "company": "Criteo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Ransom Note",
+    "frequency": "72.2",
+    "acceptanceRate": "0.6452386002541316",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Criteo-Ransom Note",
+    "company": "Criteo",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "72.2",
+    "acceptanceRate": "0.42837456271701685",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Criteo-Search in Rotated Sorted Array",
+    "company": "Criteo",
+    "timeframe": "all"
+  }
+]

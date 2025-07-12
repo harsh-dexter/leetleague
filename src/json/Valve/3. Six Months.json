@@ -1,0 +1,12 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "String to Integer (atoi)",
+    "frequency": "100.0",
+    "acceptanceRate": "0.19229490109096387",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "topics": [
+      "String"
+    ]
+  }
+]

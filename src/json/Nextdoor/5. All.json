@@ -1,0 +1,98 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Compare Version Numbers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4234723231238846",
+    "link": "https://leetcode.com/problems/compare-version-numbers",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "All O`one Data Structure",
+    "frequency": "98.0",
+    "acceptanceRate": "0.4413480853234703",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "78.9",
+    "acceptanceRate": "0.4939525764689584",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "64.4",
+    "acceptanceRate": "0.6385758739982268",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "64.4",
+    "acceptanceRate": "0.6510217577539866",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Nested List Weight Sum",
+    "frequency": "64.4",
+    "acceptanceRate": "0.8554010438592917",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Two Integers",
+    "frequency": "64.4",
+    "acceptanceRate": "0.18397006285272335",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "64.4",
+    "acceptanceRate": "0.49366433435553103",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  }
+]

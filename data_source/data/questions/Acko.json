@@ -1,0 +1,57 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Count All Valid Pickup and Delivery Options",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6487702325025283",
+    "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Acko-Count All Valid Pickup and Delivery Options",
+    "company": "Acko",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fill Missing Data",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7231414467579705",
+    "link": "https://leetcode.com/problems/fill-missing-data",
+    "topics": [],
+    "id": "Acko-Fill Missing Data",
+    "company": "Acko",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Parallel Courses III",
+    "frequency": "89.6",
+    "acceptanceRate": "0.6674963944974485",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Acko-Parallel Courses III",
+    "company": "Acko",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Invalid Tweets",
+    "frequency": "89.6",
+    "acceptanceRate": "0.8551287418798992",
+    "link": "https://leetcode.com/problems/invalid-tweets",
+    "topics": [
+      "Database"
+    ],
+    "id": "Acko-Invalid Tweets",
+    "company": "Acko",
+    "timeframe": "more_than_180"
+  }
+]

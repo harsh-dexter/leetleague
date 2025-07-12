@@ -1,0 +1,108 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.55776997185251",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "92.0",
+    "acceptanceRate": "0.36936144886094513",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "92.0",
+    "acceptanceRate": "0.4521475035659106",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix",
+    "frequency": "80.7",
+    "acceptanceRate": "0.5228973130364317",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "80.7",
+    "acceptanceRate": "0.35846128129286803",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Cost For Tickets",
+    "frequency": "80.7",
+    "acceptanceRate": "0.6741376633860101",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reconstruct a 2-Row Binary Matrix",
+    "frequency": "80.7",
+    "acceptanceRate": "0.47722177314807757",
+    "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Adding Two Negabinary Numbers",
+    "frequency": "80.7",
+    "acceptanceRate": "0.3689554769276132",
+    "link": "https://leetcode.com/problems/adding-two-negabinary-numbers",
+    "topics": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+    "frequency": "80.7",
+    "acceptanceRate": "0.47045155152224827",
+    "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  }
+]

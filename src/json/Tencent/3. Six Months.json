@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6115259200424883",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  }
+]

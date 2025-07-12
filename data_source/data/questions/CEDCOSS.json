@@ -1,0 +1,59 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3585063954914995",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "CEDCOSS-Longest Palindromic Substring",
+    "company": "CEDCOSS",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "83.4",
+    "acceptanceRate": "0.4548724547806595",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "CEDCOSS-Longest Common Prefix",
+    "company": "CEDCOSS",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "83.4",
+    "acceptanceRate": "0.6280482281942534",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "CEDCOSS-Move Zeroes",
+    "company": "CEDCOSS",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "83.4",
+    "acceptanceRate": "0.677805445452112",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "CEDCOSS-Product of Array Except Self",
+    "company": "CEDCOSS",
+    "timeframe": "more_than_180"
+  }
+]

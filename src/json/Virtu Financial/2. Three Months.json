@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Hexspeak",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5829381638846738",
+    "link": "https://leetcode.com/problems/hexspeak",
+    "topics": [
+      "Math",
+      "String"
+    ]
+  }
+]

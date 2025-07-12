@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5291968270248945",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  }
+]

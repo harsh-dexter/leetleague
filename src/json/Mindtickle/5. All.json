@@ -1,0 +1,50 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Find Array Given Subset Sums",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4868854808657016",
+    "link": "https://leetcode.com/problems/find-array-given-subset-sums",
+    "topics": [
+      "Array",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Get the Maximum Score",
+    "frequency": "100.0",
+    "acceptanceRate": "0.39985388403935057",
+    "link": "https://leetcode.com/problems/get-the-maximum-score",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Ways to Wear Different Hats to Each Other",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4443784933471831",
+    "link": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Capacity To Ship Packages Within D Days",
+    "frequency": "64.6",
+    "acceptanceRate": "0.7213314724109039",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

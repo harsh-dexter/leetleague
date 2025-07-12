@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Frog Jump",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4655846450889997",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

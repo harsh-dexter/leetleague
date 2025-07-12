@@ -1,0 +1,103 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969560951968",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Bolt-Best Time to Buy and Sell Stock",
+    "company": "Bolt",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Anagrams in a String",
+    "frequency": "83.7",
+    "acceptanceRate": "0.5220075091652397",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Bolt-Find All Anagrams in a String",
+    "company": "Bolt",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "73.2",
+    "acceptanceRate": "0.5577703407879065",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Bolt-Two Sum",
+    "company": "Bolt",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock III",
+    "frequency": "73.2",
+    "acceptanceRate": "0.5112109071694252",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Bolt-Best Time to Buy and Sell Stock III",
+    "company": "Bolt",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "64.8",
+    "acceptanceRate": "0.423228885927181",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Bolt-Valid Parentheses",
+    "company": "Bolt",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "64.8",
+    "acceptanceRate": "0.5354080945386758",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Bolt-Climbing Stairs",
+    "company": "Bolt",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Check if All Characters Have Equal Number of Occurrences",
+    "frequency": "64.8",
+    "acceptanceRate": "0.7869266398500473",
+    "link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Bolt-Check if All Characters Have Equal Number of Occurrences",
+    "company": "Bolt",
+    "timeframe": "more_than_180"
+  }
+]

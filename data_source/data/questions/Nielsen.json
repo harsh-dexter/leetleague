@@ -1,0 +1,89 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7093186853159158",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Nielsen-Group Anagrams",
+    "company": "Nielsen",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "89.3",
+    "acceptanceRate": "0.5879426098902617",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Nielsen-Edit Distance",
+    "company": "Nielsen",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "89.3",
+    "acceptanceRate": "0.4939837605432105",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Nielsen-Merge Intervals",
+    "company": "Nielsen",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "89.3",
+    "acceptanceRate": "0.35850618033232723",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Nielsen-Longest Palindromic Substring",
+    "company": "Nielsen",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "frequency": "89.3",
+    "acceptanceRate": "0.47094911669825174",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Nielsen-Best Time to Buy and Sell Stock IV",
+    "company": "Nielsen",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "88.7",
+    "acceptanceRate": "0.5578041545572716",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Nielsen-Two Sum",
+    "company": "Nielsen",
+    "timeframe": "all"
+  }
+]

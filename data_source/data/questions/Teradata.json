@@ -1,0 +1,46 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Count Pairs in Two Arrays",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6015575998327409",
+    "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Teradata-Count Pairs in Two Arrays",
+    "company": "Teradata",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Candy",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4669990512422267",
+    "link": "https://leetcode.com/problems/candy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Teradata-Candy",
+    "company": "Teradata",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6684110044467867",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Teradata-Merge Two Sorted Lists",
+    "company": "Teradata",
+    "timeframe": "all"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7092901466874999",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "87.3",
+    "acceptanceRate": "0.5922447015916658",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "77.2",
+    "acceptanceRate": "0.4232292613944299",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "77.2",
+    "acceptanceRate": "0.666610252002927",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Bit Flips to Convert Number",
+    "frequency": "77.2",
+    "acceptanceRate": "0.8758168602874182",
+    "link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number",
+    "topics": [
+      "Bit Manipulation"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46230585549998393",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  }
+]

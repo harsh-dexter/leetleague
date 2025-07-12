@@ -1,0 +1,50 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "100.0",
+    "acceptanceRate": "0.677800810058164",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Asana-Product of Array Except Self",
+    "company": "Asana",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "K Closest Points to Origin",
+    "frequency": "81.2",
+    "acceptanceRate": "0.6793970834941822",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "topics": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Asana-K Closest Points to Origin",
+    "company": "Asana",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Repeating Substring",
+    "frequency": "56.4",
+    "acceptanceRate": "0.3962144463908421",
+    "link": "https://leetcode.com/problems/maximum-repeating-substring",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ],
+    "id": "Asana-Maximum Repeating Substring",
+    "company": "Asana",
+    "timeframe": "more_than_180"
+  }
+]

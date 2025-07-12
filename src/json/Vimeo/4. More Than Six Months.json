@@ -1,0 +1,26 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Count Pairs With XOR in a Range",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45744370916052773",
+    "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flower Planting With No Adjacent",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5237790114146059",
+    "link": "https://leetcode.com/problems/flower-planting-with-no-adjacent",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  }
+]

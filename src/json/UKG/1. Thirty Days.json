@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Special Binary String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6351450158420667",
+    "link": "https://leetcode.com/problems/special-binary-string",
+    "topics": [
+      "String",
+      "Recursion"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46499890780536696",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6040194963747181",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Palindromic Number",
+    "frequency": "79.6",
+    "acceptanceRate": "0.36473298587506603",
+    "link": "https://leetcode.com/problems/largest-palindromic-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  }
+]

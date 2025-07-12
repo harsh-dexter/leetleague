@@ -1,0 +1,16 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Construct String With Repeat Limit",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7087778142775636",
+    "link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  }
+]

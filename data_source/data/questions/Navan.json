@@ -1,0 +1,64 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "100.0",
+    "acceptanceRate": "0.42819253822744924",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "Navan-Word Ladder",
+    "company": "Navan",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.651086853842941",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Navan-Trapping Rain Water",
+    "company": "Navan",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45220012346604876",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Navan-LRU Cache",
+    "company": "Navan",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Paint House",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6373217658070741",
+    "link": "https://leetcode.com/problems/paint-house",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Navan-Paint House",
+    "company": "Navan",
+    "timeframe": "more_than_180"
+  }
+]

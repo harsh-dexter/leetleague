@@ -1,0 +1,98 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Furthest Building You Can Reach",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5037105972749183",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Common Supersequence ",
+    "frequency": "87.9",
+    "acceptanceRate": "0.6132098086836925",
+    "link": "https://leetcode.com/problems/shortest-common-supersequence",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Falling Path Sum",
+    "frequency": "87.9",
+    "acceptanceRate": "0.6143995522039412",
+    "link": "https://leetcode.com/problems/minimum-falling-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Final Prices With a Special Discount in a Shop",
+    "frequency": "87.9",
+    "acceptanceRate": "0.8330161578030366",
+    "link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "87.9",
+    "acceptanceRate": "0.46383586845548325",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "87.9",
+    "acceptanceRate": "0.3707112712968184",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Ways to Select Buildings",
+    "frequency": "87.9",
+    "acceptanceRate": "0.5047505427656327",
+    "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "frequency": "87.9",
+    "acceptanceRate": "0.724276749873114",
+    "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  }
+]

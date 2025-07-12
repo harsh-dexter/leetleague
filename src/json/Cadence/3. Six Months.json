@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5096361518985055",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  }
+]

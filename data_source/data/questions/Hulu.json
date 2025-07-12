@@ -1,0 +1,75 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Pruning",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7235985436633292",
+    "link": "https://leetcode.com/problems/binary-tree-pruning",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Hulu-Binary Tree Pruning",
+    "company": "Hulu",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5246967071057193",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Hulu-Basic Calculator III",
+    "company": "Hulu",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum of Two Integers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5368154423177579",
+    "link": "https://leetcode.com/problems/sum-of-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "id": "Hulu-Sum of Two Integers",
+    "company": "Hulu",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Valid Subarrays",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7924088008381751",
+    "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Hulu-Number of Valid Subarrays",
+    "company": "Hulu",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "K-th Smallest in Lexicographical Order",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4590476135927557",
+    "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+    "topics": [
+      "Trie"
+    ],
+    "id": "Hulu-K-th Smallest in Lexicographical Order",
+    "company": "Hulu",
+    "timeframe": "more_than_180"
+  }
+]

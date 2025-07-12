@@ -1,0 +1,2410 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6510194577693873",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Goldman Sachs-Trapping Rain Water",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "High Five",
+    "frequency": "65.6",
+    "acceptanceRate": "0.7434011552337414",
+    "link": "https://leetcode.com/problems/high-five",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Goldman Sachs-High Five",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Fraction to Recurring Decimal",
+    "frequency": "65.6",
+    "acceptanceRate": "0.2622353839768554",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Goldman Sachs-Fraction to Recurring Decimal",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "65.6",
+    "acceptanceRate": "0.6648152266005115",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Minimum Path Sum",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "frequency": "65.6",
+    "acceptanceRate": "0.7023384374541363",
+    "link": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ],
+    "id": "Goldman Sachs-Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Car Pooling",
+    "frequency": "65.6",
+    "acceptanceRate": "0.5604985308033269",
+    "link": "https://leetcode.com/problems/car-pooling",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Prefix Sum"
+    ],
+    "id": "Goldman Sachs-Car Pooling",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "First Unique Character in a String",
+    "frequency": "57.3",
+    "acceptanceRate": "0.6369547945291859",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ],
+    "id": "Goldman Sachs-First Unique Character in a String",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "57.3",
+    "acceptanceRate": "0.4381460032749151",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Goldman Sachs-Median of Two Sorted Arrays",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "57.3",
+    "acceptanceRate": "0.6231992538801062",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Number of Islands",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "57.3",
+    "acceptanceRate": "0.36936173184826904",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Goldman Sachs-Longest Substring Without Repeating Characters",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Robot Return to Origin",
+    "frequency": "57.3",
+    "acceptanceRate": "0.7617030831410564",
+    "link": "https://leetcode.com/problems/robot-return-to-origin",
+    "topics": [
+      "String",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Robot Return to Origin",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "57.3",
+    "acceptanceRate": "0.5778283165036205",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Container With Most Water",
+    "company": "Goldman Sachs",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Minimum Amount of Time to Brew Potions",
+    "frequency": "70.6",
+    "acceptanceRate": "0.3517014694508894",
+    "link": "https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions",
+    "topics": [
+      "Array",
+      "Simulation",
+      "Prefix Sum"
+    ],
+    "id": "Goldman Sachs-Find the Minimum Amount of Time to Brew Potions",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Winner of the Circular Game",
+    "frequency": "60.9",
+    "acceptanceRate": "0.8206656341049726",
+    "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Recursion",
+      "Queue",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Find the Winner of the Circular Game",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "57.5",
+    "acceptanceRate": "0.4283722138743466",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Goldman Sachs-Search in Rotated Sorted Array",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "53.3",
+    "acceptanceRate": "0.45214550965761185",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Goldman Sachs-LRU Cache",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Consecutive Characters",
+    "frequency": "53.3",
+    "acceptanceRate": "0.6021721208645471",
+    "link": "https://leetcode.com/problems/consecutive-characters",
+    "topics": [
+      "String"
+    ],
+    "id": "Goldman Sachs-Consecutive Characters",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "53.3",
+    "acceptanceRate": "0.6797700833982673",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Goldman Sachs-Kth Largest Element in an Array",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "53.3",
+    "acceptanceRate": "0.5264825291581084",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Goldman Sachs-Find Minimum in Rotated Sorted Array",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode Ways",
+    "frequency": "47.8",
+    "acceptanceRate": "0.36530982861754346",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Decode Ways",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String to Integer (atoi)",
+    "frequency": "47.8",
+    "acceptanceRate": "0.19229419795412275",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "topics": [
+      "String"
+    ],
+    "id": "Goldman Sachs-String to Integer (atoi)",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Check if the Sentence Is Pangram",
+    "frequency": "47.8",
+    "acceptanceRate": "0.83848531974997",
+    "link": "https://leetcode.com/problems/check-if-the-sentence-is-pangram",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Goldman Sachs-Check if the Sentence Is Pangram",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Circular Deque",
+    "frequency": "40.2",
+    "acceptanceRate": "0.6434745510538449",
+    "link": "https://leetcode.com/problems/design-circular-deque",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ],
+    "id": "Goldman Sachs-Design Circular Deque",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "40.2",
+    "acceptanceRate": "0.7092882781909262",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Group Anagrams",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Integer to English Words",
+    "frequency": "40.2",
+    "acceptanceRate": "0.34354789501950295",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "topics": [
+      "Math",
+      "String",
+      "Recursion"
+    ],
+    "id": "Goldman Sachs-Integer to English Words",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Knight Probability in Chessboard",
+    "frequency": "40.2",
+    "acceptanceRate": "0.5659459211311573",
+    "link": "https://leetcode.com/problems/knight-probability-in-chessboard",
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Knight Probability in Chessboard",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sqrt(x)",
+    "frequency": "40.2",
+    "acceptanceRate": "0.40371786897905787",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "Goldman Sachs-Sqrt(x)",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "40.2",
+    "acceptanceRate": "0.5209977640581438",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Maximum Subarray",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Non-overlapping Intervals",
+    "frequency": "40.2",
+    "acceptanceRate": "0.5550284035532288",
+    "link": "https://leetcode.com/problems/non-overlapping-intervals",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Non-overlapping Intervals",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "40.2",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Text Justification",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "40.2",
+    "acceptanceRate": "0.45500659848234903",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Asteroid Collision",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "40.2",
+    "acceptanceRate": "0.4718257360539049",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Goldman Sachs-Binary Tree Cameras",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Burst Balloons",
+    "frequency": "40.2",
+    "acceptanceRate": "0.6131500044712985",
+    "link": "https://leetcode.com/problems/burst-balloons",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Burst Balloons",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "40.2",
+    "acceptanceRate": "0.5577699379132833",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Goldman Sachs-Two Sum",
+    "company": "Goldman Sachs",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations III",
+    "frequency": "62.0",
+    "acceptanceRate": "0.8570205479452055",
+    "link": "https://leetcode.com/problems/permutations-iii",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Goldman Sachs-Permutations III",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "60.1",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Goldman Sachs-String Compression",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Optimal Account Balancing",
+    "frequency": "49.3",
+    "acceptanceRate": "0.4993810266893702",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "Goldman Sachs-Optimal Account Balancing",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct Smallest Number From DI String",
+    "frequency": "49.3",
+    "acceptanceRate": "0.858291954685622",
+    "link": "https://leetcode.com/problems/construct-smallest-number-from-di-string",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Stack",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Construct Smallest Number From DI String",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "45.2",
+    "acceptanceRate": "0.6456598417590443",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Goldman Sachs-Top K Frequent Elements",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Robot Bounded In Circle",
+    "frequency": "45.2",
+    "acceptanceRate": "0.5622965278408281",
+    "link": "https://leetcode.com/problems/robot-bounded-in-circle",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Robot Bounded In Circle",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "45.2",
+    "acceptanceRate": "0.49395267933200643",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Merge Intervals",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Identify the Largest Outlier in an Array",
+    "frequency": "45.2",
+    "acceptanceRate": "0.3566362791255585",
+    "link": "https://leetcode.com/problems/identify-the-largest-outlier-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting",
+      "Enumeration"
+    ],
+    "id": "Goldman Sachs-Identify the Largest Outlier in an Array",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Repeating Character Replacement",
+    "frequency": "40.0",
+    "acceptanceRate": "0.5721163769892559",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Goldman Sachs-Longest Repeating Character Replacement",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "40.0",
+    "acceptanceRate": "0.45266938011238234",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Word Search",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "40.0",
+    "acceptanceRate": "0.6777995199303269",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Goldman Sachs-Product of Array Except Self",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix",
+    "frequency": "40.0",
+    "acceptanceRate": "0.5228958306958686",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Search a 2D Matrix",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "40.0",
+    "acceptanceRate": "0.42322822762811346",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Goldman Sachs-Valid Parentheses",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "40.0",
+    "acceptanceRate": "0.46495443407851283",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Goldman Sachs-Coin Change",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pascal's Triangle",
+    "frequency": "40.0",
+    "acceptanceRate": "0.770215491719448",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Pascal's Triangle",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "40.0",
+    "acceptanceRate": "0.6950025067480458",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Best Time to Buy and Sell Stock II",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "40.0",
+    "acceptanceRate": "0.5441759218125277",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Maximum Profit in Job Scheduling",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix II",
+    "frequency": "40.0",
+    "acceptanceRate": "0.734312719680276",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Spiral Matrix II",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Length of Longest Fibonacci Subsequence",
+    "frequency": "32.7",
+    "acceptanceRate": "0.575965163992327",
+    "link": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Length of Longest Fibonacci Subsequence",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Linked List Cycle",
+    "frequency": "32.7",
+    "acceptanceRate": "0.5257064137920662",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Goldman Sachs-Linked List Cycle",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "32.7",
+    "acceptanceRate": "0.5342350291611208",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Goldman Sachs-Course Schedule II",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Number of Teams",
+    "frequency": "32.7",
+    "acceptanceRate": "0.7010096636659391",
+    "link": "https://leetcode.com/problems/count-number-of-teams",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "Goldman Sachs-Count Number of Teams",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Area of Island",
+    "frequency": "32.7",
+    "acceptanceRate": "0.7316416136206765",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Max Area of Island",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Implement Stack using Queues",
+    "frequency": "32.7",
+    "acceptanceRate": "0.6733897915056893",
+    "link": "https://leetcode.com/problems/implement-stack-using-queues",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "id": "Goldman Sachs-Implement Stack using Queues",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "The Skyline Problem",
+    "frequency": "32.7",
+    "acceptanceRate": "0.4396233271583687",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "Goldman Sachs-The Skyline Problem",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "32.7",
+    "acceptanceRate": "0.6684089645066709",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Goldman Sachs-Merge Two Sorted Lists",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove All Occurrences of a Substring",
+    "frequency": "32.7",
+    "acceptanceRate": "0.7806968639516182",
+    "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring",
+    "topics": [
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Remove All Occurrences of a Substring",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lexicographically Smallest String After Substring Operation",
+    "frequency": "32.7",
+    "acceptanceRate": "0.32344554536689435",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Lexicographically Smallest String After Substring Operation",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Palindrome Pairs",
+    "frequency": "32.7",
+    "acceptanceRate": "0.3624370777346535",
+    "link": "https://leetcode.com/problems/palindrome-pairs",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "id": "Goldman Sachs-Palindrome Pairs",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "32.7",
+    "acceptanceRate": "0.4547619233482047",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Goldman Sachs-Subarray Sum Equals K",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "32.7",
+    "acceptanceRate": "0.5230498335398295",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-House Robber",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Design HashMap",
+    "frequency": "32.7",
+    "acceptanceRate": "0.6589390156242249",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ],
+    "id": "Goldman Sachs-Design HashMap",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "32.7",
+    "acceptanceRate": "0.552596541931788",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Best Time to Buy and Sell Stock",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "32.7",
+    "acceptanceRate": "0.46509214864540416",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Goldman Sachs-Find Peak Element",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Third Maximum Number",
+    "frequency": "32.7",
+    "acceptanceRate": "0.3721120655575063",
+    "link": "https://leetcode.com/problems/third-maximum-number",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Third Maximum Number",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "32.7",
+    "acceptanceRate": "0.7006535616405187",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Missing Number",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "frequency": "32.7",
+    "acceptanceRate": "0.6039233260349853",
+    "link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Minimum Number of Arrows to Burst Balloons",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "frequency": "32.7",
+    "acceptanceRate": "0.47086154391046825",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Best Time to Buy and Sell Stock IV",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "32.7",
+    "acceptanceRate": "0.6280402658363383",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Goldman Sachs-Move Zeroes",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Path Sum",
+    "frequency": "32.7",
+    "acceptanceRate": "0.5300474803298877",
+    "link": "https://leetcode.com/problems/path-sum",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Goldman Sachs-Path Sum",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum IV - Input is a BST",
+    "frequency": "32.7",
+    "acceptanceRate": "0.6221872185096279",
+    "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Goldman Sachs-Two Sum IV - Input is a BST",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "32.7",
+    "acceptanceRate": "0.4704083978489664",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Goldman Sachs-Longest Consecutive Sequence",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "K-th Symbol in Grammar",
+    "frequency": "32.7",
+    "acceptanceRate": "0.47396406232876437",
+    "link": "https://leetcode.com/problems/k-th-symbol-in-grammar",
+    "topics": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ],
+    "id": "Goldman Sachs-K-th Symbol in Grammar",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Power of Three",
+    "frequency": "32.7",
+    "acceptanceRate": "0.4802572566132386",
+    "link": "https://leetcode.com/problems/power-of-three",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Goldman Sachs-Power of Three",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reorganize String",
+    "frequency": "32.7",
+    "acceptanceRate": "0.5619634145417838",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "Goldman Sachs-Reorganize String",
+    "company": "Goldman Sachs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reaching Points",
+    "frequency": "69.1",
+    "acceptanceRate": "0.336468882434809",
+    "link": "https://leetcode.com/problems/reaching-points",
+    "topics": [
+      "Math"
+    ],
+    "id": "Goldman Sachs-Reaching Points",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Backspace String Compare",
+    "frequency": "64.3",
+    "acceptanceRate": "0.4948169719450871",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Backspace String Compare",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "58.7",
+    "acceptanceRate": "0.7167859571435372",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Palindromic Substrings",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimize the Maximum of Two Arrays",
+    "frequency": "58.7",
+    "acceptanceRate": "0.31227262450414156",
+    "link": "https://leetcode.com/problems/minimize-the-maximum-of-two-arrays",
+    "topics": [
+      "Math",
+      "Binary Search",
+      "Number Theory"
+    ],
+    "id": "Goldman Sachs-Minimize the Maximum of Two Arrays",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reformat Date",
+    "frequency": "57.6",
+    "acceptanceRate": "0.6733420066288758",
+    "link": "https://leetcode.com/problems/reformat-date",
+    "topics": [
+      "String"
+    ],
+    "id": "Goldman Sachs-Reformat Date",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "53.7",
+    "acceptanceRate": "0.5780835683908844",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Longest Increasing Subsequence",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "52.2",
+    "acceptanceRate": "0.35846104860827005",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Longest Palindromic Substring",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "50.5",
+    "acceptanceRate": "0.39479197867291327",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Jump Game",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "High-Access Employees",
+    "frequency": "48.7",
+    "acceptanceRate": "0.46126369648115073",
+    "link": "https://leetcode.com/problems/high-access-employees",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-High-Access Employees",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "48.7",
+    "acceptanceRate": "0.47604171417820246",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "Goldman Sachs-Sliding Window Maximum",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "44.3",
+    "acceptanceRate": "0.4305775328017951",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Goldman Sachs-Next Permutation",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "frequency": "44.3",
+    "acceptanceRate": "0.5324772640938334",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "id": "Goldman Sachs-Pairs of Songs With Total Durations Divisible by 60",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "44.3",
+    "acceptanceRate": "0.37023180307379455",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Goldman Sachs-Pow(x, n)",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "41.6",
+    "acceptanceRate": "0.566184675573941",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Rotting Oranges",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "41.6",
+    "acceptanceRate": "0.549918579117808",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Goldman Sachs-Insert Delete GetRandom O(1)",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "41.6",
+    "acceptanceRate": "0.5354071840932856",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Goldman Sachs-Climbing Stairs",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Size Subarray Sum",
+    "frequency": "38.4",
+    "acceptanceRate": "0.49391032213026165",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Goldman Sachs-Minimum Size Subarray Sum",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Valid Arrangement of Pairs",
+    "frequency": "38.4",
+    "acceptanceRate": "0.6626068003487359",
+    "link": "https://leetcode.com/problems/valid-arrangement-of-pairs",
+    "topics": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ],
+    "id": "Goldman Sachs-Valid Arrangement of Pairs",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "frequency": "34.6",
+    "acceptanceRate": "0.8488583382642377",
+    "link": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "id": "Goldman Sachs-Count Number of Pairs With Absolute Difference K",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pascal's Triangle II",
+    "frequency": "34.6",
+    "acceptanceRate": "0.6595100107835754",
+    "link": "https://leetcode.com/problems/pascals-triangle-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Pascal's Triangle II",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "34.6",
+    "acceptanceRate": "0.46383617781658143",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Gas Station",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens",
+    "frequency": "34.6",
+    "acceptanceRate": "0.7281704967757537",
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Goldman Sachs-N-Queens",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Underground System",
+    "frequency": "34.6",
+    "acceptanceRate": "0.7402814844281105",
+    "link": "https://leetcode.com/problems/design-underground-system",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design"
+    ],
+    "id": "Goldman Sachs-Design Underground System",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game III",
+    "frequency": "34.6",
+    "acceptanceRate": "0.6603717968394102",
+    "link": "https://leetcode.com/problems/jump-game-iii",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "id": "Goldman Sachs-Jump Game III",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "frequency": "34.6",
+    "acceptanceRate": "0.7868399685247711",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Goldman Sachs-Sort Integers by The Number of 1 Bits",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "29.7",
+    "acceptanceRate": "0.3707094670133504",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-3Sum",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "29.7",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Goldman Sachs-First Missing Positive",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "29.7",
+    "acceptanceRate": "0.7790165261990751",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Rotate Image",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Super Egg Drop",
+    "frequency": "29.7",
+    "acceptanceRate": "0.2875525570224879",
+    "link": "https://leetcode.com/problems/super-egg-drop",
+    "topics": [
+      "Math",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Super Egg Drop",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Middle of the Linked List",
+    "frequency": "29.7",
+    "acceptanceRate": "0.8058170587466457",
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Goldman Sachs-Middle of the Linked List",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "29.7",
+    "acceptanceRate": "0.6385755061179695",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Goldman Sachs-Letter Combinations of a Phone Number",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "29.7",
+    "acceptanceRate": "0.8066011364163758",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Goldman Sachs-Permutations",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "29.7",
+    "acceptanceRate": "0.5393976057408939",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Spiral Matrix",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "frequency": "29.7",
+    "acceptanceRate": "0.5960160384923817",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Goldman Sachs-Remove All Adjacent Duplicates in String II",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Daily Temperatures",
+    "frequency": "29.7",
+    "acceptanceRate": "0.673649951600241",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Goldman Sachs-Daily Temperatures",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "29.7",
+    "acceptanceRate": "0.4302138242326172",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Goldman Sachs-Rotate Array",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Fraction Addition and Subtraction",
+    "frequency": "29.7",
+    "acceptanceRate": "0.6614695886090164",
+    "link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Fraction Addition and Subtraction",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Palindromic Subsequences",
+    "frequency": "29.7",
+    "acceptanceRate": "0.39309342421812343",
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Count Palindromic Subsequences",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Next Greater Element I",
+    "frequency": "29.7",
+    "acceptanceRate": "0.7451247376157817",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Goldman Sachs-Next Greater Element I",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "29.7",
+    "acceptanceRate": "0.4876133314788993",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Maximal Square",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "frequency": "29.7",
+    "acceptanceRate": "0.6373515517663223",
+    "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Goldman Sachs-Amount of Time for Binary Tree to Be Infected",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "29.7",
+    "acceptanceRate": "0.6115249906697672",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Goldman Sachs-Decode String",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Candy",
+    "frequency": "29.7",
+    "acceptanceRate": "0.4669979228964262",
+    "link": "https://leetcode.com/problems/candy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Candy",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "29.7",
+    "acceptanceRate": "0.412803811932624",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Largest Number",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Greater Element III",
+    "frequency": "29.7",
+    "acceptanceRate": "0.34586631403766466",
+    "link": "https://leetcode.com/problems/next-greater-element-iii",
+    "topics": [
+      "Math",
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Goldman Sachs-Next Greater Element III",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Duplicate Number",
+    "frequency": "29.7",
+    "acceptanceRate": "0.6283577384693005",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ],
+    "id": "Goldman Sachs-Find the Duplicate Number",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "29.7",
+    "acceptanceRate": "0.5327816407313548",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "id": "Goldman Sachs-Find Median from Data Stream",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove All Adjacent Duplicates In String",
+    "frequency": "23.0",
+    "acceptanceRate": "0.715875534292082",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Goldman Sachs-Remove All Adjacent Duplicates In String",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate II",
+    "frequency": "23.0",
+    "acceptanceRate": "0.4904986450077176",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "id": "Goldman Sachs-Contains Duplicate II",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "frequency": "23.0",
+    "acceptanceRate": "0.717268529079912",
+    "link": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Goldman Sachs-Reverse Substrings Between Each Pair of Parentheses",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "23.0",
+    "acceptanceRate": "0.6666090126327007",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Valid Anagram",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Common Subsequence",
+    "frequency": "23.0",
+    "acceptanceRate": "0.582494259379739",
+    "link": "https://leetcode.com/problems/longest-common-subsequence",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Longest Common Subsequence",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "23.0",
+    "acceptanceRate": "0.6227675793740958",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Valid Sudoku",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "23.0",
+    "acceptanceRate": "0.415032966531176",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Jump Game II",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicate Letters",
+    "frequency": "23.0",
+    "acceptanceRate": "0.5135095841552992",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "id": "Goldman Sachs-Remove Duplicate Letters",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Flip Matrix",
+    "frequency": "23.0",
+    "acceptanceRate": "0.43546135082849685",
+    "link": "https://leetcode.com/problems/random-flip-matrix",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ],
+    "id": "Goldman Sachs-Random Flip Matrix",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse String",
+    "frequency": "23.0",
+    "acceptanceRate": "0.7976436563508422",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Goldman Sachs-Reverse String",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Query Kth Smallest Trimmed Number",
+    "frequency": "23.0",
+    "acceptanceRate": "0.45574055602445074",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "topics": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ],
+    "id": "Goldman Sachs-Query Kth Smallest Trimmed Number",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "23.0",
+    "acceptanceRate": "0.6577287347956182",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Goldman Sachs-Unique Paths",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "frequency": "23.0",
+    "acceptanceRate": "0.7050715532641945",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Best Time to Buy and Sell Stock with Transaction Fee",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Linked Lists",
+    "frequency": "23.0",
+    "acceptanceRate": "0.6112536319835228",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Goldman Sachs-Intersection of Two Linked Lists",
+    "company": "Goldman Sachs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Cost Homecoming of a Robot in a Grid",
+    "frequency": "47.2",
+    "acceptanceRate": "0.5116018634653288",
+    "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Goldman Sachs-Minimum Cost Homecoming of a Robot in a Grid",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Range Product Queries of Powers",
+    "frequency": "47.2",
+    "acceptanceRate": "0.41906952851048623",
+    "link": "https://leetcode.com/problems/range-product-queries-of-powers",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ],
+    "id": "Goldman Sachs-Range Product Queries of Powers",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Keep Multiplying Found Values by Two",
+    "frequency": "45.6",
+    "acceptanceRate": "0.7133261449808213",
+    "link": "https://leetcode.com/problems/keep-multiplying-found-values-by-two",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Simulation"
+    ],
+    "id": "Goldman Sachs-Keep Multiplying Found Values by Two",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Number of Texts",
+    "frequency": "45.6",
+    "acceptanceRate": "0.4884854532893222",
+    "link": "https://leetcode.com/problems/count-number-of-texts",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Count Number of Texts",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Good Indices",
+    "frequency": "45.6",
+    "acceptanceRate": "0.3985184360031191",
+    "link": "https://leetcode.com/problems/find-all-good-indices",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ],
+    "id": "Goldman Sachs-Find All Good Indices",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Successful Pairs of Spells and Potions",
+    "frequency": "45.6",
+    "acceptanceRate": "0.45497361391492785",
+    "link": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Successful Pairs of Spells and Potions",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Determine if Two Events Have Conflict",
+    "frequency": "45.6",
+    "acceptanceRate": "0.5234865263935031",
+    "link": "https://leetcode.com/problems/determine-if-two-events-have-conflict",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "id": "Goldman Sachs-Determine if Two Events Have Conflict",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "33.9",
+    "acceptanceRate": "0.34941614794619197",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Maximum Product Subarray",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "frequency": "30.2",
+    "acceptanceRate": "0.5322093775396812",
+    "link": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Trie"
+    ],
+    "id": "Goldman Sachs-Maximum XOR of Two Numbers in an Array",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "30.2",
+    "acceptanceRate": "0.6070884864800216",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Goldman Sachs-Set Matrix Zeroes",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "30.2",
+    "acceptanceRate": "0.4622507291808296",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Goldman Sachs-Add Two Numbers",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "30.2",
+    "acceptanceRate": "0.6486627884371093",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Goldman Sachs-Roman to Integer",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "25.5",
+    "acceptanceRate": "0.6861925885666443",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Goldman Sachs-Integer to Roman",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "frequency": "25.5",
+    "acceptanceRate": "0.49496202908621634",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Goldman Sachs-Longest Substring with At Most K Distinct Characters",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutation in String",
+    "frequency": "25.5",
+    "acceptanceRate": "0.47247851720550266",
+    "link": "https://leetcode.com/problems/permutation-in-string",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Goldman Sachs-Permutation in String",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reorder List",
+    "frequency": "25.5",
+    "acceptanceRate": "0.6250476843297371",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Goldman Sachs-Reorder List",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "19.1",
+    "acceptanceRate": "0.5291952521829845",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Goldman Sachs-Merge Sorted Array",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "19.1",
+    "acceptanceRate": "0.5160678115303926",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "Goldman Sachs-Zigzag Conversion",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interleaving String",
+    "frequency": "19.1",
+    "acceptanceRate": "0.4217918033968859",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Goldman Sachs-Interleaving String",
+    "company": "Goldman Sachs",
+    "timeframe": "all"
+  }
+]

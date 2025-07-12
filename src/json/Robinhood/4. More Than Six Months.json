@@ -1,0 +1,124 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Orders in the Backlog",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5196292359051828",
+    "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Restore the Array From Adjacent Pairs",
+    "frequency": "80.2",
+    "acceptanceRate": "0.7472197096394245",
+    "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "74.0",
+    "acceptanceRate": "0.5525960901035435",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check if There is a Valid Path in a Grid",
+    "frequency": "65.2",
+    "acceptanceRate": "0.48964880918055476",
+    "link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Good Meals",
+    "frequency": "65.2",
+    "acceptanceRate": "0.3164606880510123",
+    "link": "https://leetcode.com/problems/count-good-meals",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Ways to Split Array Into Three Subarrays",
+    "frequency": "65.2",
+    "acceptanceRate": "0.3344652559336574",
+    "link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Capital Gain/Loss",
+    "frequency": "65.2",
+    "acceptanceRate": "0.849191049073916",
+    "link": "https://leetcode.com/problems/capital-gainloss",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count the Number of Consistent Strings",
+    "frequency": "65.2",
+    "acceptanceRate": "0.8827632052615655",
+    "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Brightest Position on Street",
+    "frequency": "65.2",
+    "acceptanceRate": "0.605687821115855",
+    "link": "https://leetcode.com/problems/brightest-position-on-street",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "65.2",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  }
+]

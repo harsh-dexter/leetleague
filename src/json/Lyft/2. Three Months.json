@@ -1,0 +1,104 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5661841837717154",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check Completeness of a Binary Tree",
+    "frequency": "88.5",
+    "acceptanceRate": "0.5837359987945151",
+    "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Read N Characters Given read4 II - Call Multiple Times",
+    "frequency": "84.2",
+    "acceptanceRate": "0.42905969922527715",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+    "topics": [
+      "Array",
+      "Simulation",
+      "Interactive"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort List",
+    "frequency": "65.1",
+    "acceptanceRate": "0.618074922962942",
+    "link": "https://leetcode.com/problems/sort-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "65.1",
+    "acceptanceRate": "0.49366304491851065",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder II",
+    "frequency": "57.2",
+    "acceptanceRate": "0.271526407856053",
+    "link": "https://leetcode.com/problems/word-ladder-ii",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Max Stack",
+    "frequency": "57.2",
+    "acceptanceRate": "0.4553192278942039",
+    "link": "https://leetcode.com/problems/max-stack",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "57.2",
+    "acceptanceRate": "0.45350682478059534",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

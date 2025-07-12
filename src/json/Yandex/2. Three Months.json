@@ -1,0 +1,393 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find K Closest Elements",
+    "frequency": "100.0",
+    "acceptanceRate": "0.486686656754684",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "frequency": "93.6",
+    "acceptanceRate": "0.6923361123158723",
+    "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome II",
+    "frequency": "89.6",
+    "acceptanceRate": "0.43027189520012515",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "89.6",
+    "acceptanceRate": "0.46857985622916554",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Summary Ranges",
+    "frequency": "85.0",
+    "acceptanceRate": "0.5302484768932422",
+    "link": "https://leetcode.com/problems/summary-ranges",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "85.0",
+    "acceptanceRate": "0.5096354153051617",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Distance to Closest Person",
+    "frequency": "79.3",
+    "acceptanceRate": "0.4898732183487074",
+    "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "79.3",
+    "acceptanceRate": "0.3693617309777643",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "frequency": "79.3",
+    "acceptanceRate": "0.6504033553116321",
+    "link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "79.3",
+    "acceptanceRate": "0.7092883082997726",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "79.3",
+    "acceptanceRate": "0.4581138691872612",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Anagrams in a String",
+    "frequency": "71.9",
+    "acceptanceRate": "0.5220071349201708",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "71.9",
+    "acceptanceRate": "0.42837211264300534",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interval List Intersections",
+    "frequency": "71.9",
+    "acceptanceRate": "0.7267720917127461",
+    "link": "https://leetcode.com/problems/interval-list-intersections",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Line Sweep"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "71.9",
+    "acceptanceRate": "0.493952611273816",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Substrings Without Repeating Character",
+    "frequency": "71.9",
+    "acceptanceRate": "0.760929463629684",
+    "link": "https://leetcode.com/problems/count-substrings-without-repeating-character",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reconstruct Itinerary",
+    "frequency": "71.9",
+    "acceptanceRate": "0.43605633703588564",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "topics": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Line Reflection",
+    "frequency": "71.9",
+    "acceptanceRate": "0.3601319248289713",
+    "link": "https://leetcode.com/problems/line-reflection",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Is Subsequence",
+    "frequency": "71.9",
+    "acceptanceRate": "0.4838256584742853",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "frequency": "61.6",
+    "acceptanceRate": "0.8705002393016348",
+    "link": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "One Edit Distance",
+    "frequency": "61.6",
+    "acceptanceRate": "0.34477696888871256",
+    "link": "https://leetcode.com/problems/one-edit-distance",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Nth Node From End of List",
+    "frequency": "61.6",
+    "acceptanceRate": "0.48961080430536247",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Squares of a Sorted Array",
+    "frequency": "61.6",
+    "acceptanceRate": "0.7321921721974125",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "61.6",
+    "acceptanceRate": "0.45476208343007196",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Destination City",
+    "frequency": "61.6",
+    "acceptanceRate": "0.7943375928894831",
+    "link": "https://leetcode.com/problems/destination-city",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Right Side View",
+    "frequency": "61.6",
+    "acceptanceRate": "0.6704258864448341",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutation in String",
+    "frequency": "61.6",
+    "acceptanceRate": "0.47247815307452273",
+    "link": "https://leetcode.com/problems/permutation-in-string",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "61.6",
+    "acceptanceRate": "0.6280402443388765",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "61.6",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "61.6",
+    "acceptanceRate": "0.6231994794917457",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "frequency": "61.6",
+    "acceptanceRate": "0.8246674945153157",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "61.6",
+    "acceptanceRate": "0.4622508203776938",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "frequency": "61.6",
+    "acceptanceRate": "0.49496202908621634",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

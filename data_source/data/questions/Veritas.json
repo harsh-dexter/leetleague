@@ -1,0 +1,30 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Reformat Date",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6733470658385863",
+    "link": "https://leetcode.com/problems/reformat-date",
+    "topics": [
+      "String"
+    ],
+    "id": "Veritas-Reformat Date",
+    "company": "Veritas",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shifting Letters II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5333917702513844",
+    "link": "https://leetcode.com/problems/shifting-letters-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Prefix Sum"
+    ],
+    "id": "Veritas-Shifting Letters II",
+    "company": "Veritas",
+    "timeframe": "more_than_180"
+  }
+]

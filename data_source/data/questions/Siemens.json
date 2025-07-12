@@ -1,0 +1,375 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.746908249713867",
+    "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy"
+    ],
+    "id": "Siemens-Minimum Add to Make Parentheses Valid",
+    "company": "Siemens",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "The Skyline Problem",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4396240927117757",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "Siemens-The Skyline Problem",
+    "company": "Siemens",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232010354262733",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Siemens-Number of Islands",
+    "company": "Siemens",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4232289239118503",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Siemens-Valid Parentheses",
+    "company": "Siemens",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939526408318937",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Siemens-Merge Intervals",
+    "company": "Siemens",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "81.2",
+    "acceptanceRate": "0.7920661983013875",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Siemens-Reverse Linked List",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "81.2",
+    "acceptanceRate": "0.638575832140434",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Siemens-Letter Combinations of a Phone Number",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "81.2",
+    "acceptanceRate": "0.5525965444349556",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Siemens-Best Time to Buy and Sell Stock",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "LFU Cache",
+    "frequency": "81.2",
+    "acceptanceRate": "0.466090667855411",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Siemens-LFU Cache",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "81.2",
+    "acceptanceRate": "0.6323641222984913",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Siemens-Contains Duplicate",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "81.2",
+    "acceptanceRate": "0.6684093351942102",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Siemens-Merge Two Sorted Lists",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate List",
+    "frequency": "70.3",
+    "acceptanceRate": "0.3994484659194171",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Siemens-Rotate List",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "70.3",
+    "acceptanceRate": "0.6035567835975525",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Siemens-Remove Duplicates from Sorted Array",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Seat Reservation Manager",
+    "frequency": "70.3",
+    "acceptanceRate": "0.6639500226519469",
+    "link": "https://leetcode.com/problems/seat-reservation-manager",
+    "topics": [
+      "Design",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Siemens-Seat Reservation Manager",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Linked List",
+    "frequency": "70.3",
+    "acceptanceRate": "0.5585939012301956",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Siemens-Palindrome Linked List",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "70.3",
+    "acceptanceRate": "0.6666098386966278",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Siemens-Valid Anagram",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "70.3",
+    "acceptanceRate": "0.5577700653216907",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Siemens-Two Sum",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Peaks in Array",
+    "frequency": "70.3",
+    "acceptanceRate": "0.2578829389788294",
+    "link": "https://leetcode.com/problems/peaks-in-array",
+    "topics": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "Siemens-Peaks in Array",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimized Maximum of Products Distributed to Any Store",
+    "frequency": "70.3",
+    "acceptanceRate": "0.6260591717059817",
+    "link": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy"
+    ],
+    "id": "Siemens-Minimized Maximum of Products Distributed to Any Store",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "70.3",
+    "acceptanceRate": "0.4108466756573425",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Siemens-First Missing Positive",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "70.3",
+    "acceptanceRate": "0.3707105222814817",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Siemens-3Sum",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "70.3",
+    "acceptanceRate": "0.41280498079367123",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Siemens-Largest Number",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Product of Three Numbers",
+    "frequency": "70.3",
+    "acceptanceRate": "0.45311733912014895",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ],
+    "id": "Siemens-Maximum Product of Three Numbers",
+    "company": "Siemens",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "60.4",
+    "acceptanceRate": "0.7092889662302778",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Siemens-Group Anagrams",
+    "company": "Siemens",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Angle Between Hands of a Clock",
+    "frequency": "60.4",
+    "acceptanceRate": "0.6421501908804211",
+    "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+    "topics": [
+      "Math"
+    ],
+    "id": "Siemens-Angle Between Hands of a Clock",
+    "company": "Siemens",
+    "timeframe": "all"
+  }
+]

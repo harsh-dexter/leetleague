@@ -1,0 +1,26 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "24 Game",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5000170520428348",
+    "link": "https://leetcode.com/problems/24-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43027201289187367",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  }
+]

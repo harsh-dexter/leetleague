@@ -1,0 +1,905 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Design Excel Sum Formula",
+    "frequency": "100.0",
+    "acceptanceRate": "0.42568163292465855",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Design",
+      "Topological Sort",
+      "Matrix"
+    ],
+    "id": "Airbnb-Design Excel Sum Formula",
+    "company": "Airbnb",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Airbnb-Text Justification",
+    "company": "Airbnb",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "74.9",
+    "acceptanceRate": "0.5441735043380527",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Airbnb-Maximum Profit in Job Scheduling",
+    "company": "Airbnb",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simple Bank System",
+    "frequency": "57.6",
+    "acceptanceRate": "0.6142935665806328",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ],
+    "id": "Airbnb-Simple Bank System",
+    "company": "Airbnb",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Smallest Common Region",
+    "frequency": "57.6",
+    "acceptanceRate": "0.679230513317286",
+    "link": "https://leetcode.com/problems/smallest-common-region",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "id": "Airbnb-Smallest Common Region",
+    "company": "Airbnb",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten 2D Vector",
+    "frequency": "71.1",
+    "acceptanceRate": "0.5013489435679918",
+    "link": "https://leetcode.com/problems/flatten-2d-vector",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Design",
+      "Iterator"
+    ],
+    "id": "Airbnb-Flatten 2D Vector",
+    "company": "Airbnb",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Product Less Than K",
+    "frequency": "71.1",
+    "acceptanceRate": "0.5285345535980827",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Airbnb-Subarray Product Less Than K",
+    "company": "Airbnb",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "61.2",
+    "acceptanceRate": "0.7467468656021409",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Airbnb-Combination Sum",
+    "company": "Airbnb",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Tic-Tac-Toe",
+    "frequency": "61.2",
+    "acceptanceRate": "0.5860139660881724",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Airbnb-Design Tic-Tac-Toe",
+    "company": "Airbnb",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Uncommon Substring in an Array",
+    "frequency": "61.2",
+    "acceptanceRate": "0.482141410869037",
+    "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "id": "Airbnb-Shortest Uncommon Substring in an Array",
+    "company": "Airbnb",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Palindrome Pairs",
+    "frequency": "53.3",
+    "acceptanceRate": "0.3624370777346535",
+    "link": "https://leetcode.com/problems/palindrome-pairs",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "id": "Airbnb-Palindrome Pairs",
+    "company": "Airbnb",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pour Water",
+    "frequency": "53.3",
+    "acceptanceRate": "0.47890661504572457",
+    "link": "https://leetcode.com/problems/pour-water",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "Airbnb-Pour Water",
+    "company": "Airbnb",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Can Place Flowers",
+    "frequency": "53.3",
+    "acceptanceRate": "0.2889923936767658",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Airbnb-Can Place Flowers",
+    "company": "Airbnb",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "87.5",
+    "acceptanceRate": "0.45350701011329586",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Airbnb-Minimum Window Substring",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Path to Get All Keys",
+    "frequency": "85.5",
+    "acceptanceRate": "0.537030042053839",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Airbnb-Shortest Path to Get All Keys",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Alien Dictionary",
+    "frequency": "78.4",
+    "acceptanceRate": "0.3667370231009105",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Airbnb-Alien Dictionary",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Cheapest Flights Within K Stops",
+    "frequency": "78.4",
+    "acceptanceRate": "0.4039897286127686",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "topics": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ],
+    "id": "Airbnb-Cheapest Flights Within K Stops",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "75.4",
+    "acceptanceRate": "0.6510193889882898",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Airbnb-Trapping Rain Water",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Puzzle",
+    "frequency": "75.4",
+    "acceptanceRate": "0.7313248932064185",
+    "link": "https://leetcode.com/problems/sliding-puzzle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Breadth-First Search",
+      "Memoization",
+      "Matrix"
+    ],
+    "id": "Airbnb-Sliding Puzzle",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Employee Free Time",
+    "frequency": "62.9",
+    "acceptanceRate": "0.7259759595862569",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "topics": [
+      "Array",
+      "Line Sweep",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Airbnb-Employee Free Time",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate II",
+    "frequency": "56.5",
+    "acceptanceRate": "0.4904986450077176",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "id": "Airbnb-Contains Duplicate II",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "All O`one Data Structure",
+    "frequency": "56.5",
+    "acceptanceRate": "0.44134779761452186",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Airbnb-All O`one Data Structure",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "56.5",
+    "acceptanceRate": "0.3732633211647155",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "Airbnb-Word Search II",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "56.5",
+    "acceptanceRate": "0.5577699372797245",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Airbnb-Two Sum",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "56.5",
+    "acceptanceRate": "0.4622508143957371",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Airbnb-Add Two Numbers",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Linked Lists",
+    "frequency": "56.5",
+    "acceptanceRate": "0.6112536319835228",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Airbnb-Intersection of Two Linked Lists",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "56.5",
+    "acceptanceRate": "0.4581138691872612",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "Airbnb-Basic Calculator II",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Contains Duplicate III",
+    "frequency": "47.5",
+    "acceptanceRate": "0.2363329730162543",
+    "link": "https://leetcode.com/problems/contains-duplicate-iii",
+    "topics": [
+      "Array",
+      "Sliding Window",
+      "Sorting",
+      "Bucket Sort",
+      "Ordered Set"
+    ],
+    "id": "Airbnb-Contains Duplicate III",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "47.5",
+    "acceptanceRate": "0.4876133314788993",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Airbnb-Maximal Square",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Robot Bounded In Circle",
+    "frequency": "47.5",
+    "acceptanceRate": "0.5622965278408281",
+    "link": "https://leetcode.com/problems/robot-bounded-in-circle",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Airbnb-Robot Bounded In Circle",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design File System",
+    "frequency": "47.5",
+    "acceptanceRate": "0.6413755041392486",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "id": "Airbnb-Design File System",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Fraction to Recurring Decimal",
+    "frequency": "47.5",
+    "acceptanceRate": "0.2622353839768554",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Airbnb-Fraction to Recurring Decimal",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Ways to Build House of Cards",
+    "frequency": "47.5",
+    "acceptanceRate": "0.6217366080061884",
+    "link": "https://leetcode.com/problems/number-of-ways-to-build-house-of-cards",
+    "topics": [
+      "Math",
+      "Dynamic Programming"
+    ],
+    "id": "Airbnb-Number of Ways to Build House of Cards",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "frequency": "47.5",
+    "acceptanceRate": "0.7407934506434607",
+    "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Airbnb-Convert Sorted Array to Binary Search Tree",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pyramid Transition Matrix",
+    "frequency": "47.5",
+    "acceptanceRate": "0.5291127410721871",
+    "link": "https://leetcode.com/problems/pyramid-transition-matrix",
+    "topics": [
+      "Bit Manipulation",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "id": "Airbnb-Pyramid Transition Matrix",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Vertices to Reach All Nodes",
+    "frequency": "47.5",
+    "acceptanceRate": "0.8115726945174798",
+    "link": "https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes",
+    "topics": [
+      "Graph"
+    ],
+    "id": "Airbnb-Minimum Number of Vertices to Reach All Nodes",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "47.5",
+    "acceptanceRate": "0.4936626151018991",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Airbnb-Time Based Key-Value Store",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Nested List Iterator",
+    "frequency": "47.5",
+    "acceptanceRate": "0.6522839525510098",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ],
+    "id": "Airbnb-Flatten Nested List Iterator",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Path in Binary Matrix",
+    "frequency": "47.5",
+    "acceptanceRate": "0.49788745758374003",
+    "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Airbnb-Shortest Path in Binary Matrix",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "47.5",
+    "acceptanceRate": "0.6323635688111491",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Airbnb-Contains Duplicate",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "47.5",
+    "acceptanceRate": "0.42322825937003034",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Airbnb-Valid Parentheses",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "47.5",
+    "acceptanceRate": "0.5807264413215366",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Airbnb-Happy Number",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "47.5",
+    "acceptanceRate": "0.5230497402554785",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Airbnb-House Robber",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "47.5",
+    "acceptanceRate": "0.4649545396006711",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Airbnb-Coin Change",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "IP to CIDR",
+    "frequency": "47.5",
+    "acceptanceRate": "0.5492354970683057",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "topics": [
+      "String",
+      "Bit Manipulation"
+    ],
+    "id": "Airbnb-IP to CIDR",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "47.5",
+    "acceptanceRate": "0.4939526057316443",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Airbnb-Merge Intervals",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Mini Parser",
+    "frequency": "47.5",
+    "acceptanceRate": "0.40213967163699704",
+    "link": "https://leetcode.com/problems/mini-parser",
+    "topics": [
+      "String",
+      "Stack",
+      "Depth-First Search"
+    ],
+    "id": "Airbnb-Mini Parser",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "frequency": "47.5",
+    "acceptanceRate": "0.7195955875149401",
+    "link": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Airbnb-Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Single Number",
+    "frequency": "47.5",
+    "acceptanceRate": "0.759688387220078",
+    "link": "https://leetcode.com/problems/single-number",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "id": "Airbnb-Single Number",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "47.5",
+    "acceptanceRate": "0.29280116328628375",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "id": "Airbnb-Regular Expression Matching",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Candies You Can Get from Boxes",
+    "frequency": "47.5",
+    "acceptanceRate": "0.6877100758915674",
+    "link": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Airbnb-Maximum Candies You Can Get from Boxes",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "47.5",
+    "acceptanceRate": "0.5677420052593406",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Airbnb-Merge k Sorted Lists",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimize Rounding Error to Meet Target",
+    "frequency": "47.5",
+    "acceptanceRate": "0.45439788115682",
+    "link": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target",
+    "topics": [
+      "Array",
+      "Math",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Airbnb-Minimize Rounding Error to Meet Target",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Strings",
+    "frequency": "47.5",
+    "acceptanceRate": "0.5190382397212994",
+    "link": "https://leetcode.com/problems/add-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Airbnb-Add Strings",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Strings Differ by One Character",
+    "frequency": "47.5",
+    "acceptanceRate": "0.41068439650362654",
+    "link": "https://leetcode.com/problems/strings-differ-by-one-character",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Rolling Hash",
+      "Hash Function"
+    ],
+    "id": "Airbnb-Strings Differ by One Character",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Convert to Base -2",
+    "frequency": "47.5",
+    "acceptanceRate": "0.6126841577912198",
+    "link": "https://leetcode.com/problems/convert-to-base-2",
+    "topics": [
+      "Math"
+    ],
+    "id": "Airbnb-Convert to Base -2",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Bits",
+    "frequency": "47.5",
+    "acceptanceRate": "0.6320549868777902",
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "topics": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ],
+    "id": "Airbnb-Reverse Bits",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Making A Large Island",
+    "frequency": "47.5",
+    "acceptanceRate": "0.5489039898916876",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Airbnb-Making A Large Island",
+    "company": "Airbnb",
+    "timeframe": "more_than_180"
+  }
+]

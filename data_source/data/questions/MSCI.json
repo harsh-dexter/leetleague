@@ -1,0 +1,18 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.709318302799095",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "MSCI-Group Anagrams",
+    "company": "MSCI",
+    "timeframe": "more_than_180"
+  }
+]

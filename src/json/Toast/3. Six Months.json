@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find the Celebrity",
+    "frequency": "100.0",
+    "acceptanceRate": "0.484395409739966",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "topics": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ]
+  }
+]

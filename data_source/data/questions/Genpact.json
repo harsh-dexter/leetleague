@@ -1,0 +1,49 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design Authentication Manager",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5786802030456852",
+    "link": "https://leetcode.com/problems/design-authentication-manager",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Genpact-Design Authentication Manager",
+    "company": "Genpact",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "78.9",
+    "acceptanceRate": "0.43870653758850314",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "Genpact-Second Highest Salary",
+    "company": "Genpact",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "78.9",
+    "acceptanceRate": "0.7007177380338733",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Genpact-Missing Number",
+    "company": "Genpact",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Bus Routes",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4695297092963377",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Expression Add Operators",
+    "frequency": "84.5",
+    "acceptanceRate": "0.4167625219870472",
+    "link": "https://leetcode.com/problems/expression-add-operators",
+    "topics": [
+      "Math",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reconstruct Itinerary",
+    "frequency": "75.5",
+    "acceptanceRate": "0.4360564496598489",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "topics": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Minimum Time to Finish All Jobs",
+    "frequency": "75.5",
+    "acceptanceRate": "0.43518588531821045",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Subarrays With Score Less Than K",
+    "frequency": "75.5",
+    "acceptanceRate": "0.624292227810353",
+    "link": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  }
+]

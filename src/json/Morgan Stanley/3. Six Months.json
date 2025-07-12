@@ -1,0 +1,79 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525959754111676",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Stamping The Sequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6186645778728447",
+    "link": "https://leetcode.com/problems/stamping-the-sequence",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7092883685173318",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3707096729545715",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Make K-Subarray Sums Equal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3661727523960722",
+    "link": "https://leetcode.com/problems/make-k-subarray-sums-equal",
+    "topics": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting",
+      "Number Theory"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Reduce X to Zero",
+    "frequency": "100.0",
+    "acceptanceRate": "0.40063692467140904",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  }
+]

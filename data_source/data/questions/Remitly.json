@@ -1,0 +1,130 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4685798323600621",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Remitly-Isomorphic Strings",
+    "company": "Remitly",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5342357857229685",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Remitly-Course Schedule II",
+    "company": "Remitly",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate the Bracket Pairs of a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6823127483382226",
+    "link": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "Remitly-Evaluate the Bracket Pairs of a String",
+    "company": "Remitly",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler II",
+    "frequency": "79.4",
+    "acceptanceRate": "0.5397196782316108",
+    "link": "https://leetcode.com/problems/task-scheduler-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ],
+    "id": "Remitly-Task Scheduler II",
+    "company": "Remitly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design Search Autocomplete System",
+    "frequency": "71.0",
+    "acceptanceRate": "0.49406840347530717",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "topics": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "id": "Remitly-Design Search Autocomplete System",
+    "company": "Remitly",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "62.5",
+    "acceptanceRate": "0.6153925972156205",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "Remitly-Task Scheduler",
+    "company": "Remitly",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "62.5",
+    "acceptanceRate": "0.5525968886230834",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Remitly-Best Time to Buy and Sell Stock",
+    "company": "Remitly",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "62.5",
+    "acceptanceRate": "0.48278533987379574",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ],
+    "id": "Remitly-Random Pick with Weight",
+    "company": "Remitly",
+    "timeframe": "all"
+  }
+]

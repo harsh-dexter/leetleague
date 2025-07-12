@@ -1,0 +1,63 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Better Compression of String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.758406942507361",
+    "link": "https://leetcode.com/problems/better-compression-of-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Riot Games-Better Compression of String",
+    "company": "Riot Games",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6227686766247266",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Riot Games-Valid Sudoku",
+    "company": "Riot Games",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sudoku Solver",
+    "frequency": "90.1",
+    "acceptanceRate": "0.6390835734397189",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ],
+    "id": "Riot Games-Sudoku Solver",
+    "company": "Riot Games",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Teemo Attacking",
+    "frequency": "79.4",
+    "acceptanceRate": "0.5693015321819124",
+    "link": "https://leetcode.com/problems/teemo-attacking",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "Riot Games-Teemo Attacking",
+    "company": "Riot Games",
+    "timeframe": "more_than_180"
+  }
+]

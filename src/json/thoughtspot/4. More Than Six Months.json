@@ -1,0 +1,152 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Count Subarrays With Median K",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4553062885040102",
+    "link": "https://leetcode.com/problems/count-subarrays-with-median-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Paths That Can Form a Palindrome in a Tree",
+    "frequency": "89.6",
+    "acceptanceRate": "0.4543955137720601",
+    "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree",
+    "topics": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "82.2",
+    "acceptanceRate": "0.45215036742533565",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snakes and Ladders",
+    "frequency": "71.9",
+    "acceptanceRate": "0.4779591396819314",
+    "link": "https://leetcode.com/problems/snakes-and-ladders",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "71.9",
+    "acceptanceRate": "0.6232017379911429",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sums Divisible by K",
+    "frequency": "71.9",
+    "acceptanceRate": "0.5561796146835698",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Most Stones Removed with Same Row or Column",
+    "frequency": "71.9",
+    "acceptanceRate": "0.6218985374837238",
+    "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "frequency": "71.9",
+    "acceptanceRate": "0.6217152009183782",
+    "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Queue",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interleaving String",
+    "frequency": "71.9",
+    "acceptanceRate": "0.42179330938510906",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "71.9",
+    "acceptanceRate": "0.4535080139186543",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+    "frequency": "71.9",
+    "acceptanceRate": "0.5419311727363849",
+    "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+    "topics": [
+      "Array",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber II",
+    "frequency": "71.9",
+    "acceptanceRate": "0.43562808497028127",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

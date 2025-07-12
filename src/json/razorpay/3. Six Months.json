@@ -1,0 +1,28 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5143014465781959",
+    "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43021402627311356",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Strong Password Checker",
+    "frequency": "100.0",
+    "acceptanceRate": "0.14622730217105126",
+    "link": "https://leetcode.com/problems/strong-password-checker",
+    "topics": [
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "97.0",
+    "acceptanceRate": "0.5661859692244714",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Escape The Ghosts",
+    "frequency": "84.4",
+    "acceptanceRate": "0.6257654176993731",
+    "link": "https://leetcode.com/problems/escape-the-ghosts",
+    "topics": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "As Far from Land as Possible",
+    "frequency": "84.4",
+    "acceptanceRate": "0.5184355695888827",
+    "link": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "77.9",
+    "acceptanceRate": "0.8087945532640931",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "68.8",
+    "acceptanceRate": "0.4232287912473047",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "frequency": "68.8",
+    "acceptanceRate": "0.8246702504614473",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Distance from All Buildings",
+    "frequency": "68.8",
+    "acceptanceRate": "0.4437267220297094",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  }
+]

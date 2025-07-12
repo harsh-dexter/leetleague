@@ -1,0 +1,36 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find the Maximum Factor Score of Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.40370847002954446",
+    "link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "frequency": "66.9",
+    "acceptanceRate": "0.6945200779613259",
+    "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "66.9",
+    "acceptanceRate": "0.35846234718799413",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

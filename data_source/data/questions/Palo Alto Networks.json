@@ -1,0 +1,403 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Restore IP Addresses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5315843132324689",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "topics": [
+      "String",
+      "Backtracking"
+    ],
+    "id": "Palo Alto Networks-Restore IP Addresses",
+    "company": "Palo Alto Networks",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4283722145334321",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Palo Alto Networks-Search in Rotated Sorted Array",
+    "company": "Palo Alto Networks",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.452147387470624",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Palo Alto Networks-LRU Cache",
+    "company": "Palo Alto Networks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "71.6",
+    "acceptanceRate": "0.47604176540136595",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "Palo Alto Networks-Sliding Window Maximum",
+    "company": "Palo Alto Networks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator",
+    "frequency": "71.6",
+    "acceptanceRate": "0.45589654652961087",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Palo Alto Networks-Basic Calculator",
+    "company": "Palo Alto Networks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "71.6",
+    "acceptanceRate": "0.3693614444669191",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Palo Alto Networks-Longest Substring Without Repeating Characters",
+    "company": "Palo Alto Networks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "63.3",
+    "acceptanceRate": "0.43814619255942167",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Palo Alto Networks-Median of Two Sorted Arrays",
+    "company": "Palo Alto Networks",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "100.0",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Palo Alto Networks-String Compression",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Length of a Concatenated String with Unique Characters",
+    "frequency": "85.9",
+    "acceptanceRate": "0.5426330997564837",
+    "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Palo Alto Networks-Maximum Length of a Concatenated String with Unique Characters",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Meeting Rooms",
+    "frequency": "85.9",
+    "acceptanceRate": "0.5894711201013537",
+    "link": "https://leetcode.com/problems/meeting-rooms",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Palo Alto Networks-Meeting Rooms",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "85.9",
+    "acceptanceRate": "0.7092885297664818",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Palo Alto Networks-Group Anagrams",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "85.9",
+    "acceptanceRate": "0.5644515535072046",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Palo Alto Networks-Min Stack",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "85.9",
+    "acceptanceRate": "0.5577699664071786",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Palo Alto Networks-Two Sum",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Words",
+    "frequency": "74.8",
+    "acceptanceRate": "0.592771943363307",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "id": "Palo Alto Networks-Top K Frequent Words",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "74.8",
+    "acceptanceRate": "0.5499186948290465",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Palo Alto Networks-Insert Delete GetRandom O(1)",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "74.8",
+    "acceptanceRate": "0.4232285107271765",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Palo Alto Networks-Valid Parentheses",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Design HashMap",
+    "frequency": "74.8",
+    "acceptanceRate": "0.6589396791121357",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ],
+    "id": "Palo Alto Networks-Design HashMap",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": "74.8",
+    "acceptanceRate": "0.705965836454011",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Palo Alto Networks-Binary Tree Level Order Traversal",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "74.8",
+    "acceptanceRate": "0.48273817112790157",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Palo Alto Networks-Word Break",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Longest Equal Subarray",
+    "frequency": "74.8",
+    "acceptanceRate": "0.36237576371878255",
+    "link": "https://leetcode.com/problems/find-the-longest-equal-subarray",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sliding Window"
+    ],
+    "id": "Palo Alto Networks-Find the Longest Equal Subarray",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "74.8",
+    "acceptanceRate": "0.6648156665884841",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Palo Alto Networks-Minimum Path Sum",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "74.8",
+    "acceptanceRate": "0.5291958949083617",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Palo Alto Networks-Merge Sorted Array",
+    "company": "Palo Alto Networks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "55.7",
+    "acceptanceRate": "0.6684090442432823",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Palo Alto Networks-Merge Two Sorted Lists",
+    "company": "Palo Alto Networks",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "55.7",
+    "acceptanceRate": "0.6861924193258928",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Palo Alto Networks-Integer to Roman",
+    "company": "Palo Alto Networks",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Path in Binary Matrix",
+    "frequency": "55.7",
+    "acceptanceRate": "0.49788746679967405",
+    "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Palo Alto Networks-Shortest Path in Binary Matrix",
+    "company": "Palo Alto Networks",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "55.7",
+    "acceptanceRate": "0.3584612292079602",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Palo Alto Networks-Longest Palindromic Substring",
+    "company": "Palo Alto Networks",
+    "timeframe": "all"
+  }
+]

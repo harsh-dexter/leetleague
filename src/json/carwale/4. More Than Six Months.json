@@ -1,0 +1,50 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "100.0",
+    "acceptanceRate": "0.516106229324453",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.651086356034693",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "88.6",
+    "acceptanceRate": "0.552632990554389",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Time Difference",
+    "frequency": "88.6",
+    "acceptanceRate": "0.623534335935315",
+    "link": "https://leetcode.com/problems/minimum-time-difference",
+    "topics": [
+      "Array",
+      "Math",
+      "String",
+      "Sorting"
+    ]
+  }
+]

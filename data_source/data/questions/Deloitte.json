@@ -1,0 +1,384 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778289005385611",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Deloitte-Container With Most Water",
+    "company": "Deloitte",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "89.6",
+    "acceptanceRate": "0.4939525616898277",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Deloitte-Merge Intervals",
+    "company": "Deloitte",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4386518117872288",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "Deloitte-Second Highest Salary",
+    "company": "Deloitte",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5677423817534303",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Deloitte-Merge k Sorted Lists",
+    "company": "Deloitte",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4232287331904933",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Deloitte-Valid Parentheses",
+    "company": "Deloitte",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.35846135942015783",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Deloitte-Longest Palindromic Substring",
+    "company": "Deloitte",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Time to Repair Cars",
+    "frequency": "87.9",
+    "acceptanceRate": "0.5991672990715053",
+    "link": "https://leetcode.com/problems/minimum-time-to-repair-cars",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Deloitte-Minimum Time to Repair Cars",
+    "company": "Deloitte",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "87.9",
+    "acceptanceRate": "0.5577698935805033",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Deloitte-Two Sum",
+    "company": "Deloitte",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Rising Temperature",
+    "frequency": "87.9",
+    "acceptanceRate": "0.5018287657004238",
+    "link": "https://leetcode.com/problems/rising-temperature",
+    "topics": [
+      "Database"
+    ],
+    "id": "Deloitte-Rising Temperature",
+    "company": "Deloitte",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "77.9",
+    "acceptanceRate": "0.5922447925324843",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Deloitte-Palindrome Number",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "77.9",
+    "acceptanceRate": "0.3030899221460467",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "Deloitte-Reverse Integer",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pascal's Triangle",
+    "frequency": "67.3",
+    "acceptanceRate": "0.7702154336843631",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Deloitte-Pascal's Triangle",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "67.3",
+    "acceptanceRate": "0.5354075759623981",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Deloitte-Climbing Stairs",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Change Null Values in a Table to the Previous Value",
+    "frequency": "67.3",
+    "acceptanceRate": "0.5152052486922599",
+    "link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value",
+    "topics": [
+      "Database"
+    ],
+    "id": "Deloitte-Change Null Values in a Table to the Previous Value",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "67.3",
+    "acceptanceRate": "0.657403393726359",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Deloitte-Majority Element",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Managers with at Least 5 Direct Reports",
+    "frequency": "67.3",
+    "acceptanceRate": "0.48939672823644015",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "topics": [
+      "Database"
+    ],
+    "id": "Deloitte-Managers with at Least 5 Direct Reports",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "67.3",
+    "acceptanceRate": "0.5525964364560344",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Deloitte-Best Time to Buy and Sell Stock",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Customer Referee",
+    "frequency": "67.3",
+    "acceptanceRate": "0.7170904181686228",
+    "link": "https://leetcode.com/problems/find-customer-referee",
+    "topics": [
+      "Database"
+    ],
+    "id": "Deloitte-Find Customer Referee",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Article Views I",
+    "frequency": "67.3",
+    "acceptanceRate": "0.7714447529870836",
+    "link": "https://leetcode.com/problems/article-views-i",
+    "topics": [
+      "Database"
+    ],
+    "id": "Deloitte-Article Views I",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "67.3",
+    "acceptanceRate": "0.4548314437013565",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Deloitte-Longest Common Prefix",
+    "company": "Deloitte",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "59.5",
+    "acceptanceRate": "0.5191333530123619",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Deloitte-Reverse Words in a String",
+    "company": "Deloitte",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Max Consecutive Ones",
+    "frequency": "59.5",
+    "acceptanceRate": "0.6248248491626799",
+    "link": "https://leetcode.com/problems/max-consecutive-ones",
+    "topics": [
+      "Array"
+    ],
+    "id": "Deloitte-Max Consecutive Ones",
+    "company": "Deloitte",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "59.5",
+    "acceptanceRate": "0.6797700934843032",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Deloitte-Kth Largest Element in an Array",
+    "company": "Deloitte",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "59.5",
+    "acceptanceRate": "0.4649557971017352",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Deloitte-Coin Change",
+    "company": "Deloitte",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "59.5",
+    "acceptanceRate": "0.5878980065613459",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Deloitte-Edit Distance",
+    "company": "Deloitte",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "59.5",
+    "acceptanceRate": "0.7920658884935761",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Deloitte-Reverse Linked List",
+    "company": "Deloitte",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "59.5",
+    "acceptanceRate": "0.3693614405294362",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Deloitte-Longest Substring Without Repeating Characters",
+    "company": "Deloitte",
+    "timeframe": "all"
+  }
+]

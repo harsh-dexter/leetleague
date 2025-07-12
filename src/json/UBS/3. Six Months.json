@@ -1,0 +1,17 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Search Suggestions System",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6505018082357296",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "topics": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  }
+]

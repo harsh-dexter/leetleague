@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Construct the Longest New String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5384322081417517",
+    "link": "https://leetcode.com/problems/construct-the-longest-new-string",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Greedy",
+      "Brainteaser"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Print Words Vertically",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6622658589234733",
+    "link": "https://leetcode.com/problems/print-words-vertically",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  }
+]

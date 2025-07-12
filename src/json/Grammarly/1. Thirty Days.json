@@ -1,0 +1,29 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Repeated DNA Sequences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5132038237868195",
+    "link": "https://leetcode.com/problems/repeated-dna-sequences",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6577292198640936",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  }
+]

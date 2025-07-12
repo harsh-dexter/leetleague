@@ -1,0 +1,16 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Smallest String With A Given Numeric Value",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6708770289225836",
+    "link": "https://leetcode.com/problems/smallest-string-with-a-given-numeric-value",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "Lendingkart Technologies-Smallest String With A Given Numeric Value",
+    "company": "Lendingkart Technologies",
+    "timeframe": "all"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232010198187545",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.35846189583596866",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sorting Three Groups",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4188815458659579",
+    "link": "https://leetcode.com/problems/sorting-three-groups",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Escape a Large Maze",
+    "frequency": "100.0",
+    "acceptanceRate": "0.35323543424039466",
+    "link": "https://leetcode.com/problems/escape-a-large-maze",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "As Far from Land as Possible",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5184355695888827",
+    "link": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  }
+]

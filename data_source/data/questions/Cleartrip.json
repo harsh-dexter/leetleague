@@ -1,0 +1,68 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7070138694964163",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path"
+    ],
+    "id": "Cleartrip-Minimum Cost to Make at Least One Valid Path in a Grid",
+    "company": "Cleartrip",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48273976784104833",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Cleartrip-Word Break",
+    "company": "Cleartrip",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5230511179971911",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Cleartrip-House Robber",
+    "company": "Cleartrip",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rabbits in Forest",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5826643792570448",
+    "link": "https://leetcode.com/problems/rabbits-in-forest",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ],
+    "id": "Cleartrip-Rabbits in Forest",
+    "company": "Cleartrip",
+    "timeframe": "all"
+  }
+]

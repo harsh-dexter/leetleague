@@ -1,0 +1,109 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Valid Word Abbreviation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3685165676961013",
+    "link": "https://leetcode.com/problems/valid-word-abbreviation",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Depth of N-ary Tree",
+    "frequency": "96.9",
+    "acceptanceRate": "0.7293402984873072",
+    "link": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Most Common Word",
+    "frequency": "93.4",
+    "acceptanceRate": "0.4457668953194325",
+    "link": "https://leetcode.com/problems/most-common-word",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "89.3",
+    "acceptanceRate": "0.46495504462798637",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "89.3",
+    "acceptanceRate": "0.5230497155903974",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Circular Queue",
+    "frequency": "84.2",
+    "acceptanceRate": "0.5264418239354727",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+    "frequency": "77.6",
+    "acceptanceRate": "0.5940981861048789",
+    "link": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber II",
+    "frequency": "77.6",
+    "acceptanceRate": "0.43562677890134105",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Vacation Days",
+    "frequency": "68.3",
+    "acceptanceRate": "0.46381780194156824",
+    "link": "https://leetcode.com/problems/maximum-vacation-days",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  }
+]

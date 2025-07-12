@@ -1,0 +1,732 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicate Letters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5135095841552992",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "id": "Expedia-Remove Duplicate Letters",
+    "company": "Expedia",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "81.7",
+    "acceptanceRate": "0.4232284180792206",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Expedia-Valid Parentheses",
+    "company": "Expedia",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "frequency": "93.2",
+    "acceptanceRate": "0.7022963279294668",
+    "link": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "topics": [
+      "Dynamic Programming",
+      "Graph",
+      "Shortest Path"
+    ],
+    "id": "Expedia-Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "93.2",
+    "acceptanceRate": "0.5525960316193482",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Expedia-Best Time to Buy and Sell Stock",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Capacity To Ship Packages Within D Days",
+    "frequency": "93.2",
+    "acceptanceRate": "0.721177358490566",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Expedia-Capacity To Ship Packages Within D Days",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Swaps to Make the String Balanced",
+    "frequency": "93.2",
+    "acceptanceRate": "0.7796926022806927",
+    "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Greedy"
+    ],
+    "id": "Expedia-Minimum Number of Swaps to Make the String Balanced",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "84.3",
+    "acceptanceRate": "0.6486630835177992",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Expedia-Roman to Integer",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "84.3",
+    "acceptanceRate": "0.3693615936497769",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Expedia-Longest Substring Without Repeating Characters",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "frequency": "84.3",
+    "acceptanceRate": "0.6364604732557255",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Expedia-Find the Smallest Divisor Given a Threshold",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "84.3",
+    "acceptanceRate": "0.6510201836943224",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Expedia-Trapping Rain Water",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Swaps to Group All 1's Together",
+    "frequency": "84.3",
+    "acceptanceRate": "0.6108541758288527",
+    "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ],
+    "id": "Expedia-Minimum Swaps to Group All 1's Together",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "84.3",
+    "acceptanceRate": "0.6232001329897883",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Expedia-Number of Islands",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "84.3",
+    "acceptanceRate": "0.6070890553968923",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Expedia-Set Matrix Zeroes",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "84.3",
+    "acceptanceRate": "0.7092884996578606",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Expedia-Group Anagrams",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "84.3",
+    "acceptanceRate": "0.41503354555464916",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Expedia-Jump Game II",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "72.0",
+    "acceptanceRate": "0.4939524714631436",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Expedia-Merge Intervals",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Replacements to Sort the Array",
+    "frequency": "72.0",
+    "acceptanceRate": "0.5324087646108167",
+    "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Greedy"
+    ],
+    "id": "Expedia-Minimum Replacements to Sort the Array",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Visible People in a Queue",
+    "frequency": "72.0",
+    "acceptanceRate": "0.7129705142972448",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Expedia-Number of Visible People in a Queue",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "72.0",
+    "acceptanceRate": "0.45214715527990323",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Expedia-LRU Cache",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Keys and Rooms",
+    "frequency": "72.0",
+    "acceptanceRate": "0.7467687157157744",
+    "link": "https://leetcode.com/problems/keys-and-rooms",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Expedia-Keys and Rooms",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Substrings With Equal Digit Frequency",
+    "frequency": "72.0",
+    "acceptanceRate": "0.6411486580447782",
+    "link": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Rolling Hash",
+      "Counting",
+      "Hash Function"
+    ],
+    "id": "Expedia-Unique Substrings With Equal Digit Frequency",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "The Earliest Moment When Everyone Become Friends",
+    "frequency": "72.0",
+    "acceptanceRate": "0.656983282716056",
+    "link": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ],
+    "id": "Expedia-The Earliest Moment When Everyone Become Friends",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "72.0",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Expedia-String Compression",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rearrange Words in a Sentence",
+    "frequency": "72.0",
+    "acceptanceRate": "0.6583426651735722",
+    "link": "https://leetcode.com/problems/rearrange-words-in-a-sentence",
+    "topics": [
+      "String",
+      "Sorting"
+    ],
+    "id": "Expedia-Rearrange Words in a Sentence",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Players Into Teams of Equal Skill",
+    "frequency": "72.0",
+    "acceptanceRate": "0.6892726777444839",
+    "link": "https://leetcode.com/problems/divide-players-into-teams-of-equal-skill",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Expedia-Divide Players Into Teams of Equal Skill",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "72.0",
+    "acceptanceRate": "0.5577699866729764",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Expedia-Two Sum",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "72.0",
+    "acceptanceRate": "0.4622511186296071",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Expedia-Add Two Numbers",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Most Visited Sector in  a Circular Track",
+    "frequency": "72.0",
+    "acceptanceRate": "0.5910626136658872",
+    "link": "https://leetcode.com/problems/most-visited-sector-in-a-circular-track",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "Expedia-Most Visited Sector in  a Circular Track",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "The kth Factor of n",
+    "frequency": "72.0",
+    "acceptanceRate": "0.6957668800559188",
+    "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+    "topics": [
+      "Math",
+      "Number Theory"
+    ],
+    "id": "Expedia-The kth Factor of n",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Good Binary Strings",
+    "frequency": "72.0",
+    "acceptanceRate": "0.5249371022643184",
+    "link": "https://leetcode.com/problems/number-of-good-binary-strings",
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "id": "Expedia-Number of Good Binary Strings",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Break a Palindrome",
+    "frequency": "72.0",
+    "acceptanceRate": "0.515441720680916",
+    "link": "https://leetcode.com/problems/break-a-palindrome",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "Expedia-Break a Palindrome",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Word",
+    "frequency": "72.0",
+    "acceptanceRate": "0.3871845347371215",
+    "link": "https://leetcode.com/problems/valid-word",
+    "topics": [
+      "String"
+    ],
+    "id": "Expedia-Valid Word",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Triangle Number",
+    "frequency": "72.0",
+    "acceptanceRate": "0.5234449388412803",
+    "link": "https://leetcode.com/problems/valid-triangle-number",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Expedia-Valid Triangle Number",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "72.0",
+    "acceptanceRate": "0.5230497238120853",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Expedia-House Robber",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sums Divisible by K",
+    "frequency": "72.0",
+    "acceptanceRate": "0.5561771980621089",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Expedia-Subarray Sums Divisible by K",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Least Number of Unique Integers after K Removals",
+    "frequency": "72.0",
+    "acceptanceRate": "0.6341766250570863",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Expedia-Least Number of Unique Integers after K Removals",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "frequency": "72.0",
+    "acceptanceRate": "0.8488583382642377",
+    "link": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "id": "Expedia-Count Number of Pairs With Absolute Difference K",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "72.0",
+    "acceptanceRate": "0.7920658766722495",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Expedia-Reverse Linked List",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Consecutive Ones III",
+    "frequency": "72.0",
+    "acceptanceRate": "0.659394298879811",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Expedia-Max Consecutive Ones III",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutation in String",
+    "frequency": "72.0",
+    "acceptanceRate": "0.4724782167062026",
+    "link": "https://leetcode.com/problems/permutation-in-string",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Expedia-Permutation in String",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "72.0",
+    "acceptanceRate": "0.5661847679426031",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Expedia-Rotting Oranges",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "frequency": "72.0",
+    "acceptanceRate": "0.73240710674027",
+    "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+    "topics": [
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization"
+    ],
+    "id": "Expedia-Minimum One Bit Operations to Make Integers Zero",
+    "company": "Expedia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Number of Chairs in a Waiting Room",
+    "frequency": "53.3",
+    "acceptanceRate": "0.7833645625224912",
+    "link": "https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room",
+    "topics": [
+      "String",
+      "Simulation"
+    ],
+    "id": "Expedia-Minimum Number of Chairs in a Waiting Room",
+    "company": "Expedia",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "53.3",
+    "acceptanceRate": "0.5291955199854382",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Expedia-Merge Sorted Array",
+    "company": "Expedia",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "53.3",
+    "acceptanceRate": "0.5780837494841731",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "Expedia-Longest Increasing Subsequence",
+    "company": "Expedia",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reformat Date",
+    "frequency": "53.3",
+    "acceptanceRate": "0.6733420066288758",
+    "link": "https://leetcode.com/problems/reformat-date",
+    "topics": [
+      "String"
+    ],
+    "id": "Expedia-Reformat Date",
+    "company": "Expedia",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "53.3",
+    "acceptanceRate": "0.44971588709261107",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "Expedia-Find the Index of the First Occurrence in a String",
+    "company": "Expedia",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "53.3",
+    "acceptanceRate": "0.535407296923177",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Expedia-Climbing Stairs",
+    "company": "Expedia",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Degree of an Array",
+    "frequency": "53.3",
+    "acceptanceRate": "0.5742057825337067",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Expedia-Degree of an Array",
+    "company": "Expedia",
+    "timeframe": "all"
+  }
+]

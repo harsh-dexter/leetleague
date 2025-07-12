@@ -1,0 +1,49 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4827562706373493",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "CureFit-Word Break",
+    "company": "CureFit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "100.0",
+    "acceptanceRate": "0.46387397955199466",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "CureFit-Gas Station",
+    "company": "CureFit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Moves to Make Array Complementary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4216836919510251",
+    "link": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "CureFit-Minimum Moves to Make Array Complementary",
+    "company": "CureFit",
+    "timeframe": "more_than_180"
+  }
+]

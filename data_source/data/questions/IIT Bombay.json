@@ -1,0 +1,33 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4497677283118016",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "IIT Bombay-Find the Index of the First Occurrence in a String",
+    "company": "IIT Bombay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Score After Flipping Matrix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8024347383165669",
+    "link": "https://leetcode.com/problems/score-after-flipping-matrix",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation",
+      "Matrix"
+    ],
+    "id": "IIT Bombay-Score After Flipping Matrix",
+    "company": "IIT Bombay",
+    "timeframe": "more_than_180"
+  }
+]

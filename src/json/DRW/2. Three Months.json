@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Score After Pair Deletions",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6062992125984252",
+    "link": "https://leetcode.com/problems/maximize-score-after-pair-deletions",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  }
+]

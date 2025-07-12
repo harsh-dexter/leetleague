@@ -1,0 +1,111 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6314724725246107",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ],
+    "id": "GE Healthcare-Evaluate Division",
+    "company": "GE Healthcare",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "92.3",
+    "acceptanceRate": "0.423228968266",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "GE Healthcare-Valid Parentheses",
+    "company": "GE Healthcare",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "80.5",
+    "acceptanceRate": "0.6675515631209941",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "GE Healthcare-Lowest Common Ancestor of a Binary Tree",
+    "company": "GE Healthcare",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Visible People in a Queue",
+    "frequency": "71.2",
+    "acceptanceRate": "0.7129705142972448",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "GE Healthcare-Number of Visible People in a Queue",
+    "company": "GE Healthcare",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Employee Free Time",
+    "frequency": "71.2",
+    "acceptanceRate": "0.7259771560305982",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "topics": [
+      "Array",
+      "Line Sweep",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "GE Healthcare-Employee Free Time",
+    "company": "GE Healthcare",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Car Fleet",
+    "frequency": "71.2",
+    "acceptanceRate": "0.5347444943339748",
+    "link": "https://leetcode.com/problems/car-fleet",
+    "topics": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ],
+    "id": "GE Healthcare-Car Fleet",
+    "company": "GE Healthcare",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Concatenation of Array",
+    "frequency": "71.2",
+    "acceptanceRate": "0.9048989107329093",
+    "link": "https://leetcode.com/problems/concatenation-of-array",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "GE Healthcare-Concatenation of Array",
+    "company": "GE Healthcare",
+    "timeframe": "more_than_180"
+  }
+]

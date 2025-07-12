@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Set Intersection Size At Least Two",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4525535198979934",
+    "link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "89.2",
+    "acceptanceRate": "0.4718247023878054",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  }
+]

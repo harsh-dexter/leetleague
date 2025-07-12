@@ -2,6 +2,7 @@
 import ActivityFeed from "@/components/ActivityFeed";
 import FriendsList from "@/components/FriendsList";
 import LeaderBoard from "@/components/LeaderBoard";
+import QuestionViewer from "@/components/QuestionViewer";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { ThemeAwareLogo } from "@/components/ThemeAwareLogo"; // Import the new logo component
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -111,7 +112,7 @@ const Index = () => {
             <div>
               <h1 className="text-3xl md:text-4xl font-bold">LeetLeague</h1>
               <p className="text-muted-foreground text-sm md:text-base">
-                Track your friends' LeetCode progress and stay competitive!
+                Track your friends' LeetCode progress, browse company questions, and stay competitive!
               </p>
             </div>
           </div>
@@ -177,6 +178,10 @@ const Index = () => {
               <Calendar className="h-4 w-4" />
               Activity
             </TabsTrigger>
+            <TabsTrigger value="company-questions" className="flex items-center gap-2">
+              <TrendingUp className="h-4 w-4" />
+              Company Questions
+            </TabsTrigger>
           </TabsList>
           <TabsContent value="dashboard">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -189,6 +194,9 @@ const Index = () => {
           </TabsContent>
           <TabsContent value="activity">
             <ActivityFeed />
+          </TabsContent>
+          <TabsContent value="company-questions">
+            <QuestionViewer />
           </TabsContent>
         </Tabs>
       </div>

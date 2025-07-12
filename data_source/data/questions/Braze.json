@@ -1,0 +1,46 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.42328399877451117",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Braze-Valid Parentheses",
+    "company": "Braze",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "90.6",
+    "acceptanceRate": "0.5578039438654574",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Braze-Two Sum",
+    "company": "Braze",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Candy Crush",
+    "frequency": "90.3",
+    "acceptanceRate": "0.7737140091942899",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Braze-Candy Crush",
+    "company": "Braze",
+    "timeframe": "all"
+  }
+]

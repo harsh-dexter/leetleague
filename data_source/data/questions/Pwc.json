@@ -1,0 +1,106 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6486652858475359",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Pwc-Roman to Integer",
+    "company": "Pwc",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577708913410159",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Pwc-Two Sum",
+    "company": "Pwc",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6574040458611506",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Pwc-Majority Element",
+    "company": "Pwc",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4548318384045896",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Pwc-Longest Common Prefix",
+    "company": "Pwc",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525972597748545",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Pwc-Best Time to Buy and Sell Stock",
+    "company": "Pwc",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.35846276556107637",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Pwc-Longest Palindromic Substring",
+    "company": "Pwc",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "88.1",
+    "acceptanceRate": "0.43814715869853715",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Pwc-Median of Two Sorted Arrays",
+    "company": "Pwc",
+    "timeframe": "all"
+  }
+]

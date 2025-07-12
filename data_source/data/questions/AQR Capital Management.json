@@ -1,0 +1,51 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game VI",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4599694033656298",
+    "link": "https://leetcode.com/problems/jump-game-vi",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Queue",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "AQR Capital Management-Jump Game VI",
+    "company": "AQR Capital Management",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "89.0",
+    "acceptanceRate": "0.7006536003915764",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "AQR Capital Management-Missing Number",
+    "company": "AQR Capital Management",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "63.1",
+    "acceptanceRate": "0.5525969088759799",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "AQR Capital Management-Best Time to Buy and Sell Stock",
+    "company": "AQR Capital Management",
+    "timeframe": "all"
+  }
+]

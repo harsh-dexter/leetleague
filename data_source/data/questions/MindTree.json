@@ -1,0 +1,43 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577709731557225",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "MindTree-Two Sum",
+    "company": "MindTree",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Integers With Even Digit Sum",
+    "frequency": "89.6",
+    "acceptanceRate": "0.6878335702551094",
+    "link": "https://leetcode.com/problems/count-integers-with-even-digit-sum",
+    "topics": [
+      "Math",
+      "Simulation"
+    ],
+    "id": "MindTree-Count Integers With Even Digit Sum",
+    "company": "MindTree",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Average Time of Process per Machine",
+    "frequency": "66.8",
+    "acceptanceRate": "0.6862902426589198",
+    "link": "https://leetcode.com/problems/average-time-of-process-per-machine",
+    "topics": [
+      "Database"
+    ],
+    "id": "MindTree-Average Time of Process per Machine",
+    "company": "MindTree",
+    "timeframe": "all"
+  }
+]

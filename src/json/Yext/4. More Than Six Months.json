@@ -1,0 +1,39 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design Tic-Tac-Toe",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5860208488519292",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Excel Sheet Column Title",
+    "frequency": "90.3",
+    "acceptanceRate": "0.43570576633851",
+    "link": "https://leetcode.com/problems/excel-sheet-column-title",
+    "topics": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Integer to English Words",
+    "frequency": "90.3",
+    "acceptanceRate": "0.34355110873263656",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "topics": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  }
+]

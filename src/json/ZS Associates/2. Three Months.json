@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6778016749535838",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49395258385849666",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Ripple-Merge Intervals",
+    "company": "Ripple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49067219335670126",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Ripple-Koko Eating Bananas",
+    "company": "Ripple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45589336256289564",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Ripple-Basic Calculator",
+    "company": "Ripple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7092893962252986",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Ripple-Group Anagrams",
+    "company": "Ripple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Product Sales Analysis I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8458587666069343",
+    "link": "https://leetcode.com/problems/product-sales-analysis-i",
+    "topics": [
+      "Database"
+    ],
+    "id": "Ripple-Product Sales Analysis I",
+    "company": "Ripple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Linked List Cycle II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5493375730428822",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Ripple-Linked List Cycle II",
+    "company": "Ripple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6778011597060136",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Ripple-Product of Array Except Self",
+    "company": "Ripple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4547634546015399",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Ripple-Subarray Sum Equals K",
+    "company": "Ripple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45214888759813204",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Ripple-LRU Cache",
+    "company": "Ripple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Stock Price Fluctuation ",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4816446151657419",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ],
+    "id": "Ripple-Stock Price Fluctuation ",
+    "company": "Ripple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5209990970703741",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Ripple-Maximum Subarray",
+    "company": "Ripple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5809147891016072",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Ripple-String Compression",
+    "company": "Ripple",
+    "timeframe": "more_than_180"
+  }
+]

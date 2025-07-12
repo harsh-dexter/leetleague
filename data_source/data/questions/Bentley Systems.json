@@ -1,0 +1,32 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Largest Palindromic Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36473298587506603",
+    "link": "https://leetcode.com/problems/largest-palindromic-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ],
+    "id": "Bentley Systems-Largest Palindromic Number",
+    "company": "Bentley Systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5526330377484631",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Bentley Systems-Best Time to Buy and Sell Stock",
+    "company": "Bentley Systems",
+    "timeframe": "more_than_180"
+  }
+]

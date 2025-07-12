@@ -1,0 +1,69 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Bridge",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5864849244498144",
+    "link": "https://leetcode.com/problems/shortest-bridge",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "92.8",
+    "acceptanceRate": "0.49234407208177816",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove K Digits",
+    "frequency": "92.8",
+    "acceptanceRate": "0.3494044611317414",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shopping Offers",
+    "frequency": "82.6",
+    "acceptanceRate": "0.5190263317700597",
+    "link": "https://leetcode.com/problems/shopping-offers",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snapshot Array",
+    "frequency": "82.6",
+    "acceptanceRate": "0.36665375389245647",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ]
+  }
+]

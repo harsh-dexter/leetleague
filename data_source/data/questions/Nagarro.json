@@ -1,0 +1,132 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.369361622666222",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Nagarro-Longest Substring Without Repeating Characters",
+    "company": "Nagarro",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "92.3",
+    "acceptanceRate": "0.45350679166262914",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Nagarro-Minimum Window Substring",
+    "company": "Nagarro",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "81.6",
+    "acceptanceRate": "0.4232289471051158",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Nagarro-Valid Parentheses",
+    "company": "Nagarro",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "81.6",
+    "acceptanceRate": "0.4547631572254478",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Nagarro-Subarray Sum Equals K",
+    "company": "Nagarro",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Number of Ways to Place Houses",
+    "frequency": "81.6",
+    "acceptanceRate": "0.4282920556679213",
+    "link": "https://leetcode.com/problems/count-number-of-ways-to-place-houses",
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "id": "Nagarro-Count Number of Ways to Place Houses",
+    "company": "Nagarro",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "81.6",
+    "acceptanceRate": "0.6323640633550431",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Nagarro-Contains Duplicate",
+    "company": "Nagarro",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "63.8",
+    "acceptanceRate": "0.5577704460383334",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Nagarro-Two Sum",
+    "company": "Nagarro",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "63.8",
+    "acceptanceRate": "0.6666102516536134",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Nagarro-Valid Anagram",
+    "company": "Nagarro",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "63.8",
+    "acceptanceRate": "0.6035569868747543",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Nagarro-Remove Duplicates from Sorted Array",
+    "company": "Nagarro",
+    "timeframe": "all"
+  }
+]

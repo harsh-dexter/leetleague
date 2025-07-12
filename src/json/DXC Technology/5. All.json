@@ -1,0 +1,37 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45487227473690034",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sort Array By Parity",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7632307011030572",
+    "link": "https://leetcode.com/problems/sort-array-by-parity",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4302544804233154",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  }
+]

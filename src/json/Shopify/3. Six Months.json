@@ -1,0 +1,40 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Walking Robot Simulation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5823045930701047",
+    "link": "https://leetcode.com/problems/walking-robot-simulation",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "70.8",
+    "acceptanceRate": "0.4521475035659106",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Encode and Decode TinyURL",
+    "frequency": "63.1",
+    "acceptanceRate": "0.8636236617619221",
+    "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ]
+  }
+]

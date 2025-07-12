@@ -1,0 +1,67 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45214888759813204",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Aurora-LRU Cache",
+    "company": "Aurora",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Distinct Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6225556277539093",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ],
+    "id": "Aurora-Number of Distinct Islands",
+    "company": "Aurora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Diameter of Binary Tree",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6358628163246234",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Aurora-Diameter of Binary Tree",
+    "company": "Aurora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "74.6",
+    "acceptanceRate": "0.3732641536078909",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "Aurora-Word Search II",
+    "company": "Aurora",
+    "timeframe": "all"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Knight Dialer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6120918922213703",
+    "link": "https://leetcode.com/problems/knight-dialer",
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "id": "Bridgewater Associates-Knight Dialer",
+    "company": "Bridgewater Associates",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Strictly Increasing Subarrays",
+    "frequency": "84.6",
+    "acceptanceRate": "0.712633953750705",
+    "link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ],
+    "id": "Bridgewater Associates-Count Strictly Increasing Subarrays",
+    "company": "Bridgewater Associates",
+    "timeframe": "more_than_180"
+  }
+]

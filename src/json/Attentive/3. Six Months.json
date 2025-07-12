@@ -1,0 +1,37 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5960309289922421",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Parse Lisp Expression",
+    "frequency": "92.2",
+    "acceptanceRate": "0.527591606639524",
+    "link": "https://leetcode.com/problems/parse-lisp-expression",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Pivot Index",
+    "frequency": "69.2",
+    "acceptanceRate": "0.6057248574720265",
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  }
+]

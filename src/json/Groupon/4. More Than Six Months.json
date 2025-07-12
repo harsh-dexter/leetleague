@@ -1,0 +1,57 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find the Winner of the Circular Game",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8206658206658206",
+    "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Recursion",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5499162240666585",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sell Diminishing-Valued Colored Balls",
+    "frequency": "100.0",
+    "acceptanceRate": "0.29960670022229985",
+    "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.41503452015439535",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  }
+]

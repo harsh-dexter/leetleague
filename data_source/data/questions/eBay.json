@@ -1,0 +1,1196 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49366262559843777",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "eBay-Time Based Key-Value Store",
+    "company": "eBay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "100.0",
+    "acceptanceRate": "0.37023201698953384",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "eBay-Pow(x, n)",
+    "company": "eBay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5661839890477366",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "eBay-Rotting Oranges",
+    "company": "eBay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Open the Lock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6074106348295799",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "eBay-Open the Lock",
+    "company": "eBay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6070888278303417",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "eBay-Set Matrix Zeroes",
+    "company": "eBay",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45214634261083053",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "eBay-LRU Cache",
+    "company": "eBay",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.539397306376751",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "eBay-Spiral Matrix",
+    "company": "eBay",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "80.5",
+    "acceptanceRate": "0.7713286717803378",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "eBay-Generate Parentheses",
+    "company": "eBay",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Matchsticks to Square",
+    "frequency": "80.5",
+    "acceptanceRate": "0.4090607706354298",
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "eBay-Matchsticks to Square",
+    "company": "eBay",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.623199749194222",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "eBay-Number of Islands",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "90.2",
+    "acceptanceRate": "0.42811867079088795",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "eBay-Word Ladder",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "90.2",
+    "acceptanceRate": "0.709288415799407",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "eBay-Group Anagrams",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "90.2",
+    "acceptanceRate": "0.628040301372497",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "eBay-Move Zeroes",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reconstruct Itinerary",
+    "frequency": "83.6",
+    "acceptanceRate": "0.4360564496598489",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary",
+    "topics": [
+      "Depth-First Search",
+      "Graph",
+      "Eulerian Circuit"
+    ],
+    "id": "eBay-Reconstruct Itinerary",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition Equal Subset Sum",
+    "frequency": "83.6",
+    "acceptanceRate": "0.48443837096843656",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "eBay-Partition Equal Subset Sum",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "83.6",
+    "acceptanceRate": "0.5214169179809166",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "eBay-Meeting Rooms II",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "83.6",
+    "acceptanceRate": "0.37326314604211236",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "eBay-Word Search II",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "83.6",
+    "acceptanceRate": "0.4232284315085442",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "eBay-Valid Parentheses",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": "83.6",
+    "acceptanceRate": "0.616828546906163",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "eBay-Binary Tree Zigzag Level Order Traversal",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "83.6",
+    "acceptanceRate": "0.49234395023183203",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "eBay-Course Schedule",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "75.2",
+    "acceptanceRate": "0.6950028393422977",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "eBay-Best Time to Buy and Sell Stock II",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "75.2",
+    "acceptanceRate": "0.4283721128078608",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "eBay-Search in Rotated Sorted Array",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "frequency": "75.2",
+    "acceptanceRate": "0.5675053393759442",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ],
+    "id": "eBay-Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest ZigZag Path in a Binary Tree",
+    "frequency": "75.2",
+    "acceptanceRate": "0.6663336087466134",
+    "link": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "eBay-Longest ZigZag Path in a Binary Tree",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "frequency": "75.2",
+    "acceptanceRate": "0.8827398009436621",
+    "link": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "eBay-Binary Search Tree to Greater Sum Tree",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "75.2",
+    "acceptanceRate": "0.6115252230133643",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "eBay-Decode String",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Concatenated Words",
+    "frequency": "75.2",
+    "acceptanceRate": "0.494441201784672",
+    "link": "https://leetcode.com/problems/concatenated-words",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Trie"
+    ],
+    "id": "eBay-Concatenated Words",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "75.2",
+    "acceptanceRate": "0.6797702091634737",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "eBay-Kth Largest Element in an Array",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "75.2",
+    "acceptanceRate": "0.3693616357641543",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "eBay-Longest Substring Without Repeating Characters",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "75.2",
+    "acceptanceRate": "0.5342350291611208",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "eBay-Course Schedule II",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Gap",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6465506874574097",
+    "link": "https://leetcode.com/problems/binary-gap",
+    "topics": [
+      "Bit Manipulation"
+    ],
+    "id": "eBay-Binary Gap",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Alternating Digit Sum",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6843382048399503",
+    "link": "https://leetcode.com/problems/alternating-digit-sum",
+    "topics": [
+      "Math"
+    ],
+    "id": "eBay-Alternating Digit Sum",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Subtree of Another Tree",
+    "frequency": "63.5",
+    "acceptanceRate": "0.49984833892685465",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ],
+    "id": "eBay-Subtree of Another Tree",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "63.5",
+    "acceptanceRate": "0.363131398866258",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "id": "eBay-Longest Valid Parentheses",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rank Teams by Votes",
+    "frequency": "63.5",
+    "acceptanceRate": "0.5940446839336095",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "eBay-Rank Teams by Votes",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design Skiplist",
+    "frequency": "63.5",
+    "acceptanceRate": "0.5807262117036797",
+    "link": "https://leetcode.com/problems/design-skiplist",
+    "topics": [
+      "Linked List",
+      "Design"
+    ],
+    "id": "eBay-Design Skiplist",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reorganize String",
+    "frequency": "63.5",
+    "acceptanceRate": "0.5619634145417838",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "eBay-Reorganize String",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Subsequence",
+    "frequency": "63.5",
+    "acceptanceRate": "0.4360614099707593",
+    "link": "https://leetcode.com/problems/minimum-window-subsequence",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Sliding Window"
+    ],
+    "id": "eBay-Minimum Window Subsequence",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6456597904229384",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "eBay-Top K Frequent Elements",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Pivot Index",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6057034999062264",
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "eBay-Find Pivot Index",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove One Element to Make the Array Strictly Increasing",
+    "frequency": "63.5",
+    "acceptanceRate": "0.2871279849429479",
+    "link": "https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing",
+    "topics": [
+      "Array"
+    ],
+    "id": "eBay-Remove One Element to Make the Array Strictly Increasing",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimize Maximum Pair Sum in Array",
+    "frequency": "63.5",
+    "acceptanceRate": "0.8145595289564161",
+    "link": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "eBay-Minimize Maximum Pair Sum in Array",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome II",
+    "frequency": "63.5",
+    "acceptanceRate": "0.43027189520012515",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ],
+    "id": "eBay-Valid Palindrome II",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Integer to English Words",
+    "frequency": "63.5",
+    "acceptanceRate": "0.34354789501950295",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "topics": [
+      "Math",
+      "String",
+      "Recursion"
+    ],
+    "id": "eBay-Integer to English Words",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "63.5",
+    "acceptanceRate": "0.8066011262719122",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "eBay-Permutations",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "63.5",
+    "acceptanceRate": "0.5577699433586524",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "eBay-Two Sum",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "63.5",
+    "acceptanceRate": "0.4906726050337111",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "eBay-Koko Eating Bananas",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Nested List Weight Sum",
+    "frequency": "63.5",
+    "acceptanceRate": "0.8554010162624628",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "id": "eBay-Nested List Weight Sum",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6486628891947642",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "eBay-Roman to Integer",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6861927118001762",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "eBay-Integer to Roman",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "63.5",
+    "acceptanceRate": "0.5209981071025614",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "eBay-Maximum Subarray",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate Binary Search Tree",
+    "frequency": "63.5",
+    "acceptanceRate": "0.3438041100836399",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "eBay-Validate Binary Search Tree",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "63.5",
+    "acceptanceRate": "0.552596168726037",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "eBay-Best Time to Buy and Sell Stock",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Copy List with Random Pointer",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6053670746822811",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "topics": [
+      "Hash Table",
+      "Linked List"
+    ],
+    "id": "eBay-Copy List with Random Pointer",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "63.5",
+    "acceptanceRate": "0.4827376817211646",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "eBay-Word Break",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "63.5",
+    "acceptanceRate": "0.5264824950763314",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "eBay-Find Minimum in Rotated Sorted Array",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring with At Most Two Distinct Characters",
+    "frequency": "63.5",
+    "acceptanceRate": "0.5647354023576644",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "eBay-Longest Substring with At Most Two Distinct Characters",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6340216036984018",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "id": "eBay-Two Sum II - Input Array Is Sorted",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6574031174416701",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "eBay-Majority Element",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "63.5",
+    "acceptanceRate": "0.43021388103635533",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "eBay-Rotate Array",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Palindrome",
+    "frequency": "63.5",
+    "acceptanceRate": "0.40655864915631257",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "topics": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ],
+    "id": "eBay-Shortest Palindrome",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "63.5",
+    "acceptanceRate": "0.4876133314788993",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "eBay-Maximal Square",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Meeting Rooms",
+    "frequency": "63.5",
+    "acceptanceRate": "0.5894718602542885",
+    "link": "https://leetcode.com/problems/meeting-rooms",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "eBay-Meeting Rooms",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Tastiness of Candy Basket",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6614699820199097",
+    "link": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "eBay-Maximum Tastiness of Candy Basket",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "63.5",
+    "acceptanceRate": "0.43814593886202297",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "eBay-Median of Two Sorted Arrays",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design a Stack With Increment Operation",
+    "frequency": "63.5",
+    "acceptanceRate": "0.8013123593723671",
+    "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "topics": [
+      "Array",
+      "Stack",
+      "Design"
+    ],
+    "id": "eBay-Design a Stack With Increment Operation",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "63.5",
+    "acceptanceRate": "0.6648155183150112",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "eBay-Minimum Path Sum",
+    "company": "eBay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "52.5",
+    "acceptanceRate": "0.5677421026542292",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "eBay-Merge k Sorted Lists",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "52.5",
+    "acceptanceRate": "0.4718257360539049",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "eBay-Binary Tree Cameras",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "52.5",
+    "acceptanceRate": "0.6777998102840477",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "eBay-Product of Array Except Self",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "52.5",
+    "acceptanceRate": "0.4548310108935948",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "eBay-Longest Common Prefix",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "frequency": "52.5",
+    "acceptanceRate": "0.5133056725792462",
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ],
+    "id": "eBay-Vertical Order Traversal of a Binary Tree",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "52.5",
+    "acceptanceRate": "0.46857985622916554",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "eBay-Isomorphic Strings",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Nearest Exit from Entrance in Maze",
+    "frequency": "52.5",
+    "acceptanceRate": "0.47561343534194866",
+    "link": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "eBay-Nearest Exit from Entrance in Maze",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "52.5",
+    "acceptanceRate": "0.3584612378411139",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "eBay-Longest Palindromic Substring",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "52.5",
+    "acceptanceRate": "0.4650923089905736",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "eBay-Find Peak Element",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "52.5",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "eBay-First Missing Positive",
+    "company": "eBay",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "52.5",
+    "acceptanceRate": "0.675831142046278",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "eBay-Sort Colors",
+    "company": "eBay",
+    "timeframe": "all"
+  }
+]

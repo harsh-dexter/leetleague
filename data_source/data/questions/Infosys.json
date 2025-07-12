@@ -1,0 +1,1567 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Good Subtree Score",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4365004703668862",
+    "link": "https://leetcode.com/problems/maximum-good-subtree-score",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search",
+      "Bitmask"
+    ],
+    "id": "Infosys-Maximum Good Subtree Score",
+    "company": "Infosys",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "68.5",
+    "acceptanceRate": "0.6666092879730681",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Infosys-Valid Anagram",
+    "company": "Infosys",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "65.8",
+    "acceptanceRate": "0.5291952521829845",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Infosys-Merge Sorted Array",
+    "company": "Infosys",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Transform Array by Parity",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8955455974316958",
+    "link": "https://leetcode.com/problems/transform-array-by-parity",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Infosys-Transform Array by Parity",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximize the Minimum Game Score",
+    "frequency": "97.7",
+    "acceptanceRate": "0.25087052864830645",
+    "link": "https://leetcode.com/problems/maximize-the-minimum-game-score",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy"
+    ],
+    "id": "Infosys-Maximize the Minimum Game Score",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Eat Pizzas!",
+    "frequency": "97.7",
+    "acceptanceRate": "0.32380938193627196",
+    "link": "https://leetcode.com/problems/eat-pizzas",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Infosys-Eat Pizzas!",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "76.1",
+    "acceptanceRate": "0.5577699641296647",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Infosys-Two Sum",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "69.3",
+    "acceptanceRate": "0.4939523849309626",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Infosys-Merge Intervals",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "69.3",
+    "acceptanceRate": "0.3693616971949573",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Infosys-Longest Substring Without Repeating Characters",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "59.7",
+    "acceptanceRate": "0.43865090184760885",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "Infosys-Second Highest Salary",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "59.7",
+    "acceptanceRate": "0.7790166005161556",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Infosys-Rotate Image",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "59.7",
+    "acceptanceRate": "0.7713286717803378",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Infosys-Generate Parentheses",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "59.7",
+    "acceptanceRate": "0.6070888278303417",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Infosys-Set Matrix Zeroes",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "59.7",
+    "acceptanceRate": "0.6280403584061",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Infosys-Move Zeroes",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Linked List Cycle II",
+    "frequency": "59.7",
+    "acceptanceRate": "0.5493368906284437",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Infosys-Linked List Cycle II",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "59.7",
+    "acceptanceRate": "0.5525962361990076",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Infosys-Best Time to Buy and Sell Stock",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "59.7",
+    "acceptanceRate": "0.4305775328017951",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Infosys-Next Permutation",
+    "company": "Infosys",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "93.1",
+    "acceptanceRate": "0.42322839434072973",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Infosys-Valid Parentheses",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find the Number of Subsequences With Equal GCD",
+    "frequency": "93.1",
+    "acceptanceRate": "0.28809833565115966",
+    "link": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Number Theory"
+    ],
+    "id": "Infosys-Find the Number of Subsequences With Equal GCD",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "79.6",
+    "acceptanceRate": "0.592245446016415",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Infosys-Palindrome Number",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "79.6",
+    "acceptanceRate": "0.6035554917476331",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Infosys-Remove Duplicates from Sorted Array",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "79.6",
+    "acceptanceRate": "0.5209981567304411",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Infosys-Maximum Subarray",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse String",
+    "frequency": "79.6",
+    "acceptanceRate": "0.7976437567341788",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Infosys-Reverse String",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Building Where Alice and Bob Can Meet",
+    "frequency": "74.8",
+    "acceptanceRate": "0.5220343515987163",
+    "link": "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Stack",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Heap (Priority Queue)",
+      "Monotonic Stack"
+    ],
+    "id": "Infosys-Find Building Where Alice and Bob Can Meet",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "74.8",
+    "acceptanceRate": "0.6510198658123436",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Infosys-Trapping Rain Water",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Reverse Operations",
+    "frequency": "74.8",
+    "acceptanceRate": "0.15252284770754934",
+    "link": "https://leetcode.com/problems/minimum-reverse-operations",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Ordered Set"
+    ],
+    "id": "Infosys-Minimum Reverse Operations",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "74.8",
+    "acceptanceRate": "0.6777996855368484",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Infosys-Product of Array Except Self",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "69.0",
+    "acceptanceRate": "0.539397306376751",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Infosys-Spiral Matrix",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "69.0",
+    "acceptanceRate": "0.43021388103635533",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Infosys-Rotate Array",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "69.0",
+    "acceptanceRate": "0.4548309656922607",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Infosys-Longest Common Prefix",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "69.0",
+    "acceptanceRate": "0.4649548561668961",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Infosys-Coin Change",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "69.0",
+    "acceptanceRate": "0.30308944600976373",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "Infosys-Reverse Integer",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "69.0",
+    "acceptanceRate": "0.37070956128479965",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Infosys-3Sum",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fibonacci Number",
+    "frequency": "61.4",
+    "acceptanceRate": "0.7294492271152765",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "id": "Infosys-Fibonacci Number",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "61.4",
+    "acceptanceRate": "0.5191329339866777",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Infosys-Reverse Words in a String",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "frequency": "61.4",
+    "acceptanceRate": "0.6340216885829361",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "id": "Infosys-Two Sum II - Input Array Is Sorted",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "61.4",
+    "acceptanceRate": "0.4622509481999829",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Infosys-Add Two Numbers",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort an Array",
+    "frequency": "61.4",
+    "acceptanceRate": "0.5664705770599061",
+    "link": "https://leetcode.com/problems/sort-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Bucket Sort",
+      "Radix Sort",
+      "Counting Sort"
+    ],
+    "id": "Infosys-Sort an Array",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "61.4",
+    "acceptanceRate": "0.6797702091634737",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Infosys-Kth Largest Element in an Array",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count the Number of Ideal Arrays",
+    "frequency": "61.4",
+    "acceptanceRate": "0.571516409192222",
+    "link": "https://leetcode.com/problems/count-the-number-of-ideal-arrays",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics",
+      "Number Theory"
+    ],
+    "id": "Infosys-Count the Number of Ideal Arrays",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "61.4",
+    "acceptanceRate": "0.3584612048634803",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Infosys-Longest Palindromic Substring",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Sum of Subsequence With Non-adjacent Elements",
+    "frequency": "61.4",
+    "acceptanceRate": "0.15403822782013038",
+    "link": "https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Segment Tree"
+    ],
+    "id": "Infosys-Maximum Sum of Subsequence With Non-adjacent Elements",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "61.4",
+    "acceptanceRate": "0.7092882846587727",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Infosys-Group Anagrams",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "61.4",
+    "acceptanceRate": "0.5354070723436247",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Infosys-Climbing Stairs",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "61.4",
+    "acceptanceRate": "0.5230498170963667",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Infosys-House Robber",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindrome Partitioning",
+    "frequency": "61.4",
+    "acceptanceRate": "0.7212810040343407",
+    "link": "https://leetcode.com/problems/palindrome-partitioning",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Infosys-Palindrome Partitioning",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "61.4",
+    "acceptanceRate": "0.46383640179529256",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Infosys-Gas Station",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sqrt(x)",
+    "frequency": "61.4",
+    "acceptanceRate": "0.40371823928899353",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "Infosys-Sqrt(x)",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "61.4",
+    "acceptanceRate": "0.7006525195037366",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Infosys-Missing Number",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "61.4",
+    "acceptanceRate": "0.6304369033162786",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Infosys-Reverse Nodes in k-Group",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Single Element in a Sorted Array",
+    "frequency": "61.4",
+    "acceptanceRate": "0.5920699695159606",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Infosys-Single Element in a Sorted Array",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "61.4",
+    "acceptanceRate": "0.6231999514708259",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Infosys-Number of Islands",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "50.9",
+    "acceptanceRate": "0.6486629359775722",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Infosys-Roman to Integer",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String to Integer (atoi)",
+    "frequency": "50.9",
+    "acceptanceRate": "0.19229417945480093",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "topics": [
+      "String"
+    ],
+    "id": "Infosys-String to Integer (atoi)",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5264824950763314",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Infosys-Find Minimum in Rotated Sorted Array",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum II",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5767450173247776",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Infosys-Combination Sum II",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Depth of Binary Tree",
+    "frequency": "50.9",
+    "acceptanceRate": "0.7713810073222667",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Infosys-Maximum Depth of Binary Tree",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "50.9",
+    "acceptanceRate": "0.4547619916976922",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Infosys-Subarray Sum Equals K",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "50.9",
+    "acceptanceRate": "0.43814577126093873",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Infosys-Median of Two Sorted Arrays",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rearrange Array Elements by Sign",
+    "frequency": "50.9",
+    "acceptanceRate": "0.8435313974581474",
+    "link": "https://leetcode.com/problems/rearrange-array-elements-by-sign",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Simulation"
+    ],
+    "id": "Infosys-Rearrange Array Elements by Sign",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "50.9",
+    "acceptanceRate": "0.3821908823910382",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Infosys-4Sum",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "50.9",
+    "acceptanceRate": "0.8087959940013776",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Infosys-Subsets",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "50.9",
+    "acceptanceRate": "0.47040837691011006",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Infosys-Longest Consecutive Sequence",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "50.9",
+    "acceptanceRate": "0.7467470164230636",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Infosys-Combination Sum",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Linked List Cycle",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5257065321652596",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Infosys-Linked List Cycle",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Determine the Minimum Sum of a k-avoiding Array",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5987240023372234",
+    "link": "https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array",
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "id": "Infosys-Determine the Minimum Sum of a k-avoiding Array",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number After Mutating Substring",
+    "frequency": "50.9",
+    "acceptanceRate": "0.36902558769099003",
+    "link": "https://leetcode.com/problems/largest-number-after-mutating-substring",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy"
+    ],
+    "id": "Infosys-Largest Number After Mutating Substring",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5096353501695652",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Infosys-Valid Palindrome",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Total Distance Traveled",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5898865648781889",
+    "link": "https://leetcode.com/problems/minimum-total-distance-traveled",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Infosys-Minimum Total Distance Traveled",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Kids With the Greatest Number of Candies",
+    "frequency": "50.9",
+    "acceptanceRate": "0.8811124852207712",
+    "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies",
+    "topics": [
+      "Array"
+    ],
+    "id": "Infosys-Kids With the Greatest Number of Candies",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Duplicate Number",
+    "frequency": "50.9",
+    "acceptanceRate": "0.6283574822732809",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ],
+    "id": "Infosys-Find the Duplicate Number",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "50.9",
+    "acceptanceRate": "0.49067282582685684",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Infosys-Koko Eating Bananas",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "50.9",
+    "acceptanceRate": "0.6684091312362174",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Infosys-Merge Two Sorted Lists",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "50.9",
+    "acceptanceRate": "0.6861927118001762",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Infosys-Integer to Roman",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Greatest Common Divisor of Strings",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5272395713085929",
+    "link": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "Infosys-Greatest Common Divisor of Strings",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Average Time of Process per Machine",
+    "frequency": "50.9",
+    "acceptanceRate": "0.6862949023503733",
+    "link": "https://leetcode.com/problems/average-time-of-process-per-machine",
+    "topics": [
+      "Database"
+    ],
+    "id": "Infosys-Average Time of Process per Machine",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "50.9",
+    "acceptanceRate": "0.44971593402996185",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "Infosys-Find the Index of the First Occurrence in a String",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Score Words Formed by Letters",
+    "frequency": "50.9",
+    "acceptanceRate": "0.8159681950565737",
+    "link": "https://leetcode.com/problems/maximum-score-words-formed-by-letters",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "Infosys-Maximum Score Words Formed by Letters",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Car Fleet",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5347426286997168",
+    "link": "https://leetcode.com/problems/car-fleet",
+    "topics": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ],
+    "id": "Infosys-Car Fleet",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5878981528913135",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Infosys-Edit Distance",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "50.9",
+    "acceptanceRate": "0.37023201698953384",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Infosys-Pow(x, n)",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Product of Three Numbers",
+    "frequency": "50.9",
+    "acceptanceRate": "0.45311603363931174",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ],
+    "id": "Infosys-Maximum Product of Three Numbers",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product After K Increments",
+    "frequency": "50.9",
+    "acceptanceRate": "0.42336887178045457",
+    "link": "https://leetcode.com/problems/maximum-product-after-k-increments",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Infosys-Maximum Product After K Increments",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Segment Sum After Removals",
+    "frequency": "50.9",
+    "acceptanceRate": "0.4840065478033889",
+    "link": "https://leetcode.com/problems/maximum-segment-sum-after-removals",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Prefix Sum",
+      "Ordered Set"
+    ],
+    "id": "Infosys-Maximum Segment Sum After Removals",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Well-Performing Interval",
+    "frequency": "50.9",
+    "acceptanceRate": "0.3592905436355974",
+    "link": "https://leetcode.com/problems/longest-well-performing-interval",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack",
+      "Prefix Sum"
+    ],
+    "id": "Infosys-Longest Well-Performing Interval",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sort the People",
+    "frequency": "50.9",
+    "acceptanceRate": "0.8479980578905553",
+    "link": "https://leetcode.com/problems/sort-the-people",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Infosys-Sort the People",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "The Number of Beautiful Subsets",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5077831235970619",
+    "link": "https://leetcode.com/problems/the-number-of-beautiful-subsets",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Backtracking",
+      "Sorting",
+      "Combinatorics"
+    ],
+    "id": "Infosys-The Number of Beautiful Subsets",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Beautiful Integers in the Range",
+    "frequency": "50.9",
+    "acceptanceRate": "0.1959293261735666",
+    "link": "https://leetcode.com/problems/number-of-beautiful-integers-in-the-range",
+    "topics": [
+      "Math",
+      "Dynamic Programming"
+    ],
+    "id": "Infosys-Number of Beautiful Integers in the Range",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Consecutive Values You Can Make",
+    "frequency": "50.9",
+    "acceptanceRate": "0.621198255907843",
+    "link": "https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Infosys-Maximum Number of Consecutive Values You Can Make",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Can Convert String in K Moves",
+    "frequency": "50.9",
+    "acceptanceRate": "0.35919213006895684",
+    "link": "https://leetcode.com/problems/can-convert-string-in-k-moves",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Infosys-Can Convert String in K Moves",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Addition to Make Integer Beautiful",
+    "frequency": "50.9",
+    "acceptanceRate": "0.3798035153378333",
+    "link": "https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful",
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "id": "Infosys-Minimum Addition to Make Integer Beautiful",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Stone Game VIII",
+    "frequency": "50.9",
+    "acceptanceRate": "0.5283333333333333",
+    "link": "https://leetcode.com/problems/stone-game-viii",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Prefix Sum",
+      "Game Theory"
+    ],
+    "id": "Infosys-Stone Game VIII",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Minimum Possible Sum of a Beautiful Array",
+    "frequency": "50.9",
+    "acceptanceRate": "0.359398838665604",
+    "link": "https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array",
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "id": "Infosys-Find the Minimum Possible Sum of a Beautiful Array",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Nodes With Value One",
+    "frequency": "50.9",
+    "acceptanceRate": "0.655958549222798",
+    "link": "https://leetcode.com/problems/number-of-nodes-with-value-one",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Infosys-Number of Nodes With Value One",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "frequency": "50.9",
+    "acceptanceRate": "0.835865207735719",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "topics": [
+      "Database"
+    ],
+    "id": "Infosys-Replace Employee ID With The Unique Identifier",
+    "company": "Infosys",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Create a DataFrame from List",
+    "frequency": "44.3",
+    "acceptanceRate": "0.8146822523099789",
+    "link": "https://leetcode.com/problems/create-a-dataframe-from-list",
+    "topics": [],
+    "id": "Infosys-Create a DataFrame from List",
+    "company": "Infosys",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "44.3",
+    "acceptanceRate": "0.45350705791453394",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Infosys-Minimum Window Substring",
+    "company": "Infosys",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "44.3",
+    "acceptanceRate": "0.6950028393422977",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Infosys-Best Time to Buy and Sell Stock II",
+    "company": "Infosys",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "44.3",
+    "acceptanceRate": "0.577828288459674",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Infosys-Container With Most Water",
+    "company": "Infosys",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Implement Queue using Stacks",
+    "frequency": "44.3",
+    "acceptanceRate": "0.6806078349365677",
+    "link": "https://leetcode.com/problems/implement-queue-using-stacks",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "id": "Infosys-Implement Queue using Stacks",
+    "company": "Infosys",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "44.3",
+    "acceptanceRate": "0.4283720115766511",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Infosys-Search in Rotated Sorted Array",
+    "company": "Infosys",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Search",
+    "frequency": "44.3",
+    "acceptanceRate": "0.5956451391000113",
+    "link": "https://leetcode.com/problems/binary-search",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Infosys-Binary Search",
+    "company": "Infosys",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Isomorphic Strings",
+    "frequency": "44.3",
+    "acceptanceRate": "0.46857985622916554",
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Infosys-Isomorphic Strings",
+    "company": "Infosys",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "To Lower Case",
+    "frequency": "44.3",
+    "acceptanceRate": "0.8417204828432726",
+    "link": "https://leetcode.com/problems/to-lower-case",
+    "topics": [
+      "String"
+    ],
+    "id": "Infosys-To Lower Case",
+    "company": "Infosys",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "44.3",
+    "acceptanceRate": "0.39479233995926627",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Infosys-Jump Game",
+    "company": "Infosys",
+    "timeframe": "all"
+  }
+]

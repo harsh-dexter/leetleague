@@ -1,0 +1,46 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45487227473690034",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "DXC Technology-Longest Common Prefix",
+    "company": "DXC Technology",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sort Array By Parity",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7632307011030572",
+    "link": "https://leetcode.com/problems/sort-array-by-parity",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "DXC Technology-Sort Array By Parity",
+    "company": "DXC Technology",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4302544804233154",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "DXC Technology-Rotate Array",
+    "company": "DXC Technology",
+    "timeframe": "more_than_180"
+  }
+]

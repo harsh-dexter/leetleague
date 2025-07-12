@@ -1,0 +1,816 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Reorganize String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5619634145417838",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "Roblox-Reorganize String",
+    "company": "Roblox",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "77.9",
+    "acceptanceRate": "0.615393301547845",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "Roblox-Task Scheduler",
+    "company": "Roblox",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "63.9",
+    "acceptanceRate": "0.6510198658123436",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Roblox-Trapping Rain Water",
+    "company": "Roblox",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": "63.9",
+    "acceptanceRate": "0.6793477899842462",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "id": "Roblox-Implement Trie (Prefix Tree)",
+    "company": "Roblox",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Distance to Closest Person",
+    "frequency": "78.8",
+    "acceptanceRate": "0.4898732183487074",
+    "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "topics": [
+      "Array"
+    ],
+    "id": "Roblox-Maximize Distance to Closest Person",
+    "company": "Roblox",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "75.1",
+    "acceptanceRate": "0.42322848183425277",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Roblox-Valid Parentheses",
+    "company": "Roblox",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotating the Box",
+    "frequency": "70.6",
+    "acceptanceRate": "0.7909813050714205",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ],
+    "id": "Roblox-Rotating the Box",
+    "company": "Roblox",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Adjacent Elements With the Same Color",
+    "frequency": "64.8",
+    "acceptanceRate": "0.5575544433923982",
+    "link": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color",
+    "topics": [
+      "Array"
+    ],
+    "id": "Roblox-Number of Adjacent Elements With the Same Color",
+    "company": "Roblox",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "56.5",
+    "acceptanceRate": "0.539397306376751",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Roblox-Spiral Matrix",
+    "company": "Roblox",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Browser History",
+    "frequency": "95.2",
+    "acceptanceRate": "0.7774686768883133",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ],
+    "id": "Roblox-Design Browser History",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "88.9",
+    "acceptanceRate": "0.6920824458148753",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "id": "Roblox-Design Hit Counter",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "81.7",
+    "acceptanceRate": "0.4939523849309626",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Roblox-Merge Intervals",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "81.7",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Roblox-Text Justification",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Integer to English Words",
+    "frequency": "75.7",
+    "acceptanceRate": "0.34354789501950295",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "topics": [
+      "Math",
+      "String",
+      "Recursion"
+    ],
+    "id": "Roblox-Integer to English Words",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Flowers in Full Bloom",
+    "frequency": "63.5",
+    "acceptanceRate": "0.5717535511066795",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ],
+    "id": "Roblox-Number of Flowers in Full Bloom",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "63.5",
+    "acceptanceRate": "0.7790166005161556",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Roblox-Rotate Image",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Split Message Based on Limit",
+    "frequency": "58.9",
+    "acceptanceRate": "0.4261603375527427",
+    "link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "topics": [
+      "String",
+      "Binary Search",
+      "Enumeration"
+    ],
+    "id": "Roblox-Split Message Based on Limit",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Block Placement Queries",
+    "frequency": "58.9",
+    "acceptanceRate": "0.168902023187088",
+    "link": "https://leetcode.com/problems/block-placement-queries",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "Roblox-Block Placement Queries",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Length of the Longest Common Prefix",
+    "frequency": "52.9",
+    "acceptanceRate": "0.564161205458434",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "id": "Roblox-Find the Length of the Longest Common Prefix",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "52.9",
+    "acceptanceRate": "0.4737767587697204",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Roblox-Largest Rectangle in Histogram",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Subarrays with K Different Integers",
+    "frequency": "52.9",
+    "acceptanceRate": "0.658657617557622",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ],
+    "id": "Roblox-Subarrays with K Different Integers",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "52.9",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Roblox-First Missing Positive",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Falling Path Sum II",
+    "frequency": "52.9",
+    "acceptanceRate": "0.6381902247899858",
+    "link": "https://leetcode.com/problems/minimum-falling-path-sum-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Roblox-Minimum Falling Path Sum II",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "frequency": "44.6",
+    "acceptanceRate": "0.8121536256620584",
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "topics": [
+      "Linked List",
+      "Math"
+    ],
+    "id": "Roblox-Convert Binary Number in a Linked List to Integer",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Students and Examinations",
+    "frequency": "44.6",
+    "acceptanceRate": "0.604974385676898",
+    "link": "https://leetcode.com/problems/students-and-examinations",
+    "topics": [
+      "Database"
+    ],
+    "id": "Roblox-Students and Examinations",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "44.6",
+    "acceptanceRate": "0.3693616357641543",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Roblox-Longest Substring Without Repeating Characters",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix II",
+    "frequency": "44.6",
+    "acceptanceRate": "0.734312719680276",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Roblox-Spiral Matrix II",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Brightest Position on Street",
+    "frequency": "44.6",
+    "acceptanceRate": "0.605687821115855",
+    "link": "https://leetcode.com/problems/brightest-position-on-street",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ],
+    "id": "Roblox-Brightest Position on Street",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "44.6",
+    "acceptanceRate": "0.47040837691011006",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Roblox-Longest Consecutive Sequence",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "44.6",
+    "acceptanceRate": "0.5661839890477366",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Roblox-Rotting Oranges",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Employee Free Time",
+    "frequency": "44.6",
+    "acceptanceRate": "0.7259759595862569",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "topics": [
+      "Array",
+      "Line Sweep",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Roblox-Employee Free Time",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "44.6",
+    "acceptanceRate": "0.4548309656922607",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Roblox-Longest Common Prefix",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "frequency": "44.6",
+    "acceptanceRate": "0.6283932786999268",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "topics": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ],
+    "id": "Roblox-Remove Colored Pieces if Both Neighbors are the Same Color",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Frogs Croaking",
+    "frequency": "44.6",
+    "acceptanceRate": "0.5078628152543851",
+    "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+    "topics": [
+      "String",
+      "Counting"
+    ],
+    "id": "Roblox-Minimum Number of Frogs Croaking",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "44.6",
+    "acceptanceRate": "0.5525961979681595",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Roblox-Best Time to Buy and Sell Stock",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "44.6",
+    "acceptanceRate": "0.6577287347956182",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Roblox-Unique Paths",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "44.6",
+    "acceptanceRate": "0.37326314604211236",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "Roblox-Word Search II",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Absolute Difference Between Elements With Constraint",
+    "frequency": "44.6",
+    "acceptanceRate": "0.3406636948984646",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Ordered Set"
+    ],
+    "id": "Roblox-Minimum Absolute Difference Between Elements With Constraint",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Accounts Merge",
+    "frequency": "44.6",
+    "acceptanceRate": "0.5957996827596059",
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ],
+    "id": "Roblox-Accounts Merge",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group the People Given the Group Size They Belong To",
+    "frequency": "44.6",
+    "acceptanceRate": "0.8741365069830305",
+    "link": "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy"
+    ],
+    "id": "Roblox-Group the People Given the Group Size They Belong To",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subdomain Visit Count",
+    "frequency": "44.6",
+    "acceptanceRate": "0.7683449765176875",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Roblox-Subdomain Visit Count",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Number of Nice Subarrays",
+    "frequency": "44.6",
+    "acceptanceRate": "0.7320996591376853",
+    "link": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Roblox-Count Number of Nice Subarrays",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "44.6",
+    "acceptanceRate": "0.5577699500711366",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Roblox-Two Sum",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Occurrences of a Substring",
+    "frequency": "44.6",
+    "acceptanceRate": "0.5342731408965465",
+    "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Roblox-Maximum Number of Occurrences of a Substring",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Magnetic Force Between Two Balls",
+    "frequency": "44.6",
+    "acceptanceRate": "0.7134574135311467",
+    "link": "https://leetcode.com/problems/magnetic-force-between-two-balls",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Roblox-Magnetic Force Between Two Balls",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Trusted Contacts of a Customer",
+    "frequency": "44.6",
+    "acceptanceRate": "0.7522622225115554",
+    "link": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer",
+    "topics": [
+      "Database"
+    ],
+    "id": "Roblox-Number of Trusted Contacts of a Customer",
+    "company": "Roblox",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Candy Crush",
+    "frequency": "38.3",
+    "acceptanceRate": "0.7736899161778655",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Roblox-Candy Crush",
+    "company": "Roblox",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator IV",
+    "frequency": "38.3",
+    "acceptanceRate": "0.48660337552742616",
+    "link": "https://leetcode.com/problems/basic-calculator-iv",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Roblox-Basic Calculator IV",
+    "company": "Roblox",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of Recent Calls",
+    "frequency": "38.3",
+    "acceptanceRate": "0.7732793446019116",
+    "link": "https://leetcode.com/problems/number-of-recent-calls",
+    "topics": [
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "id": "Roblox-Number of Recent Calls",
+    "company": "Roblox",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Diagonal Traverse",
+    "frequency": "38.3",
+    "acceptanceRate": "0.6317318066223124",
+    "link": "https://leetcode.com/problems/diagonal-traverse",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Roblox-Diagonal Traverse",
+    "company": "Roblox",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "38.3",
+    "acceptanceRate": "0.41503314606768293",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Roblox-Jump Game II",
+    "company": "Roblox",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Image Smoother",
+    "frequency": "38.3",
+    "acceptanceRate": "0.6837229689163258",
+    "link": "https://leetcode.com/problems/image-smoother",
+    "topics": [
+      "Array",
+      "Matrix"
+    ],
+    "id": "Roblox-Image Smoother",
+    "company": "Roblox",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "38.3",
+    "acceptanceRate": "0.49234395023183203",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Roblox-Course Schedule",
+    "company": "Roblox",
+    "timeframe": "all"
+  }
+]

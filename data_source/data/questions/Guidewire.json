@@ -1,0 +1,98 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Print Words Vertically",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6622658589234733",
+    "link": "https://leetcode.com/problems/print-words-vertically",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Guidewire-Print Words Vertically",
+    "company": "Guidewire",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct the Longest New String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5384322081417517",
+    "link": "https://leetcode.com/problems/construct-the-longest-new-string",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Greedy",
+      "Brainteaser"
+    ],
+    "id": "Guidewire-Construct the Longest New String",
+    "company": "Guidewire",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Moves to Spread Stones Over Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.44315093165667885",
+    "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Guidewire-Minimum Moves to Spread Stones Over Grid",
+    "company": "Guidewire",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7425819778656343",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Guidewire-Minimum Number of Operations to Sort a Binary Tree by Level",
+    "company": "Guidewire",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Get Watched Videos by Your Friends",
+    "frequency": "90.0",
+    "acceptanceRate": "0.49756820603084906",
+    "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search",
+      "Graph",
+      "Sorting"
+    ],
+    "id": "Guidewire-Get Watched Videos by Your Friends",
+    "company": "Guidewire",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "89.3",
+    "acceptanceRate": "0.679770776384085",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Guidewire-Kth Largest Element in an Array",
+    "company": "Guidewire",
+    "timeframe": "all"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5143014465781959",
+    "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "razorpay-Shortest Subarray to be Removed to Make Array Sorted",
+    "company": "razorpay",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43021402627311356",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "razorpay-Rotate Array",
+    "company": "razorpay",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49395207051009665",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "razorpay-Merge Intervals",
+    "company": "razorpay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Total Cost to Make Arrays Unequal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.40506888676048036",
+    "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Counting"
+    ],
+    "id": "razorpay-Minimum Total Cost to Make Arrays Unequal",
+    "company": "razorpay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Most Beautiful Item for Each Query",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6204238729375727",
+    "link": "https://leetcode.com/problems/most-beautiful-item-for-each-query",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "razorpay-Most Beautiful Item for Each Query",
+    "company": "razorpay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Two Best Non-Overlapping Events",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6083218765865931",
+    "link": "https://leetcode.com/problems/two-best-non-overlapping-events",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "razorpay-Two Best Non-Overlapping Events",
+    "company": "razorpay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Excel Sheet Column Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.657529430838357",
+    "link": "https://leetcode.com/problems/excel-sheet-column-number",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "razorpay-Excel Sheet Column Number",
+    "company": "razorpay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778299323068349",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "razorpay-Container With Most Water",
+    "company": "razorpay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6115274430176852",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "razorpay-Decode String",
+    "company": "razorpay",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "63.4",
+    "acceptanceRate": "0.4521500890965678",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "razorpay-LRU Cache",
+    "company": "razorpay",
+    "timeframe": "all"
+  }
+]

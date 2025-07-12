@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Furthest Building You Can Reach",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5037115841594002",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5494576152947646",
+    "link": "https://leetcode.com/problems/house-robber-iii",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  }
+]

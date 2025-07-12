@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find Mirror Score of a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.33931992710166825",
+    "link": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  }
+]

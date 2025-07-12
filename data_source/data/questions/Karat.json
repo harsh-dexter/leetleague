@@ -1,0 +1,237 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Find Words That Can Be Formed by Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7106798822031877",
+    "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Karat-Find Words That Can Be Formed by Characters",
+    "company": "Karat",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4587327987118235",
+    "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Karat-Alert Using Same Key-Card Three or More Times in a One Hour Period",
+    "company": "Karat",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Check if Every Row and Column Contains All Numbers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.528410934019593",
+    "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Karat-Check if Every Row and Column Contains All Numbers",
+    "company": "Karat",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45267020648967554",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Karat-Word Search",
+    "company": "Karat",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48150026993726713",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Karat-Text Justification",
+    "company": "Karat",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "58.9",
+    "acceptanceRate": "0.48761160727552844",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Karat-Maximal Square",
+    "company": "Karat",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "71.5",
+    "acceptanceRate": "0.49234351634863477",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Karat-Course Schedule",
+    "company": "Karat",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "65.6",
+    "acceptanceRate": "0.6232011443676149",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Karat-Number of Islands",
+    "company": "Karat",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Ransom Note",
+    "frequency": "65.6",
+    "acceptanceRate": "0.645236720828959",
+    "link": "https://leetcode.com/problems/ransom-note",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Karat-Ransom Note",
+    "company": "Karat",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subdomain Visit Count",
+    "frequency": "57.3",
+    "acceptanceRate": "0.7683449765176875",
+    "link": "https://leetcode.com/problems/subdomain-visit-count",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Karat-Subdomain Visit Count",
+    "company": "Karat",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "57.3",
+    "acceptanceRate": "0.37326320876213087",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "Karat-Word Search II",
+    "company": "Karat",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "57.3",
+    "acceptanceRate": "0.5342347455287296",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Karat-Course Schedule II",
+    "company": "Karat",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "57.3",
+    "acceptanceRate": "0.6227680872343923",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Karat-Valid Sudoku",
+    "company": "Karat",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "47.6",
+    "acceptanceRate": "0.39479211205555326",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Karat-Jump Game",
+    "company": "Karat",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5577699688130624",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Karat-Two Sum",
+    "company": "Karat",
+    "timeframe": "all"
+  }
+]

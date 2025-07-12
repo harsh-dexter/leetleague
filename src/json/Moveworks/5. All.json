@@ -1,0 +1,81 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4815035316083349",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Uncommon Substring in an Array",
+    "frequency": "92.7",
+    "acceptanceRate": "0.4821341799216042",
+    "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Synonymous Sentences",
+    "frequency": "91.5",
+    "acceptanceRate": "0.5657701813916468",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Union Find"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Break II",
+    "frequency": "86.0",
+    "acceptanceRate": "0.5364545782263879",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Removable Characters",
+    "frequency": "52.0",
+    "acceptanceRate": "0.45759683183618277",
+    "link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "52.0",
+    "acceptanceRate": "0.4939520668150291",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Count Square Sum Triples",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6901666114160129",
+    "link": "https://leetcode.com/problems/count-square-sum-triples",
+    "topics": [
+      "Math",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "95.2",
+    "acceptanceRate": "0.4550053440282632",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "65.5",
+    "acceptanceRate": "0.7092889662302778",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Subsequence With Decreasing Adjacent Difference",
+    "frequency": "100.0",
+    "acceptanceRate": "0.14664225321772847",
+    "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Operations on Tree",
+    "frequency": "92.2",
+    "acceptanceRate": "0.43368293750912235",
+    "link": "https://leetcode.com/problems/operations-on-tree",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Color Value in a Directed Graph",
+    "frequency": "73.6",
+    "acceptanceRate": "0.5767908345021908",
+    "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+    "topics": [
+      "Hash Table",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Path in a Weighted Tree",
+    "frequency": "73.6",
+    "acceptanceRate": "0.3218752658895601",
+    "link": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+    "topics": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "73.6",
+    "acceptanceRate": "0.47604117337050583",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ]
+  }
+]

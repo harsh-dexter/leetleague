@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6666091043812926",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6950026730452624",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5209977597071156",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  }
+]

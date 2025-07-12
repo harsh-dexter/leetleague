@@ -1,0 +1,24 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Active Users",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3660385155798",
+    "link": "https://leetcode.com/problems/active-users",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Unique Flavors After Sharing K Candies",
+    "frequency": "100.0",
+    "acceptanceRate": "0.597080998824099",
+    "link": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6138412550730682",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "topics": [
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  }
+]

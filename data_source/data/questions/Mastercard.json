@@ -1,0 +1,177 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577699076389886",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Mastercard-Two Sum",
+    "company": "Mastercard",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "89.6",
+    "acceptanceRate": "0.5525963802478652",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Mastercard-Best Time to Buy and Sell Stock",
+    "company": "Mastercard",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "94.1",
+    "acceptanceRate": "0.4232287729354669",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Mastercard-Valid Parentheses",
+    "company": "Mastercard",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "86.5",
+    "acceptanceRate": "0.6666097010751223",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Mastercard-Valid Anagram",
+    "company": "Mastercard",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "75.8",
+    "acceptanceRate": "0.8087943224256119",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Mastercard-Subsets",
+    "company": "Mastercard",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fizz Buzz",
+    "frequency": "75.8",
+    "acceptanceRate": "0.7437059893592051",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Mastercard-Fizz Buzz",
+    "company": "Mastercard",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "75.8",
+    "acceptanceRate": "0.5778289005385611",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Mastercard-Container With Most Water",
+    "company": "Mastercard",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "75.8",
+    "acceptanceRate": "0.7790168587503742",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Mastercard-Rotate Image",
+    "company": "Mastercard",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "75.8",
+    "acceptanceRate": "0.3584614184401339",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Mastercard-Longest Palindromic Substring",
+    "company": "Mastercard",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Candy",
+    "frequency": "75.8",
+    "acceptanceRate": "0.4669983592386035",
+    "link": "https://leetcode.com/problems/candy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Mastercard-Candy",
+    "company": "Mastercard",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "75.8",
+    "acceptanceRate": "0.4638358809318818",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Mastercard-Gas Station",
+    "company": "Mastercard",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "75.8",
+    "acceptanceRate": "0.4649557971017352",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Mastercard-Coin Change",
+    "company": "Mastercard",
+    "timeframe": "all"
+  }
+]

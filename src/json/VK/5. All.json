@@ -1,0 +1,79 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Distance to Closest Person",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4898931447175697",
+    "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "95.6",
+    "acceptanceRate": "0.6280482534248885",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "90.2",
+    "acceptanceRate": "0.42328396016340586",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "83.2",
+    "acceptanceRate": "0.5292466143644876",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Summary Ranges",
+    "frequency": "83.2",
+    "acceptanceRate": "0.5302431124795074",
+    "link": "https://leetcode.com/problems/summary-ranges",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "73.3",
+    "acceptanceRate": "0.5096809657578885",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "frequency": "73.3",
+    "acceptanceRate": "0.6923692019165307",
+    "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Sliding Window"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Nested List Iterator",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6523082264009105",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ],
+    "id": "Mixpanel-Flatten Nested List Iterator",
+    "company": "Mixpanel",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interval List Intersections",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7267839611466144",
+    "link": "https://leetcode.com/problems/interval-list-intersections",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Line Sweep"
+    ],
+    "id": "Mixpanel-Interval List Intersections",
+    "company": "Mixpanel",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Stock Price Fluctuation ",
+    "frequency": "84.3",
+    "acceptanceRate": "0.48167300985897066",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ],
+    "id": "Mixpanel-Stock Price Fluctuation ",
+    "company": "Mixpanel",
+    "timeframe": "all"
+  }
+]

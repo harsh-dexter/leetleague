@@ -1,0 +1,289 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45350671702442985",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "SoFi-Minimum Window Substring",
+    "company": "SoFi",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4156976135101724",
+    "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "SoFi-Maximum Number of Non-overlapping Palindrome Substrings",
+    "company": "SoFi",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8215204393310427",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "SoFi-Minimum Number of Steps to Make Two Strings Anagram",
+    "company": "SoFi",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Mountain in Array",
+    "frequency": "74.9",
+    "acceptanceRate": "0.4107846968136123",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ],
+    "id": "SoFi-Longest Mountain in Array",
+    "company": "SoFi",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "74.9",
+    "acceptanceRate": "0.5677426186956992",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "SoFi-Merge k Sorted Lists",
+    "company": "SoFi",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232014425500368",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "SoFi-Number of Islands",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4550061229796745",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "SoFi-Asteroid Collision",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "91.9",
+    "acceptanceRate": "0.5577702725256378",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "SoFi-Two Sum",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "91.9",
+    "acceptanceRate": "0.6486636808679633",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "SoFi-Roman to Integer",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "91.9",
+    "acceptanceRate": "0.549919064652625",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "SoFi-Insert Delete GetRandom O(1)",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Product Less Than K",
+    "frequency": "80.6",
+    "acceptanceRate": "0.5285353676533414",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "SoFi-Subarray Product Less Than K",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "frequency": "80.6",
+    "acceptanceRate": "0.6131209568946355",
+    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "topics": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
+    ],
+    "id": "SoFi-Flatten a Multilevel Doubly Linked List",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Degree of an Array",
+    "frequency": "80.6",
+    "acceptanceRate": "0.5742054384866819",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "SoFi-Degree of an Array",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "80.6",
+    "acceptanceRate": "0.5214172217778257",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "SoFi-Meeting Rooms II",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "80.6",
+    "acceptanceRate": "0.4521484931675215",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "SoFi-LRU Cache",
+    "company": "SoFi",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "66.0",
+    "acceptanceRate": "0.716780342298775",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "SoFi-Palindromic Substrings",
+    "company": "SoFi",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Winner of the Circular Game",
+    "frequency": "66.0",
+    "acceptanceRate": "0.8206653804804053",
+    "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Recursion",
+      "Queue",
+      "Simulation"
+    ],
+    "id": "SoFi-Find the Winner of the Circular Game",
+    "company": "SoFi",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "66.0",
+    "acceptanceRate": "0.6456597639542642",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "SoFi-Top K Frequent Elements",
+    "company": "SoFi",
+    "timeframe": "all"
+  }
+]

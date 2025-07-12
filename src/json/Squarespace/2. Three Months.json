@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5291968270248945",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "80.6",
+    "acceptanceRate": "0.4521508317973629",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  }
+]

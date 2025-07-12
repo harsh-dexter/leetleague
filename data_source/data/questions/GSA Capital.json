@@ -1,0 +1,33 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Total Cost to Hire K Workers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4310623421785049",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ],
+    "id": "GSA Capital-Total Cost to Hire K Workers",
+    "company": "GSA Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "84.1",
+    "acceptanceRate": "0.4876422601899655",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "GSA Capital-Maximal Square",
+    "company": "GSA Capital",
+    "timeframe": "more_than_180"
+  }
+]

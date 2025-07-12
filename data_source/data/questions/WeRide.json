@@ -1,0 +1,105 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5441746135165552",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "WeRide-Maximum Profit in Job Scheduling",
+    "company": "WeRide",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Swim in Rising Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6285273239373714",
+    "link": "https://leetcode.com/problems/swim-in-rising-water",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ],
+    "id": "WeRide-Swim in Rising Water",
+    "company": "WeRide",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Greatness of an Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5864617466875623",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "WeRide-Maximize Greatness of an Array",
+    "company": "WeRide",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "79.9",
+    "acceptanceRate": "0.4815035316083349",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "WeRide-Text Justification",
+    "company": "WeRide",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Increasing Path in a Matrix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5534762586302827",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ],
+    "id": "WeRide-Longest Increasing Path in a Matrix",
+    "company": "WeRide",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Edges in Shortest Paths",
+    "frequency": "89.6",
+    "acceptanceRate": "0.45557478513390637",
+    "link": "https://leetcode.com/problems/find-edges-in-shortest-paths",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ],
+    "id": "WeRide-Find Edges in Shortest Paths",
+    "company": "WeRide",
+    "timeframe": "more_than_180"
+  }
+]

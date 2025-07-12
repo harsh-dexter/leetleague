@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4559254553283655",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43814619255942167",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Rippling-Median of Two Sorted Arrays",
+    "company": "Rippling",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Spreadsheet",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6762689977153075",
+    "link": "https://leetcode.com/problems/design-spreadsheet",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design",
+      "Matrix"
+    ],
+    "id": "Rippling-Design Spreadsheet",
+    "company": "Rippling",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design Excel Sum Formula",
+    "frequency": "100.0",
+    "acceptanceRate": "0.42568163292465855",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Design",
+      "Topological Sort",
+      "Matrix"
+    ],
+    "id": "Rippling-Design Excel Sum Formula",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "85.8",
+    "acceptanceRate": "0.6314708808408903",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ],
+    "id": "Rippling-Evaluate Division",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Synonymous Sentences",
+    "frequency": "65.6",
+    "acceptanceRate": "0.5657701813916468",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Union Find"
+    ],
+    "id": "Rippling-Synonymous Sentences",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Employee Importance",
+    "frequency": "65.6",
+    "acceptanceRate": "0.6842114454359709",
+    "link": "https://leetcode.com/problems/employee-importance",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "id": "Rippling-Employee Importance",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "57.3",
+    "acceptanceRate": "0.5209980357192625",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Rippling-Maximum Subarray",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Last Stone Weight",
+    "frequency": "57.3",
+    "acceptanceRate": "0.6592872235573963",
+    "link": "https://leetcode.com/problems/last-stone-weight",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Rippling-Last Stone Weight",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Optimal Account Balancing",
+    "frequency": "57.3",
+    "acceptanceRate": "0.4993810266893702",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "Rippling-Optimal Account Balancing",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Accounts Merge",
+    "frequency": "57.3",
+    "acceptanceRate": "0.595800382092666",
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Sorting"
+    ],
+    "id": "Rippling-Accounts Merge",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Visible People in a Queue",
+    "frequency": "57.3",
+    "acceptanceRate": "0.7129705142972448",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Rippling-Number of Visible People in a Queue",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Amount After Two Days of Conversions",
+    "frequency": "57.3",
+    "acceptanceRate": "0.5897915340547422",
+    "link": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Rippling-Maximize Amount After Two Days of Conversions",
+    "company": "Rippling",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "55.1",
+    "acceptanceRate": "0.5499186948290465",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Rippling-Insert Delete GetRandom O(1)",
+    "company": "Rippling",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "LFU Cache",
+    "frequency": "55.1",
+    "acceptanceRate": "0.4660898637811462",
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Rippling-LFU Cache",
+    "company": "Rippling",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "55.1",
+    "acceptanceRate": "0.6684090442432823",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Rippling-Merge Two Sorted Lists",
+    "company": "Rippling",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Alien Dictionary",
+    "frequency": "55.1",
+    "acceptanceRate": "0.3667372421638184",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Rippling-Alien Dictionary",
+    "company": "Rippling",
+    "timeframe": "all"
+  }
+]

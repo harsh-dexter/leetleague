@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Game Play Analysis V",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5083935582996643",
+    "link": "https://leetcode.com/problems/game-play-analysis-v",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Game Play Analysis I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7575125906319012",
+    "link": "https://leetcode.com/problems/game-play-analysis-i",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Game Play Analysis II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5402814837496173",
+    "link": "https://leetcode.com/problems/game-play-analysis-ii",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Game Play Analysis III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8125918037602822",
+    "link": "https://leetcode.com/problems/game-play-analysis-iii",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Game Play Analysis IV",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3944366188704687",
+    "link": "https://leetcode.com/problems/game-play-analysis-iv",
+    "topics": [
+      "Database"
+    ]
+  }
+]

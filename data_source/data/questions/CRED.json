@@ -1,0 +1,35 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Count Elements With Maximum Frequency",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7792370150792628",
+    "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "id": "CRED-Count Elements With Maximum Frequency",
+    "company": "CRED",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Frequency of the Most Frequent Element",
+    "frequency": "89.4",
+    "acceptanceRate": "0.4410334035974388",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ],
+    "id": "CRED-Frequency of the Most Frequent Element",
+    "company": "CRED",
+    "timeframe": "all"
+  }
+]

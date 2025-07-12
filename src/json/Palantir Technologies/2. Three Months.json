@@ -1,0 +1,28 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.38430607750545076",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Binary Search",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "89.1",
+    "acceptanceRate": "0.49395231317834853",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  }
+]

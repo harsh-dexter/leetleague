@@ -1,0 +1,1631 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525962294861477",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Best Time to Buy and Sell Stock",
+    "company": "Accenture",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5209980487725024",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Maximum Subarray",
+    "company": "Accenture",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6280403369085903",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Accenture-Move Zeroes",
+    "company": "Accenture",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "87.1",
+    "acceptanceRate": "0.6232001096557939",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Accenture-Number of Islands",
+    "company": "Accenture",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Divide Nodes Into the Maximum Number of Groups",
+    "frequency": "87.1",
+    "acceptanceRate": "0.6736557431799484",
+    "link": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "Accenture-Divide Nodes Into the Maximum Number of Groups",
+    "company": "Accenture",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fibonacci Number",
+    "frequency": "87.1",
+    "acceptanceRate": "0.7294492271152765",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "id": "Accenture-Fibonacci Number",
+    "company": "Accenture",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "87.1",
+    "acceptanceRate": "0.657403169331404",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Accenture-Majority Element",
+    "company": "Accenture",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Arrays",
+    "frequency": "87.1",
+    "acceptanceRate": "0.7647431845238689",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Accenture-Intersection of Two Arrays",
+    "company": "Accenture",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "87.1",
+    "acceptanceRate": "0.4906724004144251",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Accenture-Koko Eating Bananas",
+    "company": "Accenture",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "87.1",
+    "acceptanceRate": "0.5354071218159873",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Accenture-Climbing Stairs",
+    "company": "Accenture",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Bulb Switcher",
+    "frequency": "100.0",
+    "acceptanceRate": "0.540826122720978",
+    "link": "https://leetcode.com/problems/bulb-switcher",
+    "topics": [
+      "Math",
+      "Brainteaser"
+    ],
+    "id": "Accenture-Bulb Switcher",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "98.0",
+    "acceptanceRate": "0.580726470983853",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Accenture-Happy Number",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "94.7",
+    "acceptanceRate": "0.5577700019986414",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Accenture-Two Sum",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "86.1",
+    "acceptanceRate": "0.5922453952673293",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Accenture-Palindrome Number",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "84.3",
+    "acceptanceRate": "0.43021388103635533",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Accenture-Rotate Array",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Delete and Earn",
+    "frequency": "80.3",
+    "acceptanceRate": "0.5672788571185733",
+    "link": "https://leetcode.com/problems/delete-and-earn",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Delete and Earn",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "78.1",
+    "acceptanceRate": "0.6486630367350482",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Accenture-Roman to Integer",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "75.5",
+    "acceptanceRate": "0.45483097467010153",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Accenture-Longest Common Prefix",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "75.5",
+    "acceptanceRate": "0.3584611319731286",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Longest Palindromic Substring",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "72.7",
+    "acceptanceRate": "0.3030894236484883",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "Accenture-Reverse Integer",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "72.7",
+    "acceptanceRate": "0.412803811932624",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Accenture-Largest Number",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "72.7",
+    "acceptanceRate": "0.539397306376751",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Accenture-Spiral Matrix",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "72.7",
+    "acceptanceRate": "0.5291953057434996",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Accenture-Merge Sorted Array",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "frequency": "69.5",
+    "acceptanceRate": "0.7868399685247711",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Accenture-Sort Integers by The Number of 1 Bits",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Perfect Squares",
+    "frequency": "69.5",
+    "acceptanceRate": "0.5567219809781053",
+    "link": "https://leetcode.com/problems/perfect-squares",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Accenture-Perfect Squares",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "69.5",
+    "acceptanceRate": "0.465092325586426",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Accenture-Find Peak Element",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "69.5",
+    "acceptanceRate": "0.5191330387431672",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Accenture-Reverse Words in a String",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "65.8",
+    "acceptanceRate": "0.37070957264702625",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Accenture-3Sum",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer Break",
+    "frequency": "65.8",
+    "acceptanceRate": "0.6114190176740073",
+    "link": "https://leetcode.com/problems/integer-break",
+    "topics": [
+      "Math",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Integer Break",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "65.8",
+    "acceptanceRate": "0.36936169939187624",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Accenture-Longest Substring Without Repeating Characters",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "65.8",
+    "acceptanceRate": "0.42322838633743504",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Accenture-Valid Parentheses",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "61.5",
+    "acceptanceRate": "0.6777997386898901",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Accenture-Product of Array Except Self",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "61.5",
+    "acceptanceRate": "0.6385757274954061",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Accenture-Letter Combinations of a Phone Number",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "61.5",
+    "acceptanceRate": "0.4622509481999829",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Accenture-Add Two Numbers",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "61.5",
+    "acceptanceRate": "0.5778283257455421",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Accenture-Container With Most Water",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Plus One",
+    "frequency": "61.5",
+    "acceptanceRate": "0.475476411109977",
+    "link": "https://leetcode.com/problems/plus-one",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Accenture-Plus One",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "61.5",
+    "acceptanceRate": "0.6035555860093221",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Accenture-Remove Duplicates from Sorted Array",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "61.5",
+    "acceptanceRate": "0.6666090586972462",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Accenture-Valid Anagram",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pascal's Triangle",
+    "frequency": "56.2",
+    "acceptanceRate": "0.7702155451607752",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Pascal's Triangle",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Vowels of a String",
+    "frequency": "56.2",
+    "acceptanceRate": "0.5818743809957564",
+    "link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Accenture-Reverse Vowels of a String",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Assign Cookies",
+    "frequency": "56.2",
+    "acceptanceRate": "0.5387630018736772",
+    "link": "https://leetcode.com/problems/assign-cookies",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Accenture-Assign Cookies",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Nth Digit",
+    "frequency": "56.2",
+    "acceptanceRate": "0.35703508231245346",
+    "link": "https://leetcode.com/problems/nth-digit",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "Accenture-Nth Digit",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "56.2",
+    "acceptanceRate": "0.5230498170963667",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-House Robber",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Peak Index in a Mountain Array",
+    "frequency": "49.4",
+    "acceptanceRate": "0.6756950201420634",
+    "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Accenture-Peak Index in a Mountain Array",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "49.4",
+    "acceptanceRate": "0.4649548699901508",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Accenture-Coin Change",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sort Array by Increasing Frequency",
+    "frequency": "49.4",
+    "acceptanceRate": "0.802688099698792",
+    "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Accenture-Sort Array by Increasing Frequency",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Primes",
+    "frequency": "49.4",
+    "acceptanceRate": "0.347906460282023",
+    "link": "https://leetcode.com/problems/count-primes",
+    "topics": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ],
+    "id": "Accenture-Count Primes",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Max Consecutive Ones",
+    "frequency": "49.4",
+    "acceptanceRate": "0.6248245679658861",
+    "link": "https://leetcode.com/problems/max-consecutive-ones",
+    "topics": [
+      "Array"
+    ],
+    "id": "Accenture-Max Consecutive Ones",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "49.4",
+    "acceptanceRate": "0.46828796326153027",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Accenture-Find First and Last Position of Element in Sorted Array",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "49.4",
+    "acceptanceRate": "0.5878980645167777",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Edit Distance",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Next Greater Element I",
+    "frequency": "49.4",
+    "acceptanceRate": "0.7451247376157817",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Accenture-Next Greater Element I",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Majority Element II",
+    "frequency": "49.4",
+    "acceptanceRate": "0.5438038643985776",
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Accenture-Majority Element II",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "49.4",
+    "acceptanceRate": "0.7920658147104805",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Accenture-Reverse Linked List",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "49.4",
+    "acceptanceRate": "0.7790164128488621",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Accenture-Rotate Image",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Winner of the Circular Game",
+    "frequency": "49.4",
+    "acceptanceRate": "0.8206656341049726",
+    "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Recursion",
+      "Queue",
+      "Simulation"
+    ],
+    "id": "Accenture-Find the Winner of the Circular Game",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Perfect Number",
+    "frequency": "49.4",
+    "acceptanceRate": "0.4489272110098634",
+    "link": "https://leetcode.com/problems/perfect-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Accenture-Perfect Number",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Element",
+    "frequency": "49.4",
+    "acceptanceRate": "0.6003166682334926",
+    "link": "https://leetcode.com/problems/remove-element",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Accenture-Remove Element",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "49.4",
+    "acceptanceRate": "0.49395238677841924",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Accenture-Merge Intervals",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "49.4",
+    "acceptanceRate": "0.5780836795005291",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Longest Increasing Subsequence",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "49.4",
+    "acceptanceRate": "0.5096352873238165",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Accenture-Valid Palindrome",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Candy",
+    "frequency": "49.4",
+    "acceptanceRate": "0.4669985426363719",
+    "link": "https://leetcode.com/problems/candy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Accenture-Candy",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "49.4",
+    "acceptanceRate": "0.6323637027239968",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "Accenture-Contains Duplicate",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "49.4",
+    "acceptanceRate": "0.4497159475497443",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "Accenture-Find the Index of the First Occurrence in a String",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "frequency": "39.9",
+    "acceptanceRate": "0.7545459484913246",
+    "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window",
+      "Counting"
+    ],
+    "id": "Accenture-Substrings of Size Three with Distinct Characters",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "39.9",
+    "acceptanceRate": "0.7092883921583564",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Accenture-Group Anagrams",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted List",
+    "frequency": "39.9",
+    "acceptanceRate": "0.5487083600303359",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Accenture-Remove Duplicates from Sorted List",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sqrt(x)",
+    "frequency": "39.9",
+    "acceptanceRate": "0.4037183318664056",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "Accenture-Sqrt(x)",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "39.9",
+    "acceptanceRate": "0.7713288194751687",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Accenture-Generate Parentheses",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Original Array From Doubled Array",
+    "frequency": "39.9",
+    "acceptanceRate": "0.40480350316876534",
+    "link": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Accenture-Find Original Array From Doubled Array",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Create Hello World Function",
+    "frequency": "39.9",
+    "acceptanceRate": "0.8212977812647828",
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "topics": [],
+    "id": "Accenture-Create Hello World Function",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Unique Binary String",
+    "frequency": "39.9",
+    "acceptanceRate": "0.7936404826036025",
+    "link": "https://leetcode.com/problems/find-unique-binary-string",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Accenture-Find Unique Binary String",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Middle of the Linked List",
+    "frequency": "39.9",
+    "acceptanceRate": "0.805816977306921",
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Accenture-Middle of the Linked List",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "39.9",
+    "acceptanceRate": "0.37023201698953384",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Accenture-Pow(x, n)",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix",
+    "frequency": "39.9",
+    "acceptanceRate": "0.5228964498029818",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "Accenture-Search a 2D Matrix",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "39.9",
+    "acceptanceRate": "0.3494166666314909",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Maximum Product Subarray",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Pairs Whose Sum is Less than Target",
+    "frequency": "39.9",
+    "acceptanceRate": "0.8749486239271467",
+    "link": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Accenture-Count Pairs Whose Sum is Less than Target",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "39.9",
+    "acceptanceRate": "0.4381457870347289",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Accenture-Median of Two Sorted Arrays",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Average Value of Even Numbers That Are Divisible by Three",
+    "frequency": "39.9",
+    "acceptanceRate": "0.6171273472553038",
+    "link": "https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Accenture-Average Value of Even Numbers That Are Divisible by Three",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "39.9",
+    "acceptanceRate": "0.6577289258301743",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Accenture-Unique Paths",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Rising Temperature",
+    "frequency": "39.9",
+    "acceptanceRate": "0.5018285447767862",
+    "link": "https://leetcode.com/problems/rising-temperature",
+    "topics": [
+      "Database"
+    ],
+    "id": "Accenture-Rising Temperature",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Linked Lists",
+    "frequency": "39.9",
+    "acceptanceRate": "0.6112536319835228",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Accenture-Intersection of Two Linked Lists",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sum of Values at Indices With K Set Bits",
+    "frequency": "39.9",
+    "acceptanceRate": "0.8574056118113935",
+    "link": "https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "id": "Accenture-Sum of Values at Indices With K Set Bits",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Subsequence of Length K With the Largest Sum",
+    "frequency": "39.9",
+    "acceptanceRate": "0.45505011774446397",
+    "link": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Accenture-Find Subsequence of Length K With the Largest Sum",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Permutation Difference between Two Strings",
+    "frequency": "39.9",
+    "acceptanceRate": "0.8718108100471845",
+    "link": "https://leetcode.com/problems/permutation-difference-between-two-strings",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Accenture-Permutation Difference between Two Strings",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Min Cost Climbing Stairs",
+    "frequency": "39.9",
+    "acceptanceRate": "0.6719531222257235",
+    "link": "https://leetcode.com/problems/min-cost-climbing-stairs",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Min Cost Climbing Stairs",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Operations to Obtain Zero",
+    "frequency": "39.9",
+    "acceptanceRate": "0.7488952285059014",
+    "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+    "topics": [
+      "Math",
+      "Simulation"
+    ],
+    "id": "Accenture-Count Operations to Obtain Zero",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "39.9",
+    "acceptanceRate": "0.4305775328017951",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Accenture-Next Permutation",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "39.9",
+    "acceptanceRate": "0.716785649066935",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Palindromic Substrings",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "frequency": "39.9",
+    "acceptanceRate": "0.871269383019646",
+    "link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "id": "Accenture-How Many Numbers Are Smaller Than the Current Number",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Single Number II",
+    "frequency": "39.9",
+    "acceptanceRate": "0.6522779397029894",
+    "link": "https://leetcode.com/problems/single-number-ii",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "id": "Accenture-Single Number II",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Is Subsequence",
+    "frequency": "39.9",
+    "acceptanceRate": "0.4838252167520537",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Accenture-Is Subsequence",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Depth of Binary Tree",
+    "frequency": "39.9",
+    "acceptanceRate": "0.7713809909365511",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Accenture-Maximum Depth of Binary Tree",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of Days Between Two Dates",
+    "frequency": "39.9",
+    "acceptanceRate": "0.5135244857670509",
+    "link": "https://leetcode.com/problems/number-of-days-between-two-dates",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "Accenture-Number of Days Between Two Dates",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "39.9",
+    "acceptanceRate": "0.4581138691872612",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "Accenture-Basic Calculator II",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Ugly Number II",
+    "frequency": "39.9",
+    "acceptanceRate": "0.4925492738355708",
+    "link": "https://leetcode.com/problems/ugly-number-ii",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Accenture-Ugly Number II",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Excel Sheet Column Title",
+    "frequency": "39.9",
+    "acceptanceRate": "0.43570325767039314",
+    "link": "https://leetcode.com/problems/excel-sheet-column-title",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "Accenture-Excel Sheet Column Title",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Make The String Great",
+    "frequency": "39.9",
+    "acceptanceRate": "0.6827752983137568",
+    "link": "https://leetcode.com/problems/make-the-string-great",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Accenture-Make The String Great",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Right Shifts to Sort the Array",
+    "frequency": "39.9",
+    "acceptanceRate": "0.5670578736411085",
+    "link": "https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array",
+    "topics": [
+      "Array"
+    ],
+    "id": "Accenture-Minimum Right Shifts to Sort the Array",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Ant on the Boundary",
+    "frequency": "39.9",
+    "acceptanceRate": "0.7373794071215576",
+    "link": "https://leetcode.com/problems/ant-on-the-boundary",
+    "topics": [
+      "Array",
+      "Simulation",
+      "Prefix Sum"
+    ],
+    "id": "Accenture-Ant on the Boundary",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Area of Longest Diagonal Rectangle",
+    "frequency": "39.9",
+    "acceptanceRate": "0.3654547482773711",
+    "link": "https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle",
+    "topics": [
+      "Array"
+    ],
+    "id": "Accenture-Maximum Area of Longest Diagonal Rectangle",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Tested Devices After Test Operations",
+    "frequency": "39.9",
+    "acceptanceRate": "0.7841276445923887",
+    "link": "https://leetcode.com/problems/count-tested-devices-after-test-operations",
+    "topics": [
+      "Array",
+      "Simulation",
+      "Counting"
+    ],
+    "id": "Accenture-Count Tested Devices After Test Operations",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Truncate Sentence",
+    "frequency": "39.9",
+    "acceptanceRate": "0.8606791561237997",
+    "link": "https://leetcode.com/problems/truncate-sentence",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "id": "Accenture-Truncate Sentence",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Search",
+    "frequency": "39.9",
+    "acceptanceRate": "0.5956449173170992",
+    "link": "https://leetcode.com/problems/binary-search",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Accenture-Binary Search",
+    "company": "Accenture",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Palindrome",
+    "frequency": "68.9",
+    "acceptanceRate": "0.40655864915631257",
+    "link": "https://leetcode.com/problems/shortest-palindrome",
+    "topics": [
+      "String",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ],
+    "id": "Accenture-Shortest Palindrome",
+    "company": "Accenture",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "01 Matrix",
+    "frequency": "38.7",
+    "acceptanceRate": "0.514765516483987",
+    "link": "https://leetcode.com/problems/01-matrix",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Accenture-01 Matrix",
+    "company": "Accenture",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "38.7",
+    "acceptanceRate": "0.6861928350336115",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Accenture-Integer to Roman",
+    "company": "Accenture",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Daily Temperatures",
+    "frequency": "38.7",
+    "acceptanceRate": "0.6736502832589849",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Accenture-Daily Temperatures",
+    "company": "Accenture",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "38.7",
+    "acceptanceRate": "0.6797703525274048",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Accenture-Kth Largest Element in an Array",
+    "company": "Accenture",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "38.7",
+    "acceptanceRate": "0.43865090184760885",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "Accenture-Second Highest Salary",
+    "company": "Accenture",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "N-th Tribonacci Number",
+    "frequency": "38.7",
+    "acceptanceRate": "0.635772214126963",
+    "link": "https://leetcode.com/problems/n-th-tribonacci-number",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Accenture-N-th Tribonacci Number",
+    "company": "Accenture",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Department Top Three Salaries",
+    "frequency": "38.7",
+    "acceptanceRate": "0.5777096577549421",
+    "link": "https://leetcode.com/problems/department-top-three-salaries",
+    "topics": [
+      "Database"
+    ],
+    "id": "Accenture-Department Top Three Salaries",
+    "company": "Accenture",
+    "timeframe": "all"
+  }
+]

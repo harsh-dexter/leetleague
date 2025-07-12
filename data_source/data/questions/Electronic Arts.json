@@ -1,0 +1,47 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Wiggle Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4884717077094553",
+    "link": "https://leetcode.com/problems/wiggle-subsequence",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Electronic Arts-Wiggle Subsequence",
+    "company": "Electronic Arts",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Relative Ranks",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7330859773227",
+    "link": "https://leetcode.com/problems/relative-ranks",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Electronic Arts-Relative Ranks",
+    "company": "Electronic Arts",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Is Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4838256140732861",
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Electronic Arts-Is Subsequence",
+    "company": "Electronic Arts",
+    "timeframe": "more_than_180"
+  }
+]

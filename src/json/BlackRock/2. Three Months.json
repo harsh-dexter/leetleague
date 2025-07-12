@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5807274040188486",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Number of Visible Points",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3767605072174815",
+    "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "topics": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "84.6",
+    "acceptanceRate": "0.6314709369068677",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ]
+  }
+]

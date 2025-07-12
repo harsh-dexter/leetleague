@@ -1,0 +1,268 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.651086356034693",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Zopsmart-Trapping Rain Water",
+    "company": "Zopsmart",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "81.6",
+    "acceptanceRate": "0.5192721628620846",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Zopsmart-Reverse Words in a String",
+    "company": "Zopsmart",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "72.7",
+    "acceptanceRate": "0.5161060892506519",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "Zopsmart-Zigzag Conversion",
+    "company": "Zopsmart",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "72.0",
+    "acceptanceRate": "0.3585054411256428",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Zopsmart-Longest Palindromic Substring",
+    "company": "Zopsmart",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "76.2",
+    "acceptanceRate": "0.4535435822395003",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Zopsmart-Minimum Window Substring",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Fraction Addition and Subtraction",
+    "frequency": "72.6",
+    "acceptanceRate": "0.6614505626107133",
+    "link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Zopsmart-Fraction Addition and Subtraction",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove K Digits",
+    "frequency": "68.2",
+    "acceptanceRate": "0.3494500561948273",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "id": "Zopsmart-Remove K Digits",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Bulls and Cows",
+    "frequency": "68.2",
+    "acceptanceRate": "0.5138771783652719",
+    "link": "https://leetcode.com/problems/bulls-and-cows",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Zopsmart-Bulls and Cows",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "54.6",
+    "acceptanceRate": "0.5526329995457592",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Zopsmart-Best Time to Buy and Sell Stock",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "54.6",
+    "acceptanceRate": "0.7093182554988369",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Zopsmart-Group Anagrams",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Nodes in Even Length Groups",
+    "frequency": "54.6",
+    "acceptanceRate": "0.6105335755618355",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Zopsmart-Reverse Nodes in Even Length Groups",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "54.6",
+    "acceptanceRate": "0.3707498172006084",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Zopsmart-3Sum",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "54.6",
+    "acceptanceRate": "0.5778594130677152",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Zopsmart-Container With Most Water",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "54.6",
+    "acceptanceRate": "0.4623055426113341",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Zopsmart-Add Two Numbers",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "54.6",
+    "acceptanceRate": "0.6758906413159929",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Zopsmart-Sort Colors",
+    "company": "Zopsmart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "50.8",
+    "acceptanceRate": "0.6386139867557035",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Zopsmart-Letter Combinations of a Phone Number",
+    "company": "Zopsmart",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "50.8",
+    "acceptanceRate": "0.7921057307459562",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Zopsmart-Reverse Linked List",
+    "company": "Zopsmart",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "50.8",
+    "acceptanceRate": "0.6305056992681838",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Zopsmart-Reverse Nodes in k-Group",
+    "company": "Zopsmart",
+    "timeframe": "all"
+  }
+]

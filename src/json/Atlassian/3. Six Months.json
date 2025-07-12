@@ -1,0 +1,321 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rank Teams by Votes",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5940446839336095",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Stock Price Fluctuation ",
+    "frequency": "96.9",
+    "acceptanceRate": "0.4816387154783381",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "All O`one Data Structure",
+    "frequency": "80.0",
+    "acceptanceRate": "0.44134779761452186",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Snake Game",
+    "frequency": "80.0",
+    "acceptanceRate": "0.3968485567576451",
+    "link": "https://leetcode.com/problems/design-snake-game",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Width of Columns of a Grid",
+    "frequency": "73.6",
+    "acceptanceRate": "0.693232244841104",
+    "link": "https://leetcode.com/problems/find-the-width-of-columns-of-a-grid",
+    "topics": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "69.4",
+    "acceptanceRate": "0.5214164447683243",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "69.4",
+    "acceptanceRate": "0.6675501387816432",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "High-Access Employees",
+    "frequency": "60.5",
+    "acceptanceRate": "0.46126369648115073",
+    "link": "https://leetcode.com/problems/high-access-employees",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "60.5",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "The Time When the Network Becomes Idle",
+    "frequency": "60.5",
+    "acceptanceRate": "0.5372318622762673",
+    "link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Can Place Flowers",
+    "frequency": "56.2",
+    "acceptanceRate": "0.2889923936767658",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Russian Doll Envelopes",
+    "frequency": "56.2",
+    "acceptanceRate": "0.3732991914997274",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Nth Highest Salary",
+    "frequency": "50.8",
+    "acceptanceRate": "0.38039031689086605",
+    "link": "https://leetcode.com/problems/nth-highest-salary",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "50.8",
+    "acceptanceRate": "0.49067280156684456",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "50.8",
+    "acceptanceRate": "0.4939526848741133",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "frequency": "43.1",
+    "acceptanceRate": "0.8246674945153157",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design a Food Rating System",
+    "frequency": "43.1",
+    "acceptanceRate": "0.44917837165941576",
+    "link": "https://leetcode.com/problems/design-a-food-rating-system",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "43.1",
+    "acceptanceRate": "0.5525964790101409",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Add and Search Words Data Structure",
+    "frequency": "43.1",
+    "acceptanceRate": "0.47066560985497075",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "topics": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "43.1",
+    "acceptanceRate": "0.6456596310666731",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "43.1",
+    "acceptanceRate": "0.468287686874522",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Vowel Strings in Ranges",
+    "frequency": "43.1",
+    "acceptanceRate": "0.6786629908928055",
+    "link": "https://leetcode.com/problems/count-vowel-strings-in-ranges",
+    "topics": [
+      "Array",
+      "String",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "43.1",
+    "acceptanceRate": "0.4526695178423744",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Logger Rate Limiter",
+    "frequency": "43.1",
+    "acceptanceRate": "0.766103057053701",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Last Day Where You Can Still Cross",
+    "frequency": "43.1",
+    "acceptanceRate": "0.6231939687413881",
+    "link": "https://leetcode.com/problems/last-day-where-you-can-still-cross",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  }
+]

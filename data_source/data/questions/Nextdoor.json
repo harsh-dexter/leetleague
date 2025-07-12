@@ -1,0 +1,122 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "All O`one Data Structure",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4413480853234703",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Nextdoor-All O`one Data Structure",
+    "company": "Nextdoor",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Compare Version Numbers",
+    "frequency": "76.7",
+    "acceptanceRate": "0.4234723231238846",
+    "link": "https://leetcode.com/problems/compare-version-numbers",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Nextdoor-Compare Version Numbers",
+    "company": "Nextdoor",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "85.3",
+    "acceptanceRate": "0.4939525764689584",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Nextdoor-Merge Intervals",
+    "company": "Nextdoor",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "70.6",
+    "acceptanceRate": "0.6385758739982268",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Nextdoor-Letter Combinations of a Phone Number",
+    "company": "Nextdoor",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "70.6",
+    "acceptanceRate": "0.6510217577539866",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Nextdoor-Trapping Rain Water",
+    "company": "Nextdoor",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Nested List Weight Sum",
+    "frequency": "70.6",
+    "acceptanceRate": "0.8554010438592917",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "id": "Nextdoor-Nested List Weight Sum",
+    "company": "Nextdoor",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Two Integers",
+    "frequency": "70.6",
+    "acceptanceRate": "0.18397006285272335",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "id": "Nextdoor-Divide Two Integers",
+    "company": "Nextdoor",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "70.6",
+    "acceptanceRate": "0.49366433435553103",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Nextdoor-Time Based Key-Value Store",
+    "company": "Nextdoor",
+    "timeframe": "more_than_180"
+  }
+]

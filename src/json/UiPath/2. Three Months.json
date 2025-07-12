@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Satisfiability of Equality Equations",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5101847530677794",
+    "link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+    "topics": [
+      "Array",
+      "String",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Repeating Character Replacement",
+    "frequency": "100.0",
+    "acceptanceRate": "0.572118026869801",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

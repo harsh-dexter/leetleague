@@ -1,0 +1,37 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Count Zero Request Servers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3412006497165777",
+    "link": "https://leetcode.com/problems/count-zero-request-servers",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Distance to the Target Element",
+    "frequency": "89.6",
+    "acceptanceRate": "0.5422827262892175",
+    "link": "https://leetcode.com/problems/minimum-distance-to-the-target-element",
+    "topics": [
+      "Array"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Matrix Sum",
+    "frequency": "89.6",
+    "acceptanceRate": "0.6590661100173162",
+    "link": "https://leetcode.com/problems/maximum-matrix-sum",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  }
+]

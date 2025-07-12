@@ -1,0 +1,40 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4128053161945387",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Twin Sum of a Linked List",
+    "frequency": "77.9",
+    "acceptanceRate": "0.8147472951229525",
+    "link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove K Digits",
+    "frequency": "77.9",
+    "acceptanceRate": "0.34940483856557913",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  }
+]

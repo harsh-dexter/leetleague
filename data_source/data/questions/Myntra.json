@@ -1,0 +1,339 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Deepest Leaves Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8634979671040474",
+    "link": "https://leetcode.com/problems/deepest-leaves-sum",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Myntra-Deepest Leaves Sum",
+    "company": "Myntra",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5778290777243622",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Myntra-Container With Most Water",
+    "company": "Myntra",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Moves to Equal Array Elements II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6095862132467602",
+    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ],
+    "id": "Myntra-Minimum Moves to Equal Array Elements II",
+    "company": "Myntra",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5661860286407837",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Myntra-Rotting Oranges",
+    "company": "Myntra",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4550051349550971",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Myntra-Asteroid Collision",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "91.5",
+    "acceptanceRate": "0.651020475550146",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Myntra-Trapping Rain Water",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "91.5",
+    "acceptanceRate": "0.4737754987945757",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Myntra-Largest Rectangle in Histogram",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "91.5",
+    "acceptanceRate": "0.45214824069755444",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Myntra-LRU Cache",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "91.5",
+    "acceptanceRate": "0.41280498079367123",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Myntra-Largest Number",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Repeated Substring Pattern",
+    "frequency": "91.5",
+    "acceptanceRate": "0.46889762560752873",
+    "link": "https://leetcode.com/problems/repeated-substring-pattern",
+    "topics": [
+      "String",
+      "String Matching"
+    ],
+    "id": "Myntra-Repeated Substring Pattern",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "91.5",
+    "acceptanceRate": "0.37071055104225953",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Myntra-3Sum",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Binary Tree to Linked List",
+    "frequency": "79.5",
+    "acceptanceRate": "0.6851019754160277",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Myntra-Flatten Binary Tree to Linked List",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "79.5",
+    "acceptanceRate": "0.6675507493321811",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Myntra-Lowest Common Ancestor of a Binary Tree",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Wiggle Sort",
+    "frequency": "79.5",
+    "acceptanceRate": "0.6822006472491909",
+    "link": "https://leetcode.com/problems/wiggle-sort",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Myntra-Wiggle Sort",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "79.5",
+    "acceptanceRate": "0.4108465120721653",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Myntra-First Missing Positive",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "79.5",
+    "acceptanceRate": "0.48761223109412016",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Myntra-Maximal Square",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "79.5",
+    "acceptanceRate": "0.5525965062043136",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Myntra-Best Time to Buy and Sell Stock",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Time to Collect All Apples in a Tree",
+    "frequency": "79.5",
+    "acceptanceRate": "0.6297810592427932",
+    "link": "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "id": "Myntra-Minimum Time to Collect All Apples in a Tree",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Earnings From Taxi",
+    "frequency": "79.5",
+    "acceptanceRate": "0.4478158965049748",
+    "link": "https://leetcode.com/problems/maximum-earnings-from-taxi",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Myntra-Maximum Earnings From Taxi",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "79.5",
+    "acceptanceRate": "0.7092889662302778",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Myntra-Group Anagrams",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "79.5",
+    "acceptanceRate": "0.557770083053179",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Myntra-Two Sum",
+    "company": "Myntra",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Target Sum",
+    "frequency": "59.7",
+    "acceptanceRate": "0.5076670630713648",
+    "link": "https://leetcode.com/problems/target-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Myntra-Target Sum",
+    "company": "Myntra",
+    "timeframe": "all"
+  }
+]

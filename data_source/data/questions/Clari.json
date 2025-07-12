@@ -1,0 +1,48 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6244500193762875",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Clari-Unique Binary Search Trees",
+    "company": "Clari",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Create Binary Tree From Descriptions",
+    "frequency": "90.1",
+    "acceptanceRate": "0.8164001540301169",
+    "link": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "Clari-Create Binary Tree From Descriptions",
+    "company": "Clari",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Employees of the Same Salary",
+    "frequency": "90.1",
+    "acceptanceRate": "0.6631807047296024",
+    "link": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "Clari-Group Employees of the Same Salary",
+    "company": "Clari",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Simple Bank System",
+    "frequency": "100.0",
+    "acceptanceRate": "0.61430278408412",
+    "link": "https://leetcode.com/problems/simple-bank-system",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Guess the Word",
+    "frequency": "88.8",
+    "acceptanceRate": "0.37651627943192456",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "topics": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ]
+  }
+]

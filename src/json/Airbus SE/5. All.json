@@ -1,0 +1,58 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find the Number of Good Pairs II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2609128849118322",
+    "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Number of Good Pairs I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8565227850351946",
+    "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Array Changes to Make Differences Equal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.23368243410929668",
+    "link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "65.7",
+    "acceptanceRate": "0.4548726079246024",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "65.7",
+    "acceptanceRate": "0.5578039566314058",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

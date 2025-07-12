@@ -1,0 +1,28 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7868465017725438",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": "72.2",
+    "acceptanceRate": "0.6793870356549373",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  }
+]

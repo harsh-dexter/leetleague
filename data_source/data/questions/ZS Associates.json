@@ -1,0 +1,133 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6778016749535838",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "ZS Associates-Product of Array Except Self",
+    "company": "ZS Associates",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Distribute Candies Among Children II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5613414290884233",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "topics": [
+      "Math",
+      "Combinatorics",
+      "Enumeration"
+    ],
+    "id": "ZS Associates-Distribute Candies Among Children II",
+    "company": "ZS Associates",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Unequal Adjacent Groups Subsequence I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6756708309889311",
+    "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "ZS Associates-Longest Unequal Adjacent Groups Subsequence I",
+    "company": "ZS Associates",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Harmonious Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5731264149524798",
+    "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "ZS Associates-Longest Harmonious Subsequence",
+    "company": "ZS Associates",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest 1-Bordered Square",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5109808899476603",
+    "link": "https://leetcode.com/problems/largest-1-bordered-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "ZS Associates-Largest 1-Bordered Square",
+    "company": "ZS Associates",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Crawler Log Folder",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7160418239109896",
+    "link": "https://leetcode.com/problems/crawler-log-folder",
+    "topics": [
+      "Array",
+      "String",
+      "Stack"
+    ],
+    "id": "ZS Associates-Crawler Log Folder",
+    "company": "ZS Associates",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Managers with at Least 5 Direct Reports",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4893972447138971",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "topics": [
+      "Database"
+    ],
+    "id": "ZS Associates-Managers with at Least 5 Direct Reports",
+    "company": "ZS Associates",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "The Number of Employees Which Report to Each Employee",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5215799545486316",
+    "link": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee",
+    "topics": [
+      "Database"
+    ],
+    "id": "ZS Associates-The Number of Employees Which Report to Each Employee",
+    "company": "ZS Associates",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Nth Highest Salary",
+    "frequency": "88.5",
+    "acceptanceRate": "0.3803889168918484",
+    "link": "https://leetcode.com/problems/nth-highest-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "ZS Associates-Nth Highest Salary",
+    "company": "ZS Associates",
+    "timeframe": "all"
+  }
+]

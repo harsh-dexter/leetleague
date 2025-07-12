@@ -1,0 +1,30 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Make K-Subarray Sums Equal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3661727523960722",
+    "link": "https://leetcode.com/problems/make-k-subarray-sums-equal",
+    "topics": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting",
+      "Number Theory"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Reduce X to Zero",
+    "frequency": "100.0",
+    "acceptanceRate": "0.40063692467140904",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  }
+]

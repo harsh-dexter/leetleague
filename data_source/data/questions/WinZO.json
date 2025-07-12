@@ -1,0 +1,64 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Smallest Range Covering Elements from K Lists",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6974870380867287",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "WinZO-Smallest Range Covering Elements from K Lists",
+    "company": "WinZO",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "83.2",
+    "acceptanceRate": "0.29282683839351215",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "id": "WinZO-Regular Expression Matching",
+    "company": "WinZO",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Domino and Tromino Tiling",
+    "frequency": "83.2",
+    "acceptanceRate": "0.5197644582417179",
+    "link": "https://leetcode.com/problems/domino-and-tromino-tiling",
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "id": "WinZO-Domino and Tromino Tiling",
+    "company": "WinZO",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "IPO",
+    "frequency": "83.2",
+    "acceptanceRate": "0.5301837830703748",
+    "link": "https://leetcode.com/problems/ipo",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "WinZO-IPO",
+    "company": "WinZO",
+    "timeframe": "more_than_180"
+  }
+]

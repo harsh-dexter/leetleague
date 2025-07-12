@@ -1,0 +1,333 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Split Array Largest Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5809965654277032",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ],
+    "id": "Zeta-Split Array Largest Sum",
+    "company": "Zeta",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6510217577539866",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Zeta-Trapping Rain Water",
+    "company": "Zeta",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Univalue Subtrees",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5718044395078012",
+    "link": "https://leetcode.com/problems/count-univalue-subtrees",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Zeta-Count Univalue Subtrees",
+    "company": "Zeta",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5499189723840695",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Zeta-Insert Delete GetRandom O(1)",
+    "company": "Zeta",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5441725885769202",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Zeta-Maximum Profit in Job Scheduling",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6153929493806579",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "Zeta-Task Scheduler",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6314709369068677",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ],
+    "id": "Zeta-Evaluate Division",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "IPO",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5301971990666143",
+    "link": "https://leetcode.com/problems/ipo",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Zeta-IPO",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Greater Element II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6630261266286627",
+    "link": "https://leetcode.com/problems/next-greater-element-ii",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Zeta-Next Greater Element II",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "frequency": "87.1",
+    "acceptanceRate": "0.3577140509982381",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Zeta-Insert Delete GetRandom O(1) - Duplicates allowed",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find a Peak Element II",
+    "frequency": "87.1",
+    "acceptanceRate": "0.5319526829811091",
+    "link": "https://leetcode.com/problems/find-a-peak-element-ii",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "Zeta-Find a Peak Element II",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interleaving String",
+    "frequency": "87.1",
+    "acceptanceRate": "0.4217918336772443",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Zeta-Interleaving String",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "frequency": "87.1",
+    "acceptanceRate": "0.6194290206869442",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Counting"
+    ],
+    "id": "Zeta-Minimum Operations to Write the Letter Y on a Grid",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Apply Operations to Make Two Strings Equal",
+    "frequency": "87.1",
+    "acceptanceRate": "0.2718017671917019",
+    "link": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Zeta-Apply Operations to Make Two Strings Equal",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "87.1",
+    "acceptanceRate": "0.6232010872434103",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Zeta-Number of Islands",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "87.1",
+    "acceptanceRate": "0.6304371463092185",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Zeta-Reverse Nodes in k-Group",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "87.1",
+    "acceptanceRate": "0.3693615643032219",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Zeta-Longest Substring Without Repeating Characters",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Substring with Concatenation of All Words",
+    "frequency": "87.1",
+    "acceptanceRate": "0.32997482811609835",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Zeta-Substring with Concatenation of All Words",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Capacity To Ship Packages Within D Days",
+    "frequency": "87.1",
+    "acceptanceRate": "0.7211805149375666",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Zeta-Capacity To Ship Packages Within D Days",
+    "company": "Zeta",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "60.8",
+    "acceptanceRate": "0.36313118342494255",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "id": "Zeta-Longest Valid Parentheses",
+    "company": "Zeta",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "60.8",
+    "acceptanceRate": "0.45350639122780817",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Zeta-Minimum Window Substring",
+    "company": "Zeta",
+    "timeframe": "all"
+  }
+]

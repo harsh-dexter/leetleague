@@ -1,0 +1,99 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+    "frequency": "100.0",
+    "acceptanceRate": "0.19840734242137936",
+    "link": "https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Segment Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Manhattan Distances of All Arrangements of Pieces",
+    "frequency": "100.0",
+    "acceptanceRate": "0.32989793876325796",
+    "link": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces",
+    "topics": [
+      "Math",
+      "Combinatorics"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find X Value of Array II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.27419939577039276",
+    "link": "https://leetcode.com/problems/find-x-value-of-array-ii",
+    "topics": [
+      "Array",
+      "Math",
+      "Segment Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find X Value of Array I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3315965471654094",
+    "link": "https://leetcode.com/problems/find-x-value-of-array-i",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snapshot Array",
+    "frequency": "63.4",
+    "acceptanceRate": "0.3666532076028315",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Memory Allocator",
+    "frequency": "63.4",
+    "acceptanceRate": "0.484441262323071",
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Web Crawler",
+    "frequency": "63.4",
+    "acceptanceRate": "0.6876521792062333",
+    "link": "https://leetcode.com/problems/web-crawler",
+    "topics": [
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Interactive"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "63.4",
+    "acceptanceRate": "0.43057779910352356",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  }
+]

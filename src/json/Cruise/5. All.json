@@ -1,0 +1,78 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Synonymous Sentences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5657701813916468",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Union Find"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "74.0",
+    "acceptanceRate": "0.4939525764689584",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths II",
+    "frequency": "74.0",
+    "acceptanceRate": "0.4315430597653034",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Unique Paths III",
+    "frequency": "74.0",
+    "acceptanceRate": "0.8233339994005395",
+    "link": "https://leetcode.com/problems/unique-paths-iii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "65.3",
+    "acceptanceRate": "0.4521489022918771",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "65.3",
+    "acceptanceRate": "0.49234450897866516",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  }
+]

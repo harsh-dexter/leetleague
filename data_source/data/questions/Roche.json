@@ -1,0 +1,29 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4548730938950001",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Roche-Longest Common Prefix",
+    "company": "Roche",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5922738985051591",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Roche-Palindrome Number",
+    "company": "Roche",
+    "timeframe": "more_than_180"
+  }
+]

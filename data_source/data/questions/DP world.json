@@ -1,0 +1,109 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Set Intersection Size At Least Two",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4525535198979934",
+    "link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "DP world-Set Intersection Size At Least Two",
+    "company": "DP world",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "89.2",
+    "acceptanceRate": "0.4718247023878054",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "DP world-Binary Tree Cameras",
+    "company": "DP world",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Zero Request Servers",
+    "frequency": "100.0",
+    "acceptanceRate": "0.34117803042858563",
+    "link": "https://leetcode.com/problems/count-zero-request-servers",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting"
+    ],
+    "id": "DP world-Count Zero Request Servers",
+    "company": "DP world",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "88.4",
+    "acceptanceRate": "0.5661883552589942",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "DP world-Rotting Oranges",
+    "company": "DP world",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "All Nodes Distance K in Binary Tree",
+    "frequency": "88.4",
+    "acceptanceRate": "0.6644239674066067",
+    "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "DP world-All Nodes Distance K in Binary Tree",
+    "company": "DP world",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "88.4",
+    "acceptanceRate": "0.42837447824959846",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "DP world-Search in Rotated Sorted Array",
+    "company": "DP world",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Capacity To Ship Packages Within D Days",
+    "frequency": "87.6",
+    "acceptanceRate": "0.7211801035200593",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "DP world-Capacity To Ship Packages Within D Days",
+    "company": "DP world",
+    "timeframe": "all"
+  }
+]

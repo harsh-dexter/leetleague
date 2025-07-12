@@ -1,0 +1,33 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6115583433240551",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Hertz-Decode String",
+    "company": "Hertz",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Brightest Position on Street",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6059444605148974",
+    "link": "https://leetcode.com/problems/brightest-position-on-street",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ],
+    "id": "Hertz-Brightest Position on Street",
+    "company": "Hertz",
+    "timeframe": "more_than_180"
+  }
+]

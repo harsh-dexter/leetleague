@@ -1,0 +1,1724 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6364613847469199",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "IBM-Find the Smallest Divisor Given a Threshold",
+    "company": "IBM",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gray Code",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6187231456205623",
+    "link": "https://leetcode.com/problems/gray-code",
+    "topics": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "IBM-Gray Code",
+    "company": "IBM",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3707096536037866",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "IBM-3Sum",
+    "company": "IBM",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7790165261990751",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "IBM-Rotate Image",
+    "company": "IBM",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Ways to Group Overlapping Ranges",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3810753087566162",
+    "link": "https://leetcode.com/problems/count-ways-to-group-overlapping-ranges",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "IBM-Count Ways to Group Overlapping Ranges",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Operations to Make Columns Strictly Increasing",
+    "frequency": "92.3",
+    "acceptanceRate": "0.7199251842887007",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ],
+    "id": "IBM-Minimum Operations to Make Columns Strictly Increasing",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Vowel Strings in Ranges",
+    "frequency": "87.2",
+    "acceptanceRate": "0.6786629908928055",
+    "link": "https://leetcode.com/problems/count-vowel-strings-in-ranges",
+    "topics": [
+      "Array",
+      "String",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Count Vowel Strings in Ranges",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "84.1",
+    "acceptanceRate": "0.49395268302674544",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "IBM-Merge Intervals",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Pivot Index",
+    "frequency": "80.6",
+    "acceptanceRate": "0.6057029910807422",
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Find Pivot Index",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Height Checker",
+    "frequency": "71.3",
+    "acceptanceRate": "0.8113928378391797",
+    "link": "https://leetcode.com/problems/height-checker",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "id": "IBM-Height Checker",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "71.3",
+    "acceptanceRate": "0.6861927118001762",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "IBM-Integer to Roman",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "71.3",
+    "acceptanceRate": "0.4704083978489664",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "IBM-Longest Consecutive Sequence",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Largest Number After Digit Swaps by Parity",
+    "frequency": "71.3",
+    "acceptanceRate": "0.637345576330206",
+    "link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity",
+    "topics": [
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "IBM-Largest Number After Digit Swaps by Parity",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "frequency": "64.7",
+    "acceptanceRate": "0.6026879026047842",
+    "link": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Sorting"
+    ],
+    "id": "IBM-Make Lexicographically Smallest Array by Swapping Elements",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "64.7",
+    "acceptanceRate": "0.3693617467707291",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "IBM-Longest Substring Without Repeating Characters",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "64.7",
+    "acceptanceRate": "0.7092882545499255",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "IBM-Group Anagrams",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Strings Alternately",
+    "frequency": "64.7",
+    "acceptanceRate": "0.822296353731916",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "IBM-Merge Strings Alternately",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "64.7",
+    "acceptanceRate": "0.5525963643174824",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "IBM-Best Time to Buy and Sell Stock",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fizz Buzz",
+    "frequency": "64.7",
+    "acceptanceRate": "0.7437057263879774",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "IBM-Fizz Buzz",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Swaps to Group All 1's Together II",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6551706619353931",
+    "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ],
+    "id": "IBM-Minimum Swaps to Group All 1's Together II",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "55.4",
+    "acceptanceRate": "0.5209978093350673",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "IBM-Maximum Subarray",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "55.4",
+    "acceptanceRate": "0.5577699653967975",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "IBM-Two Sum",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Mountain in Array",
+    "frequency": "55.4",
+    "acceptanceRate": "0.4107832017720806",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ],
+    "id": "IBM-Longest Mountain in Array",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Kth Missing Positive Number",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6228370296548049",
+    "link": "https://leetcode.com/problems/kth-missing-positive-number",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "IBM-Kth Missing Positive Number",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "55.4",
+    "acceptanceRate": "0.3584610347381002",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "IBM-Longest Palindromic Substring",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6486629287856299",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "IBM-Roman to Integer",
+    "company": "IBM",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Exclusive Time of Functions",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6479177009848633",
+    "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "topics": [
+      "Array",
+      "Stack"
+    ],
+    "id": "IBM-Exclusive Time of Functions",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Absolute Difference",
+    "frequency": "82.3",
+    "acceptanceRate": "0.7065237783248814",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "IBM-Minimum Absolute Difference",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Make All Array Elements Equal",
+    "frequency": "82.3",
+    "acceptanceRate": "0.36920312089068114",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Minimum Operations to Make All Array Elements Equal",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "82.3",
+    "acceptanceRate": "0.5214162081616772",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Meeting Rooms II",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "The kth Factor of n",
+    "frequency": "73.2",
+    "acceptanceRate": "0.6957668800559188",
+    "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+    "topics": [
+      "Math",
+      "Number Theory"
+    ],
+    "id": "IBM-The kth Factor of n",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count the Number of Incremovable Subarrays II",
+    "frequency": "73.2",
+    "acceptanceRate": "0.3898850394318673",
+    "link": "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "id": "IBM-Count the Number of Incremovable Subarrays II",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Units on a Truck",
+    "frequency": "70.8",
+    "acceptanceRate": "0.7425030722517598",
+    "link": "https://leetcode.com/problems/maximum-units-on-a-truck",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "IBM-Maximum Units on a Truck",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "70.8",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "IBM-String Compression",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "68.2",
+    "acceptanceRate": "0.454830739997595",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "IBM-Longest Common Prefix",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "68.2",
+    "acceptanceRate": "0.42322837860550094",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "IBM-Valid Parentheses",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Get Equal Substrings Within Budget",
+    "frequency": "68.2",
+    "acceptanceRate": "0.5895138424805517",
+    "link": "https://leetcode.com/problems/get-equal-substrings-within-budget",
+    "topics": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Get Equal Substrings Within Budget",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "65.2",
+    "acceptanceRate": "0.6385754372876457",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "IBM-Letter Combinations of a Phone Number",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Numbers With Repeated Digits",
+    "frequency": "65.2",
+    "acceptanceRate": "0.4346119124099851",
+    "link": "https://leetcode.com/problems/numbers-with-repeated-digits",
+    "topics": [
+      "Math",
+      "Dynamic Programming"
+    ],
+    "id": "IBM-Numbers With Repeated Digits",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Divisible Triplet Sums",
+    "frequency": "65.2",
+    "acceptanceRate": "0.6780637725701113",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "IBM-Number of Divisible Triplet Sums",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Binary Substrings",
+    "frequency": "65.2",
+    "acceptanceRate": "0.659166376012681",
+    "link": "https://leetcode.com/problems/count-binary-substrings",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "IBM-Count Binary Substrings",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Sum of Distinct Subarrays With Length K",
+    "frequency": "65.2",
+    "acceptanceRate": "0.4263309346710954",
+    "link": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "id": "IBM-Maximum Sum of Distinct Subarrays With Length K",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Suffix Flips",
+    "frequency": "65.2",
+    "acceptanceRate": "0.7348245888613324",
+    "link": "https://leetcode.com/problems/minimum-suffix-flips",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "IBM-Minimum Suffix Flips",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "61.7",
+    "acceptanceRate": "0.5291952521829845",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "IBM-Merge Sorted Array",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lexicographically Smallest String After Substring Operation",
+    "frequency": "61.7",
+    "acceptanceRate": "0.32344554536689435",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "IBM-Lexicographically Smallest String After Substring Operation",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "frequency": "57.7",
+    "acceptanceRate": "0.3966286564204264",
+    "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string",
+    "topics": [
+      "String",
+      "Sliding Window"
+    ],
+    "id": "IBM-Shortest and Lexicographically Smallest Beautiful String",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "57.7",
+    "acceptanceRate": "0.5393976057408939",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "IBM-Spiral Matrix",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Divisible Substrings",
+    "frequency": "57.7",
+    "acceptanceRate": "0.734086999262718",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Number of Divisible Substrings",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Pairs Of Similar Strings",
+    "frequency": "57.7",
+    "acceptanceRate": "0.7248677862312117",
+    "link": "https://leetcode.com/problems/count-pairs-of-similar-strings",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Counting"
+    ],
+    "id": "IBM-Count Pairs Of Similar Strings",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Players Into Teams of Equal Skill",
+    "frequency": "52.7",
+    "acceptanceRate": "0.6892726777444839",
+    "link": "https://leetcode.com/problems/divide-players-into-teams-of-equal-skill",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "IBM-Divide Players Into Teams of Equal Skill",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate Binary Search Tree",
+    "frequency": "52.7",
+    "acceptanceRate": "0.3438039944751672",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "IBM-Validate Binary Search Tree",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Make Median of Array Equal to K",
+    "frequency": "52.7",
+    "acceptanceRate": "0.46687902338147486",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "IBM-Minimum Operations to Make Median of Array Equal to K",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Smallest Missing Non-negative Integer After Operations",
+    "frequency": "52.7",
+    "acceptanceRate": "0.3987738925814309",
+    "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ],
+    "id": "IBM-Smallest Missing Non-negative Integer After Operations",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Intervals Into Minimum Number of Groups",
+    "frequency": "52.7",
+    "acceptanceRate": "0.6365584755914945",
+    "link": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Divide Intervals Into Minimum Number of Groups",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Product Less Than K",
+    "frequency": "52.7",
+    "acceptanceRate": "0.5285345535980827",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Subarray Product Less Than K",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "46.3",
+    "acceptanceRate": "0.6510194684590559",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "IBM-Trapping Rain Water",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "46.3",
+    "acceptanceRate": "0.6777996916838567",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Product of Array Except Self",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Flipping an Image",
+    "frequency": "46.3",
+    "acceptanceRate": "0.8295545731388213",
+    "link": "https://leetcode.com/problems/flipping-an-image",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Bit Manipulation",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "IBM-Flipping an Image",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "46.3",
+    "acceptanceRate": "0.4305775328017951",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "IBM-Next Permutation",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "46.3",
+    "acceptanceRate": "0.4497159674475679",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "IBM-Find the Index of the First Occurrence in a String",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Backspace String Compare",
+    "frequency": "46.3",
+    "acceptanceRate": "0.49481723692271534",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "IBM-Backspace String Compare",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "46.3",
+    "acceptanceRate": "0.535407157402988",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "IBM-Climbing Stairs",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Activity Participants",
+    "frequency": "46.3",
+    "acceptanceRate": "0.7229791494362948",
+    "link": "https://leetcode.com/problems/activity-participants",
+    "topics": [
+      "Database"
+    ],
+    "id": "IBM-Activity Participants",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Operations to Make Network Connected",
+    "frequency": "46.3",
+    "acceptanceRate": "0.6466492016136093",
+    "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "IBM-Number of Operations to Make Network Connected",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Profitable Triplets With Increasing Prices I",
+    "frequency": "46.3",
+    "acceptanceRate": "0.5452064141931081",
+    "link": "https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i",
+    "topics": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "IBM-Maximum Profitable Triplets With Increasing Prices I",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "46.3",
+    "acceptanceRate": "0.5780836795005291",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "IBM-Longest Increasing Subsequence",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "46.3",
+    "acceptanceRate": "0.45476208343007196",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Subarray Sum Equals K",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Arrays",
+    "frequency": "46.3",
+    "acceptanceRate": "0.7647431845238689",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "IBM-Intersection of Two Arrays",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "46.3",
+    "acceptanceRate": "0.4302138037383672",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "IBM-Rotate Array",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flip String to Monotone Increasing",
+    "frequency": "46.3",
+    "acceptanceRate": "0.6159572969522228",
+    "link": "https://leetcode.com/problems/flip-string-to-monotone-increasing",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "IBM-Flip String to Monotone Increasing",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Single-Threaded CPU",
+    "frequency": "46.3",
+    "acceptanceRate": "0.4648191183347267",
+    "link": "https://leetcode.com/problems/single-threaded-cpu",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "IBM-Single-Threaded CPU",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "46.3",
+    "acceptanceRate": "0.43814592308826145",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "IBM-Median of Two Sorted Arrays",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find The Original Array of Prefix Xor",
+    "frequency": "46.3",
+    "acceptanceRate": "0.8810500495257456",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "id": "IBM-Find The Original Array of Prefix Xor",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "37.4",
+    "acceptanceRate": "0.8087958103111588",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "IBM-Subsets",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "37.4",
+    "acceptanceRate": "0.30308935884394245",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "IBM-Reverse Integer",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Number of Teams",
+    "frequency": "37.4",
+    "acceptanceRate": "0.7010096636659391",
+    "link": "https://leetcode.com/problems/count-number-of-teams",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "IBM-Count Number of Teams",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Flips to Make the Binary String Alternating",
+    "frequency": "37.4",
+    "acceptanceRate": "0.4050971932716079",
+    "link": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Sliding Window"
+    ],
+    "id": "IBM-Minimum Number of Flips to Make the Binary String Alternating",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find All Possible Stable Binary Arrays II",
+    "frequency": "37.4",
+    "acceptanceRate": "0.2591881513987932",
+    "link": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii",
+    "topics": [
+      "Dynamic Programming",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Find All Possible Stable Binary Arrays II",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "37.4",
+    "acceptanceRate": "0.5264826307240257",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "IBM-Find Minimum in Rotated Sorted Array",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rearrange Array to Maximize Prefix Score",
+    "frequency": "37.4",
+    "acceptanceRate": "0.41547137866485434",
+    "link": "https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Rearrange Array to Maximize Prefix Score",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "37.4",
+    "acceptanceRate": "0.7713286717803378",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "IBM-Generate Parentheses",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "37.4",
+    "acceptanceRate": "0.46383640179529256",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "IBM-Gas Station",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "37.4",
+    "acceptanceRate": "0.5922454050733309",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "IBM-Palindrome Number",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Least Number of Unique Integers after K Removals",
+    "frequency": "37.4",
+    "acceptanceRate": "0.6341766250570863",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "IBM-Least Number of Unique Integers after K Removals",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "37.4",
+    "acceptanceRate": "0.5807264413215366",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "IBM-Happy Number",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "37.4",
+    "acceptanceRate": "0.6035553015180097",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "IBM-Remove Duplicates from Sorted Array",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Range Product Queries of Powers",
+    "frequency": "37.4",
+    "acceptanceRate": "0.41906952851048623",
+    "link": "https://leetcode.com/problems/range-product-queries-of-powers",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Range Product Queries of Powers",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Prime In Diagonal",
+    "frequency": "37.4",
+    "acceptanceRate": "0.3620654816211814",
+    "link": "https://leetcode.com/problems/prime-in-diagonal",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix",
+      "Number Theory"
+    ],
+    "id": "IBM-Prime In Diagonal",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "37.4",
+    "acceptanceRate": "0.4827375533449676",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "IBM-Word Break",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Degree of an Array",
+    "frequency": "37.4",
+    "acceptanceRate": "0.5742057825337067",
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "IBM-Degree of an Array",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "132 Pattern",
+    "frequency": "37.4",
+    "acceptanceRate": "0.3405666874402953",
+    "link": "https://leetcode.com/problems/132-pattern",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack",
+      "Ordered Set"
+    ],
+    "id": "IBM-132 Pattern",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition Equal Subset Sum",
+    "frequency": "37.4",
+    "acceptanceRate": "0.4844385484671133",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "IBM-Partition Equal Subset Sum",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "frequency": "37.4",
+    "acceptanceRate": "0.5730954555475073",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "topics": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation"
+    ],
+    "id": "IBM-Minimum Operations to Reduce an Integer to 0",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Increasing Triplet Subsequence",
+    "frequency": "37.4",
+    "acceptanceRate": "0.3912499292176056",
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "IBM-Increasing Triplet Subsequence",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Longest Calls",
+    "frequency": "37.4",
+    "acceptanceRate": "0.6278218425869433",
+    "link": "https://leetcode.com/problems/find-longest-calls",
+    "topics": [
+      "Database"
+    ],
+    "id": "IBM-Find Longest Calls",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Duplicate Number",
+    "frequency": "37.4",
+    "acceptanceRate": "0.6283575565828284",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ],
+    "id": "IBM-Find the Duplicate Number",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "The Employee That Worked on the Longest Task",
+    "frequency": "37.4",
+    "acceptanceRate": "0.5059108514906449",
+    "link": "https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task",
+    "topics": [
+      "Array"
+    ],
+    "id": "IBM-The Employee That Worked on the Longest Task",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "37.4",
+    "acceptanceRate": "0.4521459943233472",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "IBM-LRU Cache",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "37.4",
+    "acceptanceRate": "0.6574029056733057",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "IBM-Majority Element",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profitable Triplets With Increasing Prices II",
+    "frequency": "37.4",
+    "acceptanceRate": "0.433264887063655",
+    "link": "https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii",
+    "topics": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "IBM-Maximum Profitable Triplets With Increasing Prices II",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort the Students by Their Kth Score",
+    "frequency": "37.4",
+    "acceptanceRate": "0.8563725976646489",
+    "link": "https://leetcode.com/problems/sort-the-students-by-their-kth-score",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Matrix"
+    ],
+    "id": "IBM-Sort the Students by Their Kth Score",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Array Concatenation Value",
+    "frequency": "37.4",
+    "acceptanceRate": "0.7103725089782409",
+    "link": "https://leetcode.com/problems/find-the-array-concatenation-value",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Simulation"
+    ],
+    "id": "IBM-Find the Array Concatenation Value",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Average Value of Even Numbers That Are Divisible by Three",
+    "frequency": "37.4",
+    "acceptanceRate": "0.6171273472553038",
+    "link": "https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "IBM-Average Value of Even Numbers That Are Divisible by Three",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Levels to Gain More Points",
+    "frequency": "37.4",
+    "acceptanceRate": "0.3911266875166984",
+    "link": "https://leetcode.com/problems/minimum-levels-to-gain-more-points",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Minimum Levels to Gain More Points",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Products of Elements of Big Array",
+    "frequency": "37.4",
+    "acceptanceRate": "0.21790053317017744",
+    "link": "https://leetcode.com/problems/find-products-of-elements-of-big-array",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation"
+    ],
+    "id": "IBM-Find Products of Elements of Big Array",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find The First Player to win K Games in a Row",
+    "frequency": "37.4",
+    "acceptanceRate": "0.3941278227126092",
+    "link": "https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "IBM-Find The First Player to win K Games in a Row",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "37.4",
+    "acceptanceRate": "0.615391540870786",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "IBM-Task Scheduler",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Type of Triangle",
+    "frequency": "37.4",
+    "acceptanceRate": "0.44794728404015727",
+    "link": "https://leetcode.com/problems/type-of-triangle",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ],
+    "id": "IBM-Type of Triangle",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Occurrences of an Element in an Array",
+    "frequency": "37.4",
+    "acceptanceRate": "0.725564552476571",
+    "link": "https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "IBM-Find Occurrences of an Element in an Array",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Length of String After Operations",
+    "frequency": "37.4",
+    "acceptanceRate": "0.7491674510951677",
+    "link": "https://leetcode.com/problems/minimum-length-of-string-after-operations",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "IBM-Minimum Length of String After Operations",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Taking Maximum Energy From the Mystic Dungeon",
+    "frequency": "37.4",
+    "acceptanceRate": "0.41133515679664145",
+    "link": "https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "IBM-Taking Maximum Energy From the Mystic Dungeon",
+    "company": "IBM",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Odd String Difference",
+    "frequency": "44.1",
+    "acceptanceRate": "0.6106046482233423",
+    "link": "https://leetcode.com/problems/odd-string-difference",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "IBM-Odd String Difference",
+    "company": "IBM",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens",
+    "frequency": "35.0",
+    "acceptanceRate": "0.728170759147081",
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "IBM-N-Queens",
+    "company": "IBM",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Removing Stars From a String",
+    "frequency": "35.0",
+    "acceptanceRate": "0.779700381986175",
+    "link": "https://leetcode.com/problems/removing-stars-from-a-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "IBM-Removing Stars From a String",
+    "company": "IBM",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Number of Tasks You Can Assign",
+    "frequency": "35.0",
+    "acceptanceRate": "0.506049588007545",
+    "link": "https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Queue",
+      "Sorting",
+      "Monotonic Queue"
+    ],
+    "id": "IBM-Maximum Number of Tasks You Can Assign",
+    "company": "IBM",
+    "timeframe": "all"
+  }
+]

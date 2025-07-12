@@ -1,0 +1,308 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "frequency": "100.0",
+    "acceptanceRate": "0.21752726600529915",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ],
+    "id": "Arcesium-Partition Array Into Two Arrays to Minimize Sum Difference",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "87.8",
+    "acceptanceRate": "0.5230512577734159",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Arcesium-House Robber",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "82.0",
+    "acceptanceRate": "0.42837370095029104",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Arcesium-Search in Rotated Sorted Array",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Stone Game VI",
+    "frequency": "82.0",
+    "acceptanceRate": "0.5906614232919549",
+    "link": "https://leetcode.com/problems/stone-game-vi",
+    "topics": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Game Theory"
+    ],
+    "id": "Arcesium-Stone Game VI",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Possible Bipartition",
+    "frequency": "82.0",
+    "acceptanceRate": "0.5150784103207557",
+    "link": "https://leetcode.com/problems/possible-bipartition",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "Arcesium-Possible Bipartition",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "74.6",
+    "acceptanceRate": "0.4305779906185842",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Arcesium-Next Permutation",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Cycle Length Queries in a Tree",
+    "frequency": "74.6",
+    "acceptanceRate": "0.5834553702182377",
+    "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+    "topics": [
+      "Array",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "Arcesium-Cycle Length Queries in a Tree",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": "74.6",
+    "acceptanceRate": "0.4122432508651943",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Arcesium-Binary Tree Maximum Path Sum",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find the Count of Monotonic Pairs I",
+    "frequency": "74.6",
+    "acceptanceRate": "0.4642378517893483",
+    "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics",
+      "Prefix Sum"
+    ],
+    "id": "Arcesium-Find the Count of Monotonic Pairs I",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Length of Subarray With Positive Product",
+    "frequency": "74.6",
+    "acceptanceRate": "0.44394128272317906",
+    "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Arcesium-Maximum Length of Subarray With Positive Product",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Surrounded Regions",
+    "frequency": "64.1",
+    "acceptanceRate": "0.4288642186165671",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Arcesium-Surrounded Regions",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "64.1",
+    "acceptanceRate": "0.3494174827564301",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Arcesium-Maximum Product Subarray",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "64.1",
+    "acceptanceRate": "0.5878986584785902",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Arcesium-Edit Distance",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of People Aware of a Secret",
+    "frequency": "64.1",
+    "acceptanceRate": "0.46368623597805614",
+    "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+    "topics": [
+      "Dynamic Programming",
+      "Queue",
+      "Simulation"
+    ],
+    "id": "Arcesium-Number of People Aware of a Secret",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximize the Confusion of an Exam",
+    "frequency": "64.1",
+    "acceptanceRate": "0.6861245004961151",
+    "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+    "topics": [
+      "String",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Arcesium-Maximize the Confusion of an Exam",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Collisions on a Road",
+    "frequency": "64.1",
+    "acceptanceRate": "0.4437803705532313",
+    "link": "https://leetcode.com/problems/count-collisions-on-a-road",
+    "topics": [
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Arcesium-Count Collisions on a Road",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "frequency": "64.1",
+    "acceptanceRate": "0.7242938226969341",
+    "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Arcesium-Minimum Insertion Steps to Make a String Palindrome",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "frequency": "64.1",
+    "acceptanceRate": "0.47086330935251797",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Arcesium-Best Time to Buy and Sell Stock IV",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "64.1",
+    "acceptanceRate": "0.6758312389131401",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Arcesium-Sort Colors",
+    "company": "Arcesium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "57.8",
+    "acceptanceRate": "0.3702322082141181",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Arcesium-Pow(x, n)",
+    "company": "Arcesium",
+    "timeframe": "all"
+  }
+]

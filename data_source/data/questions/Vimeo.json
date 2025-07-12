@@ -1,0 +1,92 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "100.0",
+    "acceptanceRate": "0.564452572352176",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Vimeo-Min Stack",
+    "company": "Vimeo",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Pairs With XOR in a Range",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45744370916052773",
+    "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Trie"
+    ],
+    "id": "Vimeo-Count Pairs With XOR in a Range",
+    "company": "Vimeo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flower Planting With No Adjacent",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5237790114146059",
+    "link": "https://leetcode.com/problems/flower-planting-with-no-adjacent",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Vimeo-Flower Planting With No Adjacent",
+    "company": "Vimeo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "66.4",
+    "acceptanceRate": "0.5209994418742664",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Vimeo-Maximum Subarray",
+    "company": "Vimeo",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "66.4",
+    "acceptanceRate": "0.3707128174190882",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Vimeo-3Sum",
+    "company": "Vimeo",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "66.4",
+    "acceptanceRate": "0.45215170528267107",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Vimeo-LRU Cache",
+    "company": "Vimeo",
+    "timeframe": "all"
+  }
+]

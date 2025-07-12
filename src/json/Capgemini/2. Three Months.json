@@ -1,0 +1,24 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Degree of a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8705975043652314",
+    "link": "https://leetcode.com/problems/reverse-degree-of-a-string",
+    "topics": [
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "75.4",
+    "acceptanceRate": "0.5577700897656149",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  }
+]

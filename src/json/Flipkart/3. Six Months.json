@@ -1,0 +1,130 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Transform Array to All Equal Elements",
+    "frequency": "100.0",
+    "acceptanceRate": "0.315568937398068",
+    "link": "https://leetcode.com/problems/transform-array-to-all-equal-elements",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "71.5",
+    "acceptanceRate": "0.4638362080309398",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Ways to Split Array Into Good Subarrays",
+    "frequency": "61.9",
+    "acceptanceRate": "0.33879618188977445",
+    "link": "https://leetcode.com/problems/ways-to-split-array-into-good-subarrays",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "61.9",
+    "acceptanceRate": "0.4906724085014297",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "61.9",
+    "acceptanceRate": "0.5878980645167777",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum Closest",
+    "frequency": "61.9",
+    "acceptanceRate": "0.46886932749523547",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "61.9",
+    "acceptanceRate": "0.5577700301156799",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "61.9",
+    "acceptanceRate": "0.5342350029047974",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum of Subarray Minimums",
+    "frequency": "61.9",
+    "acceptanceRate": "0.3762351166424223",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Magnetic Force Between Two Balls",
+    "frequency": "61.9",
+    "acceptanceRate": "0.7134574135311467",
+    "link": "https://leetcode.com/problems/magnetic-force-between-two-balls",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Capacity To Ship Packages Within D Days",
+    "frequency": "61.9",
+    "acceptanceRate": "0.721177358490566",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

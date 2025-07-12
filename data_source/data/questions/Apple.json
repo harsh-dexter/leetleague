@@ -1,0 +1,2581 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45214558519032444",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Apple-LRU Cache",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "92.9",
+    "acceptanceRate": "0.5525965778870825",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Best Time to Buy and Sell Stock",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "88.4",
+    "acceptanceRate": "0.6456596824026228",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Apple-Top K Frequent Elements",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "82.9",
+    "acceptanceRate": "0.6950025067480458",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Apple-Best Time to Buy and Sell Stock II",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "75.9",
+    "acceptanceRate": "0.4548305595040032",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Apple-Longest Common Prefix",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "65.9",
+    "acceptanceRate": "0.520997876367211",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Maximum Subarray",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock III",
+    "frequency": "65.9",
+    "acceptanceRate": "0.5112087693447603",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Best Time to Buy and Sell Stock III",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "65.9",
+    "acceptanceRate": "0.6797700833982673",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Apple-Kth Largest Element in an Array",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "65.9",
+    "acceptanceRate": "0.567741907864408",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Apple-Merge k Sorted Lists",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "65.9",
+    "acceptanceRate": "0.623199409488447",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Apple-Number of Islands",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "65.9",
+    "acceptanceRate": "0.7790164518819447",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Apple-Rotate Image",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "frequency": "65.9",
+    "acceptanceRate": "0.47086154391046825",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Best Time to Buy and Sell Stock IV",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "65.9",
+    "acceptanceRate": "0.4939527547797844",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Apple-Merge Intervals",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "65.9",
+    "acceptanceRate": "0.4232282567926559",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Apple-Valid Parentheses",
+    "company": "Apple",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Calculate Score After Performing Instructions",
+    "frequency": "85.1",
+    "acceptanceRate": "0.5556368843981223",
+    "link": "https://leetcode.com/problems/calculate-score-after-performing-instructions",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Simulation"
+    ],
+    "id": "Apple-Calculate Score After Performing Instructions",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "frequency": "85.1",
+    "acceptanceRate": "0.4407547923322684",
+    "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "Apple-Find Servers That Handled Most Number of Requests",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "frequency": "73.3",
+    "acceptanceRate": "0.7050715532641945",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Apple-Best Time to Buy and Sell Stock with Transaction Fee",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "73.3",
+    "acceptanceRate": "0.5644509869283207",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Apple-Min Stack",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "69.0",
+    "acceptanceRate": "0.6920824458148753",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "id": "Apple-Design Hit Counter",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "63.9",
+    "acceptanceRate": "0.49366301343090024",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Apple-Time Based Key-Value Store",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find K Closest Elements",
+    "frequency": "63.9",
+    "acceptanceRate": "0.486686656754684",
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Apple-Find K Closest Elements",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "63.9",
+    "acceptanceRate": "0.5577699666639316",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Apple-Two Sum",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "63.9",
+    "acceptanceRate": "0.5096357226652383",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Apple-Valid Palindrome",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "57.2",
+    "acceptanceRate": "0.6227675793740958",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Apple-Valid Sudoku",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Flood Fill",
+    "frequency": "57.2",
+    "acceptanceRate": "0.6647634560753026",
+    "link": "https://leetcode.com/problems/flood-fill",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Apple-Flood Fill",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "57.2",
+    "acceptanceRate": "0.6510192988277056",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Apple-Trapping Rain Water",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Exam Room",
+    "frequency": "57.2",
+    "acceptanceRate": "0.42867179364939967",
+    "link": "https://leetcode.com/problems/exam-room",
+    "topics": [
+      "Design",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "Apple-Exam Room",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "57.2",
+    "acceptanceRate": "0.4682873183580639",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Apple-Find First and Last Position of Element in Sorted Array",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "57.2",
+    "acceptanceRate": "0.5291951450619177",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Apple-Merge Sorted Array",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Interval",
+    "frequency": "57.2",
+    "acceptanceRate": "0.43473628714178475",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "topics": [
+      "Array"
+    ],
+    "id": "Apple-Insert Interval",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "57.2",
+    "acceptanceRate": "0.7920654119580827",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Apple-Reverse Linked List",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Tic-Tac-Toe",
+    "frequency": "57.2",
+    "acceptanceRate": "0.5860139660881724",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Apple-Design Tic-Tac-Toe",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "57.2",
+    "acceptanceRate": "0.5342350291611208",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Apple-Course Schedule II",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Serialize and Deserialize Binary Tree",
+    "frequency": "57.2",
+    "acceptanceRate": "0.5896942310282117",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "topics": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ],
+    "id": "Apple-Serialize and Deserialize Binary Tree",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "57.2",
+    "acceptanceRate": "0.6153909539748507",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "Apple-Task Scheduler",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "57.2",
+    "acceptanceRate": "0.6280400947352507",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Apple-Move Zeroes",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Logger Rate Limiter",
+    "frequency": "47.9",
+    "acceptanceRate": "0.7661025675370229",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ],
+    "id": "Apple-Logger Rate Limiter",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "47.9",
+    "acceptanceRate": "0.49234264912256587",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Apple-Course Schedule",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "47.9",
+    "acceptanceRate": "0.6684091757223755",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Apple-Merge Two Sorted Lists",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Index of the First Occurrence in a String",
+    "frequency": "47.9",
+    "acceptanceRate": "0.449716000865219",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "Apple-Find the Index of the First Occurrence in a String",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "47.9",
+    "acceptanceRate": "0.7006534938999994",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Apple-Missing Number",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "47.9",
+    "acceptanceRate": "0.6675499347216417",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Lowest Common Ancestor of a Binary Tree",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "47.9",
+    "acceptanceRate": "0.5191327244735617",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Apple-Reverse Words in a String",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "47.9",
+    "acceptanceRate": "0.5393973501075863",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Apple-Spiral Matrix",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "47.9",
+    "acceptanceRate": "0.6777994606301018",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Apple-Product of Array Except Self",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "47.9",
+    "acceptanceRate": "0.4281180881873274",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "Apple-Word Ladder",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "47.9",
+    "acceptanceRate": "0.8066011364163758",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Apple-Permutations",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Design HashMap",
+    "frequency": "47.9",
+    "acceptanceRate": "0.6589390156242249",
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ],
+    "id": "Apple-Design HashMap",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "47.9",
+    "acceptanceRate": "0.35846111456358737",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Longest Palindromic Substring",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "47.9",
+    "acceptanceRate": "0.3030891979001635",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "Apple-Reverse Integer",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Product Less Than K",
+    "frequency": "47.9",
+    "acceptanceRate": "0.5285340562664164",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Apple-Subarray Product Less Than K",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "47.9",
+    "acceptanceRate": "0.47040837635488375",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Apple-Longest Consecutive Sequence",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "47.9",
+    "acceptanceRate": "0.6385756647080152",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Apple-Letter Combinations of a Phone Number",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "47.9",
+    "acceptanceRate": "0.5214167237275021",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Apple-Meeting Rooms II",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Nested List Iterator",
+    "frequency": "47.9",
+    "acceptanceRate": "0.6522839525510098",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ],
+    "id": "Apple-Flatten Nested List Iterator",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fibonacci Number",
+    "frequency": "47.9",
+    "acceptanceRate": "0.7294495015845286",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "id": "Apple-Fibonacci Number",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Circular Queue",
+    "frequency": "47.9",
+    "acceptanceRate": "0.5264418953615425",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ],
+    "id": "Apple-Design Circular Queue",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "47.9",
+    "acceptanceRate": "0.5230495865734553",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-House Robber",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Median",
+    "frequency": "47.9",
+    "acceptanceRate": "0.3869205915247919",
+    "link": "https://leetcode.com/problems/sliding-window-median",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Apple-Sliding Window Median",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "47.9",
+    "acceptanceRate": "0.4581129812287864",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "Apple-Basic Calculator II",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "47.9",
+    "acceptanceRate": "0.5807264910173595",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Apple-Happy Number",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "47.9",
+    "acceptanceRate": "0.5809154375988881",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Apple-String Compression",
+    "company": "Apple",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "78.3",
+    "acceptanceRate": "0.4827377619034214",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Apple-Word Break",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "71.9",
+    "acceptanceRate": "0.7092882244410338",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Apple-Group Anagrams",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "71.9",
+    "acceptanceRate": "0.43021372799993496",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Apple-Rotate Array",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "First Unique Character in a String",
+    "frequency": "69.3",
+    "acceptanceRate": "0.6369545656040947",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ],
+    "id": "Apple-First Unique Character in a String",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "66.3",
+    "acceptanceRate": "0.45476203786382785",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Apple-Subarray Sum Equals K",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "58.9",
+    "acceptanceRate": "0.3693617011328274",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Apple-Longest Substring Without Repeating Characters",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": "58.9",
+    "acceptanceRate": "0.679347462282349",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "id": "Apple-Implement Trie (Prefix Tree)",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "frequency": "54.0",
+    "acceptanceRate": "0.6356660329525441",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ],
+    "id": "Apple-Kth Smallest Element in a Sorted Matrix",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Compare Version Numbers",
+    "frequency": "47.7",
+    "acceptanceRate": "0.4234711977763999",
+    "link": "https://leetcode.com/problems/compare-version-numbers",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Apple-Compare Version Numbers",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate IP Address",
+    "frequency": "47.7",
+    "acceptanceRate": "0.27817524620453365",
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "topics": [
+      "String"
+    ],
+    "id": "Apple-Validate IP Address",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String to Integer (atoi)",
+    "frequency": "47.7",
+    "acceptanceRate": "0.1922942164534482",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "topics": [
+      "String"
+    ],
+    "id": "Apple-String to Integer (atoi)",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "47.7",
+    "acceptanceRate": "0.37070946435035784",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Apple-3Sum",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Linked Lists",
+    "frequency": "47.7",
+    "acceptanceRate": "0.6112533936845744",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Apple-Intersection of Two Linked Lists",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Robot Bounded In Circle",
+    "frequency": "47.7",
+    "acceptanceRate": "0.5622965278408281",
+    "link": "https://leetcode.com/problems/robot-bounded-in-circle",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Apple-Robot Bounded In Circle",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "47.7",
+    "acceptanceRate": "0.6486627884371093",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Apple-Roman to Integer",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "47.7",
+    "acceptanceRate": "0.5327816407313548",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "id": "Apple-Find Median from Data Stream",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Integer to English Words",
+    "frequency": "47.7",
+    "acceptanceRate": "0.34354789501950295",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "topics": [
+      "Math",
+      "String",
+      "Recursion"
+    ],
+    "id": "Apple-Integer to English Words",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "47.7",
+    "acceptanceRate": "0.6115249906697672",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Apple-Decode String",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "47.7",
+    "acceptanceRate": "0.7713286717803378",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Apple-Generate Parentheses",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "38.9",
+    "acceptanceRate": "0.6035551112882038",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Apple-Remove Duplicates from Sorted Array",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Implement Queue using Stacks",
+    "frequency": "38.9",
+    "acceptanceRate": "0.6806072941218969",
+    "link": "https://leetcode.com/problems/implement-queue-using-stacks",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "id": "Apple-Implement Queue using Stacks",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "38.9",
+    "acceptanceRate": "0.4283722138743466",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Apple-Search in Rotated Sorted Array",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Walking Robot Simulation",
+    "frequency": "38.9",
+    "acceptanceRate": "0.5823045930701047",
+    "link": "https://leetcode.com/problems/walking-robot-simulation",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ],
+    "id": "Apple-Walking Robot Simulation",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Split Strings by Separator",
+    "frequency": "38.9",
+    "acceptanceRate": "0.7491123619831133",
+    "link": "https://leetcode.com/problems/split-strings-by-separator",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "id": "Apple-Split Strings by Separator",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Same Tree",
+    "frequency": "38.9",
+    "acceptanceRate": "0.6512686619125213",
+    "link": "https://leetcode.com/problems/same-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Same Tree",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "38.9",
+    "acceptanceRate": "0.4622507658063209",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Apple-Add Two Numbers",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse String",
+    "frequency": "38.9",
+    "acceptanceRate": "0.7976436563508422",
+    "link": "https://leetcode.com/problems/reverse-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Apple-Reverse String",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Cheapest Flights Within K Stops",
+    "frequency": "38.9",
+    "acceptanceRate": "0.40398984415199324",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "topics": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ],
+    "id": "Apple-Cheapest Flights Within K Stops",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "38.9",
+    "acceptanceRate": "0.29280131010169236",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "id": "Apple-Regular Expression Matching",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "38.9",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Apple-Text Justification",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "frequency": "38.9",
+    "acceptanceRate": "0.6340213036141924",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "id": "Apple-Two Sum II - Input Array Is Sorted",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Diameter of Binary Tree",
+    "frequency": "38.9",
+    "acceptanceRate": "0.6358636823587297",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Diameter of Binary Tree",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Guess the Word",
+    "frequency": "38.9",
+    "acceptanceRate": "0.37651627943192456",
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "topics": [
+      "Array",
+      "Math",
+      "String",
+      "Interactive",
+      "Game Theory"
+    ],
+    "id": "Apple-Guess the Word",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "38.9",
+    "acceptanceRate": "0.46383617781658143",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Apple-Gas Station",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Reverse Polish Notation",
+    "frequency": "38.9",
+    "acceptanceRate": "0.5495024017596329",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "topics": [
+      "Array",
+      "Math",
+      "Stack"
+    ],
+    "id": "Apple-Evaluate Reverse Polish Notation",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Largest Value in Each Tree Row",
+    "frequency": "38.9",
+    "acceptanceRate": "0.6627273661494193",
+    "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Find Largest Value in Each Tree Row",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Distribute Money to Maximum Children",
+    "frequency": "38.9",
+    "acceptanceRate": "0.19450187647594877",
+    "link": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "id": "Apple-Distribute Money to Maximum Children",
+    "company": "Apple",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "74.1",
+    "acceptanceRate": "0.43814591586025275",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Apple-Median of Two Sorted Arrays",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "70.0",
+    "acceptanceRate": "0.5922454522673172",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Apple-Palindrome Number",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "67.5",
+    "acceptanceRate": "0.5354071840932856",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Apple-Climbing Stairs",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "62.3",
+    "acceptanceRate": "0.5778282574410597",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "Apple-Container With Most Water",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pascal's Triangle",
+    "frequency": "62.3",
+    "acceptanceRate": "0.770215491719448",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Pascal's Triangle",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sqrt(x)",
+    "frequency": "58.6",
+    "acceptanceRate": "0.4037178718652037",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "Apple-Sqrt(x)",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Element",
+    "frequency": "58.6",
+    "acceptanceRate": "0.600316358048653",
+    "link": "https://leetcode.com/problems/remove-element",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Apple-Remove Element",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Search Insert Position",
+    "frequency": "57.6",
+    "acceptanceRate": "0.4901242285525163",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Apple-Search Insert Position",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Binary",
+    "frequency": "54.0",
+    "acceptanceRate": "0.5567701348180015",
+    "link": "https://leetcode.com/problems/add-binary",
+    "topics": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ],
+    "id": "Apple-Add Binary",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Nth Node From End of List",
+    "frequency": "54.0",
+    "acceptanceRate": "0.4896103765491196",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Apple-Remove Nth Node From End of List",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "54.0",
+    "acceptanceRate": "0.4737765317407914",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Apple-Largest Rectangle in Histogram",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "52.7",
+    "acceptanceRate": "0.4305772664998175",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Apple-Next Permutation",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "49.7",
+    "acceptanceRate": "0.39479197867291327",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Apple-Jump Game",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Symmetric Tree",
+    "frequency": "48.0",
+    "acceptanceRate": "0.5927867908424697",
+    "link": "https://leetcode.com/problems/symmetric-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Symmetric Tree",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "48.0",
+    "acceptanceRate": "0.6758312948649591",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Apple-Sort Colors",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "48.0",
+    "acceptanceRate": "0.7467468656021409",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Apple-Combination Sum",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "48.0",
+    "acceptanceRate": "0.38219020113793045",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Apple-4Sum",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interleaving String",
+    "frequency": "46.2",
+    "acceptanceRate": "0.4217918033968859",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Interleaving String",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate Binary Search Tree",
+    "frequency": "46.2",
+    "acceptanceRate": "0.34380387886661157",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Apple-Validate Binary Search Tree",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Plus One",
+    "frequency": "46.2",
+    "acceptanceRate": "0.47547621095134496",
+    "link": "https://leetcode.com/problems/plus-one",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Apple-Plus One",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "46.2",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Apple-First Missing Positive",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "46.2",
+    "acceptanceRate": "0.4150331235291809",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Apple-Jump Game II",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "46.2",
+    "acceptanceRate": "0.3702318641045828",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Apple-Pow(x, n)",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Linked List II",
+    "frequency": "44.2",
+    "acceptanceRate": "0.49591736647057",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Apple-Reverse Linked List II",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Wildcard Matching",
+    "frequency": "44.2",
+    "acceptanceRate": "0.2989833857244126",
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ],
+    "id": "Apple-Wildcard Matching",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Tree Inorder Traversal",
+    "frequency": "44.2",
+    "acceptanceRate": "0.7858399541084903",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Binary Tree Inorder Traversal",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Two Integers",
+    "frequency": "44.2",
+    "acceptanceRate": "0.18396975085033054",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "id": "Apple-Divide Two Integers",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count and Say",
+    "frequency": "41.9",
+    "acceptanceRate": "0.6050656775612677",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "topics": [
+      "String"
+    ],
+    "id": "Apple-Count and Say",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "41.9",
+    "acceptanceRate": "0.45266926269047814",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Apple-Word Search",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix",
+    "frequency": "41.9",
+    "acceptanceRate": "0.5228957258337302",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "Apple-Search a 2D Matrix",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Balanced Binary Tree",
+    "frequency": "41.9",
+    "acceptanceRate": "0.5534204897752865",
+    "link": "https://leetcode.com/problems/balanced-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Balanced Binary Tree",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Swap Nodes in Pairs",
+    "frequency": "39.3",
+    "acceptanceRate": "0.6720136828647639",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Apple-Swap Nodes in Pairs",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "39.3",
+    "acceptanceRate": "0.4785432317744196",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Apple-Simplify Path",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "39.3",
+    "acceptanceRate": "0.6070884347201074",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Apple-Set Matrix Zeroes",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "39.3",
+    "acceptanceRate": "0.45350747638232236",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Apple-Minimum Window Substring",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Depth of Binary Tree",
+    "frequency": "39.3",
+    "acceptanceRate": "0.7713813958630182",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Maximum Depth of Binary Tree",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "39.3",
+    "acceptanceRate": "0.808795565390318",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Apple-Subsets",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens",
+    "frequency": "39.3",
+    "acceptanceRate": "0.7281704967757537",
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Apple-N-Queens",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted List",
+    "frequency": "39.3",
+    "acceptanceRate": "0.5487080353115535",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "Apple-Remove Duplicates from Sorted List",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "36.4",
+    "acceptanceRate": "0.5160676713980508",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "Apple-Zigzag Conversion",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "36.4",
+    "acceptanceRate": "0.6861928580376627",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Apple-Integer to Roman",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "36.4",
+    "acceptanceRate": "0.664814934885504",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Apple-Minimum Path Sum",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": "36.4",
+    "acceptanceRate": "0.7059658947038693",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Binary Tree Level Order Traversal",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate List",
+    "frequency": "36.4",
+    "acceptanceRate": "0.3994476047394924",
+    "link": "https://leetcode.com/problems/rotate-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Apple-Rotate List",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode Ways",
+    "frequency": "36.4",
+    "acceptanceRate": "0.36530991972040927",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Decode Ways",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "frequency": "32.9",
+    "acceptanceRate": "0.7407934506434607",
+    "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Apple-Convert Sorted Array to Binary Search Tree",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition List",
+    "frequency": "32.9",
+    "acceptanceRate": "0.5898677373641946",
+    "link": "https://leetcode.com/problems/partition-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Apple-Partition List",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combinations",
+    "frequency": "32.9",
+    "acceptanceRate": "0.7289648238875795",
+    "link": "https://leetcode.com/problems/combinations",
+    "topics": [
+      "Backtracking"
+    ],
+    "id": "Apple-Combinations",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "32.9",
+    "acceptanceRate": "0.6304374335039493",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Apple-Reverse Nodes in k-Group",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sudoku Solver",
+    "frequency": "28.8",
+    "acceptanceRate": "0.6390866531877745",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ],
+    "id": "Apple-Sudoku Solver",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Length of Last Word",
+    "frequency": "28.8",
+    "acceptanceRate": "0.5631926999044908",
+    "link": "https://leetcode.com/problems/length-of-last-word",
+    "topics": [
+      "String"
+    ],
+    "id": "Apple-Length of Last Word",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees II",
+    "frequency": "28.8",
+    "acceptanceRate": "0.6039807221122715",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "topics": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Apple-Unique Binary Search Trees II",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicates from Sorted List II",
+    "frequency": "28.8",
+    "acceptanceRate": "0.4989080936318432",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Apple-Remove Duplicates from Sorted List II",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximal Rectangle",
+    "frequency": "23.6",
+    "acceptanceRate": "0.5370845822665518",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "id": "Apple-Maximal Rectangle",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Substring with Concatenation of All Words",
+    "frequency": "23.6",
+    "acceptanceRate": "0.32997499702748073",
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Apple-Substring with Concatenation of All Words",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "frequency": "23.6",
+    "acceptanceRate": "0.6683774773521286",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "Apple-Construct Binary Tree from Preorder and Inorder Traversal",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "23.6",
+    "acceptanceRate": "0.6577285437608488",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Apple-Unique Paths",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Triangle",
+    "frequency": "23.6",
+    "acceptanceRate": "0.592942154897156",
+    "link": "https://leetcode.com/problems/triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Triangle",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum Closest",
+    "frequency": "23.6",
+    "acceptanceRate": "0.468869600214817",
+    "link": "https://leetcode.com/problems/3sum-closest",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Apple-3Sum Closest",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "23.6",
+    "acceptanceRate": "0.5878976197609908",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Apple-Edit Distance",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Restore IP Addresses",
+    "frequency": "23.6",
+    "acceptanceRate": "0.531583393083398",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "topics": [
+      "String",
+      "Backtracking"
+    ],
+    "id": "Apple-Restore IP Addresses",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Multiply Strings",
+    "frequency": "23.6",
+    "acceptanceRate": "0.4228941429852704",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Apple-Multiply Strings",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Valid Number",
+    "frequency": "16.7",
+    "acceptanceRate": "0.21563512503115395",
+    "link": "https://leetcode.com/problems/valid-number",
+    "topics": [
+      "String"
+    ],
+    "id": "Apple-Valid Number",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees",
+    "frequency": "16.7",
+    "acceptanceRate": "0.6244520536210353",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Apple-Unique Binary Search Trees",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicates from Sorted Array II",
+    "frequency": "16.7",
+    "acceptanceRate": "0.6290185479131098",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Apple-Remove Duplicates from Sorted Array II",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Binary Tree to Linked List",
+    "frequency": "16.7",
+    "acceptanceRate": "0.6851010744073592",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Flatten Binary Tree to Linked List",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Populating Next Right Pointers in Each Node",
+    "frequency": "16.7",
+    "acceptanceRate": "0.6544147769490073",
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "topics": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Apple-Populating Next Right Pointers in Each Node",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array II",
+    "frequency": "16.7",
+    "acceptanceRate": "0.3887965146188378",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Apple-Search in Rotated Sorted Array II",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Recover Binary Search Tree",
+    "frequency": "16.7",
+    "acceptanceRate": "0.5632431226781013",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Apple-Recover Binary Search Tree",
+    "company": "Apple",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations II",
+    "frequency": "21.9",
+    "acceptanceRate": "0.615917727605333",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ],
+    "id": "Apple-Permutations II",
+    "company": "Apple",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths II",
+    "frequency": "15.2",
+    "acceptanceRate": "0.43154364997722033",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Apple-Unique Paths II",
+    "company": "Apple",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets II",
+    "frequency": "15.2",
+    "acceptanceRate": "0.595072748658621",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Apple-Subsets II",
+    "company": "Apple",
+    "timeframe": "all"
+  }
+]

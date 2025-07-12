@@ -1,0 +1,58 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Watering Plants",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7995625398726679",
+    "link": "https://leetcode.com/problems/watering-plants",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "Amadeus-Watering Plants",
+    "company": "Amadeus",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "80.5",
+    "acceptanceRate": "0.5578040661125258",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Amadeus-Two Sum",
+    "company": "Amadeus",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Water Bottles",
+    "frequency": "71.1",
+    "acceptanceRate": "0.7064889679772526",
+    "link": "https://leetcode.com/problems/water-bottles",
+    "topics": [
+      "Math",
+      "Simulation"
+    ],
+    "id": "Amadeus-Water Bottles",
+    "company": "Amadeus",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Time to Complete Trips",
+    "frequency": "71.1",
+    "acceptanceRate": "0.3904397351223481",
+    "link": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Amadeus-Minimum Time to Complete Trips",
+    "company": "Amadeus",
+    "timeframe": "more_than_180"
+  }
+]

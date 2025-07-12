@@ -1,0 +1,46 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Construct the Minimum Bitwise Array II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3486627673349109",
+    "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Construct the Minimum Bitwise Array I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7395921725937926",
+    "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Classifying Triangles by Lengths",
+    "frequency": "88.5",
+    "acceptanceRate": "0.5082222606889389",
+    "link": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimize OR of Remaining Elements Using Operations",
+    "frequency": "88.5",
+    "acceptanceRate": "0.28961791418728466",
+    "link": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation"
+    ]
+  }
+]

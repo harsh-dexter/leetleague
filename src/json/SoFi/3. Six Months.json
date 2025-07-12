@@ -1,0 +1,65 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8215204393310427",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Mountain in Array",
+    "frequency": "74.9",
+    "acceptanceRate": "0.4107846968136123",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "frequency": "74.9",
+    "acceptanceRate": "0.4156976135101724",
+    "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "74.9",
+    "acceptanceRate": "0.45350671702442985",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "74.9",
+    "acceptanceRate": "0.5677426186956992",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ]
+  }
+]

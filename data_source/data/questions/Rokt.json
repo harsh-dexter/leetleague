@@ -1,0 +1,62 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4559254553283655",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Rokt-Basic Calculator",
+    "company": "Rokt",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6666400752628422",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Rokt-Valid Anagram",
+    "company": "Rokt",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Word Abbreviation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3685055436012594",
+    "link": "https://leetcode.com/problems/valid-word-abbreviation",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Rokt-Valid Word Abbreviation",
+    "company": "Rokt",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45814504533383427",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "Rokt-Basic Calculator II",
+    "company": "Rokt",
+    "timeframe": "more_than_180"
+  }
+]

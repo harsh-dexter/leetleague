@@ -1,0 +1,33 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator III",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5246967071057193",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Brex-Basic Calculator III",
+    "company": "Brex",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Game of Life",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7141535361052459",
+    "link": "https://leetcode.com/problems/game-of-life",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Brex-Game of Life",
+    "company": "Brex",
+    "timeframe": "more_than_180"
+  }
+]

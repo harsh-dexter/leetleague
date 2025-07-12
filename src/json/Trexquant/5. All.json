@@ -1,0 +1,60 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4901474986248562",
+    "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+    "topics": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Brick Wall",
+    "frequency": "89.2",
+    "acceptanceRate": "0.5585762726172722",
+    "link": "https://leetcode.com/problems/brick-wall",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "89.2",
+    "acceptanceRate": "0.5394630958493493",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "89.2",
+    "acceptanceRate": "0.6386159754422588",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "89.2",
+    "acceptanceRate": "0.3707513382130997",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  }
+]

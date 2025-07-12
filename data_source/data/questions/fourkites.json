@@ -1,0 +1,48 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6181425057525985",
+    "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ],
+    "id": "fourkites-Longest Subarray With Maximum Bitwise AND",
+    "company": "fourkites",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Unequal Adjacent Groups Subsequence II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5135262321144675",
+    "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "fourkites-Longest Unequal Adjacent Groups Subsequence II",
+    "company": "fourkites",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Unequal Adjacent Groups Subsequence I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6756708309889311",
+    "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "fourkites-Longest Unequal Adjacent Groups Subsequence I",
+    "company": "fourkites",
+    "timeframe": "more_than_180"
+  }
+]

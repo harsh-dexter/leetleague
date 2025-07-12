@@ -1,0 +1,61 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5209988985600883",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Upstart-Maximum Subarray",
+    "company": "Upstart",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Range Sum Query 2D - Immutable",
+    "frequency": "80.4",
+    "acceptanceRate": "0.5652722738293752",
+    "link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "topics": [
+      "Array",
+      "Design",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "id": "Upstart-Range Sum Query 2D - Immutable",
+    "company": "Upstart",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "94.9",
+    "acceptanceRate": "0.4785476063011359",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Upstart-Simplify Path",
+    "company": "Upstart",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "78.9",
+    "acceptanceRate": "0.4305779256856484",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Upstart-Next Permutation",
+    "company": "Upstart",
+    "timeframe": "more_than_180"
+  }
+]

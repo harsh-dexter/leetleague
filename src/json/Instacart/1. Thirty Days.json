@@ -1,0 +1,13 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Average Waiting Time",
+    "frequency": "100.0",
+    "acceptanceRate": "0.730517914922463",
+    "link": "https://leetcode.com/problems/average-waiting-time",
+    "topics": [
+      "Array",
+      "Simulation"
+    ]
+  }
+]

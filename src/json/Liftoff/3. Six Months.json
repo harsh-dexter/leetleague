@@ -1,0 +1,36 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7673358368072375",
+    "link": "https://leetcode.com/problems/n-queens-ii",
+    "topics": [
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Diagonal Traverse",
+    "frequency": "95.2",
+    "acceptanceRate": "0.631766490373426",
+    "link": "https://leetcode.com/problems/diagonal-traverse",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Diagonal Traverse II",
+    "frequency": "80.2",
+    "acceptanceRate": "0.5802102312543799",
+    "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  }
+]

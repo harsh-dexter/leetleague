@@ -1,0 +1,74 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Most Stones Removed with Same Row or Column",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6218989759471679",
+    "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Union Find",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "88.0",
+    "acceptanceRate": "0.5525967581165647",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "88.0",
+    "acceptanceRate": "0.6778006914594543",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Cousins in Binary Tree",
+    "frequency": "88.0",
+    "acceptanceRate": "0.5817380089487071",
+    "link": "https://leetcode.com/problems/cousins-in-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count the Number of Infection Sequences",
+    "frequency": "88.0",
+    "acceptanceRate": "0.33387795114778207",
+    "link": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+    "topics": [
+      "Array",
+      "Math",
+      "Combinatorics"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "88.0",
+    "acceptanceRate": "0.539398836789508",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  }
+]

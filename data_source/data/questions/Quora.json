@@ -1,0 +1,275 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Construct Target Array With Multiple Sums",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36258718293560194",
+    "link": "https://leetcode.com/problems/construct-target-array-with-multiple-sums",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Quora-Construct Target Array With Multiple Sums",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Numbers with Even Number of Digits",
+    "frequency": "65.1",
+    "acceptanceRate": "0.7941578445535484",
+    "link": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Quora-Find Numbers with Even Number of Digits",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "65.1",
+    "acceptanceRate": "0.45476329452244163",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Quora-Subarray Sum Equals K",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum With Multiplicity",
+    "frequency": "65.1",
+    "acceptanceRate": "0.4579874402763626",
+    "link": "https://leetcode.com/problems/3sum-with-multiplicity",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "Quora-3Sum With Multiplicity",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "frequency": "65.1",
+    "acceptanceRate": "0.8664440229997958",
+    "link": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "Quora-Subtract the Product and Sum of Digits of an Integer",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the K-Beauty of a Number",
+    "frequency": "65.1",
+    "acceptanceRate": "0.6169362019005067",
+    "link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number",
+    "topics": [
+      "Math",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Quora-Find the K-Beauty of a Number",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Exam Room",
+    "frequency": "65.1",
+    "acceptanceRate": "0.42867179364939967",
+    "link": "https://leetcode.com/problems/exam-room",
+    "topics": [
+      "Design",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "Quora-Exam Room",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Number of Words You Can Type",
+    "frequency": "65.1",
+    "acceptanceRate": "0.7468929476897604",
+    "link": "https://leetcode.com/problems/maximum-number-of-words-you-can-type",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Quora-Maximum Number of Words You Can Type",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Range Frequency Queries",
+    "frequency": "65.1",
+    "acceptanceRate": "0.3977062468794972",
+    "link": "https://leetcode.com/problems/range-frequency-queries",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design",
+      "Segment Tree"
+    ],
+    "id": "Quora-Range Frequency Queries",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Subarrays with Bounded Maximum",
+    "frequency": "65.1",
+    "acceptanceRate": "0.5394189202774706",
+    "link": "https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Quora-Number of Subarrays with Bounded Maximum",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "1-bit and 2-bit Characters",
+    "frequency": "65.1",
+    "acceptanceRate": "0.4511727696394956",
+    "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+    "topics": [
+      "Array"
+    ],
+    "id": "Quora-1-bit and 2-bit Characters",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Finding Pairs With a Certain Sum",
+    "frequency": "65.1",
+    "acceptanceRate": "0.491882680060992",
+    "link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design"
+    ],
+    "id": "Quora-Finding Pairs With a Certain Sum",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Get Biggest Three Rhombus Sums in a Grid",
+    "frequency": "65.1",
+    "acceptanceRate": "0.49266961268520926",
+    "link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "id": "Quora-Get Biggest Three Rhombus Sums in a Grid",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort the Matrix Diagonally",
+    "frequency": "65.1",
+    "acceptanceRate": "0.8297868426498654",
+    "link": "https://leetcode.com/problems/sort-the-matrix-diagonally",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Matrix"
+    ],
+    "id": "Quora-Sort the Matrix Diagonally",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Encode Number",
+    "frequency": "65.1",
+    "acceptanceRate": "0.7006358626536668",
+    "link": "https://leetcode.com/problems/encode-number",
+    "topics": [
+      "Math",
+      "String",
+      "Bit Manipulation"
+    ],
+    "id": "Quora-Encode Number",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "frequency": "65.1",
+    "acceptanceRate": "0.7545470598622637",
+    "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window",
+      "Counting"
+    ],
+    "id": "Quora-Substrings of Size Three with Distinct Characters",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "65.1",
+    "acceptanceRate": "0.4718287765270026",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Quora-Binary Tree Cameras",
+    "company": "Quora",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "52.3",
+    "acceptanceRate": "0.5499183718923905",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Quora-Insert Delete GetRandom O(1)",
+    "company": "Quora",
+    "timeframe": "all"
+  }
+]

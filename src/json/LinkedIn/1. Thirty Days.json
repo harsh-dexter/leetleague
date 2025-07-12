@@ -1,0 +1,130 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Max Stack",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4553177840865414",
+    "link": "https://leetcode.com/problems/max-stack",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "All O`one Data Structure",
+    "frequency": "93.9",
+    "acceptanceRate": "0.44134779761452186",
+    "link": "https://leetcode.com/problems/all-oone-data-structure",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Consecutive Ones III",
+    "frequency": "76.7",
+    "acceptanceRate": "0.6593934025174093",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "70.6",
+    "acceptanceRate": "0.42811826737370073",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Nested List Weight Sum II",
+    "frequency": "62.0",
+    "acceptanceRate": "0.6557146449899617",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum-ii",
+    "topics": [
+      "Stack",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Kth Smallest Product of Two Sorted Arrays",
+    "frequency": "62.0",
+    "acceptanceRate": "0.3093643144234038",
+    "link": "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "62.0",
+    "acceptanceRate": "0.6385756647080152",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Process Tasks Using Servers",
+    "frequency": "62.0",
+    "acceptanceRate": "0.4114853370058328",
+    "link": "https://leetcode.com/problems/process-tasks-using-servers",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Closest Binary Search Tree Value II",
+    "frequency": "62.0",
+    "acceptanceRate": "0.6026240281377268",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "topics": [
+      "Two Pointers",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "62.0",
+    "acceptanceRate": "0.549918579117808",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  }
+]

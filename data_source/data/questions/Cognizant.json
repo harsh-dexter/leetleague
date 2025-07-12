@@ -1,0 +1,414 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4386517852577502",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "Cognizant-Second Highest Salary",
+    "company": "Cognizant",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43814667695055187",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Cognizant-Median of Two Sorted Arrays",
+    "company": "Cognizant",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5922452723221134",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "Cognizant-Palindrome Number",
+    "company": "Cognizant",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Subarrays of Length Three With a Condition",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6194995076327956",
+    "link": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition",
+    "topics": [
+      "Array"
+    ],
+    "id": "Cognizant-Count Subarrays of Length Three With a Condition",
+    "company": "Cognizant",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "73.7",
+    "acceptanceRate": "0.3584617777962999",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Cognizant-Longest Palindromic Substring",
+    "company": "Cognizant",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "64.9",
+    "acceptanceRate": "0.6035567421385941",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Cognizant-Remove Duplicates from Sorted Array",
+    "company": "Cognizant",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "64.9",
+    "acceptanceRate": "0.3693614804892",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Cognizant-Longest Substring Without Repeating Characters",
+    "company": "Cognizant",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "64.9",
+    "acceptanceRate": "0.6666100681122782",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Cognizant-Valid Anagram",
+    "company": "Cognizant",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "83.3",
+    "acceptanceRate": "0.5577702792380397",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Cognizant-Two Sum",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fibonacci Number",
+    "frequency": "77.9",
+    "acceptanceRate": "0.729449519006481",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "id": "Cognizant-Fibonacci Number",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "71.0",
+    "acceptanceRate": "0.4548317594843367",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Cognizant-Longest Common Prefix",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Managers with at Least 5 Direct Reports",
+    "frequency": "71.0",
+    "acceptanceRate": "0.4893967724084875",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "topics": [
+      "Database"
+    ],
+    "id": "Cognizant-Managers with at Least 5 Direct Reports",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "71.0",
+    "acceptanceRate": "0.5209986094967198",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Cognizant-Maximum Subarray",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Integer",
+    "frequency": "71.0",
+    "acceptanceRate": "0.30308986844996183",
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "topics": [
+      "Math"
+    ],
+    "id": "Cognizant-Reverse Integer",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Smallest Value of the Rearranged Number",
+    "frequency": "61.3",
+    "acceptanceRate": "0.5272832058073377",
+    "link": "https://leetcode.com/problems/smallest-value-of-the-rearranged-number",
+    "topics": [
+      "Math",
+      "Sorting"
+    ],
+    "id": "Cognizant-Smallest Value of the Rearranged Number",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Product Sales Analysis I",
+    "frequency": "61.3",
+    "acceptanceRate": "0.845858108004177",
+    "link": "https://leetcode.com/problems/product-sales-analysis-i",
+    "topics": [
+      "Database"
+    ],
+    "id": "Cognizant-Product Sales Analysis I",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "61.3",
+    "acceptanceRate": "0.5291965916083469",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Cognizant-Merge Sorted Array",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Primes",
+    "frequency": "61.3",
+    "acceptanceRate": "0.34790664479869343",
+    "link": "https://leetcode.com/problems/count-primes",
+    "topics": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ],
+    "id": "Cognizant-Count Primes",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "61.3",
+    "acceptanceRate": "0.3707108579983065",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Cognizant-3Sum",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "61.3",
+    "acceptanceRate": "0.580727741481129",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Cognizant-Happy Number",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "61.3",
+    "acceptanceRate": "0.6280402649575271",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Cognizant-Move Zeroes",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Binary Search",
+    "frequency": "61.3",
+    "acceptanceRate": "0.5956450606389617",
+    "link": "https://leetcode.com/problems/binary-search",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Cognizant-Binary Search",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "61.3",
+    "acceptanceRate": "0.6684097523447796",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Cognizant-Merge Two Sorted Lists",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "61.3",
+    "acceptanceRate": "0.42322889705218086",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Cognizant-Valid Parentheses",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "61.3",
+    "acceptanceRate": "0.46225207320080147",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Cognizant-Add Two Numbers",
+    "company": "Cognizant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fizz Buzz",
+    "frequency": "56.7",
+    "acceptanceRate": "0.7437061146887399",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Cognizant-Fizz Buzz",
+    "company": "Cognizant",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Rising Temperature",
+    "frequency": "56.7",
+    "acceptanceRate": "0.5018296510238317",
+    "link": "https://leetcode.com/problems/rising-temperature",
+    "topics": [
+      "Database"
+    ],
+    "id": "Cognizant-Rising Temperature",
+    "company": "Cognizant",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Students and Examinations",
+    "frequency": "56.7",
+    "acceptanceRate": "0.6049763924906179",
+    "link": "https://leetcode.com/problems/students-and-examinations",
+    "topics": [
+      "Database"
+    ],
+    "id": "Cognizant-Students and Examinations",
+    "company": "Cognizant",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Search Insert Position",
+    "frequency": "56.7",
+    "acceptanceRate": "0.4901244828232536",
+    "link": "https://leetcode.com/problems/search-insert-position",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Cognizant-Search Insert Position",
+    "company": "Cognizant",
+    "timeframe": "all"
+  }
+]

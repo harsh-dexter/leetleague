@@ -1,0 +1,27 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232463660782088",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Three Equal Parts",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4069711686235938",
+    "link": "https://leetcode.com/problems/three-equal-parts",
+    "topics": [
+      "Array",
+      "Math"
+    ]
+  }
+]

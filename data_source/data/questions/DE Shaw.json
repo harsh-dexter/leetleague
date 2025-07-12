@@ -1,0 +1,1626 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design A Leaderboard",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6796315583908346",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ],
+    "id": "DE Shaw-Design A Leaderboard",
+    "company": "DE Shaw",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Cameras",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4718257360539049",
+    "link": "https://leetcode.com/problems/binary-tree-cameras",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "DE Shaw-Binary Tree Cameras",
+    "company": "DE Shaw",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum Cost to Remove Array Elements",
+    "frequency": "100.0",
+    "acceptanceRate": "0.18504194680787767",
+    "link": "https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-Find Minimum Cost to Remove Array Elements",
+    "company": "DE Shaw",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "frequency": "58.6",
+    "acceptanceRate": "0.5071699895141073",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "DE Shaw-Minimum Number of Taps to Open to Water a Garden",
+    "company": "DE Shaw",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "58.6",
+    "acceptanceRate": "0.34941674037744563",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-Maximum Product Subarray",
+    "company": "DE Shaw",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Majority Element",
+    "frequency": "58.6",
+    "acceptanceRate": "0.657403169331404",
+    "link": "https://leetcode.com/problems/majority-element",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "DE Shaw-Majority Element",
+    "company": "DE Shaw",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "58.6",
+    "acceptanceRate": "0.6385755479764873",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "DE Shaw-Letter Combinations of a Phone Number",
+    "company": "DE Shaw",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Put Marbles in Bags",
+    "frequency": "58.6",
+    "acceptanceRate": "0.72440073755378",
+    "link": "https://leetcode.com/problems/put-marbles-in-bags",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "DE Shaw-Put Marbles in Bags",
+    "company": "DE Shaw",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Points Tourist Can Earn",
+    "frequency": "92.0",
+    "acceptanceRate": "0.461489743499525",
+    "link": "https://leetcode.com/problems/maximum-points-tourist-can-earn",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "DE Shaw-Maximum Points Tourist Can Earn",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Runes to Add to Cast Spell",
+    "frequency": "89.6",
+    "acceptanceRate": "0.4258649093904448",
+    "link": "https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "DE Shaw-Minimum Runes to Add to Cast Spell",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimize Connected Groups by Inserting Interval",
+    "frequency": "89.6",
+    "acceptanceRate": "0.5035282258064516",
+    "link": "https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting"
+    ],
+    "id": "DE Shaw-Minimize Connected Groups by Inserting Interval",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Calling Hours for Each City",
+    "frequency": "89.6",
+    "acceptanceRate": "0.6175086929842504",
+    "link": "https://leetcode.com/problems/find-peak-calling-hours-for-each-city",
+    "topics": [
+      "Database"
+    ],
+    "id": "DE Shaw-Find Peak Calling Hours for Each City",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count the Number of Incremovable Subarrays II",
+    "frequency": "83.8",
+    "acceptanceRate": "0.3898850394318673",
+    "link": "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "id": "DE Shaw-Count the Number of Incremovable Subarrays II",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Size Subarray in Infinite Array",
+    "frequency": "80.4",
+    "acceptanceRate": "0.3120843874856566",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-in-infinite-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "DE Shaw-Minimum Size Subarray in Infinite Array",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Refueling Stops",
+    "frequency": "76.5",
+    "acceptanceRate": "0.405574587771098",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "DE Shaw-Minimum Number of Refueling Stops",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "K-th Smallest in Lexicographical Order",
+    "frequency": "76.5",
+    "acceptanceRate": "0.4590489282185661",
+    "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+    "topics": [
+      "Trie"
+    ],
+    "id": "DE Shaw-K-th Smallest in Lexicographical Order",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "76.5",
+    "acceptanceRate": "0.552596323925248",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-Best Time to Buy and Sell Stock",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "71.8",
+    "acceptanceRate": "0.5230498170963667",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-House Robber",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Painting the Walls",
+    "frequency": "71.8",
+    "acceptanceRate": "0.4851847868464569",
+    "link": "https://leetcode.com/problems/painting-the-walls",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-Painting the Walls",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Removing Minimum Number of Magic Beans",
+    "frequency": "66.1",
+    "acceptanceRate": "0.436300971680093",
+    "link": "https://leetcode.com/problems/removing-minimum-number-of-magic-beans",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Enumeration",
+      "Prefix Sum"
+    ],
+    "id": "DE Shaw-Removing Minimum Number of Magic Beans",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove K Digits",
+    "frequency": "66.1",
+    "acceptanceRate": "0.3494044611317414",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "id": "DE Shaw-Remove K Digits",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "66.1",
+    "acceptanceRate": "0.5499187409631957",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "DE Shaw-Insert Delete GetRandom O(1)",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "66.1",
+    "acceptanceRate": "0.47604171417820246",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "DE Shaw-Sliding Window Maximum",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "66.1",
+    "acceptanceRate": "0.47040838765712195",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "DE Shaw-Longest Consecutive Sequence",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "66.1",
+    "acceptanceRate": "0.5209980487725024",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-Maximum Subarray",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "66.1",
+    "acceptanceRate": "0.6950029224907471",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "DE Shaw-Best Time to Buy and Sell Stock II",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "frequency": "58.7",
+    "acceptanceRate": "0.6364582895334892",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "DE Shaw-Find the Smallest Divisor Given a Threshold",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Performance of a Team",
+    "frequency": "58.7",
+    "acceptanceRate": "0.4751514702683188",
+    "link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "DE Shaw-Maximum Performance of a Team",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "58.7",
+    "acceptanceRate": "0.4581138691872612",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "DE Shaw-Basic Calculator II",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "frequency": "58.7",
+    "acceptanceRate": "0.79904918551877",
+    "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "DE Shaw-Minimum Number of Pushes to Type Word II",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subsequence Score",
+    "frequency": "58.7",
+    "acceptanceRate": "0.5425202702418993",
+    "link": "https://leetcode.com/problems/maximum-subsequence-score",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "DE Shaw-Maximum Subsequence Score",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum Game",
+    "frequency": "58.7",
+    "acceptanceRate": "0.48407793874311955",
+    "link": "https://leetcode.com/problems/sum-game",
+    "topics": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ],
+    "id": "DE Shaw-Sum Game",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "58.7",
+    "acceptanceRate": "0.7713287456277772",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "DE Shaw-Generate Parentheses",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Average Waiting Time",
+    "frequency": "58.7",
+    "acceptanceRate": "0.7305169732865104",
+    "link": "https://leetcode.com/problems/average-waiting-time",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "DE Shaw-Average Waiting Time",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "58.7",
+    "acceptanceRate": "0.4906724004144251",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "DE Shaw-Koko Eating Bananas",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Number of K-Sum Pairs",
+    "frequency": "58.7",
+    "acceptanceRate": "0.5626723988820814",
+    "link": "https://leetcode.com/problems/max-number-of-k-sum-pairs",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "DE Shaw-Max Number of K-Sum Pairs",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Cost Walk in Weighted Graph",
+    "frequency": "58.7",
+    "acceptanceRate": "0.6851442735134845",
+    "link": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph",
+    "topics": [
+      "Array",
+      "Bit Manipulation",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "DE Shaw-Minimum Cost Walk in Weighted Graph",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Wonderful Substrings",
+    "frequency": "58.7",
+    "acceptanceRate": "0.6664800055231243",
+    "link": "https://leetcode.com/problems/number-of-wonderful-substrings",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ],
+    "id": "DE Shaw-Number of Wonderful Substrings",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "58.7",
+    "acceptanceRate": "0.4150331864826324",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "DE Shaw-Jump Game II",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "58.7",
+    "acceptanceRate": "0.6510198658123436",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "DE Shaw-Trapping Rain Water",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Relative Sort Array",
+    "frequency": "58.7",
+    "acceptanceRate": "0.7492037718091799",
+    "link": "https://leetcode.com/problems/relative-sort-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "id": "DE Shaw-Relative Sort Array",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Cost to Connect All Points",
+    "frequency": "58.7",
+    "acceptanceRate": "0.6902176550628305",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ],
+    "id": "DE Shaw-Min Cost to Connect All Points",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "58.7",
+    "acceptanceRate": "0.6153931254639827",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "DE Shaw-Task Scheduler",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "58.7",
+    "acceptanceRate": "0.4876133314788993",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "DE Shaw-Maximal Square",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "48.4",
+    "acceptanceRate": "0.36313096577469106",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "id": "DE Shaw-Longest Valid Parentheses",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Query Kth Smallest Trimmed Number",
+    "frequency": "48.4",
+    "acceptanceRate": "0.45574055602445074",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+    "topics": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Radix Sort",
+      "Quickselect"
+    ],
+    "id": "DE Shaw-Query Kth Smallest Trimmed Number",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Strength of K Disjoint Subarrays",
+    "frequency": "48.4",
+    "acceptanceRate": "0.2678887164868473",
+    "link": "https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ],
+    "id": "DE Shaw-Maximum Strength of K Disjoint Subarrays",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum OR",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4126409927902127",
+    "link": "https://leetcode.com/problems/maximum-or",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ],
+    "id": "DE Shaw-Maximum OR",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Open the Lock",
+    "frequency": "48.4",
+    "acceptanceRate": "0.6074106348295799",
+    "link": "https://leetcode.com/problems/open-the-lock",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "DE Shaw-Open the Lock",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Equal Row and Column Pairs",
+    "frequency": "48.4",
+    "acceptanceRate": "0.7050904124874572",
+    "link": "https://leetcode.com/problems/equal-row-and-column-pairs",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "DE Shaw-Equal Row and Column Pairs",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Kth Smallest Number in Multiplication Table",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5287483212274201",
+    "link": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "DE Shaw-Kth Smallest Number in Multiplication Table",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Points After Collecting Coins From All Nodes",
+    "frequency": "48.4",
+    "acceptanceRate": "0.35755536007955024",
+    "link": "https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search",
+      "Memoization"
+    ],
+    "id": "DE Shaw-Maximum Points After Collecting Coins From All Nodes",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Median of a Row Wise Sorted Matrix",
+    "frequency": "48.4",
+    "acceptanceRate": "0.697513421870585",
+    "link": "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "DE Shaw-Median of a Row Wise Sorted Matrix",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Greatest Sum Divisible by Three",
+    "frequency": "48.4",
+    "acceptanceRate": "0.509215065450593",
+    "link": "https://leetcode.com/problems/greatest-sum-divisible-by-three",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "DE Shaw-Greatest Sum Divisible by Three",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Points with Cost",
+    "frequency": "48.4",
+    "acceptanceRate": "0.421347771439621",
+    "link": "https://leetcode.com/problems/maximum-number-of-points-with-cost",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "DE Shaw-Maximum Number of Points with Cost",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Heaters",
+    "frequency": "48.4",
+    "acceptanceRate": "0.39952991914941977",
+    "link": "https://leetcode.com/problems/heaters",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "DE Shaw-Heaters",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "frequency": "48.4",
+    "acceptanceRate": "0.514303641858321",
+    "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "DE Shaw-Shortest Subarray to be Removed to Make Array Sorted",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find the Shortest Superstring",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4430433414937703",
+    "link": "https://leetcode.com/problems/find-the-shortest-superstring",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "DE Shaw-Find the Shortest Superstring",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5563702302112898",
+    "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+    "topics": [
+      "Array",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "DE Shaw-Maximum Points You Can Obtain from Cards",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Rand10() Using Rand7()",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4585972286873645",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "topics": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ],
+    "id": "DE Shaw-Implement Rand10() Using Rand7()",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "48.4",
+    "acceptanceRate": "0.3821908823910382",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "DE Shaw-4Sum",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Size Subarray Sum",
+    "frequency": "48.4",
+    "acceptanceRate": "0.49391066884802615",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "DE Shaw-Minimum Size Subarray Sum",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "48.4",
+    "acceptanceRate": "0.42322841550192813",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "DE Shaw-Valid Parentheses",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Visited Cells in a Grid",
+    "frequency": "48.4",
+    "acceptanceRate": "0.22765724304185841",
+    "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "id": "DE Shaw-Minimum Number of Visited Cells in a Grid",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Ways to Reorder Array to Get Same BST",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5362005754802391",
+    "link": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst",
+    "topics": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Tree",
+      "Union Find",
+      "Binary Search Tree",
+      "Memoization",
+      "Combinatorics",
+      "Binary Tree"
+    ],
+    "id": "DE Shaw-Number of Ways to Reorder Array to Get Same BST",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Deletions on a String",
+    "frequency": "48.4",
+    "acceptanceRate": "0.3456476513741377",
+    "link": "https://leetcode.com/problems/maximum-deletions-on-a-string",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ],
+    "id": "DE Shaw-Maximum Deletions on a String",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "48.4",
+    "acceptanceRate": "0.43814584290173053",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "DE Shaw-Median of Two Sorted Arrays",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Determine the Winner of a Bowling Game",
+    "frequency": "48.4",
+    "acceptanceRate": "0.35759638787964304",
+    "link": "https://leetcode.com/problems/determine-the-winner-of-a-bowling-game",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "DE Shaw-Determine the Winner of a Bowling Game",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest 1-Bordered Square",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5109808899476603",
+    "link": "https://leetcode.com/problems/largest-1-bordered-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "DE Shaw-Largest 1-Bordered Square",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "All Nodes Distance K in Binary Tree",
+    "frequency": "48.4",
+    "acceptanceRate": "0.6644216677823813",
+    "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "DE Shaw-All Nodes Distance K in Binary Tree",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Peak Index in a Mountain Array",
+    "frequency": "48.4",
+    "acceptanceRate": "0.6756950201420634",
+    "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "DE Shaw-Peak Index in a Mountain Array",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Make Costs of Paths Equal in a Binary Tree",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5674790143514757",
+    "link": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "DE Shaw-Make Costs of Paths Equal in a Binary Tree",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Increasing Path in a Matrix",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5534762586302827",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ],
+    "id": "DE Shaw-Longest Increasing Path in a Matrix",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5441718927003354",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "DE Shaw-Maximum Profit in Job Scheduling",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Implement Stack using Queues",
+    "frequency": "48.4",
+    "acceptanceRate": "0.6733897915056893",
+    "link": "https://leetcode.com/problems/implement-stack-using-queues",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "id": "DE Shaw-Implement Stack using Queues",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Triangle",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5929426385176939",
+    "link": "https://leetcode.com/problems/triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-Triangle",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4558960678750295",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "DE Shaw-Basic Calculator",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "48.4",
+    "acceptanceRate": "0.675831142046278",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "DE Shaw-Sort Colors",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4939524622259912",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "DE Shaw-Merge Intervals",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "48.4",
+    "acceptanceRate": "0.539397306376751",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "DE Shaw-Spiral Matrix",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "48.4",
+    "acceptanceRate": "0.7790163385317687",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "DE Shaw-Rotate Image",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4305775328017951",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "DE Shaw-Next Permutation",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "48.4",
+    "acceptanceRate": "0.6304369033162786",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "DE Shaw-Reverse Nodes in k-Group",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Contains Duplicate",
+    "frequency": "48.4",
+    "acceptanceRate": "0.6323637027239968",
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "id": "DE Shaw-Contains Duplicate",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4737767587697204",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "DE Shaw-Largest Rectangle in Histogram",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest String That Contains Three Strings",
+    "frequency": "48.4",
+    "acceptanceRate": "0.30747373859135524",
+    "link": "https://leetcode.com/problems/shortest-string-that-contains-three-strings",
+    "topics": [
+      "String",
+      "Greedy",
+      "Enumeration"
+    ],
+    "id": "DE Shaw-Shortest String That Contains Three Strings",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "48.4",
+    "acceptanceRate": "0.6577288303129228",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "DE Shaw-Unique Paths",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Substrings Containing All Three Characters",
+    "frequency": "48.4",
+    "acceptanceRate": "0.7317133743793961",
+    "link": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "DE Shaw-Number of Substrings Containing All Three Characters",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Deletions to Make String K-Special",
+    "frequency": "48.4",
+    "acceptanceRate": "0.44730107253794915",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "DE Shaw-Minimum Deletions to Make String K-Special",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find the Sum of the Power of All Subsequences",
+    "frequency": "48.4",
+    "acceptanceRate": "0.3658703363391598",
+    "link": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-Find the Sum of the Power of All Subsequences",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Subarrays With AND Value of K",
+    "frequency": "48.4",
+    "acceptanceRate": "0.33859436125725073",
+    "link": "https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Segment Tree"
+    ],
+    "id": "DE Shaw-Number of Subarrays With AND Value of K",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find the Maximum Divisibility Score",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5045592705167173",
+    "link": "https://leetcode.com/problems/find-the-maximum-divisibility-score",
+    "topics": [
+      "Array"
+    ],
+    "id": "DE Shaw-Find the Maximum Divisibility Score",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Take Gifts From the Richest Pile",
+    "frequency": "48.4",
+    "acceptanceRate": "0.7562443860270789",
+    "link": "https://leetcode.com/problems/take-gifts-from-the-richest-pile",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ],
+    "id": "DE Shaw-Take Gifts From the Richest Pile",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Cheapest Flights Within K Stops",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4039901581477084",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "topics": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ],
+    "id": "DE Shaw-Cheapest Flights Within K Stops",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interleaving String",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4217918033968859",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-Interleaving String",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Swim in Rising Water",
+    "frequency": "48.4",
+    "acceptanceRate": "0.6285262869935629",
+    "link": "https://leetcode.com/problems/swim-in-rising-water",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ],
+    "id": "DE Shaw-Swim in Rising Water",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "48.4",
+    "acceptanceRate": "0.7467471634661584",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "DE Shaw-Combination Sum",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5878980645167777",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "DE Shaw-Edit Distance",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximal Rectangle",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5370849969586674",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "id": "DE Shaw-Maximal Rectangle",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4467756978215975",
+    "link": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Prefix Sum",
+      "Ordered Set"
+    ],
+    "id": "DE Shaw-Max Sum of Rectangle No Larger Than K",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Furthest Building You Can Reach",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5037126005703128",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "DE Shaw-Furthest Building You Can Reach",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Split Array Largest Sum",
+    "frequency": "48.4",
+    "acceptanceRate": "0.5809960631242778",
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ],
+    "id": "DE Shaw-Split Array Largest Sum",
+    "company": "DE Shaw",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "49.0",
+    "acceptanceRate": "0.46828796326153027",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "DE Shaw-Find First and Last Position of Element in Sorted Array",
+    "company": "DE Shaw",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Linked List Cycle",
+    "frequency": "39.6",
+    "acceptanceRate": "0.525706594743537",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "DE Shaw-Linked List Cycle",
+    "company": "DE Shaw",
+    "timeframe": "all"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6643356643356644",
+    "link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Ordered Set"
+    ],
+    "id": "Amdocs-Design a 3D Binary Matrix with Efficient Layer Tracking",
+    "company": "Amdocs",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Backspace String Compare",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4948180427260363",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Amdocs-Backspace String Compare",
+    "company": "Amdocs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Second Highest Salary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4386530976858341",
+    "link": "https://leetcode.com/problems/second-highest-salary",
+    "topics": [
+      "Database"
+    ],
+    "id": "Amdocs-Second Highest Salary",
+    "company": "Amdocs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6675739518425989",
+    "link": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+    "topics": [
+      "Dynamic Programming",
+      "Prefix Sum"
+    ],
+    "id": "Amdocs-Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "company": "Amdocs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7713296329116214",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Amdocs-Generate Parentheses",
+    "company": "Amdocs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Divisible Substrings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.734086999262718",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting",
+      "Prefix Sum"
+    ],
+    "id": "Amdocs-Number of Divisible Substrings",
+    "company": "Amdocs",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Rotate String",
+    "frequency": "63.4",
+    "acceptanceRate": "0.6393965020022866",
+    "link": "https://leetcode.com/problems/rotate-string",
+    "topics": [
+      "String",
+      "String Matching"
+    ],
+    "id": "Amdocs-Rotate String",
+    "company": "Amdocs",
+    "timeframe": "all"
+  }
+]

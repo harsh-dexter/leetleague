@@ -1,0 +1,78 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find Mirror Score of a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.33931992710166825",
+    "link": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "carwale-Find Mirror Score of a String",
+    "company": "carwale",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "100.0",
+    "acceptanceRate": "0.516106229324453",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "carwale-Zigzag Conversion",
+    "company": "carwale",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "100.0",
+    "acceptanceRate": "0.651086356034693",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "carwale-Trapping Rain Water",
+    "company": "carwale",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "88.6",
+    "acceptanceRate": "0.552632990554389",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "carwale-Best Time to Buy and Sell Stock",
+    "company": "carwale",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Time Difference",
+    "frequency": "88.6",
+    "acceptanceRate": "0.623534335935315",
+    "link": "https://leetcode.com/problems/minimum-time-difference",
+    "topics": [
+      "Array",
+      "Math",
+      "String",
+      "Sorting"
+    ],
+    "id": "carwale-Minimum Time Difference",
+    "company": "carwale",
+    "timeframe": "more_than_180"
+  }
+]

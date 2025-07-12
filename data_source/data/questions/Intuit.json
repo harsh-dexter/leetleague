@@ -1,0 +1,1137 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4232284209279414",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Intuit-Valid Parentheses",
+    "company": "Intuit",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4649547506448627",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Intuit-Coin Change",
+    "company": "Intuit",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Plus One",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4754761581752355",
+    "link": "https://leetcode.com/problems/plus-one",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Intuit-Plus One",
+    "company": "Intuit",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "73.1",
+    "acceptanceRate": "0.45214622651505193",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Intuit-LRU Cache",
+    "company": "Intuit",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Limit of Balls in a Bag",
+    "frequency": "73.1",
+    "acceptanceRate": "0.6729582611405128",
+    "link": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Intuit-Minimum Limit of Balls in a Bag",
+    "company": "Intuit",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Product of Three Numbers",
+    "frequency": "73.1",
+    "acceptanceRate": "0.45311603363931174",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ],
+    "id": "Intuit-Maximum Product of Three Numbers",
+    "company": "Intuit",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Russian Doll Envelopes",
+    "frequency": "73.1",
+    "acceptanceRate": "0.3732991914997274",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Intuit-Russian Doll Envelopes",
+    "company": "Intuit",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Employee Free Time",
+    "frequency": "73.1",
+    "acceptanceRate": "0.7259759595862569",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "topics": [
+      "Array",
+      "Line Sweep",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Intuit-Employee Free Time",
+    "company": "Intuit",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5071699895141073",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Intuit-Minimum Number of Taps to Open to Water a Garden",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "93.6",
+    "acceptanceRate": "0.5342350291611208",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Intuit-Course Schedule II",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sudoku Solver",
+    "frequency": "82.0",
+    "acceptanceRate": "0.6390861285730938",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ],
+    "id": "Intuit-Sudoku Solver",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "82.0",
+    "acceptanceRate": "0.5661839890477366",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Intuit-Rotting Oranges",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "78.8",
+    "acceptanceRate": "0.6777998102840477",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Intuit-Product of Array Except Self",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Logger Rate Limiter",
+    "frequency": "70.7",
+    "acceptanceRate": "0.766103057053701",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Data Stream"
+    ],
+    "id": "Intuit-Logger Rate Limiter",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "70.7",
+    "acceptanceRate": "0.539397306376751",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Intuit-Spiral Matrix",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "70.7",
+    "acceptanceRate": "0.5577699470316754",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Intuit-Two Sum",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "65.4",
+    "acceptanceRate": "0.37070962750580283",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Intuit-3Sum",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "65.4",
+    "acceptanceRate": "0.5644513974486727",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Intuit-Min Stack",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Unique Email Addresses",
+    "frequency": "65.4",
+    "acceptanceRate": "0.6758613213988468",
+    "link": "https://leetcode.com/problems/unique-email-addresses",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "Intuit-Unique Email Addresses",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "65.4",
+    "acceptanceRate": "0.4827376817211646",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "Intuit-Word Break",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Most Profitable Path in a Tree",
+    "frequency": "65.4",
+    "acceptanceRate": "0.6759769941567256",
+    "link": "https://leetcode.com/problems/most-profitable-path-in-a-tree",
+    "topics": [
+      "Array",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "Intuit-Most Profitable Path in a Tree",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Heaters",
+    "frequency": "65.4",
+    "acceptanceRate": "0.39952991914941977",
+    "link": "https://leetcode.com/problems/heaters",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Intuit-Heaters",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "65.4",
+    "acceptanceRate": "0.5780836795005291",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "Intuit-Longest Increasing Subsequence",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "65.4",
+    "acceptanceRate": "0.6456597904229384",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Intuit-Top K Frequent Elements",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "132 Pattern",
+    "frequency": "58.6",
+    "acceptanceRate": "0.3405666874402953",
+    "link": "https://leetcode.com/problems/132-pattern",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack",
+      "Ordered Set"
+    ],
+    "id": "Intuit-132 Pattern",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "58.6",
+    "acceptanceRate": "0.5230498170963667",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Intuit-House Robber",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Middle of the Linked List",
+    "frequency": "58.6",
+    "acceptanceRate": "0.8058170493602053",
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Intuit-Middle of the Linked List",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "58.6",
+    "acceptanceRate": "0.7092883620495999",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Intuit-Group Anagrams",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "58.6",
+    "acceptanceRate": "0.6510197068711371",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Intuit-Trapping Rain Water",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Cost For Tickets",
+    "frequency": "58.6",
+    "acceptanceRate": "0.6741371575291961",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Intuit-Minimum Cost For Tickets",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Difference Score in a Grid",
+    "frequency": "49.0",
+    "acceptanceRate": "0.46693822131704005",
+    "link": "https://leetcode.com/problems/maximum-difference-score-in-a-grid",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Intuit-Maximum Difference Score in a Grid",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5354070812403591",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Intuit-Climbing Stairs",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Total Beauty of the Gardens",
+    "frequency": "49.0",
+    "acceptanceRate": "0.29975842873647723",
+    "link": "https://leetcode.com/problems/maximum-total-beauty-of-the-gardens",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Enumeration",
+      "Prefix Sum"
+    ],
+    "id": "Intuit-Maximum Total Beauty of the Gardens",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Operations to Make Network Connected",
+    "frequency": "49.0",
+    "acceptanceRate": "0.6466492016136093",
+    "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "Intuit-Number of Operations to Make Network Connected",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Area of Island",
+    "frequency": "49.0",
+    "acceptanceRate": "0.7316419811417654",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Intuit-Max Area of Island",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Get the Maximum Score",
+    "frequency": "49.0",
+    "acceptanceRate": "0.39979590036914314",
+    "link": "https://leetcode.com/problems/get-the-maximum-score",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Intuit-Get the Maximum Score",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "49.0",
+    "acceptanceRate": "0.3693616230386026",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Intuit-Longest Substring Without Repeating Characters",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "49.0",
+    "acceptanceRate": "0.363131398866258",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "id": "Intuit-Longest Valid Parentheses",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Longest Increasing Subsequence",
+    "frequency": "49.0",
+    "acceptanceRate": "0.4990921812139234",
+    "link": "https://leetcode.com/problems/number-of-longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ],
+    "id": "Intuit-Number of Longest Increasing Subsequence",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Circular Queue",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5264418953615425",
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ],
+    "id": "Intuit-Design Circular Queue",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximal Rectangle",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5370849969586674",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "id": "Intuit-Maximal Rectangle",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5160680917948327",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "Intuit-Zigzag Conversion",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reorganize String",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5619634145417838",
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "Intuit-Reorganize String",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Falling Path Sum",
+    "frequency": "49.0",
+    "acceptanceRate": "0.6143998043091651",
+    "link": "https://leetcode.com/problems/minimum-falling-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Intuit-Minimum Falling Path Sum",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Destroy Sequential Targets",
+    "frequency": "49.0",
+    "acceptanceRate": "0.40622320941469875",
+    "link": "https://leetcode.com/problems/destroy-sequential-targets",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "id": "Intuit-Destroy Sequential Targets",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Path in Binary Matrix",
+    "frequency": "49.0",
+    "acceptanceRate": "0.4978870986505351",
+    "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Intuit-Shortest Path in Binary Matrix",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Distinct Substrings in a String",
+    "frequency": "49.0",
+    "acceptanceRate": "0.6454241948153967",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "topics": [
+      "String",
+      "Trie",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ],
+    "id": "Intuit-Number of Distinct Substrings in a String",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "49.0",
+    "acceptanceRate": "0.6115249906697672",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Intuit-Decode String",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "49.0",
+    "acceptanceRate": "0.552596168726037",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Intuit-Best Time to Buy and Sell Stock",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5499185329837445",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Intuit-Insert Delete GetRandom O(1)",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "49.0",
+    "acceptanceRate": "0.6153930081027879",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "Intuit-Task Scheduler",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Plus Sign",
+    "frequency": "49.0",
+    "acceptanceRate": "0.48567939943923544",
+    "link": "https://leetcode.com/problems/largest-plus-sign",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Intuit-Largest Plus Sign",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Serialize and Deserialize Binary Tree",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5896945938574741",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "topics": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ],
+    "id": "Intuit-Serialize and Deserialize Binary Tree",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Linked List",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5585945741628439",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Intuit-Palindrome Linked List",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "49.0",
+    "acceptanceRate": "0.668409089388936",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Intuit-Merge Two Sorted Lists",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "49.0",
+    "acceptanceRate": "0.49234383194944714",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Intuit-Course Schedule",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator IV",
+    "frequency": "49.0",
+    "acceptanceRate": "0.48660337552742616",
+    "link": "https://leetcode.com/problems/basic-calculator-iv",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Intuit-Basic Calculator IV",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "49.0",
+    "acceptanceRate": "0.7713286717803378",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Intuit-Generate Parentheses",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": "49.0",
+    "acceptanceRate": "0.7059658655789185",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Intuit-Binary Tree Level Order Traversal",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "49.0",
+    "acceptanceRate": "0.43814593886202297",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "Intuit-Median of Two Sorted Arrays",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Anagrams in a String",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5220071349201708",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Intuit-Find All Anagrams in a String",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Make String Anti-palindrome",
+    "frequency": "49.0",
+    "acceptanceRate": "0.4245591116917048",
+    "link": "https://leetcode.com/problems/make-string-anti-palindrome",
+    "topics": [
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "id": "Intuit-Make String Anti-palindrome",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Length of the Longest Subsequence That Sums to Target",
+    "frequency": "49.0",
+    "acceptanceRate": "0.37247762486154784",
+    "link": "https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Intuit-Length of the Longest Subsequence That Sums to Target",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Substrings With Fixed Ratio",
+    "frequency": "49.0",
+    "acceptanceRate": "0.5590675622283683",
+    "link": "https://leetcode.com/problems/number-of-substrings-with-fixed-ratio",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String",
+      "Prefix Sum"
+    ],
+    "id": "Intuit-Number of Substrings With Fixed Ratio",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Daily Temperatures",
+    "frequency": "49.0",
+    "acceptanceRate": "0.6736501174296972",
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Intuit-Daily Temperatures",
+    "company": "Intuit",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "46.9",
+    "acceptanceRate": "0.67977013748146",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Intuit-Kth Largest Element in an Array",
+    "company": "Intuit",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "46.9",
+    "acceptanceRate": "0.6675498310652693",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Intuit-Lowest Common Ancestor of a Binary Tree",
+    "company": "Intuit",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "46.9",
+    "acceptanceRate": "0.4305775328017951",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Intuit-Next Permutation",
+    "company": "Intuit",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "46.9",
+    "acceptanceRate": "0.628040301372497",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Intuit-Move Zeroes",
+    "company": "Intuit",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": "46.9",
+    "acceptanceRate": "0.616828546906163",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Intuit-Binary Tree Zigzag Level Order Traversal",
+    "company": "Intuit",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": "46.9",
+    "acceptanceRate": "0.41224273902548847",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Intuit-Binary Tree Maximum Path Sum",
+    "company": "Intuit",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Greater Element II",
+    "frequency": "46.9",
+    "acceptanceRate": "0.6630241915825492",
+    "link": "https://leetcode.com/problems/next-greater-element-ii",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Intuit-Next Greater Element II",
+    "company": "Intuit",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "46.9",
+    "acceptanceRate": "0.6231996817686392",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Intuit-Number of Islands",
+    "company": "Intuit",
+    "timeframe": "all"
+  }
+]

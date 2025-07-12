@@ -1,0 +1,16 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Encrypt and Decrypt Strings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36894864936504496",
+    "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  }
+]

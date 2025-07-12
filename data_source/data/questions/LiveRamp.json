@@ -1,0 +1,98 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.35846273258355105",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "LiveRamp-Longest Palindromic Substring",
+    "company": "LiveRamp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Time for Given Digits",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3552946699381283",
+    "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Enumeration"
+    ],
+    "id": "LiveRamp-Largest Time for Given Digits",
+    "company": "LiveRamp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Harmonious Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5731264149524798",
+    "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting",
+      "Counting"
+    ],
+    "id": "LiveRamp-Longest Harmonious Subsequence",
+    "company": "LiveRamp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Unsorted Continuous Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.374372285365029",
+    "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Stack",
+      "Greedy",
+      "Sorting",
+      "Monotonic Stack"
+    ],
+    "id": "LiveRamp-Shortest Unsorted Continuous Subarray",
+    "company": "LiveRamp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Distribute Candies",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6959871853952141",
+    "link": "https://leetcode.com/problems/distribute-candies",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "LiveRamp-Distribute Candies",
+    "company": "LiveRamp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4923459818443362",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "LiveRamp-Course Schedule",
+    "company": "LiveRamp",
+    "timeframe": "more_than_180"
+  }
+]

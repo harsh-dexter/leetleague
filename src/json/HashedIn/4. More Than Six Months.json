@@ -1,0 +1,132 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Find Candidates for Data Scientist Position",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7610571736785329",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximize Items",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7523250122369065",
+    "link": "https://leetcode.com/problems/maximize-items",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count the Number of Powerful Integers",
+    "frequency": "83.9",
+    "acceptanceRate": "0.46513657009195425",
+    "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+    "topics": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimize Length of Array Using Operations",
+    "frequency": "83.9",
+    "acceptanceRate": "0.34864864864864864",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "topics": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Number Theory"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "72.1",
+    "acceptanceRate": "0.5209982621027541",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "62.7",
+    "acceptanceRate": "0.5525965736768343",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "62.7",
+    "acceptanceRate": "0.3707105624040494",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Points Inside the Square",
+    "frequency": "62.7",
+    "acceptanceRate": "0.38182389443091663",
+    "link": "https://leetcode.com/problems/maximum-points-inside-the-square",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "62.7",
+    "acceptanceRate": "0.3494172590598055",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "62.7",
+    "acceptanceRate": "0.6510207934299767",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Time to Repair Cars",
+    "frequency": "62.7",
+    "acceptanceRate": "0.5991672990715053",
+    "link": "https://leetcode.com/problems/minimum-time-to-repair-cars",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  }
+]

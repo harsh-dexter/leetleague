@@ -1,0 +1,56 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Greatness of an Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5864617466875623",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "79.9",
+    "acceptanceRate": "0.5441746135165552",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Swim in Rising Water",
+    "frequency": "79.9",
+    "acceptanceRate": "0.6285273239373714",
+    "link": "https://leetcode.com/problems/swim-in-rising-water",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "79.9",
+    "acceptanceRate": "0.4815035316083349",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  }
+]

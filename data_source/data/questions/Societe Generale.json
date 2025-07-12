@@ -1,0 +1,30 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525974690146599",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Societe Generale-Best Time to Buy and Sell Stock",
+    "company": "Societe Generale",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+    "frequency": "100.0",
+    "acceptanceRate": "0.43463278052982984",
+    "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating",
+    "topics": [
+      "String",
+      "Greedy"
+    ],
+    "id": "Societe Generale-Minimum Number of Swaps to Make the Binary String Alternating",
+    "company": "Societe Generale",
+    "timeframe": "more_than_180"
+  }
+]

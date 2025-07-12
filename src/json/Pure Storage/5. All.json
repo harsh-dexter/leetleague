@@ -1,0 +1,86 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Valid Square",
+    "frequency": "100.0",
+    "acceptanceRate": "0.44270069622707714",
+    "link": "https://leetcode.com/problems/valid-square",
+    "topics": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "85.9",
+    "acceptanceRate": "0.7167801410578343",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design Skiplist",
+    "frequency": "84.1",
+    "acceptanceRate": "0.5807262117036797",
+    "link": "https://leetcode.com/problems/design-skiplist",
+    "topics": [
+      "Linked List",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Repeating Substring",
+    "frequency": "70.9",
+    "acceptanceRate": "0.3962144463908421",
+    "link": "https://leetcode.com/problems/maximum-repeating-substring",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "66.6",
+    "acceptanceRate": "0.3584616076719246",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "61.2",
+    "acceptanceRate": "0.5780838360568359",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "61.2",
+    "acceptanceRate": "0.5499193187657342",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  }
+]

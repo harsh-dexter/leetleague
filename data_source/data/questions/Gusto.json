@@ -1,0 +1,50 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4936643028745622",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Gusto-Time Based Key-Value Store",
+    "company": "Gusto",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Integer to English Words",
+    "frequency": "100.0",
+    "acceptanceRate": "0.34354789501950295",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "topics": [
+      "Math",
+      "String",
+      "Recursion"
+    ],
+    "id": "Gusto-Integer to English Words",
+    "company": "Gusto",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Bold Tag in String",
+    "frequency": "92.1",
+    "acceptanceRate": "0.5099532918149466",
+    "link": "https://leetcode.com/problems/add-bold-tag-in-string",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "String Matching"
+    ],
+    "id": "Gusto-Add Bold Tag in String",
+    "company": "Gusto",
+    "timeframe": "more_than_180"
+  }
+]

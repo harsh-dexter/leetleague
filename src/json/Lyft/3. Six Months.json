@@ -1,0 +1,140 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rotting Oranges",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5661841837717154",
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "frequency": "87.1",
+    "acceptanceRate": "0.6445920225309912",
+    "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Check Completeness of a Binary Tree",
+    "frequency": "87.1",
+    "acceptanceRate": "0.5837359987945151",
+    "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Read N Characters Given read4 II - Call Multiple Times",
+    "frequency": "82.7",
+    "acceptanceRate": "0.42905969922527715",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+    "topics": [
+      "Array",
+      "Simulation",
+      "Interactive"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "76.9",
+    "acceptanceRate": "0.45350682478059534",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Max Stack",
+    "frequency": "73.2",
+    "acceptanceRate": "0.4553192278942039",
+    "link": "https://leetcode.com/problems/max-stack",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "68.8",
+    "acceptanceRate": "0.49366304491851065",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder II",
+    "frequency": "63.0",
+    "acceptanceRate": "0.271526407856053",
+    "link": "https://leetcode.com/problems/word-ladder-ii",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode Ways",
+    "frequency": "63.0",
+    "acceptanceRate": "0.36530937310389594",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort List",
+    "frequency": "63.0",
+    "acceptanceRate": "0.618074922962942",
+    "link": "https://leetcode.com/problems/sort-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "54.9",
+    "acceptanceRate": "0.5644517299387589",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ]
+  }
+]

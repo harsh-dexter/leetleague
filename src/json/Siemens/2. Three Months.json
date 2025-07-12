@@ -1,0 +1,30 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.746908249713867",
+    "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "The Skyline Problem",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4396240927117757",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  }
+]

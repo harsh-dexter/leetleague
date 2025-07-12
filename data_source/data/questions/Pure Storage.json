@@ -1,0 +1,107 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Repeating Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3962144463908421",
+    "link": "https://leetcode.com/problems/maximum-repeating-substring",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "String Matching"
+    ],
+    "id": "Pure Storage-Maximum Repeating Substring",
+    "company": "Pure Storage",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Square",
+    "frequency": "100.0",
+    "acceptanceRate": "0.44270069622707714",
+    "link": "https://leetcode.com/problems/valid-square",
+    "topics": [
+      "Math",
+      "Geometry"
+    ],
+    "id": "Pure Storage-Valid Square",
+    "company": "Pure Storage",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "70.0",
+    "acceptanceRate": "0.5780838360568359",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "Pure Storage-Longest Increasing Subsequence",
+    "company": "Pure Storage",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "62.1",
+    "acceptanceRate": "0.3584616076719246",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Pure Storage-Longest Palindromic Substring",
+    "company": "Pure Storage",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design Skiplist",
+    "frequency": "62.1",
+    "acceptanceRate": "0.5807262117036797",
+    "link": "https://leetcode.com/problems/design-skiplist",
+    "topics": [
+      "Linked List",
+      "Design"
+    ],
+    "id": "Pure Storage-Design Skiplist",
+    "company": "Pure Storage",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "85.9",
+    "acceptanceRate": "0.7167801410578343",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Pure Storage-Palindromic Substrings",
+    "company": "Pure Storage",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "61.2",
+    "acceptanceRate": "0.5499193187657342",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Pure Storage-Insert Delete GetRandom O(1)",
+    "company": "Pure Storage",
+    "timeframe": "all"
+  }
+]

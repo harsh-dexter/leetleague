@@ -1,0 +1,166 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Verbal Arithmetic Puzzle",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3477800583342335",
+    "link": "https://leetcode.com/problems/verbal-arithmetic-puzzle",
+    "topics": [
+      "Array",
+      "Math",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Safest Path in a Grid",
+    "frequency": "86.1",
+    "acceptanceRate": "0.48397269180754227",
+    "link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimizing Array After Replacing Pairs With Their Product",
+    "frequency": "86.1",
+    "acceptanceRate": "0.39923224568138194",
+    "link": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "frequency": "86.1",
+    "acceptanceRate": "0.3966286564204264",
+    "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string",
+    "topics": [
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count and Say",
+    "frequency": "75.0",
+    "acceptanceRate": "0.6050669323131879",
+    "link": "https://leetcode.com/problems/count-and-say",
+    "topics": [
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "75.0",
+    "acceptanceRate": "0.6950040034164668",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Water and Jug Problem",
+    "frequency": "75.0",
+    "acceptanceRate": "0.4308700875472949",
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "topics": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Weeks for Which You Can Work",
+    "frequency": "75.0",
+    "acceptanceRate": "0.4134942369616901",
+    "link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "75.0",
+    "acceptanceRate": "0.6778006914594543",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Rotate String",
+    "frequency": "75.0",
+    "acceptanceRate": "0.6393953917504719",
+    "link": "https://leetcode.com/problems/rotate-string",
+    "topics": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "75.0",
+    "acceptanceRate": "0.539398836789508",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "75.0",
+    "acceptanceRate": "0.37071090682027424",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Strings Alternately",
+    "frequency": "75.0",
+    "acceptanceRate": "0.8222980560828816",
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "75.0",
+    "acceptanceRate": "0.4548317594843367",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ]
+  }
+]

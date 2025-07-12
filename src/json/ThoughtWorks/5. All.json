@@ -1,0 +1,97 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Number of Bit Changes to Make Two Integers Equal",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6263353274222839",
+    "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+    "topics": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum GCD-Sum of a Subarray",
+    "frequency": "100.0",
+    "acceptanceRate": "0.358179419525066",
+    "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Number Theory"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximize the Number of Partitions After Operations",
+    "frequency": "100.0",
+    "acceptanceRate": "0.27458280699421583",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.322212333121424",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "topics": [
+      "Array",
+      "Rolling Hash",
+      "String Matching",
+      "Hash Function"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "73.0",
+    "acceptanceRate": "0.5525968819096688",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "63.9",
+    "acceptanceRate": "0.3693618464595322",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "63.9",
+    "acceptanceRate": "0.4232290340530288",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "63.9",
+    "acceptanceRate": "0.3584622482553879",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  }
+]

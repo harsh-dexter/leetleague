@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Critical Connections in a Network",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5779132199611556",
+    "link": "https://leetcode.com/problems/critical-connections-in-a-network",
+    "topics": [
+      "Depth-First Search",
+      "Graph",
+      "Biconnected Component"
+    ]
+  }
+]

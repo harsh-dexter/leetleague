@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Count Elements With Maximum Frequency",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7792370150792628",
+    "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ]
+  }
+]

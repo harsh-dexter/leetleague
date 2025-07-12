@@ -1,0 +1,43 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Absolute Difference",
+    "frequency": "100.0",
+    "acceptanceRate": "0.706524625366552",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Audible-Minimum Absolute Difference",
+    "company": "Audible",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number In Arithmetic Progression",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5211133764124538",
+    "link": "https://leetcode.com/problems/missing-number-in-arithmetic-progression",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "Audible-Missing Number In Arithmetic Progression",
+    "company": "Audible",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Leetflex Banned Accounts",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6223738673229667",
+    "link": "https://leetcode.com/problems/leetflex-banned-accounts",
+    "topics": [
+      "Database"
+    ],
+    "id": "Audible-Leetflex Banned Accounts",
+    "company": "Audible",
+    "timeframe": "more_than_180"
+  }
+]

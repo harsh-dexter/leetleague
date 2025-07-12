@@ -1,0 +1,45 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.470392322552122",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Wissen Technology-Longest Consecutive Sequence",
+    "company": "Wissen Technology",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5578041336158984",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Wissen Technology-Two Sum",
+    "company": "Wissen Technology",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Words in a String III",
+    "frequency": "89.7",
+    "acceptanceRate": "0.836610711561557",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Wissen Technology-Reverse Words in a String III",
+    "company": "Wissen Technology",
+    "timeframe": "more_than_180"
+  }
+]

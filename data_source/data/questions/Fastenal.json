@@ -1,0 +1,62 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45354370160628277",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Fastenal-Minimum Window Substring",
+    "company": "Fastenal",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum of Beauty of All Substrings",
+    "frequency": "89.6",
+    "acceptanceRate": "0.708399002246187",
+    "link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Fastenal-Sum of Beauty of All Substrings",
+    "company": "Fastenal",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Last Substring in Lexicographical Order",
+    "frequency": "89.6",
+    "acceptanceRate": "0.3460103417700405",
+    "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Fastenal-Last Substring in Lexicographical Order",
+    "company": "Fastenal",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Atoms",
+    "frequency": "89.6",
+    "acceptanceRate": "0.6499758945228163",
+    "link": "https://leetcode.com/problems/number-of-atoms",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Stack",
+      "Sorting"
+    ],
+    "id": "Fastenal-Number of Atoms",
+    "company": "Fastenal",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48273866053327213",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Arrays",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7647441227907497",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Web Crawler Multithreaded",
+    "frequency": "89.5",
+    "acceptanceRate": "0.5009673447851322",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ]
+  }
+]

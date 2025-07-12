@@ -1,0 +1,46 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939525764689584",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6232010198187545",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Deeply Nested Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6443499752842314",
+    "link": "https://leetcode.com/problems/flatten-deeply-nested-array",
+    "topics": []
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5809155013297463",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ]
+  }
+]

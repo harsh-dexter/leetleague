@@ -1,0 +1,61 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Champagne Tower",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5827900024732158",
+    "link": "https://leetcode.com/problems/champagne-tower",
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "id": "National Instruments-Champagne Tower",
+    "company": "National Instruments",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "88.0",
+    "acceptanceRate": "0.6510219501353552",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "National Instruments-Trapping Rain Water",
+    "company": "National Instruments",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snakes and Ladders",
+    "frequency": "78.5",
+    "acceptanceRate": "0.4779591396819314",
+    "link": "https://leetcode.com/problems/snakes-and-ladders",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "National Instruments-Snakes and Ladders",
+    "company": "National Instruments",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decoded String at Index",
+    "frequency": "78.5",
+    "acceptanceRate": "0.36648005898902547",
+    "link": "https://leetcode.com/problems/decoded-string-at-index",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "National Instruments-Decoded String at Index",
+    "company": "National Instruments",
+    "timeframe": "more_than_180"
+  }
+]

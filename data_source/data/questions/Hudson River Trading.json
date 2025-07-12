@@ -1,0 +1,135 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Detect Pattern of Length M Repeated K or More Times",
+    "frequency": "100.0",
+    "acceptanceRate": "0.434865494598602",
+    "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+    "topics": [
+      "Array",
+      "Enumeration"
+    ],
+    "id": "Hudson River Trading-Detect Pattern of Length M Repeated K or More Times",
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Convert Integer to the Sum of Two No-Zero Integers",
+    "frequency": "88.9",
+    "acceptanceRate": "0.5423949493246408",
+    "link": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers",
+    "topics": [
+      "Math"
+    ],
+    "id": "Hudson River Trading-Convert Integer to the Sum of Two No-Zero Integers",
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "frequency": "88.9",
+    "acceptanceRate": "0.8563122693677829",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "id": "Hudson River Trading-Number of Steps to Reduce a Number to Zero",
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Add Edges to Make Degrees of All Nodes Even",
+    "frequency": "88.9",
+    "acceptanceRate": "0.33517162875591233",
+    "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even",
+    "topics": [
+      "Hash Table",
+      "Graph"
+    ],
+    "id": "Hudson River Trading-Add Edges to Make Degrees of All Nodes Even",
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum 69 Number",
+    "frequency": "88.9",
+    "acceptanceRate": "0.8176659980289958",
+    "link": "https://leetcode.com/problems/maximum-69-number",
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "id": "Hudson River Trading-Maximum 69 Number",
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Total Importance of Roads",
+    "frequency": "88.9",
+    "acceptanceRate": "0.6916419857076869",
+    "link": "https://leetcode.com/problems/maximum-total-importance-of-roads",
+    "topics": [
+      "Greedy",
+      "Graph",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Hudson River Trading-Maximum Total Importance of Roads",
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Score From Grid Operations",
+    "frequency": "88.9",
+    "acceptanceRate": "0.24225599064874342",
+    "link": "https://leetcode.com/problems/maximum-score-from-grid-operations",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "id": "Hudson River Trading-Maximum Score From Grid Operations",
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Path With Different Adjacent Characters",
+    "frequency": "88.9",
+    "acceptanceRate": "0.5391662377766341",
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+    "topics": [
+      "Array",
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Hudson River Trading-Longest Path With Different Adjacent Characters",
+    "company": "Hudson River Trading",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Comments",
+    "frequency": "60.9",
+    "acceptanceRate": "0.39407199349545424",
+    "link": "https://leetcode.com/problems/remove-comments",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "id": "Hudson River Trading-Remove Comments",
+    "company": "Hudson River Trading",
+    "timeframe": "all"
+  }
+]

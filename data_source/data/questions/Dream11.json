@@ -1,0 +1,166 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45500737161532884",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Dream11-Asteroid Collision",
+    "company": "Dream11",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition Equal Subset Sum",
+    "frequency": "83.0",
+    "acceptanceRate": "0.4844393368677416",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Dream11-Partition Equal Subset Sum",
+    "company": "Dream11",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Furthest Building You Can Reach",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5037105972749183",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Dream11-Furthest Building You Can Reach",
+    "company": "Dream11",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Common Supersequence ",
+    "frequency": "87.9",
+    "acceptanceRate": "0.6132098086836925",
+    "link": "https://leetcode.com/problems/shortest-common-supersequence",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Dream11-Shortest Common Supersequence ",
+    "company": "Dream11",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Falling Path Sum",
+    "frequency": "87.9",
+    "acceptanceRate": "0.6143995522039412",
+    "link": "https://leetcode.com/problems/minimum-falling-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Dream11-Minimum Falling Path Sum",
+    "company": "Dream11",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Final Prices With a Special Discount in a Shop",
+    "frequency": "87.9",
+    "acceptanceRate": "0.8330161578030366",
+    "link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Dream11-Final Prices With a Special Discount in a Shop",
+    "company": "Dream11",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "87.9",
+    "acceptanceRate": "0.46383586845548325",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Dream11-Gas Station",
+    "company": "Dream11",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "87.9",
+    "acceptanceRate": "0.3707112712968184",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Dream11-3Sum",
+    "company": "Dream11",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Ways to Select Buildings",
+    "frequency": "87.9",
+    "acceptanceRate": "0.5047505427656327",
+    "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ],
+    "id": "Dream11-Number of Ways to Select Buildings",
+    "company": "Dream11",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "frequency": "87.9",
+    "acceptanceRate": "0.724276749873114",
+    "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "id": "Dream11-Minimum Number of Increments on Subarrays to Form a Target Array",
+    "company": "Dream11",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "62.8",
+    "acceptanceRate": "0.6648161041583261",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Dream11-Minimum Path Sum",
+    "company": "Dream11",
+    "timeframe": "all"
+  }
+]

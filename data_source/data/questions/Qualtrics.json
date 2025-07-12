@@ -1,0 +1,47 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4550053440282632",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Qualtrics-Asteroid Collision",
+    "company": "Qualtrics",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "74.9",
+    "acceptanceRate": "0.7092889662302778",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Qualtrics-Group Anagrams",
+    "company": "Qualtrics",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Square Sum Triples",
+    "frequency": "74.9",
+    "acceptanceRate": "0.6901666114160129",
+    "link": "https://leetcode.com/problems/count-square-sum-triples",
+    "topics": [
+      "Math",
+      "Enumeration"
+    ],
+    "id": "Qualtrics-Count Square Sum Triples",
+    "company": "Qualtrics",
+    "timeframe": "more_than_180"
+  }
+]

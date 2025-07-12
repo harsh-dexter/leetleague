@@ -1,0 +1,76 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Linked List II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4959173738249868",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Increasing Triplet Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3912497382273071",
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Clone Graph",
+    "frequency": "88.4",
+    "acceptanceRate": "0.623857864474346",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Surrounded Regions",
+    "frequency": "88.4",
+    "acceptanceRate": "0.42886504456872826",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "88.4",
+    "acceptanceRate": "0.6510205122646382",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Set Matrix Zeroes",
+    "frequency": "88.4",
+    "acceptanceRate": "0.6070890553968923",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  }
+]

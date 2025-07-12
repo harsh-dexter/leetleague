@@ -1,0 +1,93 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6220026757229598",
+    "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "Nokia-Minimum Cost of Buying Candies With Discount",
+    "company": "Nokia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Check If It Is a Good Array",
+    "frequency": "88.7",
+    "acceptanceRate": "0.6136193766034381",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ],
+    "id": "Nokia-Check If It Is a Good Array",
+    "company": "Nokia",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "88.3",
+    "acceptanceRate": "0.45214995272337516",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Nokia-LRU Cache",
+    "company": "Nokia",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Primes",
+    "frequency": "88.3",
+    "acceptanceRate": "0.34790674420010553",
+    "link": "https://leetcode.com/problems/count-primes",
+    "topics": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ],
+    "id": "Nokia-Count Primes",
+    "company": "Nokia",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "88.3",
+    "acceptanceRate": "0.4548320746397213",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Nokia-Longest Common Prefix",
+    "company": "Nokia",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "88.3",
+    "acceptanceRate": "0.6666103435170908",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Nokia-Valid Anagram",
+    "company": "Nokia",
+    "timeframe": "all"
+  }
+]

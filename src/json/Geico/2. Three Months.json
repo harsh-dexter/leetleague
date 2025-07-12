@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Largest Palindromic Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36473298587506603",
+    "link": "https://leetcode.com/problems/largest-palindromic-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  }
+]

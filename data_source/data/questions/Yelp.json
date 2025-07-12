@@ -1,0 +1,450 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "frequency": "100.0",
+    "acceptanceRate": "0.628394799073718",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "topics": [
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
+    ],
+    "id": "Yelp-Remove Colored Pieces if Both Neighbors are the Same Color",
+    "company": "Yelp",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4827848834673827",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ],
+    "id": "Yelp-Random Pick with Weight",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Destination City",
+    "frequency": "86.4",
+    "acceptanceRate": "0.7943375928894831",
+    "link": "https://leetcode.com/problems/destination-city",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "Yelp-Destination City",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "86.4",
+    "acceptanceRate": "0.492343878329654",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Yelp-Course Schedule",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum String Length After Removing Substrings",
+    "frequency": "75.7",
+    "acceptanceRate": "0.7708193935176512",
+    "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings",
+    "topics": [
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Yelp-Minimum String Length After Removing Substrings",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+    "frequency": "75.7",
+    "acceptanceRate": "0.6325734199731369",
+    "link": "https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Yelp-Filter Restaurants by Vegan-Friendly, Price and Distance",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "75.7",
+    "acceptanceRate": "0.42811943257807",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "Yelp-Word Ladder",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder II",
+    "frequency": "75.7",
+    "acceptanceRate": "0.271526407856053",
+    "link": "https://leetcode.com/problems/word-ladder-ii",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ],
+    "id": "Yelp-Word Ladder II",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "frequency": "75.7",
+    "acceptanceRate": "0.3577155976591297",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Yelp-Insert Delete GetRandom O(1) - Duplicates allowed",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "75.7",
+    "acceptanceRate": "0.5499189028081347",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Yelp-Insert Delete GetRandom O(1)",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String Compression",
+    "frequency": "75.7",
+    "acceptanceRate": "0.580915717497265",
+    "link": "https://leetcode.com/problems/string-compression",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Yelp-String Compression",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "75.7",
+    "acceptanceRate": "0.49395248070026765",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Yelp-Merge Intervals",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Words",
+    "frequency": "75.7",
+    "acceptanceRate": "0.5927716320908868",
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "id": "Yelp-Top K Frequent Words",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find the Closest Palindrome",
+    "frequency": "75.7",
+    "acceptanceRate": "0.31629799702290284",
+    "link": "https://leetcode.com/problems/find-the-closest-palindrome",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "Yelp-Find the Closest Palindrome",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "75.7",
+    "acceptanceRate": "0.6666095634535033",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Yelp-Valid Anagram",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "75.7",
+    "acceptanceRate": "0.709288828623018",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Yelp-Group Anagrams",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "frequency": "75.7",
+    "acceptanceRate": "0.6867219790163613",
+    "link": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "id": "Yelp-Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Case Permutation",
+    "frequency": "75.7",
+    "acceptanceRate": "0.7516161037128495",
+    "link": "https://leetcode.com/problems/letter-case-permutation",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "Yelp-Letter Case Permutation",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "75.7",
+    "acceptanceRate": "0.6456599976389505",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Yelp-Top K Frequent Elements",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "The Skyline Problem",
+    "frequency": "75.7",
+    "acceptanceRate": "0.4396233271583687",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "Yelp-The Skyline Problem",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Index Sum of Two Lists",
+    "frequency": "75.7",
+    "acceptanceRate": "0.5797263211918526",
+    "link": "https://leetcode.com/problems/minimum-index-sum-of-two-lists",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "id": "Yelp-Minimum Index Sum of Two Lists",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "75.7",
+    "acceptanceRate": "0.5191333530123619",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Yelp-Reverse Words in a String",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "75.7",
+    "acceptanceRate": "0.7920658884935761",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Yelp-Reverse Linked List",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "75.7",
+    "acceptanceRate": "0.45483153410386806",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "Yelp-Longest Common Prefix",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "75.7",
+    "acceptanceRate": "0.6115259200424883",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Yelp-Decode String",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Active Businesses",
+    "frequency": "75.7",
+    "acceptanceRate": "0.6590212855860138",
+    "link": "https://leetcode.com/problems/active-businesses",
+    "topics": [
+      "Database"
+    ],
+    "id": "Yelp-Active Businesses",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "75.7",
+    "acceptanceRate": "0.36936141288134844",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Yelp-Longest Substring Without Repeating Characters",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "75.7",
+    "acceptanceRate": "0.5577699645064844",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Yelp-Two Sum",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "frequency": "75.7",
+    "acceptanceRate": "0.3966286564204264",
+    "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string",
+    "topics": [
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Yelp-Shortest and Lexicographically Smallest Beautiful String",
+    "company": "Yelp",
+    "timeframe": "more_than_180"
+  }
+]

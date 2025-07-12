@@ -1,0 +1,77 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7713289771042854",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "Veeva Systems-Generate Parentheses",
+    "company": "Veeva Systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "100.0",
+    "acceptanceRate": "0.622769026941775",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "Veeva Systems-Valid Sudoku",
+    "company": "Veeva Systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7092891812279473",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Veeva Systems-Group Anagrams",
+    "company": "Veeva Systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5644516563911693",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Veeva Systems-Min Stack",
+    "company": "Veeva Systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "89.0",
+    "acceptanceRate": "0.369361615205033",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Veeva Systems-Longest Substring Without Repeating Characters",
+    "company": "Veeva Systems",
+    "timeframe": "all"
+  }
+]

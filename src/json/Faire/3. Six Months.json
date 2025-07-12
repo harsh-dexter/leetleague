@@ -1,0 +1,16 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45266924863980873",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  }
+]

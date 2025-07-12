@@ -1,0 +1,525 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "IP to CIDR",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5492354970683057",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "topics": [
+      "String",
+      "Bit Manipulation"
+    ],
+    "id": "Databricks-IP to CIDR",
+    "company": "Databricks",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Hit Counter",
+    "frequency": "91.4",
+    "acceptanceRate": "0.6920824458148753",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "id": "Databricks-Design Hit Counter",
+    "company": "Databricks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber II",
+    "frequency": "76.6",
+    "acceptanceRate": "0.43562717574783655",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Databricks-House Robber II",
+    "company": "Databricks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "frequency": "76.6",
+    "acceptanceRate": "0.5630838477366256",
+    "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "topics": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Databricks-Step-By-Step Directions From a Binary Tree Node to Another",
+    "company": "Databricks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "68.0",
+    "acceptanceRate": "0.5230498170963667",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Databricks-House Robber",
+    "company": "Databricks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Tic-Tac-Toe",
+    "frequency": "68.0",
+    "acceptanceRate": "0.5860156512359185",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Databricks-Design Tic-Tac-Toe",
+    "company": "Databricks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snapshot Array",
+    "frequency": "68.0",
+    "acceptanceRate": "0.36665375389245647",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Databricks-Snapshot Array",
+    "company": "Databricks",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of Recent Calls",
+    "frequency": "59.6",
+    "acceptanceRate": "0.7732793446019116",
+    "link": "https://leetcode.com/problems/number-of-recent-calls",
+    "topics": [
+      "Design",
+      "Queue",
+      "Data Stream"
+    ],
+    "id": "Databricks-Number of Recent Calls",
+    "company": "Databricks",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "73.1",
+    "acceptanceRate": "0.49366262559843777",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "Databricks-Time Based Key-Value Store",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Smallest Range Covering Elements from K Lists",
+    "frequency": "64.5",
+    "acceptanceRate": "0.6974692747987687",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Databricks-Smallest Range Covering Elements from K Lists",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Absolute Difference Between Elements With Constraint",
+    "frequency": "64.5",
+    "acceptanceRate": "0.3406636948984646",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Ordered Set"
+    ],
+    "id": "Databricks-Minimum Absolute Difference Between Elements With Constraint",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Split Message Based on Limit",
+    "frequency": "61.5",
+    "acceptanceRate": "0.4261603375527427",
+    "link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "topics": [
+      "String",
+      "Binary Search",
+      "Enumeration"
+    ],
+    "id": "Databricks-Split Message Based on Limit",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Web Crawler Multithreaded",
+    "frequency": "58.1",
+    "acceptanceRate": "0.5009673573880699",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Concurrency"
+    ],
+    "id": "Databricks-Web Crawler Multithreaded",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "58.1",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "Databricks-Text Justification",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Flowers in Full Bloom",
+    "frequency": "58.1",
+    "acceptanceRate": "0.5717535511066795",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Sorting",
+      "Prefix Sum",
+      "Ordered Set"
+    ],
+    "id": "Databricks-Number of Flowers in Full Bloom",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Integers in Intervals",
+    "frequency": "48.4",
+    "acceptanceRate": "0.34161250608411836",
+    "link": "https://leetcode.com/problems/count-integers-in-intervals",
+    "topics": [
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ],
+    "id": "Databricks-Count Integers in Intervals",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Mountain in Array",
+    "frequency": "48.4",
+    "acceptanceRate": "0.4107832017720806",
+    "link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ],
+    "id": "Databricks-Longest Mountain in Array",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Second Degree Follower",
+    "frequency": "48.4",
+    "acceptanceRate": "0.3999676139583839",
+    "link": "https://leetcode.com/problems/second-degree-follower",
+    "topics": [
+      "Database"
+    ],
+    "id": "Databricks-Second Degree Follower",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "40.7",
+    "acceptanceRate": "0.4939523849309626",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Databricks-Merge Intervals",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "40.7",
+    "acceptanceRate": "0.539397306376751",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Databricks-Spiral Matrix",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Anagrams in a String",
+    "frequency": "40.7",
+    "acceptanceRate": "0.5220071349201708",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Databricks-Find All Anagrams in a String",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Finding Pairs With a Certain Sum",
+    "frequency": "40.7",
+    "acceptanceRate": "0.491882680060992",
+    "link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design"
+    ],
+    "id": "Databricks-Finding Pairs With a Certain Sum",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Length of the Longest Common Prefix",
+    "frequency": "40.7",
+    "acceptanceRate": "0.564161205458434",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ],
+    "id": "Databricks-Find the Length of the Longest Common Prefix",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "frequency": "40.7",
+    "acceptanceRate": "0.5675053393759442",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Monotonic Queue"
+    ],
+    "id": "Databricks-Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Data Stream as Disjoint Intervals",
+    "frequency": "40.7",
+    "acceptanceRate": "0.5950108773030263",
+    "link": "https://leetcode.com/problems/data-stream-as-disjoint-intervals",
+    "topics": [
+      "Binary Search",
+      "Design",
+      "Ordered Set"
+    ],
+    "id": "Databricks-Data Stream as Disjoint Intervals",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "40.7",
+    "acceptanceRate": "0.4650921984332019",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Databricks-Find Peak Element",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Closest Leaf in a Binary Tree",
+    "frequency": "40.7",
+    "acceptanceRate": "0.4704793196402153",
+    "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "Databricks-Closest Leaf in a Binary Tree",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindrome by Concatenating Two Letter Words",
+    "frequency": "40.7",
+    "acceptanceRate": "0.5370286650749474",
+    "link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ],
+    "id": "Databricks-Longest Palindrome by Concatenating Two Letter Words",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "40.7",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Databricks-First Missing Positive",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "40.7",
+    "acceptanceRate": "0.5441718927003354",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Databricks-Maximum Profit in Job Scheduling",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "40.7",
+    "acceptanceRate": "0.5342350029047974",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "Databricks-Course Schedule II",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design A Leaderboard",
+    "frequency": "40.7",
+    "acceptanceRate": "0.6796315583908346",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "topics": [
+      "Hash Table",
+      "Design",
+      "Sorting"
+    ],
+    "id": "Databricks-Design A Leaderboard",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "String to Integer (atoi)",
+    "frequency": "40.7",
+    "acceptanceRate": "0.19229417945480093",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "topics": [
+      "String"
+    ],
+    "id": "Databricks-String to Integer (atoi)",
+    "company": "Databricks",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "frequency": "37.2",
+    "acceptanceRate": "0.4560618572179266",
+    "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Databricks-Shortest Path in a Grid with Obstacles Elimination",
+    "company": "Databricks",
+    "timeframe": "all"
+  }
+]

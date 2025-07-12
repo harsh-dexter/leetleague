@@ -1,0 +1,74 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969539323237",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Cloudera-Best Time to Buy and Sell Stock",
+    "company": "Cloudera",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Cheapest Flights Within K Stops",
+    "frequency": "88.8",
+    "acceptanceRate": "0.40399012552401603",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "topics": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ],
+    "id": "Cloudera-Cheapest Flights Within K Stops",
+    "company": "Cloudera",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number Complement",
+    "frequency": "88.8",
+    "acceptanceRate": "0.7033055757403649",
+    "link": "https://leetcode.com/problems/number-complement",
+    "topics": [
+      "Bit Manipulation"
+    ],
+    "id": "Cloudera-Number Complement",
+    "company": "Cloudera",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Complement of Base 10 Integer",
+    "frequency": "88.8",
+    "acceptanceRate": "0.6070765922229309",
+    "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+    "topics": [
+      "Bit Manipulation"
+    ],
+    "id": "Cloudera-Complement of Base 10 Integer",
+    "company": "Cloudera",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lexicographically Smallest Equivalent String",
+    "frequency": "88.8",
+    "acceptanceRate": "0.8102597266735775",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string",
+    "topics": [
+      "String",
+      "Union Find"
+    ],
+    "id": "Cloudera-Lexicographically Smallest Equivalent String",
+    "company": "Cloudera",
+    "timeframe": "more_than_180"
+  }
+]

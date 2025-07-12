@@ -1,0 +1,123 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find the Safest Path in a Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48397269180754227",
+    "link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ],
+    "id": "IMC-Find the Safest Path in a Grid",
+    "company": "IMC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Time Taken to Cross the Door",
+    "frequency": "88.5",
+    "acceptanceRate": "0.4947985404859871",
+    "link": "https://leetcode.com/problems/time-taken-to-cross-the-door",
+    "topics": [
+      "Array",
+      "Queue",
+      "Simulation"
+    ],
+    "id": "IMC-Time Taken to Cross the Door",
+    "company": "IMC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Asteroid Collision",
+    "frequency": "75.4",
+    "acceptanceRate": "0.45500737161532884",
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "IMC-Asteroid Collision",
+    "company": "IMC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "frequency": "67.8",
+    "acceptanceRate": "0.5351934322666932",
+    "link": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "id": "IMC-Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "company": "IMC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design a Stack With Increment Operation",
+    "frequency": "62.3",
+    "acceptanceRate": "0.8013123593723671",
+    "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "topics": [
+      "Array",
+      "Stack",
+      "Design"
+    ],
+    "id": "IMC-Design a Stack With Increment Operation",
+    "company": "IMC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Knight Moves",
+    "frequency": "54.7",
+    "acceptanceRate": "0.41329294235617164",
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "topics": [
+      "Breadth-First Search"
+    ],
+    "id": "IMC-Minimum Knight Moves",
+    "company": "IMC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "frequency": "54.7",
+    "acceptanceRate": "0.45606251689037025",
+    "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "IMC-Shortest Path in a Grid with Obstacles Elimination",
+    "company": "IMC",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "54.3",
+    "acceptanceRate": "0.564451988879112",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "IMC-Min Stack",
+    "company": "IMC",
+    "timeframe": "all"
+  }
+]

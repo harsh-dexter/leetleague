@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Boats to Save People",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6030116770111661",
+    "link": "https://leetcode.com/problems/boats-to-save-people",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  }
+]

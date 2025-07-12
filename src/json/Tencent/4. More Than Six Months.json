@@ -1,0 +1,162 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Factorization",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3380261620450853",
+    "link": "https://leetcode.com/problems/minimum-factorization",
+    "topics": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Remove Boxes",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48292462220613513",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Candy",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4669983592386035",
+    "link": "https://leetcode.com/problems/candy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Rand10() Using Rand7()",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4585972286873645",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "topics": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Immediate Food Delivery II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5431581086799343",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Alien Dictionary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3667366393077476",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicates from Sorted List II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49890970839865334",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.45214787213212304",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4232286934455142",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7074595624352417",
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Department Highest Salary",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5481303192598069",
+    "link": "https://leetcode.com/problems/department-highest-salary",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Next Greater Element I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7451231783605773",
+    "link": "https://leetcode.com/problems/next-greater-element-i",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Debounce",
+    "frequency": "100.0",
+    "acceptanceRate": "0.9181616559881715",
+    "link": "https://leetcode.com/problems/debounce",
+    "topics": []
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939524843951094",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ]
+  }
+]

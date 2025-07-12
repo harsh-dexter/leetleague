@@ -1,0 +1,30 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design SQL",
+    "frequency": "100.0",
+    "acceptanceRate": "0.698193359375",
+    "link": "https://leetcode.com/problems/design-sql",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Flatten Nested List Iterator",
+    "frequency": "72.0",
+    "acceptanceRate": "0.6522839525510098",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "topics": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  }
+]

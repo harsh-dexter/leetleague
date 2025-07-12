@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Sudoku Solver",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6390844622410038",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Frog Jump",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4655846450889997",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Cost to Cut a Stick",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6201789560190433",
+    "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  }
+]

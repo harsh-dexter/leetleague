@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6227686766247266",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sudoku Solver",
+    "frequency": "90.1",
+    "acceptanceRate": "0.6390835734397189",
+    "link": "https://leetcode.com/problems/sudoku-solver",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Teemo Attacking",
+    "frequency": "79.4",
+    "acceptanceRate": "0.5693015321819124",
+    "link": "https://leetcode.com/problems/teemo-attacking",
+    "topics": [
+      "Array",
+      "Simulation"
+    ]
+  }
+]

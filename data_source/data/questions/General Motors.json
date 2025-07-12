@@ -1,0 +1,121 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6420134726680878",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "General Motors-Number of Connected Components in an Undirected Graph",
+    "company": "General Motors",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "65.7",
+    "acceptanceRate": "0.6648163958709197",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "General Motors-Minimum Path Sum",
+    "company": "General Motors",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "70.6",
+    "acceptanceRate": "0.4521500890965678",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "General Motors-LRU Cache",
+    "company": "General Motors",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "The Number of Full Rounds You Have Played",
+    "frequency": "70.6",
+    "acceptanceRate": "0.4340737028618474",
+    "link": "https://leetcode.com/problems/the-number-of-full-rounds-you-have-played",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "General Motors-The Number of Full Rounds You Have Played",
+    "company": "General Motors",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "70.6",
+    "acceptanceRate": "0.4108476119871277",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "General Motors-First Missing Positive",
+    "company": "General Motors",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Last Visited Integers",
+    "frequency": "56.8",
+    "acceptanceRate": "0.6103729276223355",
+    "link": "https://leetcode.com/problems/last-visited-integers",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "id": "General Motors-Last Visited Integers",
+    "company": "General Motors",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Widest Vertical Area Between Two Points Containing No Points",
+    "frequency": "56.8",
+    "acceptanceRate": "0.8707948670605613",
+    "link": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "General Motors-Widest Vertical Area Between Two Points Containing No Points",
+    "company": "General Motors",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Dot Product of Two Sparse Vectors",
+    "frequency": "56.8",
+    "acceptanceRate": "0.8993407794514465",
+    "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Design"
+    ],
+    "id": "General Motors-Dot Product of Two Sparse Vectors",
+    "company": "General Motors",
+    "timeframe": "all"
+  }
+]

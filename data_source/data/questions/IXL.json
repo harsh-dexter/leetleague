@@ -1,0 +1,266 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4939525764689584",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "IXL-Merge Intervals",
+    "company": "IXL",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "1-bit and 2-bit Characters",
+    "frequency": "90.1",
+    "acceptanceRate": "0.4511727696394956",
+    "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+    "topics": [
+      "Array"
+    ],
+    "id": "IXL-1-bit and 2-bit Characters",
+    "company": "IXL",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "90.1",
+    "acceptanceRate": "0.45811755825176165",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "IXL-Basic Calculator II",
+    "company": "IXL",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "90.1",
+    "acceptanceRate": "0.49234450897866516",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "IXL-Course Schedule",
+    "company": "IXL",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Range Addition II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5730635939153311",
+    "link": "https://leetcode.com/problems/range-addition-ii",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "IXL-Range Addition II",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Snake Game",
+    "frequency": "97.6",
+    "acceptanceRate": "0.3968509744502433",
+    "link": "https://leetcode.com/problems/design-snake-game",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Queue",
+      "Simulation"
+    ],
+    "id": "IXL-Design Snake Game",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "94.9",
+    "acceptanceRate": "0.5327803919248424",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "id": "IXL-Find Median from Data Stream",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "frequency": "88.4",
+    "acceptanceRate": "0.8215204393310427",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "IXL-Minimum Number of Steps to Make Two Strings Anagram",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Fraction Addition and Subtraction",
+    "frequency": "84.2",
+    "acceptanceRate": "0.6614695886090164",
+    "link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "IXL-Fraction Addition and Subtraction",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "79.1",
+    "acceptanceRate": "0.4650923477957429",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "IXL-Find Peak Element",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Linked List",
+    "frequency": "79.1",
+    "acceptanceRate": "0.5585940023485525",
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "IXL-Palindrome Linked List",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "72.6",
+    "acceptanceRate": "0.5499187644056863",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "IXL-Insert Delete GetRandom O(1)",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "frequency": "72.6",
+    "acceptanceRate": "0.4123031611359338",
+    "link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "IXL-Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Fraction to Recurring Decimal",
+    "frequency": "63.4",
+    "acceptanceRate": "0.2622353839768554",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "IXL-Fraction to Recurring Decimal",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Stickers to Spell Word",
+    "frequency": "63.4",
+    "acceptanceRate": "0.5004141760136118",
+    "link": "https://leetcode.com/problems/stickers-to-spell-word",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ],
+    "id": "IXL-Stickers to Spell Word",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "63.4",
+    "acceptanceRate": "0.5677430082708387",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "IXL-Merge k Sorted Lists",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Derangement of An Array",
+    "frequency": "63.4",
+    "acceptanceRate": "0.41718155478758684",
+    "link": "https://leetcode.com/problems/find-the-derangement-of-an-array",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "IXL-Find the Derangement of An Array",
+    "company": "IXL",
+    "timeframe": "more_than_180"
+  }
+]

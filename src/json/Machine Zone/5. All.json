@@ -1,0 +1,24 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Range Module",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4419805147593428",
+    "link": "https://leetcode.com/problems/range-module",
+    "topics": [
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Transactions per Visit",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4835259445677009",
+    "link": "https://leetcode.com/problems/number-of-transactions-per-visit",
+    "topics": [
+      "Database"
+    ]
+  }
+]

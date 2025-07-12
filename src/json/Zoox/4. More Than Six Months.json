@@ -1,0 +1,48 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969245782094",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Frogs Croaking",
+    "frequency": "73.2",
+    "acceptanceRate": "0.5078628152543851",
+    "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+    "topics": [
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "73.2",
+    "acceptanceRate": "0.45811730802423417",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "H-Index",
+    "frequency": "64.9",
+    "acceptanceRate": "0.40286801346018286",
+    "link": "https://leetcode.com/problems/h-index",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Frog Jump",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4655846450889997",
+    "link": "https://leetcode.com/problems/frog-jump",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Squarepoint Capital-Frog Jump",
+    "company": "Squarepoint Capital",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5780838483252219",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "Squarepoint Capital-Longest Increasing Subsequence",
+    "company": "Squarepoint Capital",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search Suggestions System",
+    "frequency": "100.0",
+    "acceptanceRate": "0.650502807389667",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "topics": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Squarepoint Capital-Search Suggestions System",
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "86.4",
+    "acceptanceRate": "0.5525963622704052",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Squarepoint Capital-Best Time to Buy and Sell Stock",
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Product Less Than K",
+    "frequency": "86.4",
+    "acceptanceRate": "0.5285349907277894",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Squarepoint Capital-Subarray Product Less Than K",
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "frequency": "69.5",
+    "acceptanceRate": "0.7242938226969341",
+    "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Squarepoint Capital-Minimum Insertion Steps to Make a String Palindrome",
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "69.5",
+    "acceptanceRate": "0.4649557971017352",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "Squarepoint Capital-Coin Change",
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "69.5",
+    "acceptanceRate": "0.6232010795178101",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Squarepoint Capital-Number of Islands",
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Subarrays with K Different Integers",
+    "frequency": "69.5",
+    "acceptanceRate": "0.6586583697096432",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ],
+    "id": "Squarepoint Capital-Subarrays with K Different Integers",
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "69.5",
+    "acceptanceRate": "0.5209981132194718",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Squarepoint Capital-Maximum Subarray",
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "69.5",
+    "acceptanceRate": "0.6797702368478369",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "Squarepoint Capital-Kth Largest Element in an Array",
+    "company": "Squarepoint Capital",
+    "timeframe": "more_than_180"
+  }
+]

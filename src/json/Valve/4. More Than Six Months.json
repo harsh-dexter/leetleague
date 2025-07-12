@@ -1,0 +1,34 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Dota2 Senate",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4890672536522696",
+    "link": "https://leetcode.com/problems/dota2-senate",
+    "topics": [
+      "String",
+      "Greedy",
+      "Queue"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Deep Merge of Two Objects",
+    "frequency": "90.3",
+    "acceptanceRate": "0.6422558922558923",
+    "link": "https://leetcode.com/problems/deep-merge-of-two-objects",
+    "topics": []
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Design Parking System",
+    "frequency": "90.3",
+    "acceptanceRate": "0.8707487022637689",
+    "link": "https://leetcode.com/problems/design-parking-system",
+    "topics": [
+      "Design",
+      "Simulation",
+      "Counting"
+    ]
+  }
+]

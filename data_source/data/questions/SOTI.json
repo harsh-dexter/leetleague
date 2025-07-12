@@ -1,0 +1,60 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3631959315200682",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "id": "SOTI-Longest Valid Parentheses",
+    "company": "SOTI",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "89.1",
+    "acceptanceRate": "0.42328397073165563",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "SOTI-Valid Parentheses",
+    "company": "SOTI",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "89.1",
+    "acceptanceRate": "0.36940802233594666",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "SOTI-Longest Substring Without Repeating Characters",
+    "company": "SOTI",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Can Place Flowers",
+    "frequency": "89.0",
+    "acceptanceRate": "0.28899627172334796",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "SOTI-Can Place Flowers",
+    "company": "SOTI",
+    "timeframe": "all"
+  }
+]

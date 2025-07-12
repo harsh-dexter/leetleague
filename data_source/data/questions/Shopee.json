@@ -1,0 +1,147 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4521484728871755",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Shopee-LRU Cache",
+    "company": "Shopee",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "92.0",
+    "acceptanceRate": "0.4232289742372698",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Shopee-Valid Parentheses",
+    "company": "Shopee",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "92.0",
+    "acceptanceRate": "0.6684093351942102",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Shopee-Merge Two Sorted Lists",
+    "company": "Shopee",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "92.0",
+    "acceptanceRate": "0.3947916759941618",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Shopee-Jump Game",
+    "company": "Shopee",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Pairs in Two Arrays",
+    "frequency": "80.8",
+    "acceptanceRate": "0.6015575998327409",
+    "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "Shopee-Count Pairs in Two Arrays",
+    "company": "Shopee",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "80.8",
+    "acceptanceRate": "0.5525965264574566",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Shopee-Best Time to Buy and Sell Stock",
+    "company": "Shopee",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "80.8",
+    "acceptanceRate": "0.48278491027999254",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ],
+    "id": "Shopee-Random Pick with Weight",
+    "company": "Shopee",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "63.4",
+    "acceptanceRate": "0.5096357007859084",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Shopee-Valid Palindrome",
+    "company": "Shopee",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Memoize",
+    "frequency": "63.4",
+    "acceptanceRate": "0.6398648816267127",
+    "link": "https://leetcode.com/problems/memoize",
+    "topics": [],
+    "id": "Shopee-Memoize",
+    "company": "Shopee",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "63.4",
+    "acceptanceRate": "0.5577701178825513",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Shopee-Two Sum",
+    "company": "Shopee",
+    "timeframe": "all"
+  }
+]

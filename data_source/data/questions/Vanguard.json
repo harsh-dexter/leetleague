@@ -1,0 +1,31 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Check if the Sentence Is Pangram",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8385082905085836",
+    "link": "https://leetcode.com/problems/check-if-the-sentence-is-pangram",
+    "topics": [
+      "Hash Table",
+      "String"
+    ],
+    "id": "Vanguard-Check if the Sentence Is Pangram",
+    "company": "Vanguard",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Check Whether Two Strings are Almost Equivalent",
+    "frequency": "84.4",
+    "acceptanceRate": "0.6364174253998252",
+    "link": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "id": "Vanguard-Check Whether Two Strings are Almost Equivalent",
+    "company": "Vanguard",
+    "timeframe": "more_than_180"
+  }
+]

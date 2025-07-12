@@ -1,0 +1,63 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Unique XOR Triplets I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.24857137833418322",
+    "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-i",
+    "topics": [
+      "Array",
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Unique XOR Triplets II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.29438172400053125",
+    "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii",
+    "topics": [
+      "Array",
+      "Math",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "frequency": "73.9",
+    "acceptanceRate": "0.570646521775689",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "topics": [
+      "Array",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "73.9",
+    "acceptanceRate": "0.43057736061713586",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count Subarrays With Fixed Bounds",
+    "frequency": "65.1",
+    "acceptanceRate": "0.6940834976032579",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Queue"
+    ]
+  }
+]

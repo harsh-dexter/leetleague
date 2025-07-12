@@ -1,0 +1,158 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find the Celebrity",
+    "frequency": "100.0",
+    "acceptanceRate": "0.48438403563355176",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "topics": [
+      "Two Pointers",
+      "Graph",
+      "Interactive"
+    ],
+    "id": "Hubspot-Find the Celebrity",
+    "company": "Hubspot",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "85.0",
+    "acceptanceRate": "0.5577699645064844",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Hubspot-Two Sum",
+    "company": "Hubspot",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "80.4",
+    "acceptanceRate": "0.49395255614763506",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Hubspot-Merge Intervals",
+    "company": "Hubspot",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "81.1",
+    "acceptanceRate": "0.5291960020290873",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Hubspot-Merge Sorted Array",
+    "company": "Hubspot",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Number of Occurrences of a Substring",
+    "frequency": "72.1",
+    "acceptanceRate": "0.534283561940137",
+    "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Hubspot-Maximum Number of Occurrences of a Substring",
+    "company": "Hubspot",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "72.1",
+    "acceptanceRate": "0.5214182529017943",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Hubspot-Meeting Rooms II",
+    "company": "Hubspot",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "72.1",
+    "acceptanceRate": "0.6684090841114372",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Hubspot-Merge Two Sorted Lists",
+    "company": "Hubspot",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "60.9",
+    "acceptanceRate": "0.6456599976389505",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Hubspot-Top K Frequent Elements",
+    "company": "Hubspot",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "60.9",
+    "acceptanceRate": "0.5677423817534303",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Hubspot-Merge k Sorted Lists",
+    "company": "Hubspot",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find the K-Sum of an Array",
+    "frequency": "56.5",
+    "acceptanceRate": "0.396819360414866",
+    "link": "https://leetcode.com/problems/find-the-k-sum-of-an-array",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Hubspot-Find the K-Sum of an Array",
+    "company": "Hubspot",
+    "timeframe": "all"
+  }
+]

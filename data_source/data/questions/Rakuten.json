@@ -1,0 +1,92 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Longest Happy String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6546225631378025",
+    "link": "https://leetcode.com/problems/longest-happy-string",
+    "topics": [
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Rakuten-Longest Happy String",
+    "company": "Rakuten",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6950040865642816",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Rakuten-Best Time to Buy and Sell Stock II",
+    "company": "Rakuten",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969245782094",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Rakuten-Best Time to Buy and Sell Stock",
+    "company": "Rakuten",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4521488470379119",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Rakuten-LRU Cache",
+    "company": "Rakuten",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7790171169832033",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Rakuten-Rotate Image",
+    "company": "Rakuten",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3707111823526769",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Rakuten-3Sum",
+    "company": "Rakuten",
+    "timeframe": "all"
+  }
+]

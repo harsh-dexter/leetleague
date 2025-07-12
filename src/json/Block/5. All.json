@@ -1,0 +1,180 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Rotating the Box",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7909813050714205",
+    "link": "https://leetcode.com/problems/rotating-the-box",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Available Captures for Rook",
+    "frequency": "97.8",
+    "acceptanceRate": "0.7036967165251763",
+    "link": "https://leetcode.com/problems/available-captures-for-rook",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Squirrel Simulation",
+    "frequency": "97.8",
+    "acceptanceRate": "0.572498298162015",
+    "link": "https://leetcode.com/problems/squirrel-simulation",
+    "topics": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Walking Robot Simulation II",
+    "frequency": "97.8",
+    "acceptanceRate": "0.2507536943378198",
+    "link": "https://leetcode.com/problems/walking-robot-simulation-ii",
+    "topics": [
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "97.8",
+    "acceptanceRate": "0.4827380427522254",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Falling Squares",
+    "frequency": "97.8",
+    "acceptanceRate": "0.4628826064723501",
+    "link": "https://leetcode.com/problems/falling-squares",
+    "topics": [
+      "Array",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Black Blocks",
+    "frequency": "97.8",
+    "acceptanceRate": "0.3861732264480743",
+    "link": "https://leetcode.com/problems/number-of-black-blocks",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Nice Pairs in an Array",
+    "frequency": "97.8",
+    "acceptanceRate": "0.4853582921277765",
+    "link": "https://leetcode.com/problems/count-nice-pairs-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pancake Sorting",
+    "frequency": "97.8",
+    "acceptanceRate": "0.7119131096022234",
+    "link": "https://leetcode.com/problems/pancake-sorting",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Design a Text Editor",
+    "frequency": "76.2",
+    "acceptanceRate": "0.47138071447136626",
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "topics": [
+      "Linked List",
+      "String",
+      "Stack",
+      "Design",
+      "Simulation",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": "69.5",
+    "acceptanceRate": "0.6793489174940865",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Integer to English Words",
+    "frequency": "60.0",
+    "acceptanceRate": "0.34354789501950295",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "topics": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "The Maze",
+    "frequency": "60.0",
+    "acceptanceRate": "0.5951548421014023",
+    "link": "https://leetcode.com/problems/the-maze",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "60.0",
+    "acceptanceRate": "0.3732635590067386",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  }
+]

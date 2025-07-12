@@ -1,0 +1,37 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Number of Days Between Two Dates",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5135203980099502",
+    "link": "https://leetcode.com/problems/number-of-days-between-two-dates",
+    "topics": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "87.1",
+    "acceptanceRate": "0.452147387470624",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "87.1",
+    "acceptanceRate": "0.552596130610275",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  }
+]

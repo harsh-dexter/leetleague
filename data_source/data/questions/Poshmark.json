@@ -1,0 +1,60 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Market Analysis I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.571925862803579",
+    "link": "https://leetcode.com/problems/market-analysis-i",
+    "topics": [
+      "Database"
+    ],
+    "id": "Poshmark-Market Analysis I",
+    "company": "Poshmark",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Market Analysis II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5784402208536844",
+    "link": "https://leetcode.com/problems/market-analysis-ii",
+    "topics": [
+      "Database"
+    ],
+    "id": "Poshmark-Market Analysis II",
+    "company": "Poshmark",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Unguarded Cells in the Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6575999128429539",
+    "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Poshmark-Count Unguarded Cells in the Grid",
+    "company": "Poshmark",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Chunks To Make Sorted",
+    "frequency": "66.4",
+    "acceptanceRate": "0.6404048068659659",
+    "link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+    "topics": [
+      "Array",
+      "Stack",
+      "Greedy",
+      "Sorting",
+      "Monotonic Stack"
+    ],
+    "id": "Poshmark-Max Chunks To Make Sorted",
+    "company": "Poshmark",
+    "timeframe": "all"
+  }
+]

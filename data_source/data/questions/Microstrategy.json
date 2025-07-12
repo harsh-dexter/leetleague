@@ -1,0 +1,142 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Backspace String Compare",
+    "frequency": "100.0",
+    "acceptanceRate": "0.49481803728999",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "id": "Microstrategy-Backspace String Compare",
+    "company": "Microstrategy",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5160684284381445",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "Microstrategy-Zigzag Conversion",
+    "company": "Microstrategy",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Airplane Seat Assignment Probability",
+    "frequency": "78.5",
+    "acceptanceRate": "0.6665048936342312",
+    "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Brainteaser",
+      "Probability and Statistics"
+    ],
+    "id": "Microstrategy-Airplane Seat Assignment Probability",
+    "company": "Microstrategy",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "65.6",
+    "acceptanceRate": "0.6456605377303972",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Microstrategy-Top K Frequent Elements",
+    "company": "Microstrategy",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "65.6",
+    "acceptanceRate": "0.5525969471064145",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Microstrategy-Best Time to Buy and Sell Stock",
+    "company": "Microstrategy",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Battleships in a Board",
+    "frequency": "65.6",
+    "acceptanceRate": "0.7655996014075296",
+    "link": "https://leetcode.com/problems/battleships-in-a-board",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Microstrategy-Battleships in a Board",
+    "company": "Microstrategy",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Ways to Build Sturdy Brick Wall",
+    "frequency": "65.6",
+    "acceptanceRate": "0.494820388599701",
+    "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "Microstrategy-Number of Ways to Build Sturdy Brick Wall",
+    "company": "Microstrategy",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "65.6",
+    "acceptanceRate": "0.8066027210491278",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Microstrategy-Permutations",
+    "company": "Microstrategy",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Swaps to Make the String Balanced",
+    "frequency": "65.6",
+    "acceptanceRate": "0.7796899362639167",
+    "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Greedy"
+    ],
+    "id": "Microstrategy-Minimum Number of Swaps to Make the String Balanced",
+    "company": "Microstrategy",
+    "timeframe": "all"
+  }
+]

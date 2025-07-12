@@ -1,0 +1,79 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4876422601899655",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Wise-Maximal Square",
+    "company": "Wise",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Product Less Than K",
+    "frequency": "73.5",
+    "acceptanceRate": "0.5285651621012318",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Wise-Subarray Product Less Than K",
+    "company": "Wise",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "60.3",
+    "acceptanceRate": "0.5578041072562816",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Wise-Two Sum",
+    "company": "Wise",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Roman to Integer",
+    "frequency": "60.3",
+    "acceptanceRate": "0.6487066329196147",
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "Wise-Roman to Integer",
+    "company": "Wise",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Area of Island",
+    "frequency": "60.3",
+    "acceptanceRate": "0.7316537705618312",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Wise-Max Area of Island",
+    "company": "Wise",
+    "timeframe": "more_than_180"
+  }
+]

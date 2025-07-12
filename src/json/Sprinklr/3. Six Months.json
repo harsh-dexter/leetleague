@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3064978278953693",
+    "link": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  }
+]

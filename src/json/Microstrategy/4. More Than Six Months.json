@@ -1,0 +1,38 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5160684284381445",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Airplane Seat Assignment Probability",
+    "frequency": "78.5",
+    "acceptanceRate": "0.6665048936342312",
+    "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Brainteaser",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Backspace String Compare",
+    "frequency": "78.5",
+    "acceptanceRate": "0.49481803728999",
+    "link": "https://leetcode.com/problems/backspace-string-compare",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  }
+]

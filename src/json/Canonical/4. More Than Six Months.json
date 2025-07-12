@@ -1,0 +1,37 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Reverse Polish Notation",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5495056579293032",
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "topics": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Divide a String Into Groups of Size k",
+    "frequency": "100.0",
+    "acceptanceRate": "0.674969740982813",
+    "link": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k",
+    "topics": [
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "89.4",
+    "acceptanceRate": "0.5291966796314408",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  }
+]

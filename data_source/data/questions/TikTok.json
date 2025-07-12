@@ -1,0 +1,2761 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4521454893758596",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "TikTok-LRU Cache",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "86.0",
+    "acceptanceRate": "0.36936173184826904",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "TikTok-Longest Substring Without Repeating Characters",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule",
+    "frequency": "86.0",
+    "acceptanceRate": "0.49234264912256587",
+    "link": "https://leetcode.com/problems/course-schedule",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "TikTok-Course Schedule",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Increasing Subsequence",
+    "frequency": "86.0",
+    "acceptanceRate": "0.5780834572811812",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Longest Increasing Subsequence",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Making A Large Island",
+    "frequency": "86.0",
+    "acceptanceRate": "0.5489039898916876",
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "TikTok-Making A Large Island",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "74.9",
+    "acceptanceRate": "0.5393973501075863",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "TikTok-Spiral Matrix",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "74.9",
+    "acceptanceRate": "0.623199409488447",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "TikTok-Number of Islands",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "74.9",
+    "acceptanceRate": "0.5214167237275021",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "TikTok-Meeting Rooms II",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Parenthesis String",
+    "frequency": "74.9",
+    "acceptanceRate": "0.3890940168170698",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy"
+    ],
+    "id": "TikTok-Valid Parenthesis String",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "74.9",
+    "acceptanceRate": "0.47040837635488375",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "TikTok-Longest Consecutive Sequence",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "74.9",
+    "acceptanceRate": "0.6456597620808515",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "TikTok-Top K Frequent Elements",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Kth Missing Positive Number",
+    "frequency": "74.9",
+    "acceptanceRate": "0.6228376191332494",
+    "link": "https://leetcode.com/problems/kth-missing-positive-number",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "TikTok-Kth Missing Positive Number",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Split Message Based on Limit",
+    "frequency": "74.9",
+    "acceptanceRate": "0.4261603375527427",
+    "link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "topics": [
+      "String",
+      "Binary Search",
+      "Enumeration"
+    ],
+    "id": "TikTok-Split Message Based on Limit",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Max Area of Island",
+    "frequency": "74.9",
+    "acceptanceRate": "0.7316416136206765",
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "TikTok-Max Area of Island",
+    "company": "TikTok",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Distinct Islands",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6225551999482754",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Hash Function"
+    ],
+    "id": "TikTok-Number of Distinct Islands",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "98.3",
+    "acceptanceRate": "0.6510193782985645",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "TikTok-Trapping Rain Water",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Happy String",
+    "frequency": "94.5",
+    "acceptanceRate": "0.6546225631378025",
+    "link": "https://leetcode.com/problems/longest-happy-string",
+    "topics": [
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "TikTok-Longest Happy String",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snapshot Array",
+    "frequency": "94.5",
+    "acceptanceRate": "0.3666543001837093",
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "TikTok-Snapshot Array",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Swap",
+    "frequency": "92.3",
+    "acceptanceRate": "0.5184838353958446",
+    "link": "https://leetcode.com/problems/maximum-swap",
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "id": "TikTok-Maximum Swap",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "N-Queens",
+    "frequency": "90.0",
+    "acceptanceRate": "0.7281704967757537",
+    "link": "https://leetcode.com/problems/n-queens",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "TikTok-N-Queens",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Course Schedule II",
+    "frequency": "72.8",
+    "acceptanceRate": "0.5342350291611208",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "TikTok-Course Schedule II",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "frequency": "72.8",
+    "acceptanceRate": "0.4560608363877269",
+    "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "TikTok-Shortest Path in a Grid with Obstacles Elimination",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "frequency": "72.8",
+    "acceptanceRate": "0.6683774773521286",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Construct Binary Tree from Preorder and Inorder Traversal",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Largest Element in an Array",
+    "frequency": "67.3",
+    "acceptanceRate": "0.6797700833982673",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "id": "TikTok-Kth Largest Element in an Array",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "67.3",
+    "acceptanceRate": "0.3732633211647155",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "TikTok-Word Search II",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Peak Element",
+    "frequency": "60.3",
+    "acceptanceRate": "0.46509214864540416",
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "TikTok-Find Peak Element",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Path Sum",
+    "frequency": "60.3",
+    "acceptanceRate": "0.664814934885504",
+    "link": "https://leetcode.com/problems/minimum-path-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "TikTok-Minimum Path Sum",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Sqrt(x)",
+    "frequency": "60.3",
+    "acceptanceRate": "0.40371796444280217",
+    "link": "https://leetcode.com/problems/sqrtx",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ],
+    "id": "TikTok-Sqrt(x)",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Add and Search Words Data Structure",
+    "frequency": "60.3",
+    "acceptanceRate": "0.47066560985497075",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "topics": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ],
+    "id": "TikTok-Design Add and Search Words Data Structure",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "60.3",
+    "acceptanceRate": "0.37070946435035784",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "TikTok-3Sum",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Text Justification",
+    "frequency": "60.3",
+    "acceptanceRate": "0.48149935664104093",
+    "link": "https://leetcode.com/problems/text-justification",
+    "topics": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "id": "TikTok-Text Justification",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator III",
+    "frequency": "60.3",
+    "acceptanceRate": "0.52469160116735",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "TikTok-Basic Calculator III",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Window Substring",
+    "frequency": "60.3",
+    "acceptanceRate": "0.45350747638232236",
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "TikTok-Minimum Window Substring",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "60.3",
+    "acceptanceRate": "0.6115249906697672",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "TikTok-Decode String",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "60.3",
+    "acceptanceRate": "0.2928012366939696",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "id": "TikTok-Regular Expression Matching",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Bridge",
+    "frequency": "60.3",
+    "acceptanceRate": "0.5864829574238846",
+    "link": "https://leetcode.com/problems/shortest-bridge",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "TikTok-Shortest Bridge",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Bold Tag in String",
+    "frequency": "60.3",
+    "acceptanceRate": "0.5099532918149466",
+    "link": "https://leetcode.com/problems/add-bold-tag-in-string",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "String Matching"
+    ],
+    "id": "TikTok-Add Bold Tag in String",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "50.3",
+    "acceptanceRate": "0.520997876367211",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Maximum Subarray",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": "50.3",
+    "acceptanceRate": "0.6675499347216417",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Lowest Common Ancestor of a Binary Tree",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Cost For Tickets",
+    "frequency": "50.3",
+    "acceptanceRate": "0.6741346282215674",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Minimum Cost For Tickets",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Bus Routes",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4695297092963377",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ],
+    "id": "TikTok-Bus Routes",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "50.3",
+    "acceptanceRate": "0.39479197867291327",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "TikTok-Jump Game",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimize Malware Spread",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4244718413272332",
+    "link": "https://leetcode.com/problems/minimize-malware-spread",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph"
+    ],
+    "id": "TikTok-Minimize Malware Spread",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Restore IP Addresses",
+    "frequency": "50.3",
+    "acceptanceRate": "0.531583393083398",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "topics": [
+      "String",
+      "Backtracking"
+    ],
+    "id": "TikTok-Restore IP Addresses",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Basic Calculator II",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4581129812287864",
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "topics": [
+      "Math",
+      "String",
+      "Stack"
+    ],
+    "id": "TikTok-Basic Calculator II",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "50.3",
+    "acceptanceRate": "0.35846104860827005",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Longest Palindromic Substring",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Nth Node From End of List",
+    "frequency": "50.3",
+    "acceptanceRate": "0.48961044784187663",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "TikTok-Remove Nth Node From End of List",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Longest Common Prefix",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4548305143026601",
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "topics": [
+      "String",
+      "Trie"
+    ],
+    "id": "TikTok-Longest Common Prefix",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Random Pick with Weight",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4827836751158982",
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ],
+    "id": "TikTok-Random Pick with Weight",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "50.3",
+    "acceptanceRate": "0.5577699134692224",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "TikTok-Two Sum",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sparse Matrix Multiplication",
+    "frequency": "50.3",
+    "acceptanceRate": "0.6892226639833767",
+    "link": "https://leetcode.com/problems/sparse-matrix-multiplication",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "TikTok-Sparse Matrix Multiplication",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder",
+    "frequency": "50.3",
+    "acceptanceRate": "0.4281180881873274",
+    "link": "https://leetcode.com/problems/word-ladder",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search"
+    ],
+    "id": "TikTok-Word Ladder",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "50.3",
+    "acceptanceRate": "0.8066011364163758",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "TikTok-Permutations",
+    "company": "TikTok",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Cost Good Caption",
+    "frequency": "83.8",
+    "acceptanceRate": "0.19011297402317046",
+    "link": "https://leetcode.com/problems/minimum-cost-good-caption",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Minimum Cost Good Caption",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Lexicographically Smallest Generated String",
+    "frequency": "83.8",
+    "acceptanceRate": "0.29634433006403504",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+    "topics": [
+      "String",
+      "Greedy",
+      "String Matching"
+    ],
+    "id": "TikTok-Lexicographically Smallest Generated String",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Right Side View",
+    "frequency": "70.9",
+    "acceptanceRate": "0.6704256466340539",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Binary Tree Right Side View",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "66.3",
+    "acceptanceRate": "0.549918579117808",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "TikTok-Insert Delete GetRandom O(1)",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pacific Atlantic Water Flow",
+    "frequency": "66.3",
+    "acceptanceRate": "0.5753385838153038",
+    "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "TikTok-Pacific Atlantic Water Flow",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "66.3",
+    "acceptanceRate": "0.5230496716361904",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-House Robber",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "60.7",
+    "acceptanceRate": "0.7920654119580827",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "TikTok-Reverse Linked List",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "60.7",
+    "acceptanceRate": "0.4939527547797844",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "TikTok-Merge Intervals",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "60.7",
+    "acceptanceRate": "0.46495443407851283",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "TikTok-Coin Change",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Alien Dictionary",
+    "frequency": "60.7",
+    "acceptanceRate": "0.3667368040372823",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "TikTok-Alien Dictionary",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Partition Equal Subset Sum",
+    "frequency": "53.5",
+    "acceptanceRate": "0.4844385362807152",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Partition Equal Subset Sum",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "frequency": "53.5",
+    "acceptanceRate": "0.6039235126969928",
+    "link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "TikTok-Minimum Number of Arrows to Burst Balloons",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix",
+    "frequency": "53.5",
+    "acceptanceRate": "0.5228957258337302",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "TikTok-Search a 2D Matrix",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "53.5",
+    "acceptanceRate": "0.45476203786382785",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "TikTok-Subarray Sum Equals K",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Basic Calculator",
+    "frequency": "53.5",
+    "acceptanceRate": "0.4558962794405194",
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "topics": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "TikTok-Basic Calculator",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Meeting Rooms III",
+    "frequency": "53.5",
+    "acceptanceRate": "0.4393472442856221",
+    "link": "https://leetcode.com/problems/meeting-rooms-iii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ],
+    "id": "TikTok-Meeting Rooms III",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "53.5",
+    "acceptanceRate": "0.42322822762811346",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "TikTok-Valid Parentheses",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Value at a Given Index in a Bounded Array",
+    "frequency": "53.5",
+    "acceptanceRate": "0.3885428476781023",
+    "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array",
+    "topics": [
+      "Math",
+      "Binary Search",
+      "Greedy"
+    ],
+    "id": "TikTok-Maximum Value at a Given Index in a Bounded Array",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Add Strings",
+    "frequency": "53.5",
+    "acceptanceRate": "0.5190382397212994",
+    "link": "https://leetcode.com/problems/add-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "TikTok-Add Strings",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Cost to Connect All Points",
+    "frequency": "53.5",
+    "acceptanceRate": "0.6902176550628305",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "topics": [
+      "Array",
+      "Union Find",
+      "Graph",
+      "Minimum Spanning Tree"
+    ],
+    "id": "TikTok-Min Cost to Connect All Points",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "53.5",
+    "acceptanceRate": "0.5327816407313548",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "id": "TikTok-Find Median from Data Stream",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "frequency": "43.5",
+    "acceptanceRate": "0.7407934506434607",
+    "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Convert Sorted Array to Binary Search Tree",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Human Traffic of Stadium",
+    "frequency": "43.5",
+    "acceptanceRate": "0.497729956698596",
+    "link": "https://leetcode.com/problems/human-traffic-of-stadium",
+    "topics": [
+      "Database"
+    ],
+    "id": "TikTok-Human Traffic of Stadium",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "43.5",
+    "acceptanceRate": "0.567741907864408",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "TikTok-Merge k Sorted Lists",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search in Rotated Sorted Array",
+    "frequency": "43.5",
+    "acceptanceRate": "0.4283722138743466",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "TikTok-Search in Rotated Sorted Array",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum",
+    "frequency": "43.5",
+    "acceptanceRate": "0.7467468656021409",
+    "link": "https://leetcode.com/problems/combination-sum",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "TikTok-Combination Sum",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "frequency": "43.5",
+    "acceptanceRate": "0.3577149824563679",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "TikTok-Insert Delete GetRandom O(1) - Duplicates allowed",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "frequency": "43.5",
+    "acceptanceRate": "0.45452601408273385",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Divide and Conquer",
+      "Sliding Window"
+    ],
+    "id": "TikTok-Longest Substring with At Least K Repeating Characters",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Longest Consecutive Sequence",
+    "frequency": "43.5",
+    "acceptanceRate": "0.5411300683221425",
+    "link": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Binary Tree Longest Consecutive Sequence",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "frequency": "43.5",
+    "acceptanceRate": "0.5630838477366256",
+    "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "topics": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Step-By-Step Directions From a Binary Tree Node to Another",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Parallel Courses III",
+    "frequency": "43.5",
+    "acceptanceRate": "0.6674963944974485",
+    "link": "https://leetcode.com/problems/parallel-courses-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "TikTok-Parallel Courses III",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "43.5",
+    "acceptanceRate": "0.7092882244410338",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "TikTok-Group Anagrams",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "43.5",
+    "acceptanceRate": "0.47604171417820246",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "TikTok-Sliding Window Maximum",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "43.5",
+    "acceptanceRate": "0.5878976197609908",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Edit Distance",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Parallel Courses",
+    "frequency": "43.5",
+    "acceptanceRate": "0.6182187643703161",
+    "link": "https://leetcode.com/problems/parallel-courses",
+    "topics": [
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "TikTok-Parallel Courses",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Put Marbles in Bags",
+    "frequency": "43.5",
+    "acceptanceRate": "0.7243993824185982",
+    "link": "https://leetcode.com/problems/put-marbles-in-bags",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "TikTok-Put Marbles in Bags",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Furthest Building You Can Reach",
+    "frequency": "43.5",
+    "acceptanceRate": "0.5037126005703128",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "TikTok-Furthest Building You Can Reach",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Shortest Distance from All Buildings",
+    "frequency": "43.5",
+    "acceptanceRate": "0.4437276667084348",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "TikTok-Shortest Distance from All Buildings",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Spending After Buying Items",
+    "frequency": "43.5",
+    "acceptanceRate": "0.599903432534457",
+    "link": "https://leetcode.com/problems/maximum-spending-after-buying-items",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ],
+    "id": "TikTok-Maximum Spending After Buying Items",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Time Based Key-Value Store",
+    "frequency": "43.5",
+    "acceptanceRate": "0.49366343275238816",
+    "link": "https://leetcode.com/problems/time-based-key-value-store",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ],
+    "id": "TikTok-Time Based Key-Value Store",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Koko Eating Bananas",
+    "frequency": "43.5",
+    "acceptanceRate": "0.49067279348014564",
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "TikTok-Koko Eating Bananas",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "All Nodes Distance K in Binary Tree",
+    "frequency": "43.5",
+    "acceptanceRate": "0.664421288312687",
+    "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-All Nodes Distance K in Binary Tree",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Numbers At Most N Given Digit Set",
+    "frequency": "43.5",
+    "acceptanceRate": "0.4334961496149615",
+    "link": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set",
+    "topics": [
+      "Array",
+      "Math",
+      "String",
+      "Binary Search",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Numbers At Most N Given Digit Set",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "43.5",
+    "acceptanceRate": "0.7713286717803378",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "TikTok-Generate Parentheses",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "frequency": "43.5",
+    "acceptanceRate": "0.5324772640938334",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "id": "TikTok-Pairs of Songs With Total Durations Divisible by 60",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Increasing Path in a Matrix",
+    "frequency": "43.5",
+    "acceptanceRate": "0.5534767428330972",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph",
+      "Topological Sort",
+      "Memoization",
+      "Matrix"
+    ],
+    "id": "TikTok-Longest Increasing Path in a Matrix",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "frequency": "43.5",
+    "acceptanceRate": "0.6039720911326697",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Best Time to Buy and Sell Stock with Cooldown",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Make Costs of Paths Equal in a Binary Tree",
+    "frequency": "43.5",
+    "acceptanceRate": "0.5674790143514757",
+    "link": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Tree",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Make Costs of Paths Equal in a Binary Tree",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Heaters",
+    "frequency": "43.5",
+    "acceptanceRate": "0.39952991914941977",
+    "link": "https://leetcode.com/problems/heaters",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "TikTok-Heaters",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": "43.5",
+    "acceptanceRate": "0.4122427548197994",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Binary Tree Maximum Path Sum",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Smallest Element in a BST",
+    "frequency": "43.5",
+    "acceptanceRate": "0.7532957775488365",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Kth Smallest Element in a BST",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Container With Most Water",
+    "frequency": "43.5",
+    "acceptanceRate": "0.5778283165036205",
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "id": "TikTok-Container With Most Water",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "43.5",
+    "acceptanceRate": "0.5525965688982543",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Best Time to Buy and Sell Stock",
+    "company": "TikTok",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "79.1",
+    "acceptanceRate": "0.45266926269047814",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "TikTok-Word Search",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort Colors",
+    "frequency": "66.8",
+    "acceptanceRate": "0.6758312948649591",
+    "link": "https://leetcode.com/problems/sort-colors",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "TikTok-Sort Colors",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Combination Sum II",
+    "frequency": "63.3",
+    "acceptanceRate": "0.5767453180420465",
+    "link": "https://leetcode.com/problems/combination-sum-ii",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "TikTok-Combination Sum II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "frequency": "61.3",
+    "acceptanceRate": "0.4682874104872264",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "TikTok-Find First and Last Position of Element in Sorted Array",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Break",
+    "frequency": "59.1",
+    "acceptanceRate": "0.4827377619034214",
+    "link": "https://leetcode.com/problems/word-break",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "TikTok-Word Break",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Reverse Nodes in k-Group",
+    "frequency": "59.1",
+    "acceptanceRate": "0.6304374335039493",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "TikTok-Reverse Nodes in k-Group",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": "59.1",
+    "acceptanceRate": "0.6950025067480458",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "TikTok-Best Time to Buy and Sell Stock II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "56.7",
+    "acceptanceRate": "0.5291951986224571",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "TikTok-Merge Sorted Array",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode Ways",
+    "frequency": "56.7",
+    "acceptanceRate": "0.36530982861754346",
+    "link": "https://leetcode.com/problems/decode-ways",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Decode Ways",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate Binary Search Tree",
+    "frequency": "54.1",
+    "acceptanceRate": "0.3438039571887417",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Validate Binary Search Tree",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Size Subarray Sum",
+    "frequency": "54.1",
+    "acceptanceRate": "0.4939108177647309",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "TikTok-Minimum Size Subarray Sum",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Next Permutation",
+    "frequency": "54.1",
+    "acceptanceRate": "0.4305773996508374",
+    "link": "https://leetcode.com/problems/next-permutation",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "TikTok-Next Permutation",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets",
+    "frequency": "54.1",
+    "acceptanceRate": "0.808795565390318",
+    "link": "https://leetcode.com/problems/subsets",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "TikTok-Subsets",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Binary Search Trees",
+    "frequency": "51.1",
+    "acceptanceRate": "0.6244520536210353",
+    "link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Unique Binary Search Trees",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Surrounded Regions",
+    "frequency": "51.1",
+    "acceptanceRate": "0.42886447562449315",
+    "link": "https://leetcode.com/problems/surrounded-regions",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "TikTok-Surrounded Regions",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sort List",
+    "frequency": "47.6",
+    "acceptanceRate": "0.618074922962942",
+    "link": "https://leetcode.com/problems/sort-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ],
+    "id": "TikTok-Sort List",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5646091593277981",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Graph",
+      "Topological Sort"
+    ],
+    "id": "TikTok-Find All Possible Recipes from Given Supplies",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5264825291581084",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "TikTok-Find Minimum in Rotated Sorted Array",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5191327244735617",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "TikTok-Reverse Words in a String",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations II",
+    "frequency": "47.6",
+    "acceptanceRate": "0.615917727605333",
+    "link": "https://leetcode.com/problems/permutations-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ],
+    "id": "TikTok-Permutations II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5354071840932856",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "TikTok-Climbing Stairs",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reorder List",
+    "frequency": "47.6",
+    "acceptanceRate": "0.6250474980864169",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "TikTok-Reorder List",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Integer to Roman",
+    "frequency": "47.6",
+    "acceptanceRate": "0.6861928580376627",
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "TikTok-Integer to Roman",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Median of Two Sorted Arrays",
+    "frequency": "47.6",
+    "acceptanceRate": "0.43814591586025275",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "id": "TikTok-Median of Two Sorted Arrays",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": "47.6",
+    "acceptanceRate": "0.7059658947038693",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Binary Tree Level Order Traversal",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "47.6",
+    "acceptanceRate": "0.4622507658063209",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "TikTok-Add Two Numbers",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Square",
+    "frequency": "47.6",
+    "acceptanceRate": "0.4876133314788993",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "TikTok-Maximal Square",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Longest Valid Parentheses",
+    "frequency": "43.5",
+    "acceptanceRate": "0.3631311456770452",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack"
+    ],
+    "id": "TikTok-Longest Valid Parentheses",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Fraction to Recurring Decimal",
+    "frequency": "43.5",
+    "acceptanceRate": "0.2622353839768554",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ],
+    "id": "TikTok-Fraction to Recurring Decimal",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Compare Version Numbers",
+    "frequency": "43.5",
+    "acceptanceRate": "0.4234711977763999",
+    "link": "https://leetcode.com/problems/compare-version-numbers",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "TikTok-Compare Version Numbers",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Ranges",
+    "frequency": "43.5",
+    "acceptanceRate": "0.3526494595509856",
+    "link": "https://leetcode.com/problems/missing-ranges",
+    "topics": [
+      "Array"
+    ],
+    "id": "TikTok-Missing Ranges",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber II",
+    "frequency": "43.5",
+    "acceptanceRate": "0.43562736352699327",
+    "link": "https://leetcode.com/problems/house-robber-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-House Robber II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Product Subarray",
+    "frequency": "43.5",
+    "acceptanceRate": "0.3494162954383182",
+    "link": "https://leetcode.com/problems/maximum-product-subarray",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Maximum Product Subarray",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Distinct Subsequences",
+    "frequency": "43.5",
+    "acceptanceRate": "0.500998941013352",
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Distinct Subsequences",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Linked List II",
+    "frequency": "43.5",
+    "acceptanceRate": "0.49591736647057",
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "topics": [
+      "Linked List"
+    ],
+    "id": "TikTok-Reverse Linked List II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Interval",
+    "frequency": "38.5",
+    "acceptanceRate": "0.43473628714178475",
+    "link": "https://leetcode.com/problems/insert-interval",
+    "topics": [
+      "Array"
+    ],
+    "id": "TikTok-Insert Interval",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Two Sorted Lists",
+    "frequency": "38.5",
+    "acceptanceRate": "0.6684090913680062",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "TikTok-Merge Two Sorted Lists",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Path Sum II",
+    "frequency": "38.5",
+    "acceptanceRate": "0.6049772910946117",
+    "link": "https://leetcode.com/problems/path-sum-ii",
+    "topics": [
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Path Sum II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game II",
+    "frequency": "38.5",
+    "acceptanceRate": "0.41503302482260396",
+    "link": "https://leetcode.com/problems/jump-game-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "TikTok-Jump Game II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Multiply Strings",
+    "frequency": "38.5",
+    "acceptanceRate": "0.4228941429852704",
+    "link": "https://leetcode.com/problems/multiply-strings",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "TikTok-Multiply Strings",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Target Indices After Sorting Array",
+    "frequency": "38.5",
+    "acceptanceRate": "0.7728798563584792",
+    "link": "https://leetcode.com/problems/find-target-indices-after-sorting-array",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ],
+    "id": "TikTok-Find Target Indices After Sorting Array",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix II",
+    "frequency": "38.5",
+    "acceptanceRate": "0.734312719680276",
+    "link": "https://leetcode.com/problems/spiral-matrix-ii",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "TikTok-Spiral Matrix II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "38.5",
+    "acceptanceRate": "0.5807264910173595",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "TikTok-Happy Number",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "38.5",
+    "acceptanceRate": "0.3702318641045828",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "TikTok-Pow(x, n)",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "The Skyline Problem",
+    "frequency": "32.3",
+    "acceptanceRate": "0.4396233271583687",
+    "link": "https://leetcode.com/problems/the-skyline-problem",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Line Sweep",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "TikTok-The Skyline Problem",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": "32.3",
+    "acceptanceRate": "0.679347462282349",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ],
+    "id": "TikTok-Implement Trie (Prefix Tree)",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicates from Sorted Array II",
+    "frequency": "32.3",
+    "acceptanceRate": "0.6290185479131098",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "TikTok-Remove Duplicates from Sorted Array II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Array",
+    "frequency": "32.3",
+    "acceptanceRate": "0.43021380529801717",
+    "link": "https://leetcode.com/problems/rotate-array",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "TikTok-Rotate Array",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "4Sum",
+    "frequency": "32.3",
+    "acceptanceRate": "0.38219020113793045",
+    "link": "https://leetcode.com/problems/4sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "TikTok-4Sum",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Linked List Cycle II",
+    "frequency": "32.3",
+    "acceptanceRate": "0.549336741044386",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "TikTok-Linked List Cycle II",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "32.3",
+    "acceptanceRate": "0.5096357226652383",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "TikTok-Valid Palindrome",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Best Time to Buy and Sell Stock III",
+    "frequency": "32.3",
+    "acceptanceRate": "0.5112087693447603",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Best Time to Buy and Sell Stock III",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Simplify Path",
+    "frequency": "32.3",
+    "acceptanceRate": "0.4785432317744196",
+    "link": "https://leetcode.com/problems/simplify-path",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "TikTok-Simplify Path",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Primes",
+    "frequency": "23.8",
+    "acceptanceRate": "0.347906460282023",
+    "link": "https://leetcode.com/problems/count-primes",
+    "topics": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ],
+    "id": "TikTok-Count Primes",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Number",
+    "frequency": "23.8",
+    "acceptanceRate": "0.412803811932624",
+    "link": "https://leetcode.com/problems/largest-number",
+    "topics": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "TikTok-Largest Number",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Clone Graph",
+    "frequency": "23.8",
+    "acceptanceRate": "0.623857131048197",
+    "link": "https://leetcode.com/problems/clone-graph",
+    "topics": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph"
+    ],
+    "id": "TikTok-Clone Graph",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Recover Binary Search Tree",
+    "frequency": "23.8",
+    "acceptanceRate": "0.5632431226781013",
+    "link": "https://leetcode.com/problems/recover-binary-search-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Recover Binary Search Tree",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Interleaving String",
+    "frequency": "23.8",
+    "acceptanceRate": "0.4217918033968859",
+    "link": "https://leetcode.com/problems/interleaving-string",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "TikTok-Interleaving String",
+    "company": "TikTok",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Break II",
+    "frequency": "63.0",
+    "acceptanceRate": "0.5364536357075469",
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ],
+    "id": "TikTok-Word Break II",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring with At Most Two Distinct Characters",
+    "frequency": "44.2",
+    "acceptanceRate": "0.5647336891491908",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "TikTok-Longest Substring with At Most Two Distinct Characters",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Intersection of Two Linked Lists",
+    "frequency": "40.2",
+    "acceptanceRate": "0.6112533936845744",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "TikTok-Intersection of Two Linked Lists",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Ladder II",
+    "frequency": "35.4",
+    "acceptanceRate": "0.2715262860113065",
+    "link": "https://leetcode.com/problems/word-ladder-ii",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ],
+    "id": "TikTok-Word Ladder II",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": "35.4",
+    "acceptanceRate": "0.6168283891746636",
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Binary Tree Zigzag Level Order Traversal",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Plus One",
+    "frequency": "29.3",
+    "acceptanceRate": "0.47547621095134496",
+    "link": "https://leetcode.com/problems/plus-one",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "id": "TikTok-Plus One",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Swap Nodes in Pairs",
+    "frequency": "29.3",
+    "acceptanceRate": "0.6720136828647639",
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "TikTok-Swap Nodes in Pairs",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Path Sum",
+    "frequency": "29.3",
+    "acceptanceRate": "0.5300477871490744",
+    "link": "https://leetcode.com/problems/path-sum",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "id": "TikTok-Path Sum",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Maximal Rectangle",
+    "frequency": "29.3",
+    "acceptanceRate": "0.5370845822665518",
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "id": "TikTok-Maximal Rectangle",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Valid Sudoku",
+    "frequency": "29.3",
+    "acceptanceRate": "0.6227675793740958",
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "id": "TikTok-Valid Sudoku",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subsets II",
+    "frequency": "21.2",
+    "acceptanceRate": "0.595072748658621",
+    "link": "https://leetcode.com/problems/subsets-ii",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "id": "TikTok-Subsets II",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Valid Number",
+    "frequency": "21.2",
+    "acceptanceRate": "0.21563512503115395",
+    "link": "https://leetcode.com/problems/valid-number",
+    "topics": [
+      "String"
+    ],
+    "id": "TikTok-Valid Number",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "21.2",
+    "acceptanceRate": "0.6577286392782602",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "TikTok-Unique Paths",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Divide Two Integers",
+    "frequency": "21.2",
+    "acceptanceRate": "0.18396975085033054",
+    "link": "https://leetcode.com/problems/divide-two-integers",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "id": "TikTok-Divide Two Integers",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "First Missing Positive",
+    "frequency": "21.2",
+    "acceptanceRate": "0.4108465766394882",
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "TikTok-First Missing Positive",
+    "company": "TikTok",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Sum of Subarray Ranges",
+    "frequency": "21.2",
+    "acceptanceRate": "0.6013128650832208",
+    "link": "https://leetcode.com/problems/sum-of-subarray-ranges",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "TikTok-Sum of Subarray Ranges",
+    "company": "TikTok",
+    "timeframe": "all"
+  }
+]

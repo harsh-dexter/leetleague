@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Count Almost Equal Pairs I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3754856361149111",
+    "link": "https://leetcode.com/problems/count-almost-equal-pairs-i",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting",
+      "Enumeration"
+    ]
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Out of Three",
+    "frequency": "90.0",
+    "acceptanceRate": "0.7658462504348121",
+    "link": "https://leetcode.com/problems/two-out-of-three",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Bus Routes",
+    "frequency": "79.1",
+    "acceptanceRate": "0.46953017420592696",
+    "link": "https://leetcode.com/problems/bus-routes",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subrectangle Queries",
+    "frequency": "79.1",
+    "acceptanceRate": "0.8595828252176626",
+    "link": "https://leetcode.com/problems/subrectangle-queries",
+    "topics": [
+      "Array",
+      "Design",
+      "Matrix"
+    ]
+  }
+]

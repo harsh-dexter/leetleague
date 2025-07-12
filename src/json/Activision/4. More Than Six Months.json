@@ -1,0 +1,12 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Reformat Phone Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.669332106934101",
+    "link": "https://leetcode.com/problems/reformat-phone-number",
+    "topics": [
+      "String"
+    ]
+  }
+]

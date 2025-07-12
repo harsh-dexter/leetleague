@@ -1,0 +1,1316 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Lucky Numbers in a Matrix",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7990618901629731",
+    "link": "https://leetcode.com/problems/lucky-numbers-in-a-matrix",
+    "topics": [
+      "Array",
+      "Matrix"
+    ],
+    "id": "Cisco-Lucky Numbers in a Matrix",
+    "company": "Cisco",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Implement Router",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2178262846748522",
+    "link": "https://leetcode.com/problems/implement-router",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design",
+      "Queue",
+      "Ordered Set"
+    ],
+    "id": "Cisco-Implement Router",
+    "company": "Cisco",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "House Robber",
+    "frequency": "79.5",
+    "acceptanceRate": "0.5230498170963667",
+    "link": "https://leetcode.com/problems/house-robber",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-House Robber",
+    "company": "Cisco",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "73.1",
+    "acceptanceRate": "0.35846127081875356",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-Longest Palindromic Substring",
+    "company": "Cisco",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Rotate Image",
+    "frequency": "64.1",
+    "acceptanceRate": "0.7790166005161556",
+    "link": "https://leetcode.com/problems/rotate-image",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "id": "Cisco-Rotate Image",
+    "company": "Cisco",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fizz Buzz",
+    "frequency": "64.1",
+    "acceptanceRate": "0.7437057263879774",
+    "link": "https://leetcode.com/problems/fizz-buzz",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "id": "Cisco-Fizz Buzz",
+    "company": "Cisco",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "64.1",
+    "acceptanceRate": "0.36936169499803667",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Cisco-Longest Substring Without Repeating Characters",
+    "company": "Cisco",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Linked List Cycle",
+    "frequency": "64.1",
+    "acceptanceRate": "0.5257064695869657",
+    "link": "https://leetcode.com/problems/linked-list-cycle",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "id": "Cisco-Linked List Cycle",
+    "company": "Cisco",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Spiral Matrix",
+    "frequency": "80.9",
+    "acceptanceRate": "0.539397306376751",
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Cisco-Spiral Matrix",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "65.3",
+    "acceptanceRate": "0.45214622651505193",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "Cisco-LRU Cache",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Max Points on a Line",
+    "frequency": "65.3",
+    "acceptanceRate": "0.2895514653845652",
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry"
+    ],
+    "id": "Cisco-Max Points on a Line",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": "56.2",
+    "acceptanceRate": "0.6035554917476331",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Cisco-Remove Duplicates from Sorted Array",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "56.2",
+    "acceptanceRate": "0.5291952521829845",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Cisco-Merge Sorted Array",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "56.2",
+    "acceptanceRate": "0.5214164447683243",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "Cisco-Meeting Rooms II",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": "56.2",
+    "acceptanceRate": "0.638575527047244",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "id": "Cisco-Letter Combinations of a Phone Number",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutation in String",
+    "frequency": "56.2",
+    "acceptanceRate": "0.4724785596261267",
+    "link": "https://leetcode.com/problems/permutation-in-string",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "Cisco-Permutation in String",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Difference Between Increasing Elements",
+    "frequency": "56.2",
+    "acceptanceRate": "0.6610071637601134",
+    "link": "https://leetcode.com/problems/maximum-difference-between-increasing-elements",
+    "topics": [
+      "Array"
+    ],
+    "id": "Cisco-Maximum Difference Between Increasing Elements",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Merge Intervals",
+    "frequency": "56.2",
+    "acceptanceRate": "0.49395253582617515",
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "topics": [
+      "Array",
+      "Sorting"
+    ],
+    "id": "Cisco-Merge Intervals",
+    "company": "Cisco",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Predict the Winner",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5574273878146738",
+    "link": "https://leetcode.com/problems/predict-the-winner",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Game Theory"
+    ],
+    "id": "Cisco-Predict the Winner",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Snakes and Ladders",
+    "frequency": "68.9",
+    "acceptanceRate": "0.47795347138329897",
+    "link": "https://leetcode.com/problems/snakes-and-ladders",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Cisco-Snakes and Ladders",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Third Transaction",
+    "frequency": "67.2",
+    "acceptanceRate": "0.5385959339263025",
+    "link": "https://leetcode.com/problems/find-third-transaction",
+    "topics": [
+      "Database"
+    ],
+    "id": "Cisco-Find Third Transaction",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Word Search II",
+    "frequency": "63.3",
+    "acceptanceRate": "0.3732633211647155",
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ],
+    "id": "Cisco-Word Search II",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "63.3",
+    "acceptanceRate": "0.5209980574746715",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-Maximum Subarray",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Stone Game",
+    "frequency": "61.0",
+    "acceptanceRate": "0.7160996447704545",
+    "link": "https://leetcode.com/problems/stone-game",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Game Theory"
+    ],
+    "id": "Cisco-Stone Game",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "61.0",
+    "acceptanceRate": "0.5807266994292708",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "Cisco-Happy Number",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Cherry Pickup",
+    "frequency": "58.4",
+    "acceptanceRate": "0.3786948581341589",
+    "link": "https://leetcode.com/problems/cherry-pickup",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Cisco-Cherry Pickup",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "58.4",
+    "acceptanceRate": "0.42322845009246296",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Cisco-Valid Parentheses",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "58.4",
+    "acceptanceRate": "0.5577699543777228",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Cisco-Two Sum",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Trapping Rain Water",
+    "frequency": "55.4",
+    "acceptanceRate": "0.6510196274004795",
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Cisco-Trapping Rain Water",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Remove Boxes",
+    "frequency": "51.9",
+    "acceptanceRate": "0.48292462220613513",
+    "link": "https://leetcode.com/problems/remove-boxes",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Cisco-Remove Boxes",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "51.9",
+    "acceptanceRate": "0.6115249906697672",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Cisco-Decode String",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "47.6",
+    "acceptanceRate": "0.6231996817686392",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "Cisco-Number of Islands",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Move Zeroes",
+    "frequency": "47.6",
+    "acceptanceRate": "0.628040301372497",
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "id": "Cisco-Move Zeroes",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reverse Linked List",
+    "frequency": "47.6",
+    "acceptanceRate": "0.7920656598058967",
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "id": "Cisco-Reverse Linked List",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of Valid Words in a Sentence",
+    "frequency": "47.6",
+    "acceptanceRate": "0.29994825046773615",
+    "link": "https://leetcode.com/problems/number-of-valid-words-in-a-sentence",
+    "topics": [
+      "String"
+    ],
+    "id": "Cisco-Number of Valid Words in a Sentence",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Search a 2D Matrix",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5228958306958686",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "id": "Cisco-Search a 2D Matrix",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Strange Printer",
+    "frequency": "47.6",
+    "acceptanceRate": "0.6077822803097354",
+    "link": "https://leetcode.com/problems/strange-printer",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-Strange Printer",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "47.6",
+    "acceptanceRate": "0.5525961777147723",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-Best Time to Buy and Sell Stock",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Word Search",
+    "frequency": "42.0",
+    "acceptanceRate": "0.45266963526412307",
+    "link": "https://leetcode.com/problems/word-search",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "id": "Cisco-Word Search",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Add Two Numbers",
+    "frequency": "42.0",
+    "acceptanceRate": "0.4622508629851303",
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "id": "Cisco-Add Two Numbers",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Gas Station",
+    "frequency": "42.0",
+    "acceptanceRate": "0.46383640179529256",
+    "link": "https://leetcode.com/problems/gas-station",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Cisco-Gas Station",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "42.0",
+    "acceptanceRate": "0.37070962750580283",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "Cisco-3Sum",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Expressive Words",
+    "frequency": "42.0",
+    "acceptanceRate": "0.46392518083592016",
+    "link": "https://leetcode.com/problems/expressive-words",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Cisco-Expressive Words",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Single Number",
+    "frequency": "42.0",
+    "acceptanceRate": "0.7596884851488054",
+    "link": "https://leetcode.com/problems/single-number",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "id": "Cisco-Single Number",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Consecutive Sequence",
+    "frequency": "42.0",
+    "acceptanceRate": "0.4704081523329022",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Union Find"
+    ],
+    "id": "Cisco-Longest Consecutive Sequence",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Jump Game",
+    "frequency": "34.3",
+    "acceptanceRate": "0.39479233995926627",
+    "link": "https://leetcode.com/problems/jump-game",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Cisco-Jump Game",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Count of Integers",
+    "frequency": "34.3",
+    "acceptanceRate": "0.3705763284916699",
+    "link": "https://leetcode.com/problems/count-of-integers",
+    "topics": [
+      "Math",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-Count of Integers",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": "34.3",
+    "acceptanceRate": "0.526482393510494",
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Cisco-Find Minimum in Rotated Sorted Array",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Largest Area of Square Inside Two Rectangles",
+    "frequency": "34.3",
+    "acceptanceRate": "0.45060966682701353",
+    "link": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles",
+    "topics": [
+      "Array",
+      "Math",
+      "Geometry"
+    ],
+    "id": "Cisco-Find the Largest Area of Square Inside Two Rectangles",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "34.3",
+    "acceptanceRate": "0.7092883620495999",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "Cisco-Group Anagrams",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths",
+    "frequency": "34.3",
+    "acceptanceRate": "0.6577287347956182",
+    "link": "https://leetcode.com/problems/unique-paths",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "id": "Cisco-Unique Paths",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Check if Binary String Has at Most One Segment of Ones",
+    "frequency": "34.3",
+    "acceptanceRate": "0.3902918338056159",
+    "link": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones",
+    "topics": [
+      "String"
+    ],
+    "id": "Cisco-Check if Binary String Has at Most One Segment of Ones",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "frequency": "34.3",
+    "acceptanceRate": "0.4407547923322684",
+    "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ],
+    "id": "Cisco-Find Servers That Handled Most Number of Requests",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Palindrome",
+    "frequency": "34.3",
+    "acceptanceRate": "0.5096353524593524",
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Cisco-Valid Palindrome",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Restore IP Addresses",
+    "frequency": "34.3",
+    "acceptanceRate": "0.5315838531583853",
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "topics": [
+      "String",
+      "Backtracking"
+    ],
+    "id": "Cisco-Restore IP Addresses",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Subarray Sum Equals K",
+    "frequency": "34.3",
+    "acceptanceRate": "0.45476210621315954",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "id": "Cisco-Subarray Sum Equals K",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Missing Number",
+    "frequency": "34.3",
+    "acceptanceRate": "0.7006526780574172",
+    "link": "https://leetcode.com/problems/missing-number",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "id": "Cisco-Missing Number",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Reverse Words in a String",
+    "frequency": "34.3",
+    "acceptanceRate": "0.5191329339866777",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Cisco-Reverse Words in a String",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sum of k-Mirror Numbers",
+    "frequency": "34.3",
+    "acceptanceRate": "0.41982771648783435",
+    "link": "https://leetcode.com/problems/sum-of-k-mirror-numbers",
+    "topics": [
+      "Math",
+      "Enumeration"
+    ],
+    "id": "Cisco-Sum of k-Mirror Numbers",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Design Browser History",
+    "frequency": "34.3",
+    "acceptanceRate": "0.7774686768883133",
+    "link": "https://leetcode.com/problems/design-browser-history",
+    "topics": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Design",
+      "Doubly-Linked List",
+      "Data Stream"
+    ],
+    "id": "Cisco-Design Browser History",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Cost to Make Array Equal",
+    "frequency": "34.3",
+    "acceptanceRate": "0.4632379781368273",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Prefix Sum"
+    ],
+    "id": "Cisco-Minimum Cost to Make Array Equal",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Beautiful Arrangement",
+    "frequency": "34.3",
+    "acceptanceRate": "0.6452784543104094",
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ],
+    "id": "Cisco-Beautiful Arrangement",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Unique Paths II",
+    "frequency": "34.3",
+    "acceptanceRate": "0.4315424799650771",
+    "link": "https://leetcode.com/problems/unique-paths-ii",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ],
+    "id": "Cisco-Unique Paths II",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Number of 1 Bits",
+    "frequency": "34.3",
+    "acceptanceRate": "0.7450472188845931",
+    "link": "https://leetcode.com/problems/number-of-1-bits",
+    "topics": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ],
+    "id": "Cisco-Number of 1 Bits",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Product of Array Except Self",
+    "frequency": "34.3",
+    "acceptanceRate": "0.6777997509839631",
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Cisco-Product of Array Except Self",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Top K Frequent Elements",
+    "frequency": "34.3",
+    "acceptanceRate": "0.6456597904229384",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "id": "Cisco-Top K Frequent Elements",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove K Digits",
+    "frequency": "34.3",
+    "acceptanceRate": "0.3494044611317414",
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "id": "Cisco-Remove K Digits",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Validate IP Address",
+    "frequency": "34.3",
+    "acceptanceRate": "0.27817524620453365",
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "topics": [
+      "String"
+    ],
+    "id": "Cisco-Validate IP Address",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Subsequence",
+    "frequency": "34.3",
+    "acceptanceRate": "0.6409934421654807",
+    "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-Longest Palindromic Subsequence",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Maximum Product of Two Elements in an Array",
+    "frequency": "34.3",
+    "acceptanceRate": "0.8322491861778356",
+    "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Cisco-Maximum Product of Two Elements in an Array",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Equal Count Substrings",
+    "frequency": "34.3",
+    "acceptanceRate": "0.44663881503987846",
+    "link": "https://leetcode.com/problems/number-of-equal-count-substrings",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window",
+      "Counting"
+    ],
+    "id": "Cisco-Number of Equal Count Substrings",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "34.3",
+    "acceptanceRate": "0.7167859571435372",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-Palindromic Substrings",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Climbing Stairs",
+    "frequency": "34.3",
+    "acceptanceRate": "0.5354071485062312",
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "id": "Cisco-Climbing Stairs",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Pascal's Triangle",
+    "frequency": "34.3",
+    "acceptanceRate": "0.7702154627018639",
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-Pascal's Triangle",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": "34.3",
+    "acceptanceRate": "0.5499185329837445",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ],
+    "id": "Cisco-Insert Delete GetRandom O(1)",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Merge k Sorted Lists",
+    "frequency": "34.3",
+    "acceptanceRate": "0.5677421026542292",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort"
+    ],
+    "id": "Cisco-Merge k Sorted Lists",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Min Stack",
+    "frequency": "34.3",
+    "acceptanceRate": "0.5644513974486727",
+    "link": "https://leetcode.com/problems/min-stack",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "id": "Cisco-Min Stack",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum IV - Input is a BST",
+    "frequency": "34.3",
+    "acceptanceRate": "0.6221872185096279",
+    "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Cisco-Two Sum IV - Input is a BST",
+    "company": "Cisco",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Edit Distance",
+    "frequency": "32.0",
+    "acceptanceRate": "0.5878979457233402",
+    "link": "https://leetcode.com/problems/edit-distance",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Cisco-Edit Distance",
+    "company": "Cisco",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Rising Temperature",
+    "frequency": "32.0",
+    "acceptanceRate": "0.5018283238525565",
+    "link": "https://leetcode.com/problems/rising-temperature",
+    "topics": [
+      "Database"
+    ],
+    "id": "Cisco-Rising Temperature",
+    "company": "Cisco",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Can Place Flowers",
+    "frequency": "32.0",
+    "acceptanceRate": "0.28899232306647316",
+    "link": "https://leetcode.com/problems/can-place-flowers",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "Cisco-Can Place Flowers",
+    "company": "Cisco",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Kth Smallest Element in a BST",
+    "frequency": "32.0",
+    "acceptanceRate": "0.7532962699221157",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "id": "Cisco-Kth Smallest Element in a BST",
+    "company": "Cisco",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Zigzag Conversion",
+    "frequency": "32.0",
+    "acceptanceRate": "0.5160680917948327",
+    "link": "https://leetcode.com/problems/zigzag-conversion",
+    "topics": [
+      "String"
+    ],
+    "id": "Cisco-Zigzag Conversion",
+    "company": "Cisco",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Permutations",
+    "frequency": "32.0",
+    "acceptanceRate": "0.8066013741849325",
+    "link": "https://leetcode.com/problems/permutations",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "id": "Cisco-Permutations",
+    "company": "Cisco",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Sliding Window Maximum",
+    "frequency": "32.0",
+    "acceptanceRate": "0.47604171417820246",
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue"
+    ],
+    "id": "Cisco-Sliding Window Maximum",
+    "company": "Cisco",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Compare Version Numbers",
+    "frequency": "32.0",
+    "acceptanceRate": "0.42347164241032764",
+    "link": "https://leetcode.com/problems/compare-version-numbers",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "id": "Cisco-Compare Version Numbers",
+    "company": "Cisco",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Largest Rectangle in Histogram",
+    "frequency": "32.0",
+    "acceptanceRate": "0.4737767587697204",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Cisco-Largest Rectangle in Histogram",
+    "company": "Cisco",
+    "timeframe": "all"
+  }
+]

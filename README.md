@@ -14,6 +14,7 @@ LeetLeague is a web application that allows you to track the LeetCode progress o
 -   **Stats**: Overview stats for total friends and total problems solved today by the group.
 -   **Dark Mode**: Toggle between light and dark themes. Theme preference is saved.
 -   **Responsive Design**: Built with Tailwind CSS and ShadCN UI for a responsive experience.
+-   **Company Questions**: Browse and filter coding interview questions by company.
 
 ## Technologies Used
 

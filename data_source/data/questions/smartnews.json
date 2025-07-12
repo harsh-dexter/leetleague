@@ -1,0 +1,78 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Maximal Network Rank",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6547542413356314",
+    "link": "https://leetcode.com/problems/maximal-network-rank",
+    "topics": [
+      "Graph"
+    ],
+    "id": "smartnews-Maximal Network Rank",
+    "company": "smartnews",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Largest Palindromic Number",
+    "frequency": "94.8",
+    "acceptanceRate": "0.36472419055101457",
+    "link": "https://leetcode.com/problems/largest-palindromic-number",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ],
+    "id": "smartnews-Largest Palindromic Number",
+    "company": "smartnews",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "LRU Cache",
+    "frequency": "94.8",
+    "acceptanceRate": "0.452152018581584",
+    "link": "https://leetcode.com/problems/lru-cache",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "id": "smartnews-LRU Cache",
+    "company": "smartnews",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "3Sum",
+    "frequency": "78.8",
+    "acceptanceRate": "0.3707134146355655",
+    "link": "https://leetcode.com/problems/3sum",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "smartnews-3Sum",
+    "company": "smartnews",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Deletions to Make Character Frequencies Unique",
+    "frequency": "78.8",
+    "acceptanceRate": "0.6129466648455774",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "smartnews-Minimum Deletions to Make Character Frequencies Unique",
+    "company": "smartnews",
+    "timeframe": "more_than_180"
+  }
+]

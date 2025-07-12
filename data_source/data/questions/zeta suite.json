@@ -1,0 +1,47 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Task Scheduler",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6153922450527325",
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "id": "zeta suite-Task Scheduler",
+    "company": "zeta suite",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Count Equal and Divisible Pairs in an Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.8408345683046082",
+    "link": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array",
+    "topics": [
+      "Array"
+    ],
+    "id": "zeta suite-Count Equal and Divisible Pairs in an Array",
+    "company": "zeta suite",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525974824425262",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "zeta suite-Best Time to Buy and Sell Stock",
+    "company": "zeta suite",
+    "timeframe": "more_than_180"
+  }
+]

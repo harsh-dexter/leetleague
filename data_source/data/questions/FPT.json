@@ -1,0 +1,57 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Find Three Consecutive Integers That Sum to a Given Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6461909267018064",
+    "link": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number",
+    "topics": [
+      "Math",
+      "Simulation"
+    ],
+    "id": "FPT-Find Three Consecutive Integers That Sum to a Given Number",
+    "company": "FPT",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5577706633679903",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "FPT-Two Sum",
+    "company": "FPT",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.592245084409646",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "FPT-Palindrome Number",
+    "company": "FPT",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "66.6",
+    "acceptanceRate": "0.5525969539323237",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "FPT-Best Time to Buy and Sell Stock",
+    "company": "FPT",
+    "timeframe": "all"
+  }
+]

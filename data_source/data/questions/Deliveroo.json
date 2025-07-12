@@ -1,0 +1,84 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Search Suggestions System",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6505018082357296",
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "topics": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Deliveroo-Search Suggestions System",
+    "company": "Deliveroo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Find Words Containing Character",
+    "frequency": "78.3",
+    "acceptanceRate": "0.9064072783584979",
+    "link": "https://leetcode.com/problems/find-words-containing-character",
+    "topics": [
+      "Array",
+      "String"
+    ],
+    "id": "Deliveroo-Find Words Containing Character",
+    "company": "Deliveroo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "frequency": "78.3",
+    "acceptanceRate": "0.5133055579720943",
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ],
+    "id": "Deliveroo-Vertical Order Traversal of a Binary Tree",
+    "company": "Deliveroo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Number of Nice Subarrays",
+    "frequency": "78.3",
+    "acceptanceRate": "0.7321007455952697",
+    "link": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "id": "Deliveroo-Count Number of Nice Subarrays",
+    "company": "Deliveroo",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Remove Invalid Parentheses",
+    "frequency": "78.3",
+    "acceptanceRate": "0.49231429833651935",
+    "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ],
+    "id": "Deliveroo-Remove Invalid Parentheses",
+    "company": "Deliveroo",
+    "timeframe": "more_than_180"
+  }
+]

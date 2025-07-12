@@ -1,0 +1,31 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Count Operations to Obtain Zero",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7488972350966917",
+    "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+    "topics": [
+      "Math",
+      "Simulation"
+    ],
+    "id": "PayU-Count Operations to Obtain Zero",
+    "company": "PayU",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Repeating Character Replacement",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5721185994601041",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "PayU-Longest Repeating Character Replacement",
+    "company": "PayU",
+    "timeframe": "more_than_180"
+  }
+]

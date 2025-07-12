@@ -1,0 +1,35 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Time to Break Locks I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3033816671338651",
+    "link": "https://leetcode.com/problems/minimum-time-to-break-locks-i",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Depth-First Search",
+      "Bitmask"
+    ],
+    "id": "IVP-Minimum Time to Break Locks I",
+    "company": "IVP",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Time to Break Locks II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4269662921348314",
+    "link": "https://leetcode.com/problems/minimum-time-to-break-locks-ii",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Graph"
+    ],
+    "id": "IVP-Minimum Time to Break Locks II",
+    "company": "IVP",
+    "timeframe": "more_than_180"
+  }
+]

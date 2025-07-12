@@ -1,0 +1,45 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Find Pivot Index",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6057051050431013",
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "id": "Citigroup-Find Pivot Index",
+    "company": "Citigroup",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525969178647564",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Citigroup-Best Time to Buy and Sell Stock",
+    "company": "Citigroup",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Number of Visible People in a Queue",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7129705142972448",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "id": "Citigroup-Number of Visible People in a Queue",
+    "company": "Citigroup",
+    "timeframe": "all"
+  }
+]

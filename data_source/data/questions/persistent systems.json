@@ -1,0 +1,147 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.557770959097391",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "persistent systems-Two Sum",
+    "company": "persistent systems",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36936183112237075",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "id": "persistent systems-Longest Substring Without Repeating Characters",
+    "company": "persistent systems",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3584627777320859",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "persistent systems-Longest Palindromic Substring",
+    "company": "persistent systems",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7092901466874999",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "persistent systems-Group Anagrams",
+    "company": "persistent systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Palindrome Number",
+    "frequency": "87.3",
+    "acceptanceRate": "0.5922447015916658",
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "topics": [
+      "Math"
+    ],
+    "id": "persistent systems-Palindrome Number",
+    "company": "persistent systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "77.2",
+    "acceptanceRate": "0.4232292613944299",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "persistent systems-Valid Parentheses",
+    "company": "persistent systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "77.2",
+    "acceptanceRate": "0.666610252002927",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "persistent systems-Valid Anagram",
+    "company": "persistent systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Minimum Bit Flips to Convert Number",
+    "frequency": "77.2",
+    "acceptanceRate": "0.8758168602874182",
+    "link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number",
+    "topics": [
+      "Bit Manipulation"
+    ],
+    "id": "persistent systems-Minimum Bit Flips to Convert Number",
+    "company": "persistent systems",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subarray",
+    "frequency": "64.2",
+    "acceptanceRate": "0.5209993469708638",
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "id": "persistent systems-Maximum Subarray",
+    "company": "persistent systems",
+    "timeframe": "all"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Merge Sorted Array",
+    "frequency": "64.2",
+    "acceptanceRate": "0.5291970279778354",
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "id": "persistent systems-Merge Sorted Array",
+    "company": "persistent systems",
+    "timeframe": "all"
+  }
+]

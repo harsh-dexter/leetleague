@@ -1,0 +1,267 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5807274040188486",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "BlackRock-Happy Number",
+    "company": "BlackRock",
+    "timeframe": "90"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "95.9",
+    "acceptanceRate": "0.42322893449234295",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "BlackRock-Valid Parentheses",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Evaluate Division",
+    "frequency": "84.5",
+    "acceptanceRate": "0.6314703330107434",
+    "link": "https://leetcode.com/problems/evaluate-division",
+    "topics": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Graph",
+      "Shortest Path"
+    ],
+    "id": "BlackRock-Evaluate Division",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Subtree of the Same Color",
+    "frequency": "73.5",
+    "acceptanceRate": "0.5692307692307692",
+    "link": "https://leetcode.com/problems/maximum-subtree-of-the-same-color",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search"
+    ],
+    "id": "BlackRock-Maximum Subtree of the Same Color",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find the Maximum Sum of Node Values",
+    "frequency": "73.5",
+    "acceptanceRate": "0.6979865078996403",
+    "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Tree",
+      "Sorting"
+    ],
+    "id": "BlackRock-Find the Maximum Sum of Node Values",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "frequency": "71.5",
+    "acceptanceRate": "0.5324771514259002",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "id": "BlackRock-Pairs of Songs With Total Durations Divisible by 60",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "60.4",
+    "acceptanceRate": "0.5525966208962203",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "BlackRock-Best Time to Buy and Sell Stock",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Group Anagrams",
+    "frequency": "56.3",
+    "acceptanceRate": "0.709289019979725",
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "BlackRock-Group Anagrams",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Path with Maximum Probability",
+    "frequency": "50.9",
+    "acceptanceRate": "0.6529407064392282",
+    "link": "https://leetcode.com/problems/path-with-maximum-probability",
+    "topics": [
+      "Array",
+      "Graph",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ],
+    "id": "BlackRock-Path with Maximum Probability",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximize Greatness of an Array",
+    "frequency": "43.3",
+    "acceptanceRate": "0.5864617466875623",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ],
+    "id": "BlackRock-Maximize Greatness of an Array",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Anagram",
+    "frequency": "43.3",
+    "acceptanceRate": "0.6666098845704377",
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "id": "BlackRock-Valid Anagram",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Boundary of Binary Tree",
+    "frequency": "43.3",
+    "acceptanceRate": "0.47158629287906856",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "id": "BlackRock-Boundary of Binary Tree",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Coin Change",
+    "frequency": "43.3",
+    "acceptanceRate": "0.4649556137047272",
+    "link": "https://leetcode.com/problems/coin-change",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search"
+    ],
+    "id": "BlackRock-Coin Change",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Generate Parentheses",
+    "frequency": "43.3",
+    "acceptanceRate": "0.7713291060549546",
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "id": "BlackRock-Generate Parentheses",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "43.3",
+    "acceptanceRate": "0.3584616475847028",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "BlackRock-Longest Palindromic Substring",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Maximum Profit From Trading Stocks",
+    "frequency": "43.3",
+    "acceptanceRate": "0.46593110127282794",
+    "link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "BlackRock-Maximum Profit From Trading Stocks",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Number of Islands",
+    "frequency": "43.3",
+    "acceptanceRate": "0.6232011028511795",
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union Find",
+      "Matrix"
+    ],
+    "id": "BlackRock-Number of Islands",
+    "company": "BlackRock",
+    "timeframe": "more_than_180"
+  }
+]

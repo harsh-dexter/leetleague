@@ -1,0 +1,29 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Shortest Uncommon Substring in an Array",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4821341799216042",
+    "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Synonymous Sentences",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5657701813916468",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Union Find"
+    ]
+  }
+]

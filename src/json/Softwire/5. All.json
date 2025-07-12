@@ -1,0 +1,37 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Second Largest Digit in a String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5195807566202576",
+    "link": "https://leetcode.com/problems/second-largest-digit-in-a-string",
+    "topics": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Palindromic Substring",
+    "frequency": "76.3",
+    "acceptanceRate": "0.35846280207405123",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": "68.4",
+    "acceptanceRate": "0.3693621659195223",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+]

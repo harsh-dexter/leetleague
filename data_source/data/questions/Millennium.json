@@ -1,0 +1,106 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5525967760941201",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "id": "Millennium-Best Time to Buy and Sell Stock",
+    "company": "Millennium",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Pow(x, n)",
+    "frequency": "100.0",
+    "acceptanceRate": "0.3702313406018087",
+    "link": "https://leetcode.com/problems/powx-n",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "id": "Millennium-Pow(x, n)",
+    "company": "Millennium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6364670242650312",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "id": "Millennium-Find the Smallest Divisor Given a Threshold",
+    "company": "Millennium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Broken Calculator",
+    "frequency": "100.0",
+    "acceptanceRate": "0.551297403214314",
+    "link": "https://leetcode.com/problems/broken-calculator",
+    "topics": [
+      "Math",
+      "Greedy"
+    ],
+    "id": "Millennium-Broken Calculator",
+    "company": "Millennium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "frequency": "100.0",
+    "acceptanceRate": "0.21752771601546653",
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Ordered Set",
+      "Bitmask"
+    ],
+    "id": "Millennium-Partition Array Into Two Arrays to Minimize Sum Difference",
+    "company": "Millennium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Valid Parentheses",
+    "frequency": "100.0",
+    "acceptanceRate": "0.4232288415727031",
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "Millennium-Valid Parentheses",
+    "company": "Millennium",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Palindromic Substrings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.716780342298775",
+    "link": "https://leetcode.com/problems/palindromic-substrings",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "id": "Millennium-Palindromic Substrings",
+    "company": "Millennium",
+    "timeframe": "more_than_180"
+  }
+]

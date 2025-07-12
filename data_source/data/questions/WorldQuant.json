@@ -1,0 +1,72 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Meeting Rooms II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5214168157636228",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Prefix Sum"
+    ],
+    "id": "WorldQuant-Meeting Rooms II",
+    "company": "WorldQuant",
+    "timeframe": "30"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Regular Expression Matching",
+    "frequency": "100.0",
+    "acceptanceRate": "0.2928040486079651",
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "id": "WorldQuant-Regular Expression Matching",
+    "company": "WorldQuant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Minimum Number of Visited Cells in a Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.22765724304185841",
+    "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Breadth-First Search",
+      "Union Find",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "id": "WorldQuant-Minimum Number of Visited Cells in a Grid",
+    "company": "WorldQuant",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Find Median from Data Stream",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5327800099899787",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ],
+    "id": "WorldQuant-Find Median from Data Stream",
+    "company": "WorldQuant",
+    "timeframe": "more_than_180"
+  }
+]

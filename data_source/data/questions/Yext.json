@@ -1,0 +1,64 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design Tic-Tac-Toe",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5860208488519292",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Matrix",
+      "Simulation"
+    ],
+    "id": "Yext-Design Tic-Tac-Toe",
+    "company": "Yext",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Excel Sheet Column Title",
+    "frequency": "90.3",
+    "acceptanceRate": "0.43570576633851",
+    "link": "https://leetcode.com/problems/excel-sheet-column-title",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "id": "Yext-Excel Sheet Column Title",
+    "company": "Yext",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Integer to English Words",
+    "frequency": "90.3",
+    "acceptanceRate": "0.34355110873263656",
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "topics": [
+      "Math",
+      "String",
+      "Recursion"
+    ],
+    "id": "Yext-Integer to English Words",
+    "company": "Yext",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minesweeper",
+    "frequency": "90.1",
+    "acceptanceRate": "0.6812300374507394",
+    "link": "https://leetcode.com/problems/minesweeper",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "id": "Yext-Minesweeper",
+    "company": "Yext",
+    "timeframe": "all"
+  }
+]

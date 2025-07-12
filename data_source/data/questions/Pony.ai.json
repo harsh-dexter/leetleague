@@ -1,0 +1,68 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Maximum Profit in Job Scheduling",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5441744826912199",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "id": "Pony.ai-Maximum Profit in Job Scheduling",
+    "company": "Pony.ai",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "K-th Smallest Prime Fraction",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6852111087945333",
+    "link": "https://leetcode.com/problems/k-th-smallest-prime-fraction",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "id": "Pony.ai-K-th Smallest Prime Fraction",
+    "company": "Pony.ai",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Frequency of the Most Frequent Element",
+    "frequency": "100.0",
+    "acceptanceRate": "0.44103297583106765",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sliding Window",
+      "Sorting",
+      "Prefix Sum"
+    ],
+    "id": "Pony.ai-Frequency of the Most Frequent Element",
+    "company": "Pony.ai",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Sideway Jumps",
+    "frequency": "100.0",
+    "acceptanceRate": "0.508328457187439",
+    "link": "https://leetcode.com/problems/minimum-sideway-jumps",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "id": "Pony.ai-Minimum Sideway Jumps",
+    "company": "Pony.ai",
+    "timeframe": "more_than_180"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Happy Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5807274040188486",
+    "link": "https://leetcode.com/problems/happy-number",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ],
+    "id": "FactSet-Happy Number",
+    "company": "FactSet",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5960173343469628",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "id": "FactSet-Remove All Adjacent Duplicates in String II",
+    "company": "FactSet",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Remove Duplicate Letters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5135128285840808",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "id": "FactSet-Remove Duplicate Letters",
+    "company": "FactSet",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6196033109948744",
+    "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "id": "FactSet-Smallest Subsequence of Distinct Characters",
+    "company": "FactSet",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Increasing Triplet Subsequence",
+    "frequency": "100.0",
+    "acceptanceRate": "0.39124984440099875",
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "id": "FactSet-Increasing Triplet Subsequence",
+    "company": "FactSet",
+    "timeframe": "more_than_180"
+  }
+]

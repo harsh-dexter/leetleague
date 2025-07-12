@@ -1,0 +1,44 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Number of Divisible Triplet Sums",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6780637725701113",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "Activision-Number of Divisible Triplet Sums",
+    "company": "Activision",
+    "timeframe": "180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Reformat Phone Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.669332106934101",
+    "link": "https://leetcode.com/problems/reformat-phone-number",
+    "topics": [
+      "String"
+    ],
+    "id": "Activision-Reformat Phone Number",
+    "company": "Activision",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Decode String",
+    "frequency": "65.9",
+    "acceptanceRate": "0.6115269783398165",
+    "link": "https://leetcode.com/problems/decode-string",
+    "topics": [
+      "String",
+      "Stack",
+      "Recursion"
+    ],
+    "id": "Activision-Decode String",
+    "company": "Activision",
+    "timeframe": "all"
+  }
+]

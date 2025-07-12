@@ -1,0 +1,47 @@
+[
+  {
+    "difficulty": "Easy",
+    "title": "Two Sum",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5578040764908396",
+    "link": "https://leetcode.com/problems/two-sum",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "id": "EY-Two Sum",
+    "company": "EY",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Easy",
+    "title": "Fibonacci Number",
+    "frequency": "100.0",
+    "acceptanceRate": "0.7294747086945944",
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "id": "EY-Fibonacci Number",
+    "company": "EY",
+    "timeframe": "more_than_180"
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Longest Happy String",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6546298301119122",
+    "link": "https://leetcode.com/problems/longest-happy-string",
+    "topics": [
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "id": "EY-Longest Happy String",
+    "company": "EY",
+    "timeframe": "more_than_180"
+  }
+]

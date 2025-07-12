@@ -1,0 +1,34 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Market Analysis I",
+    "frequency": "100.0",
+    "acceptanceRate": "0.571925862803579",
+    "link": "https://leetcode.com/problems/market-analysis-i",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Hard",
+    "title": "Market Analysis II",
+    "frequency": "100.0",
+    "acceptanceRate": "0.5784402208536844",
+    "link": "https://leetcode.com/problems/market-analysis-ii",
+    "topics": [
+      "Database"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Count Unguarded Cells in the Grid",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6575999128429539",
+    "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "difficulty": "Hard",
+    "title": "Encrypt and Decrypt Strings",
+    "frequency": "100.0",
+    "acceptanceRate": "0.36894864936504496",
+    "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "Minimum Number of People to Teach",
+    "frequency": "66.4",
+    "acceptanceRate": "0.43701789571120025",
+    "link": "https://leetcode.com/problems/minimum-number-of-people-to-teach",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy"
+    ]
+  },
+  {
+    "difficulty": "Medium",
+    "title": "K Radius Subarray Averages",
+    "frequency": "59.0",
+    "acceptanceRate": "0.4595762325330679",
+    "link": "https://leetcode.com/problems/k-radius-subarray-averages",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ]
+  }
+]

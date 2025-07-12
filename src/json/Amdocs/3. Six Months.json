@@ -1,0 +1,17 @@
+[
+  {
+    "difficulty": "Medium",
+    "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+    "frequency": "100.0",
+    "acceptanceRate": "0.6643356643356644",
+    "link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Ordered Set"
+    ]
+  }
+]
